@@ -44,8 +44,9 @@
     "molinari delicatessen": {
       "price": 2,
       "health": "ok",
-      "notes": "100-year-old deli next door to 371 Columbus. Giant ~$15 sandwiches — the 'not cooking tonight' move. Closes late afternoon; closed Sundays.",
-      "verified": "2026-08-29"
+      "notes": "100-year-old deli next door to 371 Columbus. Danny's healthy order (verified 8/31): Custom Sandwich $19.25 — oven roasted turkey, soft roll, lettuce, tomatoes, mustard, NO cheese; add sweet bell peppers +$1 for bulk. Online pickup orders 9am-5:10pm. Cured-meat specials are the trap while cutting. Closed Sundays.",
+      "verified": "2026-08-31",
+      "applePay": true
     },
     "trader joes": {
       "price": 1,
