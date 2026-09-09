@@ -249,7 +249,7 @@ def match_poi(poi: dict, index: dict, by_token: dict, by_addr: dict, df: dict) -
         cand_keys |= by_addr.get(paddr, set())
 
     accepted, rejected, notes = [], [], []
-    for key in cand_keys:
+    for key in sorted(cand_keys):  # deterministic across hash seeds
         b = index[key]
         baddr = parse_addr(b["address"])
         addr = None
@@ -313,7 +313,7 @@ def match_poi(poi: dict, index: dict, by_token: dict, by_addr: dict, df: dict) -
         # sibling registrations: same normalized name at the same street address
         # in another era, rejected only because that era lacks coordinates
         ids = {(a[0]["_joined"], parse_addr(a[0]["address"])) for a in pool}
-        for key in cand_keys:
+        for key in sorted(cand_keys):
             b = index[key]
             if (b["_joined"], parse_addr(b["address"])) in ids and \
                     all(b is not a[0] for a in pool):
@@ -346,24 +346,32 @@ def summarize(businesses: list) -> dict:
         for k, i in b["inspections"].items():
             if i["date"] and i["date"] <= TODAY:
                 insps.append(dict(i, dataset=b["dataset"], key=k))
-    insps.sort(key=lambda i: i["date"])
+    insps.sort(key=lambda i: (i["date"], i["dataset"], i["key"]))
     out = {"inspections_total": len(insps)}
     if not insps:
         return out
-    last = insps[-1]
+    # A POI can map to several DPH registrations of one address (e.g. "Boudin
+    # Bakery & Cafe" + "Boudin Restaurant") inspected the same day; same-day
+    # ties are resolved conservatively (worst score/status, most violations).
+    last_day = [i for i in insps if i["date"] == insps[-1]["date"]]
+
+    def vcount(i):
+        return i["violation_count"] if i["dataset"] == "tvy3-wexg" else len(i["violations"])
+    last = max(last_day, key=lambda i: (vcount(i) or 0, i["key"]))
     out["last_inspection_date"] = last["date"]
     out["last_inspection_type"] = last["type"]
     out["last_inspection_dataset"] = last["dataset"]
+    out["violation_count_last"] = vcount(last)
     if last["dataset"] == "tvy3-wexg":
-        out["violation_count_last"] = last["violation_count"]
         out["last_violation_codes"] = last["violation_codes"]
-    else:
-        out["violation_count_last"] = len(last["violations"])
-    out["last_violations"] = last["violations"]
+    out["last_violations"] = [v for i in last_day for v in i["violations"]]
+    if len(last_day) > 1:
+        out["last_day_inspections"] = len(last_day)
 
     scored = [i for i in insps if i["score"] is not None]
     if scored:
-        out["last_score"] = scored[-1]["score"]
+        last_scored_day = [i for i in scored if i["date"] == scored[-1]["date"]]
+        out["last_score"] = min(i["score"] for i in last_scored_day)
         out["last_score_date"] = scored[-1]["date"]
         out["worst_score_all_time"] = min(i["score"] for i in scored)
         out["worst_score_date"] = min(scored, key=lambda i: (i["score"], i["date"]))["date"]
@@ -372,7 +380,10 @@ def summarize(businesses: list) -> dict:
 
     statused = [i for i in insps if i["status"]]
     if statused:
-        out["last_status"] = statused[-1]["status"]
+        rank = {"Closure": 0, "Conditional Pass": 1, "Pass": 2}
+        last_status_day = [i for i in statused if i["date"] == statused[-1]["date"]]
+        out["last_status"] = min(last_status_day,
+                                 key=lambda i: rank.get(i["status"], 3))["status"]
         out["last_status_date"] = statused[-1]["date"]
         out["closures_all_time"] = sum(1 for i in statused if i["status"] == "Closure")
         out["conditional_pass_all_time"] = sum(
@@ -416,6 +427,7 @@ def main() -> None:
             "Numeric scores exist only in 2016-2019 (LIVES); DPH stopped scoring in 2021. Later eras: Pass / Conditional Pass / Closure.",
             "2024+ rows with no violation_count and no violation_codes and status Pass are read as 0 violations; any other missing count is null.",
             "2024+ dataset is two feeds (typed rows loaded 2025-07; untyped rows loaded monthly since); an untyped row is dropped when a typed row for the same permit/date/status/violation_count exists (218 such duplicates).",
+            "When several DPH registrations of one POI were inspected on the same day, last_score/last_status/violation_count_last take the worst of that day (last_day_inspections says how many); worst_score_all_time and *_all_time counts span all matched registrations.",
             "2024+ open data is known to lag/miss inspections versus the DPH lookup tool (inspections.myhealthdepartment.com), whose robots.txt forbids automated access; it was not fetched.",
             "match_confidence: name+address = normalized name relates (exact/compact/subset/overlap/fuzzy) AND street number+street agree; name-only = exact/compact name with coordinates or zip corroboration, subset/strong-fuzzy name within SAME_M, or exact name at a differing street number within SAME_M (see address_note); none = no defensible match.",
             f"Thresholds: SAME_M={SAME_M} NEAR_M={NEAR_M} CONFLICT_M={CONFLICT_M} DF_DISTINCT={DF_DISTINCT} DF_UNIQUE={DF_UNIQUE} FUZZY_RATIO={FUZZY_RATIO} FUZZY_STRONG={FUZZY_STRONG}; NB_ZIPS={sorted(NB_ZIPS)}",
