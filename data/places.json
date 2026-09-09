@@ -19,6 +19,22 @@
    "per_month": 12.76,
    "percentile": 67.3,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": 82,
+   "last_score_date": "2018-06-14",
+   "last_inspection_date": "2026-05-06",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 82,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://thebellecora.com/#food-section",
+   "items": 30,
+   "status": "ok",
+   "slug": "belle-cora"
   }
  },
  {
@@ -69,6 +85,16 @@
    "per_month": 17.76,
    "percentile": 86.9,
    "nearest_incident_m": 14
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-05-13",
+   "last_inspection_date": "2025-08-05",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -119,6 +145,16 @@
    "per_month": 21.18,
    "percentile": 97.9,
    "nearest_incident_m": 37
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-04-09",
+   "last_inspection_date": "2025-08-05",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -141,6 +177,16 @@
    "per_month": 9.67,
    "percentile": 48.8,
    "nearest_incident_m": 40
+  },
+  "inspection": {
+   "last_score": 89,
+   "last_score_date": "2018-01-26",
+   "last_inspection_date": "2026-07-15",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 89,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -163,6 +209,16 @@
    "per_month": 13.09,
    "percentile": 70.2,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-05",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -207,6 +263,16 @@
    "per_month": 9.67,
    "percentile": 48.8,
    "nearest_incident_m": 34
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2023-04-26",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -254,6 +320,12 @@
    "per_month": 13.34,
    "percentile": 71.8,
    "nearest_incident_m": 16
+  },
+  "menu_data": {
+   "url": "https://www.goldenboypizza.com/menu",
+   "items": 13,
+   "status": "ok",
+   "slug": "golden-boy-pizza"
   }
  },
  {
@@ -320,6 +392,16 @@
    "per_month": 21.18,
    "percentile": 97.9,
    "nearest_incident_m": 45
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-01-29",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -342,6 +424,22 @@
    "per_month": 8.59,
    "percentile": 42.6,
    "nearest_incident_m": 40
+  },
+  "inspection": {
+   "last_score": 91,
+   "last_score_date": "2019-08-16",
+   "last_inspection_date": "2026-06-03",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 91,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://maykadehrestaurant.com/menu/",
+   "items": 52,
+   "status": "ok",
+   "slug": "maykadeh-persian-restaurant"
   }
  },
  {
@@ -364,6 +462,16 @@
    "per_month": 11.01,
    "percentile": 59.8,
    "nearest_incident_m": 47
+  },
+  "inspection": {
+   "last_score": 82,
+   "last_score_date": "2019-06-11",
+   "last_inspection_date": "2026-08-21",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 80,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -386,6 +494,16 @@
    "per_month": 14.01,
    "percentile": 74.0,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-07-15",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -408,6 +526,16 @@
    "per_month": 6.75,
    "percentile": 30.0,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2019-08-29",
+   "last_inspection_date": "2026-06-04",
+   "violation_count_last": 11,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 87,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -430,6 +558,22 @@
    "per_month": 12.84,
    "percentile": 68.1,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2019-06-05",
+   "last_inspection_date": "2026-08-27",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 81,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://sodinisgreenvalley.com/#menu",
+   "items": 65,
+   "status": "ok",
+   "slug": "sodini-s"
   }
  },
  {
@@ -452,6 +596,22 @@
    "per_month": 13.09,
    "percentile": 70.2,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-08-27",
+   "last_inspection_date": "2026-09-03",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.sottomaresf.com/menu",
+   "items": 45,
+   "status": "ok",
+   "slug": "sotto-mare"
   }
  },
  {
@@ -474,6 +634,16 @@
    "per_month": 14.34,
    "percentile": 74.5,
    "nearest_incident_m": 53
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-07-19",
+   "last_inspection_date": "2025-01-29",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -518,6 +688,22 @@
    "per_month": 14.34,
    "percentile": 74.5,
    "nearest_incident_m": 45
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-08-19",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://thestinkingrose.com/menus/menu-sf.pdf",
+   "items": 61,
+   "status": "ok",
+   "slug": "the-stinking-rose"
   }
  },
  {
@@ -540,6 +726,16 @@
    "per_month": 14.26,
    "percentile": 74.3,
    "nearest_incident_m": 48
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-09-11",
+   "last_inspection_date": "2026-07-15",
+   "violation_count_last": 12,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -562,6 +758,16 @@
    "per_month": 15.68,
    "percentile": 80.4,
    "nearest_incident_m": 23
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-08-25",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -628,6 +834,16 @@
    "per_month": 6.42,
    "percentile": 27.6,
    "nearest_incident_m": 25
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2019-08-22",
+   "last_inspection_date": "2026-04-02",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 7,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -650,6 +866,16 @@
    "per_month": 10.67,
    "percentile": 56.6,
    "nearest_incident_m": 49
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2018-04-12",
+   "last_inspection_date": "2026-01-12",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -672,6 +898,22 @@
    "per_month": 15.51,
    "percentile": 79.1,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-10-07",
+   "violation_count_last": 11,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.sfbarbara.com/_files/ugd/41dd26_56d744f22a2c46af9e4a2be75699dd9a.pdf",
+   "items": 34,
+   "status": "ok",
+   "slug": "barbara-pinseria-cocktail-bar"
   }
  },
  {
@@ -694,6 +936,16 @@
    "per_month": 15.59,
    "percentile": 79.4,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-08",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -738,6 +990,16 @@
    "per_month": 10.92,
    "percentile": 59.5,
    "nearest_incident_m": 36
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-05",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -782,6 +1044,16 @@
    "per_month": 19.43,
    "percentile": 91.7,
    "nearest_incident_m": 38
+  },
+  "inspection": {
+   "last_score": 84,
+   "last_score_date": "2017-11-08",
+   "last_inspection_date": "2024-10-03",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 84,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -810,6 +1082,16 @@
    "per_month": 10.67,
    "percentile": 56.6,
    "nearest_incident_m": 24
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-04-10",
+   "last_inspection_date": "2025-08-05",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -832,6 +1114,16 @@
    "per_month": 20.51,
    "percentile": 95.7,
    "nearest_incident_m": 72
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-02-03",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -854,6 +1146,16 @@
    "per_month": 6.84,
    "percentile": 30.3,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2019-03-18",
+   "last_inspection_date": "2025-04-03",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -898,6 +1200,22 @@
    "per_month": 18.43,
    "percentile": 88.5,
    "nearest_incident_m": 8
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-07-21",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://elfarolitosf.com/menu/",
+   "items": 32,
+   "status": "partial",
+   "slug": "el-farolito"
   }
  },
  {
@@ -920,6 +1238,16 @@
    "per_month": 20.1,
    "percentile": 93.0,
    "nearest_incident_m": 43
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-01",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -942,6 +1270,16 @@
    "per_month": 19.18,
    "percentile": 89.8,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": 69,
+   "last_score_date": "2017-12-13",
+   "last_inspection_date": "2026-04-23",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 69,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -964,6 +1302,16 @@
    "per_month": 13.76,
    "percentile": 72.9,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-08-16",
+   "last_inspection_date": "2026-06-03",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 79,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -986,6 +1334,22 @@
    "per_month": 7.25,
    "percentile": 32.4,
    "nearest_incident_m": 63
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-01-15",
+   "violation_count_last": 10,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.fwpizzeria.com/menu",
+   "items": 29,
+   "status": "ok",
+   "slug": "flour-water-pizzeria"
   }
  },
  {
@@ -1008,6 +1372,16 @@
    "per_month": 6.67,
    "percentile": 29.8,
    "nearest_incident_m": 14
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-07-11",
+   "last_inspection_date": "2024-09-05",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 93,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1052,6 +1426,16 @@
    "per_month": 22.02,
    "percentile": 99.5,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2017-10-25",
+   "last_inspection_date": "2026-08-04",
+   "violation_count_last": 11,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 87,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1074,6 +1458,16 @@
    "per_month": 13.18,
    "percentile": 70.8,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": 76,
+   "last_score_date": "2019-08-29",
+   "last_inspection_date": "2026-06-25",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 76,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1096,6 +1490,16 @@
    "per_month": 20.18,
    "percentile": 93.6,
    "nearest_incident_m": 55
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-14",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1118,6 +1522,16 @@
    "per_month": 18.51,
    "percentile": 88.7,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2018-04-11",
+   "last_inspection_date": "2024-10-15",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 98,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1140,6 +1554,16 @@
    "per_month": 3.67,
    "percentile": 14.5,
    "nearest_incident_m": 35
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2019-07-11",
+   "last_inspection_date": "2026-04-02",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 96,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1166,6 +1590,16 @@
    "per_month": 10.59,
    "percentile": 55.8,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-09",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1188,6 +1622,16 @@
    "per_month": 16.26,
    "percentile": 82.3,
    "nearest_incident_m": 53
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-04-11",
+   "last_inspection_date": "2024-12-09",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 84,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1215,6 +1659,16 @@
    "per_month": 23.1,
    "percentile": 100.0,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2017-06-20",
+   "last_inspection_date": "2024-08-20",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 87,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1303,6 +1757,16 @@
    "per_month": 10.59,
    "percentile": 55.8,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2019-08-27",
+   "last_inspection_date": "2026-03-12",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1325,6 +1789,22 @@
    "per_month": 7.0,
    "percentile": 30.8,
    "nearest_incident_m": 47
+  },
+  "inspection": {
+   "last_score": 91,
+   "last_score_date": "2019-04-22",
+   "last_inspection_date": "2026-08-12",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 91,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://originaljoes.com/northbeach/menu",
+   "items": 78,
+   "status": "ok",
+   "slug": "original-joe-s"
   }
  },
  {
@@ -1347,6 +1827,22 @@
    "per_month": 16.68,
    "percentile": 83.4,
    "nearest_incident_m": 35
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2019-05-24",
+   "last_inspection_date": "2026-07-27",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.pizzelle314.com/menu",
+   "items": 85,
+   "status": "ok",
+   "slug": "pizzelle-di-north-beach"
   }
  },
  {
@@ -1369,6 +1865,22 @@
    "per_month": 8.01,
    "percentile": 37.3,
    "nearest_incident_m": 39
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2023-03-08",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.theredwindow.com/san-francisco-north-beach-red-window-food-menu",
+   "items": 59,
+   "status": "ok",
+   "slug": "red-window"
   }
  },
  {
@@ -1391,6 +1903,16 @@
    "per_month": 20.1,
    "percentile": 93.0,
    "nearest_incident_m": 60
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-03",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1413,6 +1935,12 @@
    "per_month": 10.67,
    "percentile": 56.6,
    "nearest_incident_m": 60
+  },
+  "menu_data": {
+   "url": "https://samspanini.com/menu",
+   "items": 11,
+   "status": "partial",
+   "slug": "sam-s-panini"
   }
  },
  {
@@ -1435,6 +1963,16 @@
    "per_month": 19.18,
    "percentile": 89.8,
    "nearest_incident_m": 23
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-03-05",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1479,6 +2017,22 @@
    "per_month": 9.76,
    "percentile": 49.3,
    "nearest_incident_m": 43
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-08-08",
+   "last_inspection_date": "2019-08-16",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 79,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.tacolicious.com/menus/",
+   "items": 41,
+   "status": "ok",
+   "slug": "tacolicious"
   }
  },
  {
@@ -1501,6 +2055,16 @@
    "per_month": 20.26,
    "percentile": 93.8,
    "nearest_incident_m": 66
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2023-02-09",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1523,6 +2087,16 @@
    "per_month": 13.84,
    "percentile": 73.5,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-01-16",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1545,6 +2119,16 @@
    "per_month": 16.68,
    "percentile": 83.4,
    "nearest_incident_m": 33
+  },
+  "inspection": {
+   "last_score": 81,
+   "last_score_date": "2019-07-25",
+   "last_inspection_date": "2025-09-15",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 81,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1567,6 +2151,16 @@
    "per_month": 7.42,
    "percentile": 33.2,
    "nearest_incident_m": 33
+  },
+  "inspection": {
+   "last_score": 93,
+   "last_score_date": "2019-09-23",
+   "last_inspection_date": "2026-07-21",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 93,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1589,6 +2183,16 @@
    "per_month": 7.42,
    "percentile": 33.2,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2019-09-23",
+   "last_inspection_date": "2026-09-02",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 87,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1611,6 +2215,16 @@
    "per_month": 13.76,
    "percentile": 72.9,
    "nearest_incident_m": 35
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-03-05",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1633,6 +2247,16 @@
    "per_month": 20.76,
    "percentile": 96.2,
    "nearest_incident_m": 62
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-10-10",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1677,6 +2301,16 @@
    "per_month": 19.26,
    "percentile": 90.9,
    "nearest_incident_m": 30
+  },
+  "inspection": {
+   "last_score": 84,
+   "last_score_date": "2019-08-13",
+   "last_inspection_date": "2026-06-22",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 84,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1699,6 +2333,16 @@
    "per_month": 19.26,
    "percentile": 90.9,
    "nearest_incident_m": 43
+  },
+  "inspection": {
+   "last_score": 76,
+   "last_score_date": "2018-04-18",
+   "last_inspection_date": "2025-03-06",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 76,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1765,6 +2409,16 @@
    "per_month": 10.51,
    "percentile": 54.7,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-03-30",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1792,6 +2446,22 @@
    "per_month": 6.84,
    "percentile": 30.3,
    "nearest_incident_m": 59
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-01-31",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.comptonscoffee.com/menu",
+   "items": 49,
+   "status": "ok",
+   "slug": "compton-s-coffe-house"
   }
  },
  {
@@ -1836,6 +2506,16 @@
    "per_month": 15.43,
    "percentile": 78.6,
    "nearest_incident_m": 49
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2017-11-30",
+   "last_inspection_date": "2022-10-12",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1858,6 +2538,22 @@
    "per_month": 9.42,
    "percentile": 48.0,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-05-20",
+   "last_inspection_date": "2022-09-22",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 86,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.go-duck-yourself.com/_files/ugd/f78a7b_3feba19d92294d189f6540a242da6b7d.pdf",
+   "items": 27,
+   "status": "ok",
+   "slug": "hing-lung-co"
   }
  },
  {
@@ -1880,6 +2576,22 @@
    "per_month": 6.34,
    "percentile": 26.8,
    "nearest_incident_m": 43
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-09-24",
+   "last_inspection_date": "2025-04-29",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.ilpollaiosf.com/menu",
+   "items": 30,
+   "status": "ok",
+   "slug": "il-pollaio"
   }
  },
  {
@@ -1902,6 +2614,16 @@
    "per_month": 16.43,
    "percentile": 83.1,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-01-28",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -1968,6 +2690,16 @@
    "per_month": 2.33,
    "percentile": 6.7,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2018-06-22",
+   "last_inspection_date": "2024-08-15",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 83,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2012,6 +2744,16 @@
    "per_month": 13.51,
    "percentile": 72.4,
    "nearest_incident_m": 25
+  },
+  "inspection": {
+   "last_score": 77,
+   "last_score_date": "2019-04-04",
+   "last_inspection_date": "2026-08-21",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 77,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2034,6 +2776,16 @@
    "per_month": 10.17,
    "percentile": 51.7,
    "nearest_incident_m": 12
+  },
+  "inspection": {
+   "last_score": 72,
+   "last_score_date": "2017-06-28",
+   "last_inspection_date": "2017-06-28",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 72,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2056,6 +2808,16 @@
    "per_month": 22.1,
    "percentile": 99.7,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-12-03",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2078,6 +2840,22 @@
    "per_month": 6.0,
    "percentile": 22.8,
    "nearest_incident_m": 31
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-08-20",
+   "last_inspection_date": "2026-01-12",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://mariosbohemian.com/menu.html",
+   "items": 50,
+   "status": "ok",
+   "slug": "mario-s-bohemian-cigar-store-cafe"
   }
  },
  {
@@ -2100,6 +2878,16 @@
    "per_month": 12.84,
    "percentile": 68.1,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-06-10",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2144,6 +2932,16 @@
    "per_month": 5.5,
    "percentile": 22.0,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-03-03",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2166,6 +2964,16 @@
    "per_month": 12.93,
    "percentile": 68.9,
    "nearest_incident_m": 23
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-07-31",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 10,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2188,6 +2996,16 @@
    "per_month": 16.18,
    "percentile": 82.0,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-22",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2210,6 +3028,16 @@
    "per_month": 7.67,
    "percentile": 35.7,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-06-22",
+   "last_inspection_date": "2018-06-22",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2298,6 +3126,16 @@
    "per_month": 21.1,
    "percentile": 97.6,
    "nearest_incident_m": 54
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-01-08",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2320,6 +3158,16 @@
    "per_month": 15.93,
    "percentile": 81.2,
    "nearest_incident_m": 41
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-04-20",
+   "last_inspection_date": "2025-07-03",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2342,6 +3190,16 @@
    "per_month": 11.34,
    "percentile": 63.3,
    "nearest_incident_m": 30
+  },
+  "inspection": {
+   "last_score": 93,
+   "last_score_date": "2019-10-02",
+   "last_inspection_date": "2026-08-26",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 85,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2364,6 +3222,16 @@
    "per_month": 18.76,
    "percentile": 89.3,
    "nearest_incident_m": 50
+  },
+  "inspection": {
+   "last_score": 75,
+   "last_score_date": "2019-08-29",
+   "last_inspection_date": "2024-12-27",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 75,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2386,6 +3254,16 @@
    "per_month": 18.76,
    "percentile": 89.3,
    "nearest_incident_m": 58
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2018-05-14",
+   "last_inspection_date": "2026-01-26",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 75,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2430,6 +3308,16 @@
    "per_month": 16.68,
    "percentile": 83.4,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": 72,
+   "last_score_date": "2017-12-06",
+   "last_inspection_date": "2025-04-08",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 72,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2452,6 +3340,16 @@
    "per_month": 16.68,
    "percentile": 83.4,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2017-06-07",
+   "last_inspection_date": "2025-07-03",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2474,6 +3372,16 @@
    "per_month": 15.93,
    "percentile": 81.2,
    "nearest_incident_m": 36
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-09-17",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2496,6 +3404,16 @@
    "per_month": 6.09,
    "percentile": 25.2,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-07-15",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2518,6 +3436,16 @@
    "per_month": 6.09,
    "percentile": 25.2,
    "nearest_incident_m": 31
+  },
+  "inspection": {
+   "last_score": 84,
+   "last_score_date": "2017-05-02",
+   "last_inspection_date": "2024-11-22",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 84,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2540,6 +3468,16 @@
    "per_month": 20.35,
    "percentile": 94.4,
    "nearest_incident_m": 56
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2017-05-16",
+   "last_inspection_date": "2024-08-28",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 85,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2562,6 +3500,16 @@
    "per_month": 20.6,
    "percentile": 96.0,
    "nearest_incident_m": 75
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2019-07-31",
+   "last_inspection_date": "2025-06-24",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 87,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2584,6 +3532,16 @@
    "per_month": 10.51,
    "percentile": 54.7,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-27",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2606,6 +3564,16 @@
    "per_month": 2.5,
    "percentile": 8.8,
    "nearest_incident_m": 30
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-12-23",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2628,6 +3596,16 @@
    "per_month": 0.67,
    "percentile": 0.8,
    "nearest_incident_m": 100
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-12-19",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2650,6 +3628,16 @@
    "per_month": 11.26,
    "percentile": 62.5,
    "nearest_incident_m": 31
+  },
+  "inspection": {
+   "last_score": 77,
+   "last_score_date": "2017-05-09",
+   "last_inspection_date": "2025-09-03",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 77,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2672,6 +3660,16 @@
    "per_month": 5.34,
    "percentile": 21.2,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-05-13",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2694,6 +3692,16 @@
    "per_month": 7.51,
    "percentile": 35.1,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-08-27",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2716,6 +3724,16 @@
    "per_month": 8.17,
    "percentile": 39.9,
    "nearest_incident_m": 47
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2017-12-29",
+   "last_inspection_date": "2018-01-12",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 98,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2760,6 +3778,16 @@
    "per_month": 2.5,
    "percentile": 8.8,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-23",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2782,6 +3810,16 @@
    "per_month": 10.42,
    "percentile": 53.4,
    "nearest_incident_m": 36
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-04-30",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2804,6 +3842,16 @@
    "per_month": 11.76,
    "percentile": 64.9,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-08-20",
+   "last_inspection_date": "2025-09-03",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2826,6 +3874,16 @@
    "per_month": 8.59,
    "percentile": 42.6,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-07-20",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2848,6 +3906,16 @@
    "per_month": 4.42,
    "percentile": 16.9,
    "nearest_incident_m": 42
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2018-04-20",
+   "last_inspection_date": "2026-01-05",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2870,6 +3938,16 @@
    "per_month": 8.92,
    "percentile": 43.7,
    "nearest_incident_m": 46
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2022-12-14",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2914,6 +3992,16 @@
    "per_month": 3.25,
    "percentile": 12.9,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2018-01-10",
+   "last_inspection_date": "2025-10-16",
+   "violation_count_last": 11,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 83,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2936,6 +4024,16 @@
    "per_month": 1.0,
    "percentile": 1.3,
    "nearest_incident_m": 81
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2017-11-02",
+   "last_inspection_date": "2026-08-27",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2958,6 +4056,16 @@
    "per_month": 11.51,
    "percentile": 63.5,
    "nearest_incident_m": 33
+  },
+  "inspection": {
+   "last_score": 76,
+   "last_score_date": "2017-11-30",
+   "last_inspection_date": "2026-02-11",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 62,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -2980,6 +4088,16 @@
    "per_month": 11.17,
    "percentile": 61.7,
    "nearest_incident_m": 11
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2017-11-29",
+   "last_inspection_date": "2024-08-27",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 83,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3002,6 +4120,16 @@
    "per_month": 8.92,
    "percentile": 43.7,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2018-12-11",
+   "last_inspection_date": "2026-04-02",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 83,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3046,6 +4174,16 @@
    "per_month": 20.93,
    "percentile": 96.8,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 68,
+   "last_score_date": "2017-12-06",
+   "last_inspection_date": "2025-06-13",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 68,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3090,6 +4228,16 @@
    "per_month": 4.17,
    "percentile": 16.4,
    "nearest_incident_m": 50
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-04-26",
+   "last_inspection_date": "2026-09-02",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3112,6 +4260,16 @@
    "per_month": 20.93,
    "percentile": 96.8,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2018-05-03",
+   "last_inspection_date": "2024-12-02",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3141,6 +4299,22 @@
    "per_month": 20.76,
    "percentile": 96.2,
    "nearest_incident_m": 85
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2019-04-18",
+   "last_inspection_date": "2025-06-10",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 85,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://cafereveille.square.site/",
+   "items": 16,
+   "status": "partial",
+   "slug": "reveille-coffee-co"
   }
  },
  {
@@ -3184,6 +4358,16 @@
    "per_month": 10.42,
    "percentile": 53.4,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-05-21",
+   "last_inspection_date": "2024-09-24",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 75,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3228,6 +4412,16 @@
    "per_month": 11.26,
    "percentile": 62.5,
    "nearest_incident_m": 24
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-24",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3250,6 +4444,16 @@
    "per_month": 10.84,
    "percentile": 58.4,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-07-14",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3272,6 +4476,16 @@
    "per_month": 19.18,
    "percentile": 89.8,
    "nearest_incident_m": 93
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2019-07-25",
+   "last_inspection_date": "2019-07-25",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 77,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3316,6 +4530,16 @@
    "per_month": 20.93,
    "percentile": 96.8,
    "nearest_incident_m": 14
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2017-11-14",
+   "last_inspection_date": "2024-10-03",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 83,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3338,6 +4562,16 @@
    "per_month": 12.01,
    "percentile": 65.7,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 75,
+   "last_score_date": "2017-11-15",
+   "last_inspection_date": "2024-08-14",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 75,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3382,6 +4616,16 @@
    "per_month": 19.76,
    "percentile": 92.5,
    "nearest_incident_m": 25
+  },
+  "inspection": {
+   "last_score": 77,
+   "last_score_date": "2017-08-14",
+   "last_inspection_date": "2025-06-23",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 77,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3404,6 +4648,16 @@
    "per_month": 7.0,
    "percentile": 30.8,
    "nearest_incident_m": 24
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-11",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3426,6 +4680,16 @@
    "per_month": 13.84,
    "percentile": 73.5,
    "nearest_incident_m": 42
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-05-14",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3448,6 +4712,16 @@
    "per_month": 2.92,
    "percentile": 11.0,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-10-01",
+   "last_inspection_date": "2025-08-29",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3492,6 +4766,16 @@
    "per_month": 4.59,
    "percentile": 17.4,
    "nearest_incident_m": 15
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-03",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3514,6 +4798,16 @@
    "per_month": 2.84,
    "percentile": 10.2,
    "nearest_incident_m": 52
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2019-06-05",
+   "last_inspection_date": "2019-06-05",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3536,6 +4830,16 @@
    "per_month": 5.0,
    "percentile": 18.5,
    "nearest_incident_m": 51
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2019-08-23",
+   "last_inspection_date": "2023-03-06",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3558,6 +4862,16 @@
    "per_month": 10.67,
    "percentile": 56.6,
    "nearest_incident_m": 10
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-12-16",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3580,6 +4894,16 @@
    "per_month": 10.09,
    "percentile": 51.2,
    "nearest_incident_m": 31
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2019-05-13",
+   "last_inspection_date": "2026-01-21",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 85,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3602,6 +4926,16 @@
    "per_month": 10.09,
    "percentile": 51.2,
    "nearest_incident_m": 10
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-07-23",
+   "last_inspection_date": "2026-06-05",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 7,
+   "worst_score_all_time": 80,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3624,6 +4958,16 @@
    "per_month": 8.92,
    "percentile": 43.7,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": 82,
+   "last_score_date": "2017-11-17",
+   "last_inspection_date": "2025-05-29",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 82,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3646,6 +4990,16 @@
    "per_month": 17.85,
    "percentile": 87.1,
    "nearest_incident_m": 9
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-07-09",
+   "last_inspection_date": "2025-06-13",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 79,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3712,6 +5066,16 @@
    "per_month": 15.26,
    "percentile": 77.2,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2017-12-13",
+   "last_inspection_date": "2024-08-21",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 72,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3756,6 +5120,16 @@
    "per_month": 8.42,
    "percentile": 41.3,
    "nearest_incident_m": 14
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-01-15",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3778,6 +5152,16 @@
    "per_month": 17.6,
    "percentile": 85.5,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-29",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3800,6 +5184,16 @@
    "per_month": 15.59,
    "percentile": 79.4,
    "nearest_incident_m": 38
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-12-05",
+   "last_inspection_date": "2025-06-09",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 83,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3822,6 +5216,16 @@
    "per_month": 14.43,
    "percentile": 75.9,
    "nearest_incident_m": 42
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2018-12-05",
+   "last_inspection_date": "2025-07-23",
+   "violation_count_last": 11,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 83,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3848,6 +5252,22 @@
    "per_month": 4.92,
    "percentile": 18.2,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2018-09-17",
+   "last_inspection_date": "2025-09-22",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.yelp.com/menu/kam-po-kitchen-san-francisco",
+   "items": 19,
+   "status": "partial",
+   "slug": "kam-po-kitchen"
   }
  },
  {
@@ -3870,6 +5290,16 @@
    "per_month": 17.6,
    "percentile": 85.5,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-29",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3914,6 +5344,16 @@
    "per_month": 8.42,
    "percentile": 41.3,
    "nearest_incident_m": 53
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-01-02",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3936,6 +5376,16 @@
    "per_month": 16.93,
    "percentile": 84.7,
    "nearest_incident_m": 12
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2017-11-27",
+   "last_inspection_date": "2025-05-28",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 76,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3958,6 +5408,16 @@
    "per_month": 3.34,
    "percentile": 13.7,
    "nearest_incident_m": 24
+  },
+  "inspection": {
+   "last_score": 71,
+   "last_score_date": "2018-12-10",
+   "last_inspection_date": "2025-06-03",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 71,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -3980,6 +5440,16 @@
    "per_month": 17.6,
    "percentile": 85.5,
    "nearest_incident_m": 15
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2019-01-09",
+   "last_inspection_date": "2026-06-15",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 70,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4002,6 +5472,16 @@
    "per_month": 7.34,
    "percentile": 33.0,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": 77,
+   "last_score_date": "2019-03-20",
+   "last_inspection_date": "2019-04-22",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 77,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4024,6 +5504,16 @@
    "per_month": 2.92,
    "percentile": 11.0,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-08-13",
+   "last_inspection_date": "2022-03-22",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4046,6 +5536,16 @@
    "per_month": 14.84,
    "percentile": 76.1,
    "nearest_incident_m": 9
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2019-01-04",
+   "last_inspection_date": "2025-06-20",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 58,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4068,6 +5568,16 @@
    "per_month": 2.33,
    "percentile": 6.7,
    "nearest_incident_m": 30
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-05-01",
+   "last_inspection_date": "2026-02-18",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 82,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4090,6 +5600,16 @@
    "per_month": 2.42,
    "percentile": 8.0,
    "nearest_incident_m": 48
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2018-04-13",
+   "last_inspection_date": "2025-09-08",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4112,6 +5632,16 @@
    "per_month": 3.5,
    "percentile": 14.2,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-12-31",
+   "violation_count_last": null,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4134,6 +5664,16 @@
    "per_month": 14.84,
    "percentile": 76.1,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-03-05",
+   "last_inspection_date": "2026-06-01",
+   "violation_count_last": 13,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4156,6 +5696,16 @@
    "per_month": 5.59,
    "percentile": 22.3,
    "nearest_incident_m": 63
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2019-04-08",
+   "last_inspection_date": "2024-09-11",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 100,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4200,6 +5750,16 @@
    "per_month": 17.6,
    "percentile": 85.5,
    "nearest_incident_m": 31
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-05-02",
+   "last_inspection_date": "2019-05-02",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4222,6 +5782,16 @@
    "per_month": 16.84,
    "percentile": 84.5,
    "nearest_incident_m": 60
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2018-05-15",
+   "last_inspection_date": "2026-06-02",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4244,6 +5814,16 @@
    "per_month": 2.92,
    "percentile": 11.0,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-08-24",
+   "last_inspection_date": "2025-05-05",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4266,6 +5846,16 @@
    "per_month": 15.76,
    "percentile": 80.7,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-12-29",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4310,6 +5900,16 @@
    "per_month": 19.76,
    "percentile": 92.5,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-07-09",
+   "last_inspection_date": "2026-05-28",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4332,6 +5932,16 @@
    "per_month": 15.26,
    "percentile": 77.2,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 75,
+   "last_score_date": "2018-12-27",
+   "last_inspection_date": "2026-07-20",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 69,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4354,6 +5964,16 @@
    "per_month": 15.43,
    "percentile": 78.6,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-12-12",
+   "last_inspection_date": "2026-01-05",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4376,6 +5996,16 @@
    "per_month": 15.26,
    "percentile": 77.2,
    "nearest_incident_m": 11
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2018-12-17",
+   "last_inspection_date": "2024-10-28",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 81,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4398,6 +6028,16 @@
    "per_month": 12.26,
    "percentile": 66.0,
    "nearest_incident_m": 8
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-04-23",
+   "last_inspection_date": "2025-09-24",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 94,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4420,6 +6060,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 40
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-04-26",
+   "last_inspection_date": "2025-03-13",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4442,6 +6092,16 @@
    "per_month": 9.26,
    "percentile": 46.4,
    "nearest_incident_m": 41
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-04-22",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4464,6 +6124,16 @@
    "per_month": 18.18,
    "percentile": 87.4,
    "nearest_incident_m": 33
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2017-04-14",
+   "last_inspection_date": "2026-07-22",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4486,6 +6156,16 @@
    "per_month": 20.35,
    "percentile": 94.4,
    "nearest_incident_m": 12
+  },
+  "inspection": {
+   "last_score": 70,
+   "last_score_date": "2017-07-06",
+   "last_inspection_date": "2025-04-07",
+   "violation_count_last": 10,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 70,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4508,6 +6188,16 @@
    "per_month": 18.18,
    "percentile": 87.4,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-22",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4530,6 +6220,16 @@
    "per_month": 10.51,
    "percentile": 54.7,
    "nearest_incident_m": 23
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-01-17",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4552,6 +6252,16 @@
    "per_month": 18.68,
    "percentile": 89.0,
    "nearest_incident_m": 41
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2018-11-26",
+   "last_inspection_date": "2026-07-22",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4596,6 +6306,16 @@
    "per_month": 7.17,
    "percentile": 31.9,
    "nearest_incident_m": 61
+  },
+  "inspection": {
+   "last_score": 78,
+   "last_score_date": "2019-07-09",
+   "last_inspection_date": "2026-07-08",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 75,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4622,6 +6342,16 @@
    "per_month": 8.09,
    "percentile": 37.8,
    "nearest_incident_m": 60
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-10-01",
+   "last_inspection_date": "2026-02-19",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 10,
+   "worst_score_all_time": 74,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4644,6 +6374,16 @@
    "per_month": 8.09,
    "percentile": 37.8,
    "nearest_incident_m": 57
+  },
+  "inspection": {
+   "last_score": 76,
+   "last_score_date": "2019-03-26",
+   "last_inspection_date": "2026-04-01",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 11,
+   "worst_score_all_time": 76,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4666,6 +6406,16 @@
    "per_month": 11.09,
    "percentile": 60.6,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 87,
+   "last_score_date": "2019-09-10",
+   "last_inspection_date": "2026-04-02",
+   "violation_count_last": 10,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 87,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4688,6 +6438,16 @@
    "per_month": 2.42,
    "percentile": 8.0,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-10-03",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4714,6 +6474,22 @@
    "per_month": 20.35,
    "percentile": 94.4,
    "nearest_incident_m": 12
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-01-13",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.honswuntunsf.com/_files/ugd/0302fc_e03ec16294da4a90865054289b1c2ab7.pdf",
+   "items": 151,
+   "status": "ok",
+   "slug": "hon-s-wun-tun-house"
   }
  },
  {
@@ -4736,6 +6512,16 @@
    "per_month": 20.35,
    "percentile": 94.4,
    "nearest_incident_m": 23
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-04",
+   "violation_count_last": null,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4758,6 +6544,16 @@
    "per_month": 12.76,
    "percentile": 67.3,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-16",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4780,6 +6576,16 @@
    "per_month": 12.59,
    "percentile": 66.5,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-08-26",
+   "last_inspection_date": "2025-04-10",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 13,
+   "worst_score_all_time": 72,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4824,6 +6630,16 @@
    "per_month": 2.33,
    "percentile": 6.7,
    "nearest_incident_m": 51
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-07",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4846,6 +6662,16 @@
    "per_month": 1.33,
    "percentile": 2.1,
    "nearest_incident_m": 51
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-02-17",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4868,6 +6694,16 @@
    "per_month": 0.92,
    "percentile": 1.1,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2017-11-02",
+   "last_inspection_date": "2025-02-11",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 98,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4890,6 +6726,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 41
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-07-14",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4912,6 +6758,16 @@
    "per_month": 12.59,
    "percentile": 66.5,
    "nearest_incident_m": 14
+  },
+  "inspection": {
+   "last_score": 84,
+   "last_score_date": "2019-08-05",
+   "last_inspection_date": "2025-03-11",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 84,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4934,6 +6790,16 @@
    "per_month": 7.42,
    "percentile": 33.2,
    "nearest_incident_m": 14
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-04-03",
+   "last_inspection_date": "2024-09-11",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 79,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -4978,6 +6844,16 @@
    "per_month": 7.67,
    "percentile": 35.7,
    "nearest_incident_m": 64
+  },
+  "inspection": {
+   "last_score": 82,
+   "last_score_date": "2019-04-22",
+   "last_inspection_date": "2026-01-15",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 7,
+   "worst_score_all_time": 82,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5044,6 +6920,16 @@
    "per_month": 14.93,
    "percentile": 76.7,
    "nearest_incident_m": 25
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-03-21",
+   "last_inspection_date": "2026-05-07",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5066,6 +6952,16 @@
    "per_month": 15.18,
    "percentile": 76.9,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-22",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5088,6 +6984,16 @@
    "per_month": 12.59,
    "percentile": 66.5,
    "nearest_incident_m": 10
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-07-08",
+   "last_inspection_date": "2025-03-11",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 90,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5110,6 +7016,16 @@
    "per_month": 2.42,
    "percentile": 8.0,
    "nearest_incident_m": 51
+  },
+  "inspection": {
+   "last_score": 82,
+   "last_score_date": "2018-12-11",
+   "last_inspection_date": "2026-04-21",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 80,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5132,6 +7048,16 @@
    "per_month": 10.84,
    "percentile": 58.4,
    "nearest_incident_m": 27
+  },
+  "inspection": {
+   "last_score": 84,
+   "last_score_date": "2019-04-16",
+   "last_inspection_date": "2025-09-24",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 65,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5154,6 +7080,16 @@
    "per_month": 8.26,
    "percentile": 40.5,
    "nearest_incident_m": 36
+  },
+  "inspection": {
+   "last_score": 81,
+   "last_score_date": "2019-07-08",
+   "last_inspection_date": "2025-01-13",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 10,
+   "worst_score_all_time": 81,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5176,6 +7112,16 @@
    "per_month": 2.25,
    "percentile": 5.9,
    "nearest_incident_m": 66
+  },
+  "inspection": {
+   "last_score": 82,
+   "last_score_date": "2017-10-03",
+   "last_inspection_date": "2025-06-12",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 7,
+   "worst_score_all_time": 82,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5198,6 +7144,16 @@
    "per_month": 1.75,
    "percentile": 4.3,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2017-12-05",
+   "last_inspection_date": "2025-03-20",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 86,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5220,6 +7176,16 @@
    "per_month": 15.26,
    "percentile": 77.2,
    "nearest_incident_m": 43
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-05-09",
+   "last_inspection_date": "2026-09-01",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5268,6 +7234,16 @@
    "per_month": 10.84,
    "percentile": 58.4,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2018-12-17",
+   "last_inspection_date": "2025-03-06",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 98,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5334,6 +7310,16 @@
    "per_month": 11.09,
    "percentile": 60.6,
    "nearest_incident_m": 23
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2019-09-10",
+   "last_inspection_date": "2025-05-28",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 74,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5400,6 +7386,16 @@
    "per_month": 12.93,
    "percentile": 68.9,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2017-05-31",
+   "last_inspection_date": "2025-04-30",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5444,6 +7440,16 @@
    "per_month": 10.34,
    "percentile": 52.5,
    "nearest_incident_m": 25
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-07-23",
+   "last_inspection_date": "2025-04-02",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5466,6 +7472,16 @@
    "per_month": 13.43,
    "percentile": 72.1,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-03-11",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5488,6 +7504,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 89
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-09-01",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5510,6 +7536,16 @@
    "per_month": 10.34,
    "percentile": 52.5,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-11",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5532,6 +7568,16 @@
    "per_month": 10.26,
    "percentile": 52.0,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-02-13",
+   "last_inspection_date": "2025-08-05",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 86,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5554,6 +7600,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 89
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-03-14",
+   "last_inspection_date": "2026-02-03",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5576,6 +7632,16 @@
    "per_month": 3.25,
    "percentile": 12.9,
    "nearest_incident_m": 24
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-05-03",
+   "last_inspection_date": "2018-05-03",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5598,6 +7664,16 @@
    "per_month": 10.01,
    "percentile": 50.9,
    "nearest_incident_m": 96
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-01-08",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5620,6 +7696,16 @@
    "per_month": 11.09,
    "percentile": 60.6,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-12-06",
+   "last_inspection_date": "2021-08-04",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5642,6 +7728,16 @@
    "per_month": 5.09,
    "percentile": 18.8,
    "nearest_incident_m": 77
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-03-21",
+   "last_inspection_date": "2025-09-04",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5664,6 +7760,16 @@
    "per_month": 11.26,
    "percentile": 62.5,
    "nearest_incident_m": 42
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-04-24",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5708,6 +7814,16 @@
    "per_month": 1.5,
    "percentile": 3.2,
    "nearest_incident_m": 70
+  },
+  "inspection": {
+   "last_score": 80,
+   "last_score_date": "2019-08-13",
+   "last_inspection_date": "2025-05-22",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 80,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5730,6 +7846,16 @@
    "per_month": 13.26,
    "percentile": 71.3,
    "nearest_incident_m": 50
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-04-01",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5752,6 +7878,16 @@
    "per_month": 1.83,
    "percentile": 4.8,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-03-19",
+   "last_inspection_date": "2026-02-11",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5774,6 +7910,16 @@
    "per_month": 9.26,
    "percentile": 46.4,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2019-04-01",
+   "last_inspection_date": "2026-05-13",
+   "violation_count_last": 11,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 57,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5796,6 +7942,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 94
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2019-03-12",
+   "last_inspection_date": "2026-05-07",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 74,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5818,6 +7974,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 57
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-04-23",
+   "last_inspection_date": "2025-10-15",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 94,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5840,6 +8006,16 @@
    "per_month": 11.01,
    "percentile": 59.8,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-04-26",
+   "last_inspection_date": "2025-06-24",
+   "violation_count_last": 7,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 79,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5862,6 +8038,16 @@
    "per_month": 11.67,
    "percentile": 64.6,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-01-12",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5906,6 +8092,16 @@
    "per_month": 1.83,
    "percentile": 4.8,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-09-18",
+   "last_inspection_date": "2025-09-04",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5928,6 +8124,16 @@
    "per_month": 10.42,
    "percentile": 53.4,
    "nearest_incident_m": 50
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-12-08",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -5972,6 +8178,16 @@
    "per_month": 13.01,
    "percentile": 69.7,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": 84,
+   "last_score_date": "2018-08-08",
+   "last_inspection_date": "2026-06-08",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 82,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6016,6 +8232,16 @@
    "per_month": 3.75,
    "percentile": 15.0,
    "nearest_incident_m": 15
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-12",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6038,6 +8264,16 @@
    "per_month": 11.59,
    "percentile": 64.3,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": 75,
+   "last_score_date": "2017-11-29",
+   "last_inspection_date": "2025-05-22",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 75,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6104,6 +8340,16 @@
    "per_month": 9.26,
    "percentile": 46.4,
    "nearest_incident_m": 56
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2019-04-03",
+   "last_inspection_date": "2019-04-03",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 68,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6126,6 +8372,16 @@
    "per_month": 8.09,
    "percentile": 37.8,
    "nearest_incident_m": 42
+  },
+  "inspection": {
+   "last_score": 63,
+   "last_score_date": "2018-06-08",
+   "last_inspection_date": "2023-02-09",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 8,
+   "worst_score_all_time": 63,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6148,6 +8404,16 @@
    "per_month": 4.0,
    "percentile": 16.1,
    "nearest_incident_m": 21
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-07-11",
+   "last_inspection_date": "2025-04-01",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6170,6 +8436,16 @@
    "per_month": 10.76,
    "percentile": 57.9,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-23",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6192,6 +8468,16 @@
    "per_month": 12.84,
    "percentile": 68.1,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 55,
+   "last_score_date": "2018-12-03",
+   "last_inspection_date": "2025-04-01",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 8,
+   "worst_score_all_time": 55,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6214,6 +8500,16 @@
    "per_month": 9.01,
    "percentile": 44.8,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-01-09",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6258,6 +8554,16 @@
    "per_month": 9.92,
    "percentile": 50.7,
    "nearest_incident_m": 34
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-05-07",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6280,6 +8586,16 @@
    "per_month": 8.17,
    "percentile": 39.9,
    "nearest_incident_m": 24
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-05-07",
+   "last_inspection_date": "2021-07-01",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 87,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6302,6 +8618,16 @@
    "per_month": 9.76,
    "percentile": 49.3,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-05-31",
+   "last_inspection_date": "2025-05-28",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 82,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6324,6 +8650,16 @@
    "per_month": 14.34,
    "percentile": 74.5,
    "nearest_incident_m": 15
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2023-02-09",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6346,6 +8682,16 @@
    "per_month": 9.76,
    "percentile": 49.3,
    "nearest_incident_m": 72
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2019-03-20",
+   "last_inspection_date": "2025-05-22",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 85,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6390,6 +8736,16 @@
    "per_month": 7.0,
    "percentile": 30.8,
    "nearest_incident_m": 45
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-02-22",
+   "last_inspection_date": "2026-06-23",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6412,6 +8768,16 @@
    "per_month": 9.76,
    "percentile": 49.3,
    "nearest_incident_m": 76
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-04-29",
+   "last_inspection_date": "2019-04-29",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6434,6 +8800,16 @@
    "per_month": 10.76,
    "percentile": 57.9,
    "nearest_incident_m": 30
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-09-05",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6456,6 +8832,16 @@
    "per_month": 9.76,
    "percentile": 49.3,
    "nearest_incident_m": 79
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-10-07",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6478,6 +8864,16 @@
    "per_month": 9.34,
    "percentile": 47.7,
    "nearest_incident_m": 72
+  },
+  "inspection": {
+   "last_score": 78,
+   "last_score_date": "2019-04-17",
+   "last_inspection_date": "2019-04-29",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 78,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6522,6 +8918,16 @@
    "per_month": 13.01,
    "percentile": 69.7,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-15",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6544,6 +8950,16 @@
    "per_month": 6.09,
    "percentile": 25.2,
    "nearest_incident_m": 86
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-06-01",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6566,6 +8982,16 @@
    "per_month": 9.26,
    "percentile": 46.4,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": 74,
+   "last_score_date": "2018-10-11",
+   "last_inspection_date": "2024-12-04",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 13,
+   "worst_score_all_time": 62,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6588,6 +9014,16 @@
    "per_month": 1.75,
    "percentile": 4.3,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-02",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6610,6 +9046,16 @@
    "per_month": 12.34,
    "percentile": 66.2,
    "nearest_incident_m": 32
+  },
+  "inspection": {
+   "last_score": 75,
+   "last_score_date": "2018-08-03",
+   "last_inspection_date": "2025-08-28",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 75,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6632,6 +9078,16 @@
    "per_month": 8.09,
    "percentile": 37.8,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": 71,
+   "last_score_date": "2018-08-17",
+   "last_inspection_date": "2026-05-28",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 71,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6654,6 +9110,16 @@
    "per_month": 12.93,
    "percentile": 68.9,
    "nearest_incident_m": 12
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-15",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6767,6 +9233,16 @@
    "per_month": 2.33,
    "percentile": 6.7,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2018-05-30",
+   "last_inspection_date": "2026-02-24",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6789,6 +9265,16 @@
    "per_month": 2.0,
    "percentile": 5.6,
    "nearest_incident_m": 25
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-11-05",
+   "last_inspection_date": "2026-02-11",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6811,6 +9297,16 @@
    "per_month": 1.58,
    "percentile": 3.8,
    "nearest_incident_m": 27
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2018-08-03",
+   "last_inspection_date": "2025-01-09",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 91,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6833,6 +9329,16 @@
    "per_month": 3.42,
    "percentile": 13.9,
    "nearest_incident_m": 58
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-04-10",
+   "last_inspection_date": "2025-05-29",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 89,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6855,6 +9361,16 @@
    "per_month": 7.17,
    "percentile": 31.9,
    "nearest_incident_m": 46
+  },
+  "inspection": {
+   "last_score": 73,
+   "last_score_date": "2018-08-20",
+   "last_inspection_date": "2025-06-11",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 73,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6877,6 +9393,16 @@
    "per_month": 8.34,
    "percentile": 41.0,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2018-12-18",
+   "last_inspection_date": "2025-05-13",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6899,6 +9425,16 @@
    "per_month": 1.25,
    "percentile": 1.9,
    "nearest_incident_m": 39
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2019-05-30",
+   "last_inspection_date": "2024-09-23",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6943,6 +9479,16 @@
    "per_month": 6.09,
    "percentile": 25.2,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-28",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6965,6 +9511,16 @@
    "per_month": 7.92,
    "percentile": 36.7,
    "nearest_incident_m": 28
+  },
+  "inspection": {
+   "last_score": 91,
+   "last_score_date": "2019-09-12",
+   "last_inspection_date": "2026-04-21",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 86,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -6987,6 +9543,16 @@
    "per_month": 9.17,
    "percentile": 45.8,
    "nearest_incident_m": 39
+  },
+  "inspection": {
+   "last_score": 86,
+   "last_score_date": "2019-04-23",
+   "last_inspection_date": "2025-07-14",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 4,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7031,6 +9597,16 @@
    "per_month": 5.17,
    "percentile": 19.0,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-02-05",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7075,6 +9651,16 @@
    "per_month": 8.26,
    "percentile": 40.5,
    "nearest_incident_m": 9
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-08-03",
+   "last_inspection_date": "2018-08-03",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7097,6 +9683,16 @@
    "per_month": 6.59,
    "percentile": 28.2,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-06-06",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7119,6 +9715,16 @@
    "per_month": 9.01,
    "percentile": 44.8,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-10-23",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7141,6 +9747,16 @@
    "per_month": 8.67,
    "percentile": 43.2,
    "nearest_incident_m": 20
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-05-04",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7229,6 +9845,16 @@
    "per_month": 4.5,
    "percentile": 17.2,
    "nearest_incident_m": 17
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-04-08",
+   "last_inspection_date": "2025-09-02",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7251,6 +9877,16 @@
    "per_month": 7.67,
    "percentile": 35.7,
    "nearest_incident_m": 66
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-06-26",
+   "last_inspection_date": "2019-06-26",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7293,6 +9929,16 @@
    "per_month": 6.25,
    "percentile": 26.5,
    "nearest_incident_m": 85
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2019-04-19",
+   "last_inspection_date": "2025-02-03",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7315,6 +9961,16 @@
    "per_month": 6.59,
    "percentile": 28.2,
    "nearest_incident_m": 41
+  },
+  "inspection": {
+   "last_score": 80,
+   "last_score_date": "2019-03-19",
+   "last_inspection_date": "2026-06-11",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 80,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7381,6 +10037,16 @@
    "per_month": 1.42,
    "percentile": 2.7,
    "nearest_incident_m": 15
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2018-10-24",
+   "last_inspection_date": "2018-10-24",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7403,6 +10069,16 @@
    "per_month": 3.0,
    "percentile": 11.8,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2018-08-20",
+   "last_inspection_date": "2025-02-18",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 86,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7425,6 +10101,16 @@
    "per_month": 4.84,
    "percentile": 17.7,
    "nearest_incident_m": 43
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2024-08-07",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7447,6 +10133,16 @@
    "per_month": 1.08,
    "percentile": 1.6,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": 79,
+   "last_score_date": "2018-12-10",
+   "last_inspection_date": "2022-06-23",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 79,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7469,6 +10165,16 @@
    "per_month": 9.59,
    "percentile": 48.5,
    "nearest_incident_m": 35
+  },
+  "inspection": {
+   "last_score": 85,
+   "last_score_date": "2019-07-08",
+   "last_inspection_date": "2023-02-07",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 3,
+   "worst_score_all_time": 85,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7491,6 +10197,16 @@
    "per_month": 4.84,
    "percentile": 17.7,
    "nearest_incident_m": 61
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-09-15",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7535,6 +10251,16 @@
    "per_month": 2.5,
    "percentile": 8.8,
    "nearest_incident_m": 16
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-05-31",
+   "last_inspection_date": "2018-06-07",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7557,6 +10283,16 @@
    "per_month": 6.17,
    "percentile": 26.3,
    "nearest_incident_m": 34
+  },
+  "inspection": {
+   "last_score": 83,
+   "last_score_date": "2019-03-01",
+   "last_inspection_date": "2025-02-06",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 78,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7579,6 +10315,16 @@
    "per_month": 6.59,
    "percentile": 28.2,
    "nearest_incident_m": 72
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2022-12-16",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7600,6 +10346,22 @@
    "per_month": 1.42,
    "percentile": 2.7,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-01",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
+  },
+  "menu_data": {
+   "url": "https://www.yelp.com/menu/fiddle-fig-cafe-and-coffee-san-francisco",
+   "items": 49,
+   "status": "ok",
+   "slug": "fiddle-fig-cafe"
   }
  },
  {
@@ -7644,6 +10406,16 @@
    "per_month": 8.01,
    "percentile": 37.3,
    "nearest_incident_m": 29
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-07-15",
+   "last_inspection_date": "2025-01-09",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7666,6 +10438,16 @@
    "per_month": 3.92,
    "percentile": 15.3,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-04-08",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 15,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7714,6 +10496,16 @@
    "per_month": 3.17,
    "percentile": 12.6,
    "nearest_incident_m": 22
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2018-08-02",
+   "last_inspection_date": "2025-08-04",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7736,6 +10528,16 @@
    "per_month": 4.17,
    "percentile": 16.4,
    "nearest_incident_m": 91
+  },
+  "inspection": {
+   "last_score": 92,
+   "last_score_date": "2019-04-25",
+   "last_inspection_date": "2025-06-11",
+   "violation_count_last": 8,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 90,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7758,6 +10560,16 @@
    "per_month": 5.59,
    "percentile": 22.3,
    "nearest_incident_m": 94
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-07-03",
+   "last_inspection_date": "2024-08-28",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 94,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7802,6 +10614,16 @@
    "per_month": 6.0,
    "percentile": 22.8,
    "nearest_incident_m": 35
+  },
+  "inspection": {
+   "last_score": 88,
+   "last_score_date": "2019-04-22",
+   "last_inspection_date": "2025-09-10",
+   "violation_count_last": 14,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 87,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7846,6 +10668,16 @@
    "per_month": 3.25,
    "percentile": 12.9,
    "nearest_incident_m": 18
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-05-14",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7890,6 +10722,16 @@
    "per_month": 1.5,
    "percentile": 3.2,
    "nearest_incident_m": 88
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2022-08-11",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7912,6 +10754,16 @@
    "per_month": 0.0,
    "percentile": 0.0,
    "nearest_incident_m": 164
+  },
+  "inspection": {
+   "last_score": 94,
+   "last_score_date": "2019-07-22",
+   "last_inspection_date": "2025-06-17",
+   "violation_count_last": 3,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7934,6 +10786,16 @@
    "per_month": 7.42,
    "percentile": 33.2,
    "nearest_incident_m": 33
+  },
+  "inspection": {
+   "last_score": 75,
+   "last_score_date": "2019-03-18",
+   "last_inspection_date": "2026-03-03",
+   "violation_count_last": 0,
+   "high_risk_count_all_time": 6,
+   "worst_score_all_time": 75,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7956,6 +10818,16 @@
    "per_month": 7.42,
    "percentile": 33.2,
    "nearest_incident_m": 41
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-04-10",
+   "last_inspection_date": "2025-09-10",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -7978,6 +10850,16 @@
    "per_month": 3.0,
    "percentile": 11.8,
    "nearest_incident_m": 13
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2018-05-30",
+   "last_inspection_date": "2025-01-03",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8000,6 +10882,16 @@
    "per_month": 0.0,
    "percentile": 0.0,
    "nearest_incident_m": 160
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-03-19",
+   "violation_count_last": 2,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8022,6 +10914,16 @@
    "per_month": 0.0,
    "percentile": 0.0,
    "nearest_incident_m": 204
+  },
+  "inspection": {
+   "last_score": 98,
+   "last_score_date": "2019-07-26",
+   "last_inspection_date": "2024-05-15",
+   "violation_count_last": 9,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 96,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8044,6 +10946,16 @@
    "per_month": 7.42,
    "percentile": 33.2,
    "nearest_incident_m": 19
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2026-02-17",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8088,6 +11000,16 @@
    "per_month": 6.0,
    "percentile": 22.8,
    "nearest_incident_m": 26
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2019-07-23",
+   "last_inspection_date": "2025-09-09",
+   "violation_count_last": 6,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 96,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8110,6 +11032,16 @@
    "per_month": 2.84,
    "percentile": 10.2,
    "nearest_incident_m": 90
+  },
+  "inspection": {
+   "last_score": 100,
+   "last_score_date": "2019-07-16",
+   "last_inspection_date": "2022-11-03",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8176,6 +11108,16 @@
    "per_month": 6.0,
    "percentile": 22.8,
    "nearest_incident_m": 63
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-05-29",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8198,6 +11140,16 @@
    "per_month": 8.76,
    "percentile": 43.4,
    "nearest_incident_m": 69
+  },
+  "inspection": {
+   "last_score": 89,
+   "last_score_date": "2019-04-15",
+   "last_inspection_date": "2025-09-08",
+   "violation_count_last": 1,
+   "high_risk_count_all_time": 5,
+   "worst_score_all_time": 89,
+   "match_confidence": "name-only",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8220,6 +11172,16 @@
    "per_month": 5.34,
    "percentile": 21.2,
    "nearest_incident_m": 35
+  },
+  "inspection": {
+   "last_score": 96,
+   "last_score_date": "2019-04-15",
+   "last_inspection_date": "2025-09-15",
+   "violation_count_last": 5,
+   "high_risk_count_all_time": 1,
+   "worst_score_all_time": 92,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8242,6 +11204,16 @@
    "per_month": 6.59,
    "percentile": 28.2,
    "nearest_incident_m": 30
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2017-07-11",
+   "last_inspection_date": "2025-04-01",
+   "violation_count_last": null,
+   "high_risk_count_all_time": 2,
+   "worst_score_all_time": 90,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8264,6 +11236,16 @@
    "per_month": 6.59,
    "percentile": 28.2,
    "nearest_incident_m": 27
+  },
+  "inspection": {
+   "last_score": null,
+   "last_score_date": null,
+   "last_inspection_date": "2025-04-01",
+   "violation_count_last": null,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": null,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  },
  {
@@ -8286,6 +11268,16 @@
    "per_month": 6.0,
    "percentile": 22.8,
    "nearest_incident_m": 34
+  },
+  "inspection": {
+   "last_score": 90,
+   "last_score_date": "2019-06-04",
+   "last_inspection_date": "2023-01-12",
+   "violation_count_last": 4,
+   "high_risk_count_all_time": 0,
+   "worst_score_all_time": 88,
+   "match_confidence": "name+address",
+   "dataset_range": "2016-10-04..2026-09-08"
   }
  }
 ]
