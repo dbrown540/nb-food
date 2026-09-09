@@ -1,0 +1,6 @@
+[out:json][timeout:{timeout}];
+(
+  nwr["amenity"~"^(restaurant|cafe|fast_food)$"]({bbox});
+  nwr["shop"~"^(supermarket|greengrocer|convenience|grocery|health_food|butcher|seafood|bakery|deli)$"]({bbox});
+);
+out center tags;
