@@ -1,0 +1,12 @@
+{
+ "name": "Tacorea",
+ "addr": "620 Broadway",
+ "menu_url": "https://tacorea.com/#menu-section",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "Squarespace page; menu section has no text (image/JS)",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

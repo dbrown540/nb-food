@@ -1,0 +1,283 @@
+{
+ "name": "Sotto Mare",
+ "addr": "552 Green Street",
+ "menu_url": "https://www.sottomaresf.com/menu",
+ "source": "restaurant website menu images (static.wixstatic.com 1.png / 2.png) read visually",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Oysters on Half Shell - West Coast (each)",
+   "price": 2.0,
+   "description": "East Coast $3.00"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Clams on Half Shell (each)",
+   "price": 1.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Oyster Shooter - West Coast",
+   "price": 3.5,
+   "description": "East Coast $4.50"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Clam Shooter",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Seafood Sausage",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Benita's Baccala",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Smoked Salmon",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Cold Cracked Dungeness Crab - half",
+   "price": null,
+   "description": "MP; whole MP"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Richie's Marinated Cold Cracked Crab - half",
+   "price": null,
+   "description": "MP"
+  },
+  {
+   "section": "Salads",
+   "item": "Crab Cocktail",
+   "price": 27.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Prawn Cocktail",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Bay Shrimp Cocktail",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Octopus Salad",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Crab Louis",
+   "price": 40.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Prawn Louis",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Bay Shrimp Louis",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Combo Louis",
+   "price": 36.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Blue Cheese Wedge",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Add bay shrimp",
+   "price": 8.0,
+   "description": "add prawns $14, salmon $16, crab $16"
+  },
+  {
+   "section": "Steamers (in broth)",
+   "item": "Mussels",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Steamers (in broth)",
+   "item": "Clams",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Steamers (in broth)",
+   "item": "Combo",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Clam Chowder",
+   "item": "New England Clam Chowder - cup",
+   "price": 9.0,
+   "description": "bowl $12.00; contains bacon"
+  },
+  {
+   "section": "Crab Diavolo (over linguine)",
+   "item": "Whole Crab / Half Crab",
+   "price": null,
+   "description": "MP"
+  },
+  {
+   "section": "Cioppino",
+   "item": "The Best Damn Crab Cioppino",
+   "price": 58.0,
+   "description": "half dungeness crab, mussels, clams, prawns, scallops, shrimp, calamari over penne; for two"
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Grilled Sand Dabs",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Grilled Petrale Sole",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Grilled Salmon",
+   "price": 33.0,
+   "description": ""
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Sea Scallop Saute",
+   "price": 35.0,
+   "description": "wild caught"
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Prawn Saute",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Prawn/Scallop Saute",
+   "price": 33.0,
+   "description": ""
+  },
+  {
+   "section": "Fish & Shellfish",
+   "item": "Calamari Saute",
+   "price": 30.0,
+   "description": "aglio olio or pomodoro"
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Risotto with Seafood",
+   "price": 35.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Lobster Ravioli",
+   "price": 32.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Linguine with Clams",
+   "price": 31.0,
+   "description": "white cream sauce"
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Fettuccine with Bay Scallops",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Fettuccine with Smoked Salmon",
+   "price": 32.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Linguine with Seafood",
+   "price": 33.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta & Risotto",
+   "item": "Fettuccine, Linguine or Penne (pesto/alfredo/aglio-olio/pomodoro) - whole",
+   "price": 18.0,
+   "description": "half $14.00"
+  },
+  {
+   "section": "To Take Home",
+   "item": "Clam Chowder or Pomodoro Sauce - pint",
+   "price": 14.0,
+   "description": "quart $20.00"
+  },
+  {
+   "section": "Drinks",
+   "item": "House wine glass",
+   "price": 10.0,
+   "description": "half carafe $25 / bottle $37"
+  },
+  {
+   "section": "Drinks",
+   "item": "Draft beer",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Soft drinks",
+   "price": 5.0,
+   "description": ""
+  }
+ ],
+ "notes": "4% surcharge. Two-way max split check. MP = market price (crab). Cioppino $58 is 'enough for two'. Fish & shellfish plates come with seasonal vegetables.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median of 17 prices in sections ['Fish & Shellfish', 'Pasta & Risotto', 'Steamers (in broth)']"
+}

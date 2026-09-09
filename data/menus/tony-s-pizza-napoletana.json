@@ -1,0 +1,12 @@
+{
+ "name": "Tony's Pizza Napoletana",
+ "addr": "1570 Stockton Street",
+ "menu_url": "https://tonyspizzanapoletana.com/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "site is bot-gated (captcha redirect)",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

@@ -1,0 +1,313 @@
+{
+ "name": "Mario's Bohemian Cigar Store Cafe",
+ "addr": "566 Columbus Avenue",
+ "menu_url": "https://mariosbohemian.com/menu.html",
+ "source": "restaurant website menu images (Menu2025.png, Menu20252.png) read visually",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Breakfast",
+   "item": "Breakfast Croissant",
+   "price": 9,
+   "description": "bacon/tomato/mozzarella, ham/tomato/swiss, or sausage/swiss"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Plain Croissant",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast",
+   "item": "Baked Eggs",
+   "price": 13,
+   "description": "marinara, 2 eggs, mozzarella; add bacon/meatballs/sausage +3"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Focaccia Basket",
+   "price": 9,
+   "description": "half $4.5"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Pizza Bread",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Cup of Olives",
+   "price": 3,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Mario's Salad",
+   "price": 15,
+   "description": "romaine, tomato, onion, olives, feta"
+  },
+  {
+   "section": "Salads",
+   "item": "Chicken Salad",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Tuna Salad",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 14,
+   "description": "white anchovy"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar with Chicken",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Caprese",
+   "price": 16,
+   "description": "add prosciutto +3"
+  },
+  {
+   "section": "Panini",
+   "item": "Chicken Panini",
+   "price": 15,
+   "description": "roasted tomato, pesto, pepper jack"
+  },
+  {
+   "section": "Panini",
+   "item": "Salame Panini",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Grilled Eggplant Panini",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Fresh Mozzarella Panini",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Prosciutto Panini",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Italian Sausage Pizza",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Grilled Eggplant Pizza",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Margarita Pizza",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Grilled Chicken #1",
+   "price": 18,
+   "description": "dijon, pepper jack, onions"
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Grilled Chicken #2",
+   "price": 18,
+   "description": "balsamic, feta, tomato, arugula"
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Sausage",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Meatball",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Breaded Eggplant",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Combo",
+   "price": 17.75,
+   "description": "ham, swiss, salami"
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Tuna",
+   "price": 17.5,
+   "description": "open face"
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Veggie",
+   "price": 17.5,
+   "description": "open face"
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Grilled Eggplant",
+   "price": 17.5,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Pastrami",
+   "price": 19.5,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Bacon Lettuce Tomato",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "1/2 Sandwich",
+   "price": 12.5,
+   "description": "open faced; not pastrami"
+  },
+  {
+   "section": "Oven Baked Sandwiches (focaccia)",
+   "item": "Add Bacon",
+   "price": 3,
+   "description": ""
+  },
+  {
+   "section": "Hot Dishes",
+   "item": "Cannelloni",
+   "price": 17,
+   "description": "roasted chicken, spinach, ricotta"
+  },
+  {
+   "section": "Hot Dishes",
+   "item": "Meat Lasagna",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Hot Dishes",
+   "item": "Eggplant Parmigiana",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Hot Dishes",
+   "item": "Polenta",
+   "price": 12,
+   "description": "with sausage $14"
+  },
+  {
+   "section": "Draught Beer",
+   "item": "Pint",
+   "price": 7,
+   "description": "$7-11; pitcher $26-30"
+  },
+  {
+   "section": "Wine",
+   "item": "House red / white glass",
+   "price": 11,
+   "description": "half carafe $30 / carafe $60"
+  },
+  {
+   "section": "Coffee",
+   "item": "Espresso",
+   "price": 3,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Americano",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cappuccino",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Latte",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Mocha",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Soft Drinks",
+   "item": "Soda",
+   "price": 4,
+   "description": ""
+  },
+  {
+   "section": "Soft Drinks",
+   "item": "Italian Soda",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "House Tiramisu",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Bundt cakes / cinnamon swirl",
+   "price": 7,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Carrot Cake",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Biscotti",
+   "price": 3,
+   "description": ""
+  }
+ ],
+ "notes": "Tax included in prices. Parties 5+ 20% gratuity. Focaccia sandwiches are the signature; chicken/tuna salads $16 are the leaner options. Coffee is Graffeo.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 28 prices in sections ['Oven Baked Sandwiches (focaccia)', 'Panini', 'Hot Dishes', 'Salads']"
+}

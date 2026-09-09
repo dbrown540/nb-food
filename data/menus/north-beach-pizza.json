@@ -1,0 +1,12 @@
+{
+ "name": "North Beach Pizza",
+ "addr": "1462 Grant Avenue",
+ "menu_url": "https://northbeachpizza.com/menu",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "site returns 403 to fetch; WebFetch content truncated before items. Homepage names Golden Gate pizza, lemon chicken, meatball sub (no prices).",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

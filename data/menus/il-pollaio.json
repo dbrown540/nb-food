@@ -1,0 +1,193 @@
+{
+ "name": "Il Pollaio",
+ "addr": "555 Columbus Avenue",
+ "menu_url": "https://www.ilpollaiosf.com/menu",
+ "source": "restaurant website (Squarespace menu page)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Grilled Chicken",
+   "item": "Chicken (whole) - alone",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Grilled Chicken",
+   "item": "Chicken (half) - alone",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Meats",
+   "item": "Hamburger",
+   "price": 17.0,
+   "description": "with salad or fries"
+  },
+  {
+   "section": "Meats",
+   "item": "Rib-Eye Steak",
+   "price": 39.0,
+   "description": ""
+  },
+  {
+   "section": "Meats",
+   "item": "Pork Chops with grilled onions",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Meats",
+   "item": "Half Rabbit",
+   "price": 40.0,
+   "description": ""
+  },
+  {
+   "section": "Meats",
+   "item": "Lamb Chop",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Soup",
+   "item": "Soup of the Day - bowl",
+   "price": 8.0,
+   "description": "cup $6.50; with meal bowl $6.50 / cup $5.00"
+  },
+  {
+   "section": "Salads",
+   "item": "Green",
+   "price": 9.5,
+   "description": "large $11.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Cole Slaw",
+   "price": 9.5,
+   "description": "large $11.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Bean",
+   "price": 9.5,
+   "description": "large $11.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Combination",
+   "price": 9.5,
+   "description": "large $11.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Add whole chicken breast to salad",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Tomato & Onion",
+   "price": 9.5,
+   "description": "large $11.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Mozzarella Caprese",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Anchovies",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 7.0,
+   "description": "large $9.50"
+  },
+  {
+   "section": "Sides",
+   "item": "Marinated Eggplant",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Italian Sausage (2)",
+   "price": 12.5,
+   "description": "mild or hot"
+  },
+  {
+   "section": "Sides",
+   "item": "Roasted Peppers",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Onions",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Steamed Potatoes with parsley & olive oil",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Almond Torte",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Daily Specials",
+   "item": "Half Chicken",
+   "price": 22.0,
+   "description": "with salad or fries"
+  },
+  {
+   "section": "Daily Specials",
+   "item": "3 Italian Sausages",
+   "price": 18.5,
+   "description": "with salad or fries"
+  },
+  {
+   "section": "Daily Specials",
+   "item": "Il Pollaio Hamburger with fries",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Daily Specials",
+   "item": "Il Pollaio Hamburger with salad",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Daily Specials",
+   "item": "Italian Chicken Breast Sandwich",
+   "price": 22.0,
+   "description": "with salad or fries"
+  },
+  {
+   "section": "Daily Specials",
+   "item": "Add cheddar",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Daily Specials",
+   "item": "Add grilled onions",
+   "price": 2.0,
+   "description": ""
+  }
+ ],
+ "notes": "Hours on menu page: Mon-Sat 11:30-2:30 & 4-9, closed Sun. Meats come with salad or fries. Half chicken alone $15 is the cheap-protein play.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 14 prices in sections ['Grilled Chicken', 'Meats', 'Daily Specials']"
+}

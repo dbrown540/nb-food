@@ -1,0 +1,307 @@
+{
+ "name": "Fiddle Fig Cafe",
+ "addr": "790 Lombard St (at Taylor)",
+ "menu_url": "https://www.yelp.com/menu/fiddle-fig-cafe-and-coffee-san-francisco",
+ "source": "Yelp menu page (aggregator with items + prices). Official site fiddlefigcafe.com redirects to Toast ordering (order.toasttab.com/online/fiddlefigcafe), which blocks automated fetch.",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Light Start",
+   "item": "Avocado Toast",
+   "price": 13.6,
+   "description": "ciabatta, everything seasoning"
+  },
+  {
+   "section": "Light Start",
+   "item": "Breakfast Sandwich",
+   "price": 13.6,
+   "description": "two eggs, ham, garlic aioli, biscuit"
+  },
+  {
+   "section": "Light Start",
+   "item": "Croissant Sandwich",
+   "price": 16.5,
+   "description": "scrambled eggs, ham, cheddar"
+  },
+  {
+   "section": "Light Start",
+   "item": "Salmon Breakfast Sandwich",
+   "price": 18.35,
+   "description": "salmon, eggs, avocado, cream cheese, ciabatta"
+  },
+  {
+   "section": "Light Start",
+   "item": "Breakfast Burrito",
+   "price": 17.75,
+   "description": "eggs, tater tots, avocado, cheddar"
+  },
+  {
+   "section": "Light Start",
+   "item": "Chorizo Breakfast Burrito",
+   "price": 20.25,
+   "description": ""
+  },
+  {
+   "section": "Light Start",
+   "item": "Tuna Toast",
+   "price": 15.2,
+   "description": "tuna, celery, mayo, pickles"
+  },
+  {
+   "section": "Bowls",
+   "item": "Greek Yogurt Bowl",
+   "price": 15.2,
+   "description": "0% greek yogurt, granola, fruit"
+  },
+  {
+   "section": "Bowls",
+   "item": "Acai Bowl",
+   "price": 16.45,
+   "description": ""
+  },
+  {
+   "section": "Bowls",
+   "item": "Overnight Oats",
+   "price": 16.45,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Chicken Sandwich",
+   "price": 19.25,
+   "description": "rotisserie chicken, swiss, garlic aioli, ciabatta"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Veggie Sandwich",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Cubano Sandwich",
+   "price": 17.8,
+   "description": "ham, salami, swiss"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Fiddle Fig Special Sandwich",
+   "price": 22.8,
+   "description": "pastrami or rotisserie chicken"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Tuna Melt",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Bagels",
+   "item": "Signature Bagel",
+   "price": 16.5,
+   "description": "egg, meat, cheddar, cream cheese"
+  },
+  {
+   "section": "Bagels",
+   "item": "Smoked Salmon Bagel",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Bagels",
+   "item": "Cream Cheese Bagel",
+   "price": 10.2,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Grilled Veggie Salad",
+   "price": 17.75,
+   "description": "feta, beets; add chicken or avocado"
+  },
+  {
+   "section": "Salads",
+   "item": "Quinoa Salad",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Kouign Amann (hazelnut / seasonal fruit)",
+   "price": 7.6,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Coffee Cake Cherry Almond",
+   "price": 7.3,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Banana Bread (GF)",
+   "price": 8.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Butter Croissant",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate / Almond Croissant",
+   "price": 7.3,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Blueberry Muffin",
+   "price": 7.3,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Morning Bun",
+   "price": 7.3,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Coffee",
+   "price": 5.1,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Iced Coffee or Cold Brew",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Americano",
+   "price": 6.35,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cappuccino",
+   "price": 7.3,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Latte",
+   "price": 7.9,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Espresso Tonic",
+   "price": 8.85,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Mocha",
+   "price": 8.85,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Flat White",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cortado",
+   "price": 6.35,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cafe au Lait",
+   "price": 6.35,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Hot Chocolate",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Affogato",
+   "price": 10.75,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Seasonal lattes (pumpkin, maple pecan)",
+   "price": 8.85,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "Matcha Latte",
+   "price": 7.9,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "Chai Latte",
+   "price": 7.9,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "Hojicha Latte",
+   "price": 7.9,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "London Fog",
+   "price": 7.9,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "Iced Green / Black Tea",
+   "price": 6.35,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "Hot Tea",
+   "price": 5.1,
+   "description": ""
+  },
+  {
+   "section": "Teas",
+   "item": "Mango Matcha",
+   "price": 8.85,
+   "description": ""
+  },
+  {
+   "section": "Shakes & Juice",
+   "item": "Fruit Coconut Milk Shake",
+   "price": 10.15,
+   "description": ""
+  },
+  {
+   "section": "Shakes & Juice",
+   "item": "Orange Juice (fresh squeezed)",
+   "price": 11.4,
+   "description": ""
+  }
+ ],
+ "notes": "Prices are the Yelp listing; Toast/in-store may differ — verify. Hours per Yelp: M-Th 8-4, F-Su 8-5. Protein picks: Tuna Toast $15.20, Chicken Sandwich $19.25, Greek Yogurt Bowl $15.20.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 20 prices in sections ['Light Start', 'Sandwiches', 'Bowls', 'Salads', 'Bagels']"
+}

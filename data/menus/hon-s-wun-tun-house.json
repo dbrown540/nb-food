@@ -1,0 +1,919 @@
+{
+ "name": "Hon's Wun-Tun House",
+ "addr": "733 Washington Street",
+ "menu_url": "https://www.honswuntunsf.com/_files/ugd/0302fc_e03ec16294da4a90865054289b1c2ab7.pdf",
+ "source": "restaurant website (honswuntunsf.com) Washington St dine-in PDF menu, 2025 edition (pdftotext)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Plain Congee or Chinese Doughnut",
+   "price": 5.95,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Pork & Preserved Egg Congee",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Pork Liver & Kidney Congee",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Seafood Congee",
+   "price": 11.5,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Pork Bone & Vegetable Congee",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Gingko & Pork Stomach Congee",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Beef & Raw Egg Congee",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Pork & Liver Congee",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Congee (9am-3pm)",
+   "item": "Combination Congee",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "Plain Rice Roll",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "Pork, Corn & Egg Rice Roll",
+   "price": 8.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "Beef & Cilantro Rice Roll",
+   "price": 8.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "Shrimp & Yellow Chives Rice Roll",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "BBQ Pork Rice Roll",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "Dried Shrimp Rice Roll",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Rice Roll (9am-3pm)",
+   "item": "Chinese Doughnut Rice Roll",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Soup",
+   "item": "Hot & Sour Soup - cup",
+   "price": 6.95,
+   "description": "bowl $14.95"
+  },
+  {
+   "section": "Soup",
+   "item": "Chicken Sweet Corn Soup - cup",
+   "price": 6.95,
+   "description": "bowl $14.95"
+  },
+  {
+   "section": "Soup",
+   "item": "Westlake Minced Beef Soup - cup",
+   "price": 7.5,
+   "description": "bowl $16.95"
+  },
+  {
+   "section": "Soup",
+   "item": "Seafood Tofu Soup - cup",
+   "price": 7.5,
+   "description": "bowl $16.95"
+  },
+  {
+   "section": "Soup",
+   "item": "Wor Wun-Tun Soup",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Five Spices Tea Eggs (3)",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Egg Rolls (3)",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Salt & Pepper Fish Fillet",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Marinated Seaweed",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Salt & Pepper Tofu",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Pan Fried Potsticker (6)",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Marinated Beef with Spicy Sauce (cold)",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Salt & Pepper Chicken Wings (6)",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Salt & Pepper Calamari",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Cucumber Salad with Peanuts",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Curry Fish Ball",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Green Onion Pancake",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Signature Wuntun Noodle Soup",
+   "price": 13.95,
+   "description": "shrimp wontons; noodle or rice noodle"
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Mushroom & Bamboo Shoot Dumpling Noodle Soup",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Brisket & Wuntun Noodle Soup",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tendon Noodle Soup",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Snow Cabbage & Shredded Pork Noodle Soup",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Spicy Shredded Pork over Noodles",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Brisket & Curry Sauce Noodle Soup",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Pig's Feet Noodle Soup",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "BBQ Pork Wuntun Noodle Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Fish Ball & Dumpling Noodle Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Pickled String Bean & Minced Pork Rice Noodle",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Seaweed & Dried Shrimp Wuntun Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Sichuan Spicy Beef Rice Noodle Soup",
+   "price": 17.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Offal Wuntun Noodle Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Satay Prawns & Beef Ball Rice Noodle Soup",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Satay Seafood Rice Noodle Soup",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Soup Dumplings",
+   "item": "Shanghai Soup Dumplings (6)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Soup Dumplings",
+   "item": "Spicy Pork Soup Dumplings (6)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Soup Dumplings",
+   "item": "Shanghai Soup Dumpling with Crab Meat (6)",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Soup Dumplings",
+   "item": "Shanghai Pan-fried Soup Dumplings (6)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Sichuan Spicy Wuntun (10)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Sichuan Spicy Dumplings (8)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Green Chives & Pork Dumplings (12)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Corn, Mushroom & Chicken Dumplings (12)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Cabbage & Pork Dumplings (12)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Green Chives, Pork & Shrimp Dumplings (12)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Shepherd's Purse Pork Dumplings (12)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Vegetarian Dumplings (8)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Beef & Carrot Dumplings (12)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Mushroom Beef with Maggie Sauce",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Honey Walnut Prawns",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Braised Fish with Tofu in Clay Pot",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Braised Seafood with Tofu in Clay Pot",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Honey Spareribs",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Princess Chicken (half, cold)",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Prawns & Pumpkin with Salted Egg Yolk",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "White Pepper Pickles & Pork Stomach Soup",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Black Pepper & Onion Beef Steak Cube",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Fried Pork Intestine with Chili Pepper",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Salt & Pepper Shrimp",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Stir-Fried Beef Cube w/ XO Sauce",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Sauteed Prawns w/ XO Sauce",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Stir Fried Pork Tripe w/ Chili Pepper",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Specials",
+   "item": "Clams (black bean / garlic butter / sake)",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Beef Stir-Fried with Bitter Melon",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Mongolian Beef",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Kung Pao Chicken",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Sweet & Sour Chicken",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Salt & Pepper / Sweet & Sour Pork Spareribs",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Sweet Peas & Chicken/Beef w/ Black Pepper",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Salt Fish & Beancurd in Clay Pot",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Stir Fried Fish Ball w/ Chinese Broccoli",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Sauteed Calamari w/ XO Sauce",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Beef Brisket with Curry Sauce",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Kung Pao Prawn",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Broccoli Beef",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Salted Fish & Eggplant in Clay Pot",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Family Style",
+   "item": "Chicken w/ Cashew Nuts",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Stir-Fried Chinese Vegetables w/ Garlic",
+   "price": 14.95,
+   "description": "yu choy / gai lan / baby bok choy"
+  },
+  {
+   "section": "Vegetable",
+   "item": "Pea Shoots with Garlic",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Watercress and Fish Ball in Clay Pot",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Seasonal Vegetables with Supreme Broth",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Sauteed String Beans",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Sauteed Eggplant with Garlic Sauce",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Mix Vegetable Deluxe",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Mapo Tofu",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Braised Tofu",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "String Beans & Eggplant w/ Garlic",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Combination Chow Mein",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Soy Sauce Chow Mein (veg)",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Shrimp Chow Mein",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Seafood Chow Mein",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Mixed Veg / Chicken / Beef / BBQ Pork Chow Mein",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Beef Brisket Lo Mein",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Beef Tendon Lo Mein",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Hometown Style Stir-Fried Vermicelli",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Seafood Noodle w/ Garlic & Butter Sauce",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Beef & Tomato Pan-Fried Noodle",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Beef Chow Fun",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Beef Chow Fun with Black Bean Sauce",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Shredded Pork & Mushroom Vermicelli",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Singapore Style Stir-Fried Vermicelli",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Beef & Bitter Melon Pan-Fried Vermicelli",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Seafood Pan-Fried Noodle/Vermicelli",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Chef's Special Fried Rice",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Special Beef Fried Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Pineapple Shrimp Fried Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Seafood Fried Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Chicken Cashew Nuts Fried Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Salted Fish Chicken Fried Rice",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Yang Chow Fried Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Combination Fried Rice",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Dried Scallop & Egg White Fried Rice",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Hokkien Style Fried Rice with Gravy",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Minced Beef & Raw Egg with Rice",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Curry Beef with Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef Brisket & Vegetable with Rice",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef & Tofu with Rice",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Chicken & Mixed Vegetable with Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Seasonal Vegetable & Shrimp with Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Mongolian Beef with Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Kung Pao Chicken with Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Sweet & Sour Chicken with Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Sweet & Sour Spareribs with Rice",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Mapo Tofu with Rice (veg)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Kung Pao Shrimp with Rice",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Red Bean Sweet Soup",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Deep Fried Steamed Bun",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Coconut Sago",
+   "price": 5.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Mango Pudding",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Hong Kong Style Milk Tea",
+   "price": 4.95,
+   "description": "iced $5.50"
+  },
+  {
+   "section": "Drinks",
+   "item": "Coffee",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Fresh Soymilk",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Soda",
+   "price": 2.75,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Jasmine Tea (pot)",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Frozen (take home)",
+   "item": "Frozen Handmade Wuntun (20)",
+   "price": 15.0,
+   "description": "30 for $21"
+  },
+  {
+   "section": "Frozen (take home)",
+   "item": "Frozen Handmade Dumpling (16)",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Frozen (take home)",
+   "item": "Hon's Uncooked Noodle (bag)",
+   "price": 6.95,
+   "description": ""
+  }
+ ],
+ "notes": "Menu marked 2025. Congee + rice rolls served 9am-3pm only. OSM website honswuntunhouse-sf.com does not resolve; honswuntunsf.com is live. Wonton noodle soup $13.95 and congee ~$10 are the cheap-protein anchors.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 66 prices in sections ['Noodle Soup', 'Rice Plates', 'Family Style', \"Chef's Specials\", 'Congee (9am-3pm)']"
+}

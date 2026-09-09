@@ -1,0 +1,12 @@
+{
+ "name": "Don Pistos",
+ "addr": "510 Union Street",
+ "menu_url": "https://www.donpistos.com/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "site is a JS redirect to /lander with no content",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

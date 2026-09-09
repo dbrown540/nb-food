@@ -1,0 +1,12 @@
+{
+ "name": "Il Casaro Pizzeria",
+ "addr": "348 Columbus Avenue",
+ "menu_url": "https://www.ilcasaropizzeria.com/menu",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "Wix menu widget not server-rendered; Toast ordering blocks fetch (403)",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

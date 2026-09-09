@@ -1,0 +1,127 @@
+{
+ "name": "Kam Po Kitchen",
+ "addr": "801 Broadway",
+ "menu_url": "https://www.yelp.com/menu/kam-po-kitchen-san-francisco",
+ "source": "Yelp menu page (aggregator; summarized by fetch tool — variant dishes collapsed). Official site kampokitchen.shop returns 404.",
+ "as_of": "2026-09-09",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Porridge",
+   "item": "Combo / Seafood / Fish / Frog / Preserved Egg & Pork Bone Porridge",
+   "price": 11.6,
+   "description": "large size"
+  },
+  {
+   "section": "Fried Meat Dishes",
+   "item": "Beef Fried Bitter Melon",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Fried Meat Dishes",
+   "item": "Salt and Pepper Pork Chop",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Fried Meat Dishes",
+   "item": "Pork Chop with Black Pepper",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Fried Meat Dishes",
+   "item": "Ginger & Green Onion Fried Pork Tripe",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Fried Meat Dishes",
+   "item": "Beef Stew with Lettuce",
+   "price": 18.99,
+   "description": ""
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Combination Pan Fried Noodle",
+   "price": 14.99,
+   "description": "shrimp, chicken, BBQ pork"
+  },
+  {
+   "section": "Chow Fun / Mein",
+   "item": "Seafood Chow Mein",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef Fried Bitter Melon over Rice",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Black Pepper Beef over Rice",
+   "price": 13.99,
+   "description": "chicken or pork variants"
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Curry Beef over Rice",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Tomato Beef over Rice",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Pork Rib Fried Bitter Melon over Rice",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef & Scrambled Egg over Rice",
+   "price": 13.99,
+   "description": "chicken/shrimp/fish variants"
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Salt and Pepper Pork Chop over Rice",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Lettuce with Oyster Sauce",
+   "price": 16.99,
+   "description": "or chinese broccoli"
+  },
+  {
+   "section": "Vegetables",
+   "item": "Fried Vegetables with Garlic",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Mustard Green in Broth",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Barbecue",
+   "item": "Roast Pork (one order)",
+   "price": 26.0,
+   "description": ""
+  }
+ ],
+ "notes": "Cash only, 8am-6pm daily (curated). Yelp menu is a subset; BBQ counter per-pound prices not captured. Rice plates $13.99 are the protein-per-dollar option.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 14 prices in sections ['Rice Plates', 'Fried Meat Dishes', 'Chow Fun / Mein']"
+}

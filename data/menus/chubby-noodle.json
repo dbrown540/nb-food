@@ -1,0 +1,12 @@
+{
+ "name": "Chubby Noodle",
+ "addr": "570 Green Street",
+ "menu_url": "https://www.chubbynoodle.com/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "Wix site with no menu text; OSM /north-beach URL 404s",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

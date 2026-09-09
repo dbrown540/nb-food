@@ -1,0 +1,12 @@
+{
+ "name": "Gourmet Delight B.B.Q.",
+ "addr": "1045 Stockton Street",
+ "menu_url": "https://www.allmenus.com/ca/san-francisco/478641-gourmet-delight/menu/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "only aggregator found (allmenus) shows implausibly stale per-lb prices (soy sauce chicken $2.90/lb) — not trusted; Yelp menu blocked",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

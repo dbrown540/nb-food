@@ -1,0 +1,187 @@
+{
+ "name": "Flour + Water Pizzeria",
+ "addr": "532 Columbus Avenue",
+ "menu_url": "https://www.fwpizzeria.com/menu",
+ "source": "restaurant website menu image (Squarespace CDN 'Food Menu 7 23 26.jpg') read visually",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Castelvetrano Olives",
+   "price": 11,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "White Beans + Celery",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Heirloom Tomatoes",
+   "price": 18,
+   "description": "stracciatella"
+  },
+  {
+   "section": "Starters",
+   "item": "Tuna Crudo",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Prosciutto di Parma",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Calabrian Chicken Wings",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Ricotta Meatballs",
+   "price": 19,
+   "description": "beef, pork, marinara"
+  },
+  {
+   "section": "Starters",
+   "item": "Corn Riblets",
+   "price": 15,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Mozz Sticks + Marinara",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar",
+   "price": 16,
+   "description": "little gems"
+  },
+  {
+   "section": "Salads",
+   "item": "The Chop",
+   "price": 16,
+   "description": "chickpeas, pepperoncini, salumi, provolone"
+  },
+  {
+   "section": "Salads",
+   "item": "Add Chicken",
+   "price": 6,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Margherita",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Burrata",
+   "price": 23,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Pepperoni",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Smoky Eggplant",
+   "price": 23,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Vegan",
+   "price": 22,
+   "description": "tofu burrata"
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Hawaiian",
+   "price": 24,
+   "description": "capicola, pineapple"
+  },
+  {
+   "section": "Pizza - Red Pie",
+   "item": "Meatza",
+   "price": 25,
+   "description": "pepperoni, sausage, guanciale"
+  },
+  {
+   "section": "Pizza - White Pie",
+   "item": "Sungold",
+   "price": 23,
+   "description": ""
+  },
+  {
+   "section": "Pizza - White Pie",
+   "item": "Cacio e Pepe",
+   "price": 23,
+   "description": ""
+  },
+  {
+   "section": "Pizza - White Pie",
+   "item": "Pesto",
+   "price": 22,
+   "description": ""
+  },
+  {
+   "section": "Pizza - White Pie",
+   "item": "The Conrad",
+   "price": 24,
+   "description": "taleggio, mushrooms, kale"
+  },
+  {
+   "section": "Pizza - White Pie",
+   "item": "Sausage",
+   "price": 24,
+   "description": "fennel pork sausage, broccolini"
+  },
+  {
+   "section": "Pizza - White Pie",
+   "item": "Jersey Carbonara",
+   "price": 25,
+   "description": "pork roll, two eggs"
+  },
+  {
+   "section": "Pizza - Add-ons",
+   "item": "Pickled jalapenos / hot honey / calabrian chili",
+   "price": 2,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Add-ons",
+   "item": "Mushrooms / white anchovies",
+   "price": 4,
+   "description": ""
+  },
+  {
+   "section": "Pizza - Add-ons",
+   "item": "Sausage / pepperoni / prosciutto / burrata",
+   "price": 5,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Soft Serve Ice Cream",
+   "price": 8,
+   "description": "vanilla, salted caramel, swirl; toppings +1.5"
+  }
+ ],
+ "notes": "Menu image dated 7/23/26. 6.5% SF mandate charge. Sicilian 8in square GF option +2. Add chicken to salad +6.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median of 13 prices in sections ['Pizza - Red Pie', 'Pizza - White Pie']"
+}

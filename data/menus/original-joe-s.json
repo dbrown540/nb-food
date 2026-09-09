@@ -1,0 +1,481 @@
+{
+ "name": "Original Joe's",
+ "addr": "601 Union Street",
+ "menu_url": "https://originaljoes.com/northbeach/menu",
+ "source": "restaurant website PDFs: /s/OJNB_DinnerMenu_6226.pdf (Dinner Summer 2026) and /s/OJNB_LunchMenu_6226.pdf (Lunch Summer 2025)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Caesar Salad",
+   "price": 16.95,
+   "description": "add dungeness crab +14"
+  },
+  {
+   "section": "Starters",
+   "item": "House Salad",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Iceberg Wedge",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Heirloom Tomato Caprese",
+   "price": 19.95,
+   "description": "add prosciutto +8"
+  },
+  {
+   "section": "Starters",
+   "item": "Prosciutto & Burrata",
+   "price": 23.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Beef Carpaccio",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Dungeness Crab Cocktail",
+   "price": 32.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Jumbo Prawn Cocktail",
+   "price": 23.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Antipasto Platter",
+   "price": 34.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Spinach Artichoke Dip",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Arancini",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Joe's Meatballs",
+   "price": 19.95,
+   "description": "whipped ricotta"
+  },
+  {
+   "section": "Starters",
+   "item": "Fried Calamari",
+   "price": 24.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Fritto Misto",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Dungeness Crab Cake",
+   "price": 26.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Garlic Bread",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Truffle Fries",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Minestrone / New England Clam Chowder - cup",
+   "price": 7.95,
+   "description": "bowl $9.95"
+  },
+  {
+   "section": "Entree Salads",
+   "item": "Classic Cobb",
+   "price": 23.95,
+   "description": "roasted chicken, bacon, egg, avocado, blue cheese; lunch $21.95"
+  },
+  {
+   "section": "Entree Salads",
+   "item": "Dungeness Crab Louie",
+   "price": 36.95,
+   "description": ""
+  },
+  {
+   "section": "Entree Salads",
+   "item": "Joe's Italian Chopped",
+   "price": 21.95,
+   "description": "salami, garbanzo, provolone; lunch $19.95"
+  },
+  {
+   "section": "Entree Salads",
+   "item": "Chicken Caesar",
+   "price": 21.95,
+   "description": "lunch $19.95"
+  },
+  {
+   "section": "Sandwiches (lunch)",
+   "item": "Reuben",
+   "price": 18.95,
+   "description": "with side"
+  },
+  {
+   "section": "Sandwiches (lunch)",
+   "item": "Bay Shrimp & Avocado Sandwich",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches (lunch)",
+   "item": "B.L.A.T.",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches (lunch)",
+   "item": "Crispy Parmesan Chicken & Arugula",
+   "price": 27.95,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches (lunch)",
+   "item": "Fish & Chips (Friday lunch special)",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "House Specialties",
+   "item": "Joe's Famous Hamburger Sandwich",
+   "price": 25.95,
+   "description": "sourdough roll, fries; add cheese +3"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Joe's Prime Rib Dip",
+   "price": 29.95,
+   "description": "au jus, fries"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Joe's Special",
+   "price": 24.95,
+   "description": "scramble of ground beef, spinach, onions, eggs"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Joe's Slow Roasted Prime Rib",
+   "price": 58.95,
+   "description": "mashed, creamed spinach"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Joe's Eggplant Parmigiana",
+   "price": 29.95,
+   "description": ""
+  },
+  {
+   "section": "House Specialties",
+   "item": "House Made Baked Lasagna",
+   "price": 29.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "14 oz New York",
+   "price": 62.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "16 oz Ribeye",
+   "price": 64.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "24 oz Porterhouse",
+   "price": 68.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "8 oz Filet Mignon",
+   "price": 62.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "10 oz Steak a la Bruno",
+   "price": 38.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Lamb Chops (4)",
+   "price": 48.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Berkshire Pork Chop",
+   "price": 42.95,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Tomahawk Ribeye 36oz (serves two)",
+   "price": 142.95,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Filet of Sole Piccata",
+   "price": 34.95,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Joe's Filet of Sole",
+   "price": 34.95,
+   "description": "egg dipped, pan seared"
+  },
+  {
+   "section": "Seafood",
+   "item": "Charbroiled Salmon",
+   "price": 38.95,
+   "description": "lemon beurre blanc"
+  },
+  {
+   "section": "Seafood",
+   "item": "Golden Fried Prawns",
+   "price": 31.95,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Whole Branzino",
+   "price": 44.95,
+   "description": "wood fired"
+  },
+  {
+   "section": "Chicken",
+   "item": "Chicken Piccata",
+   "price": 35.95,
+   "description": ""
+  },
+  {
+   "section": "Chicken",
+   "item": "Chicken Scallopini Saute",
+   "price": 35.95,
+   "description": ""
+  },
+  {
+   "section": "Chicken",
+   "item": "Chicken Marsala",
+   "price": 35.95,
+   "description": ""
+  },
+  {
+   "section": "Chicken",
+   "item": "Chicken Milanese",
+   "price": 35.95,
+   "description": ""
+  },
+  {
+   "section": "Chicken",
+   "item": "Chicken Dirty Saltimbocca",
+   "price": 38.95,
+   "description": ""
+  },
+  {
+   "section": "Chicken",
+   "item": "Chicken Parmigiana",
+   "price": 37.95,
+   "description": ""
+  },
+  {
+   "section": "Chicken",
+   "item": "Prosciutto Spicy Vodka Parmigiana",
+   "price": 43.95,
+   "description": ""
+  },
+  {
+   "section": "Veal",
+   "item": "Veal Piccata",
+   "price": 39.95,
+   "description": ""
+  },
+  {
+   "section": "Veal",
+   "item": "Veal Scallopini Saute",
+   "price": 39.95,
+   "description": ""
+  },
+  {
+   "section": "Veal",
+   "item": "Veal Marsala",
+   "price": 39.95,
+   "description": ""
+  },
+  {
+   "section": "Veal",
+   "item": "Veal Milanese",
+   "price": 39.95,
+   "description": ""
+  },
+  {
+   "section": "Veal",
+   "item": "Veal Dirty Saltimbocca",
+   "price": 42.95,
+   "description": ""
+  },
+  {
+   "section": "Veal",
+   "item": "Veal Parmigiana",
+   "price": 42.95,
+   "description": ""
+  },
+  {
+   "section": "Dinner Specials",
+   "item": "Pan Roasted Brick Chicken",
+   "price": 36.95,
+   "description": ""
+  },
+  {
+   "section": "Dinner Specials",
+   "item": "Red Wine Braised Short Rib",
+   "price": 44.95,
+   "description": ""
+  },
+  {
+   "section": "Dinner Specials",
+   "item": "Seared Day Boat Scallops with Risotto",
+   "price": 44.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Joe's House Made Ravioli",
+   "price": 26.95,
+   "description": "beef & spinach, meat sauce; add chicken +7 / prawns +9"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti and Meatballs",
+   "price": 27.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Linguine Pesto",
+   "price": 27.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Alfredo",
+   "price": 25.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Marry Me Farfalle",
+   "price": 30.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Joe's Spicy Rigatoni",
+   "price": 30.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Shrimp Scampi",
+   "price": 30.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Linguine and Clams",
+   "price": 29.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Joe's House Made Ravioli (side)",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Spaghetti (side)",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Loaded Baked Potato",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Mashed Potatoes",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 8.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Seasonal Vegetable",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Creamed Spinach",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sauteed Spinach",
+   "price": 10.95,
+   "description": ""
+  }
+ ],
+ "notes": "6% surcharge on all sales. Meat/chicken/fish dishes include choice of side (spaghetti, ravioli, fries, mashed). Lunch adds sandwiches + Friday fish & chips. Prices identical dinner/lunch except Cobb ($23.95 dinner / $21.95 lunch) and chopped/chicken caesar ($21.95 / $19.95).",
+ "price_level_estimate": 4,
+ "price_level_basis": "median of 40 prices in sections ['Seafood', 'Chicken', 'Veal', 'Pasta', 'House Specialties', 'Steaks & Chops']"
+}

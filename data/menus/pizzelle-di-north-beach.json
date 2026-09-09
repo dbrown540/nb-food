@@ -1,0 +1,523 @@
+{
+ "name": "Pizzelle di North Beach",
+ "addr": "314 Columbus Avenue",
+ "menu_url": "https://www.pizzelle314.com/menu",
+ "source": "restaurant website (menu page)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Pizza by the Slice",
+   "item": "Cheese Slice",
+   "price": 5.07,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "Pesto Slice",
+   "price": 4.6,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "Pepperoni Slice",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "Hawaiian Slice",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "Pesto & Mushrooms Slice",
+   "price": 5.39,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "BBQ Chicken Slice",
+   "price": 5.39,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "Supreme Combo Slice",
+   "price": 5.39,
+   "description": ""
+  },
+  {
+   "section": "Pizza by the Slice",
+   "item": "Veggie Slice",
+   "price": 5.39,
+   "description": ""
+  },
+  {
+   "section": "Create Your Own Pizza",
+   "item": "Small Cheese Pizza",
+   "price": 16.99,
+   "description": "M $19.99 / L $23.49 / XL $25.49; toppings $1.50"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Pizzelle Special",
+   "price": 21.75,
+   "description": "M $25.75 / L $30.75 / XL $32.75"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "North Beach Special",
+   "price": 21.75,
+   "description": "pepperoni, mushrooms, garlic, sausage"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "San Francisco Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Madrid Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Venice Special",
+   "price": 21.75,
+   "description": "pesto, veg, no tomato sauce"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Margarita Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Texan Special",
+   "price": 21.75,
+   "description": "BBQ chicken, bacon"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Acapulco Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Hawaiian Special",
+   "price": 18.99,
+   "description": "M $21.99 / L $25.99 / XL $28.99"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Vegetarian Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Halal Special",
+   "price": 23.85,
+   "description": "M $26.85 / L $29.85 / XL $32.85"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "White Sauce Special",
+   "price": 23.85,
+   "description": "ranch, chicken, feta"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Greco Verdi",
+   "price": 23.85,
+   "description": "pesto, chicken, spinach, feta"
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Sweet and Spicy Special",
+   "price": 23.85,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Artichoke Brooklyn Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Pesto Chicken Special",
+   "price": 23.85,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Basic Italiano Special",
+   "price": 23.85,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (12in small)",
+   "item": "Four Cheese Special",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Specialty Pizza (XL only)",
+   "item": "Big Boy Special",
+   "price": 45.99,
+   "description": ""
+  },
+  {
+   "section": "Calzones",
+   "item": "Create Your Own Calzone",
+   "price": 20.99,
+   "description": "toppings $2.50"
+  },
+  {
+   "section": "Calzones",
+   "item": "Calzone di North Beach",
+   "price": 30.99,
+   "description": ""
+  },
+  {
+   "section": "Calzones",
+   "item": "Meat Lover Calzone",
+   "price": 30.99,
+   "description": ""
+  },
+  {
+   "section": "Calzones",
+   "item": "All Veggie Calzone",
+   "price": 32.99,
+   "description": ""
+  },
+  {
+   "section": "Calzones",
+   "item": "Pesto & Chicken Calzone",
+   "price": 28.49,
+   "description": ""
+  },
+  {
+   "section": "Calzones",
+   "item": "Hawaiian Calzone",
+   "price": 25.99,
+   "description": ""
+  },
+  {
+   "section": "Calzones",
+   "item": "Ricotta & Spinach Calzone",
+   "price": 29.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 8.49,
+   "description": "add grilled chicken $4.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Crispy Chicken Salad",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Greca Salad",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Chef Salad",
+   "price": 11.99,
+   "description": "salami, ham, mozzarella"
+  },
+  {
+   "section": "Salads",
+   "item": "Salmon Salad",
+   "price": 18.99,
+   "description": "1/2 lb grilled salmon fillet"
+  },
+  {
+   "section": "Salads",
+   "item": "Grilled Chicken Caesar Salad",
+   "price": 13.99,
+   "description": "8 oz grilled chicken breast"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 9.75,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Small House Salad",
+   "price": 5.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fried Spicy Chicken Wings (6)",
+   "price": 9.99,
+   "description": "9 $11.99 / 12 $13.99 / 20 $23.99 / 30 $32.99"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mozzarella Cheese Sticks (6)",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Jalapeno Poppers (6)",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Wings and Fries Combo",
+   "price": 14.49,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Strips and Fries Combo",
+   "price": 14.75,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crispy Chicken Strips (5)",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Appetizer Combo",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "French Fries",
+   "price": 5.39,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Dallas Cheese Fries",
+   "price": 11.75,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fish & Chips",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Bowl of Meatballs (4)",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Big Bowl of Meatballs (8)",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Bread",
+   "price": 5.75,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Cheese Garlic Bread",
+   "price": 6.85,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Pesto Garlic Bread",
+   "price": 8.99,
+   "description": ""
+  },
+  {
+   "section": "Cheese Bread Rolls",
+   "item": "Cheese Bread Roll",
+   "price": 5.99,
+   "description": ""
+  },
+  {
+   "section": "Cheese Bread Rolls",
+   "item": "Pepperoni Cheese Bread",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "Cheese Bread Rolls",
+   "item": "Bacon & Jalapeno Cheese Bread",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Cheese Bread Rolls",
+   "item": "Pesto Veggie Cheese Bread",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Cheese Bread Rolls",
+   "item": "Chicken BBQ Cheese Bread",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Marinara Pasta",
+   "price": 16.49,
+   "description": "spaghetti/fettuccine/penne; add chicken/bacon/meatballs $3"
+  },
+  {
+   "section": "Pasta",
+   "item": "Alfredo Pasta",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Aglio and Olio Pasta",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Bolognese Pasta",
+   "price": 18.99,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Pesto Pasta",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Salmon and Mushrooms Pasta",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Housemade Meat Lasagna",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Housemade Veggie Lasagna",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Entrees",
+   "item": "Chicken Parmigiana",
+   "price": 22.99,
+   "description": "with bread and 2 sides"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Hamburger and Fries",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Double Burger",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "The Big Burger",
+   "price": 15.99,
+   "description": "3 patties"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Philly Cheese Steak with Fries",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Chicken Parmesan Sandwich and fries",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Italian Meatball Sandwich",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Grilled Chicken Breast Sandwich and Fries",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Pesto Veggie Sandwich",
+   "price": 12.49,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Chocolate Cake",
+   "price": 4.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "New York Style Cheesecake",
+   "price": 4.99,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Soft Drink (can)",
+   "price": 2.29,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Bottled Water",
+   "price": 1.85,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Beer (bottle)",
+   "price": 5.99,
+   "description": ""
+  }
+ ],
+ "notes": "Specialty pizzas listed at 12in small price; M/L/XL in description. Salads with real protein (8oz chicken caesar $13.99, salmon salad $18.99) are the value plays. Open late Thu-Sat.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 25 prices in sections ['Salads', 'Pasta', 'Entrees', 'Burgers & Sandwiches']"
+}

@@ -1,0 +1,12 @@
+{
+ "name": "Mo's Grill",
+ "addr": "1322 Grant Avenue",
+ "menu_url": "https://www.mosgrillsf.com/menu/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "menu page lists section headings only (burgers, pork, roast & grill, breakfast); items not in page text. Hours 8:30am-9:30pm; cash/Visa/MC.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

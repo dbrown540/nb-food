@@ -1,0 +1,367 @@
+{
+ "name": "Red Window",
+ "addr": "500 Columbus Avenue",
+ "menu_url": "https://www.theredwindow.com/san-francisco-north-beach-red-window-food-menu",
+ "source": "restaurant website (menu page; dinner + brunch + kids)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Tapas",
+   "item": "Marinated Mixed Olives",
+   "price": 6,
+   "description": ""
+  },
+  {
+   "section": "Tapas",
+   "item": "Crispy Paella Balls",
+   "price": 12,
+   "description": "chicken, chorizo"
+  },
+  {
+   "section": "Tapas",
+   "item": "Crispy Cauliflower",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Tapas",
+   "item": "Patatas Bravas",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Tapas",
+   "item": "Brussels",
+   "price": 10,
+   "description": ""
+  },
+  {
+   "section": "Tapas",
+   "item": "Gambas al Ajillo",
+   "price": 19,
+   "description": "shrimp, garlic, bread"
+  },
+  {
+   "section": "Tapas",
+   "item": "Octopus",
+   "price": 17,
+   "description": "white bean hummus, fennel salad"
+  },
+  {
+   "section": "Tapas",
+   "item": "Mac N' Cheese",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "RW Classic",
+   "item": "Caesar Salad",
+   "price": 15,
+   "description": "white anchovy"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Arugula Salad",
+   "price": 17,
+   "description": "smoked salmon, parmesan"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Risotto Funghi Porcini",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "RW Classic",
+   "item": "Flat-Bread",
+   "price": 14,
+   "description": "ricotta, fig"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Albondigas - small",
+   "price": 14,
+   "description": "large $21; beef & pork meatballs, manchego"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Braised Short Ribs",
+   "price": 29,
+   "description": "fingerling potato, broccolini"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Spanish Burger",
+   "price": 19,
+   "description": "6oz patty, manchego, fries"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Spanish Fried Chicken Sandwich",
+   "price": 17,
+   "description": "fries"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Falafel Burger",
+   "price": 17,
+   "description": "fries"
+  },
+  {
+   "section": "RW Classic",
+   "item": "Chicken Wings",
+   "price": 15,
+   "description": "al ajillo sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "Mussel Steamers",
+   "price": 25,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Clam Steamers",
+   "price": 25,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Mussel & Clam Steamers Combo",
+   "price": 25,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Scallop",
+   "price": 29,
+   "description": "saffron beurre blanc"
+  },
+  {
+   "section": "Pasta",
+   "item": "Tagliatelle",
+   "price": 24,
+   "description": "red pesto, roasted pepper"
+  },
+  {
+   "section": "Pasta",
+   "item": "Bucatini Meatball Pasta",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Chilli Braised Lamb Pasta",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Churro",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Tiramisu",
+   "price": 11,
+   "description": ""
+  },
+  {
+   "section": "Brunch",
+   "item": "Two Eggs Any Style",
+   "price": 13,
+   "description": "potatoes + toast; add smoked salmon +5, bacon/ham/chicken sausage +3"
+  },
+  {
+   "section": "Brunch - Scrambles",
+   "item": "Garlic Butter Coastal Scramble",
+   "price": 23,
+   "description": "garlic shrimp"
+  },
+  {
+   "section": "Brunch - Scrambles",
+   "item": "Chicken Apple",
+   "price": 20,
+   "description": "chicken apple sausage, avocado"
+  },
+  {
+   "section": "Brunch - Scrambles",
+   "item": "Farmhouse Fluff",
+   "price": 19,
+   "description": "mushroom, veg"
+  },
+  {
+   "section": "Brunch - Omelets",
+   "item": "Build Your Own Omelet (pick 3)",
+   "price": 20,
+   "description": "egg white +3"
+  },
+  {
+   "section": "Brunch - Benedicts",
+   "item": "Salmon Benedict",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Benedicts",
+   "item": "Crab Cake Benedict",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Benedicts",
+   "item": "Bacon Benedict",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Benedicts",
+   "item": "Classic Ham Benedict",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Sandwiches",
+   "item": "BLT",
+   "price": 17,
+   "description": "fries or caesar"
+  },
+  {
+   "section": "Brunch - Sandwiches",
+   "item": "Smoked Salmon",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Sandwiches",
+   "item": "Scrambled Eggs",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Sandwiches",
+   "item": "Ham & Cheese",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Sandwiches",
+   "item": "Waffle Fried Chicken Sandwich",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Specialties",
+   "item": "Ube Pancake",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Specialties",
+   "item": "Creme Anglaise French Toast",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Specialties",
+   "item": "Belgian Waffle",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Specialties",
+   "item": "Granola",
+   "price": 13,
+   "description": "greek yogurt, berries"
+  },
+  {
+   "section": "Brunch - Specialties",
+   "item": "Veggie Avocado Toast",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Specialties",
+   "item": "Egg Avocado Toast",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Salads",
+   "item": "Southwest Chicken Caesar",
+   "price": 16,
+   "description": "grilled chicken breast"
+  },
+  {
+   "section": "Brunch - Salads",
+   "item": "Arugula Salad",
+   "price": 18,
+   "description": "smoked salmon"
+  },
+  {
+   "section": "Brunch - Pasta",
+   "item": "Chicken Alfredo",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Pasta",
+   "item": "Creamy Shrimp Linguine",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Classics",
+   "item": "Pork Hash",
+   "price": 18,
+   "description": "braised pork, poached egg"
+  },
+  {
+   "section": "Brunch - Classics",
+   "item": "Butter Seared Banana Bread",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Burgers",
+   "item": "Spanish Burger",
+   "price": 19,
+   "description": "fries or salad"
+  },
+  {
+   "section": "Brunch - Burgers",
+   "item": "Fried Chicken Burger",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Brunch - Burgers",
+   "item": "Falafel Burger",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Tomato Pasta",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Chicken Tenders",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Butter Pasta",
+   "price": 6,
+   "description": ""
+  }
+ ],
+ "notes": "Brunch Sat-Sun 10-3:30. Spanish tapas; several protein-forward plates under $20 (wings $15, chicken sandwich $17, albondigas $14).",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 29 prices in sections ['RW Classic', 'Seafood', 'Pasta', 'Brunch - Scrambles', 'Brunch - Benedicts', 'Brunch - Sandwiches']"
+}

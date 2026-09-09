@@ -1,0 +1,193 @@
+{
+ "name": "Belle Cora",
+ "addr": "565 Green Street",
+ "menu_url": "https://thebellecora.com/#food-section",
+ "source": "restaurant website (inline food + brunch menu)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Shared Plates",
+   "item": "Ciabatta Bread",
+   "price": 3,
+   "description": ""
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Castelvetrano Olives",
+   "price": 6,
+   "description": ""
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Marcona Almonds",
+   "price": 5,
+   "description": ""
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Warm Raclette",
+   "price": 10,
+   "description": "over yukon potatoes"
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Spanish Sardines",
+   "price": 11,
+   "description": "choose: olive oil / tomato / smoked / mackerel; arugula, crostini"
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Charcuterie Board (3 meats)",
+   "price": 18,
+   "description": ""
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Cheese Board (3 cheeses)",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Cheese & Charcuterie Combination Board",
+   "price": 29,
+   "description": ""
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Deviled Eggs (4)",
+   "price": 11,
+   "description": "bacon"
+  },
+  {
+   "section": "Shared Plates",
+   "item": "Chopped Salad",
+   "price": 11,
+   "description": "romaine, radicchio, arugula, almonds, parmesan"
+  },
+  {
+   "section": "Entrees",
+   "item": "Soup of the Day",
+   "price": 12,
+   "description": "add grilled cheese +7"
+  },
+  {
+   "section": "Entrees",
+   "item": "Baked Mac N Cheese",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Entrees",
+   "item": "Ham Sandwich",
+   "price": 13,
+   "description": "black forest ham, cheddar, ciabatta"
+  },
+  {
+   "section": "Entrees",
+   "item": "The Belle Burger - single",
+   "price": 12,
+   "description": "double $14; grass-fed beef, cheddar"
+  },
+  {
+   "section": "Entrees",
+   "item": "Impossible Burger",
+   "price": 14,
+   "description": "double +4"
+  },
+  {
+   "section": "Dessert",
+   "item": "Brioche Bread Pudding",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "N.Y. Cheesecake",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Dark Chocolate Mousse",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Brunch",
+   "item": "Yogurt Parfait",
+   "price": 14,
+   "description": "greek yogurt, house granola, fruit"
+  },
+  {
+   "section": "Brunch",
+   "item": "The Nor'easter",
+   "price": 15,
+   "description": "bagel, smoked salmon"
+  },
+  {
+   "section": "Brunch",
+   "item": "Farmer's Omelet of the Week",
+   "price": 13,
+   "description": "3 eggs; add bacon/sausage +4"
+  },
+  {
+   "section": "Brunch",
+   "item": "Morning Salad",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Brunch",
+   "item": "Frittata of the Week",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Brunch",
+   "item": "Belle Breakfast Sandwich",
+   "price": 14,
+   "description": "ham, egg, cheese, ciabatta"
+  },
+  {
+   "section": "Brunch",
+   "item": "Chicken Clubatta",
+   "price": 16,
+   "description": "grilled chicken, bacon, ciabatta"
+  },
+  {
+   "section": "Brunch",
+   "item": "Waffle + Fruit",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Brunch",
+   "item": "French Toast",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Draft beer",
+   "price": 7,
+   "description": "$7-9"
+  },
+  {
+   "section": "Drinks",
+   "item": "Soft drinks",
+   "price": 3,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Ginger beer / sparkling water",
+   "price": 5,
+   "description": ""
+  }
+ ],
+ "notes": "Bar-forward; small food menu. Brunch Sat-Sun 11-3. Raclette Mondays 6:30-10 ($18 / $15 veg). Parties 6+ 20% gratuity.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 14 prices in sections ['Entrees', 'Brunch']"
+}

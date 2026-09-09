@@ -1,0 +1,403 @@
+{
+ "name": "Sodini's",
+ "addr": "510 Green Street",
+ "menu_url": "https://sodinisgreenvalley.com/#menu",
+ "source": "restaurant website (inline menu; PDF at /wp-content/uploads/2024/03/updated-full-menu.pdf is image-only)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Antipasti",
+   "item": "Fried Calamari",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Fritto Misto",
+   "price": 26.95,
+   "description": "calamari, prawns, shrimp, artichokes"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Steamers",
+   "price": 26.95,
+   "description": "clams/mussels, white wine broth"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Polenta",
+   "price": 12.95,
+   "description": "baked with mozzarella, marinara"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Bruschetta",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "House Salad",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Caesar Salad",
+   "price": 14.95,
+   "description": "with grilled chicken $23.95; with grilled prawns $24.95"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Caprese Salad",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Minestrone Soup",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Garlic Steak Fries",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Garlic Cheese Bread",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini Marinara",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini alla Casa",
+   "price": 20.95,
+   "description": "tomato meat sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini Sodini",
+   "price": 20.95,
+   "description": "white cream sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini Pesto",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini w/Clams and Mussels",
+   "price": 25.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini with Clams",
+   "price": 24.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini Seafood",
+   "price": 28.95,
+   "description": "clams, mussels, shrimp, calamari"
+  },
+  {
+   "section": "Primi",
+   "item": "Linguini with Meatballs",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Penne al Gamberi",
+   "price": 25.95,
+   "description": "prawns, cream"
+  },
+  {
+   "section": "Primi",
+   "item": "Penne al Forno",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Penne al Pesto",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Cannelloni",
+   "price": 24.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Lasagne",
+   "price": 27.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Tortellini al Pesto",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Tortellini alla Panna",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Tortellini Carbonara",
+   "price": 25.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Ravioli alla Casa",
+   "price": 22.95,
+   "description": "beef/cheese ravioli, meat sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Ravioli al Pesto",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Ravioli Sodini",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Gnocchi Nostri",
+   "price": 22.95,
+   "description": "creamy meat sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Gnocchi Pesto",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Gnocchi Gorgonzola",
+   "price": 24.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Angel Hair North Beach Style",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Angel Hair al Pesto",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Primi",
+   "item": "Angel Hair alla Casa",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Rib-Eye Steak",
+   "price": 43.95,
+   "description": "sauteed mixed vegetables"
+  },
+  {
+   "section": "Secondi",
+   "item": "New York Steak",
+   "price": 38.95,
+   "description": "steak fries"
+  },
+  {
+   "section": "Secondi",
+   "item": "Pepper Steak",
+   "price": 40.95,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Rack of Lamb",
+   "price": 49.95,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Grilled Chicken Breast",
+   "price": 26.95,
+   "description": "with linguini marinara"
+  },
+  {
+   "section": "Secondi",
+   "item": "Chicken Parmigiana",
+   "price": 31.95,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Chicken alla Sodini",
+   "price": 32.95,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Grilled Salmon",
+   "price": 36.95,
+   "description": "with linguini pesto"
+  },
+  {
+   "section": "Secondi",
+   "item": "Veal Scallopini",
+   "price": 35.95,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Veal Parmigiana",
+   "price": 36.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Meatballs",
+   "price": 8.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sauteed Spinach & Mushrooms",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sauteed Mixed Vegetables",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Chicken Breast (side)",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Prawns (side)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Alla Sodini",
+   "price": 24.95,
+   "description": "M $29.95 / L $35.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Margherita",
+   "price": 22.95,
+   "description": "M $27.95 / L $33.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Al Pesto",
+   "price": 22.95,
+   "description": "M $26.95 / L $32.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Quattro Stagioni",
+   "price": 24.95,
+   "description": "M $29.95 / L $34.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Alla Pescatore",
+   "price": 24.95,
+   "description": "M $29.95 / L $34.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Alla Casa",
+   "price": 24.95,
+   "description": "M $29.95 / L $35.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Vegetarian",
+   "price": 25.95,
+   "description": "M $31.95 / L $36.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Di Lucca",
+   "price": 25.95,
+   "description": "M $31.95 / L $38.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Di Pisa",
+   "price": 23.95,
+   "description": "M $27.95 / L $32.95"
+  },
+  {
+   "section": "Pizza (small 12in)",
+   "item": "Cheese",
+   "price": 20.95,
+   "description": "M $25.95 / L $30.95; +$1 per topping tier"
+  },
+  {
+   "section": "Drinks",
+   "item": "Soft Drinks",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Juices",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Beer on Draft",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Bottled Beer",
+   "price": 5.0,
+   "description": "$5/$6"
+  }
+ ],
+ "notes": "Dinner only (Mon-Fri from 5pm, Sat-Sun from 4pm). No reservations, no decaf, no desserts. Secondi include soup or house salad.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median of 35 prices in sections ['Primi', 'Secondi']"
+}

@@ -1,0 +1,205 @@
+{
+ "name": "El Farolito",
+ "addr": "1230 Grant Avenue",
+ "menu_url": "https://elfarolitosf.com/menu/",
+ "source": "restaurant website (chain-wide menu page)",
+ "as_of": "2026-09-09",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Burritos",
+   "item": "Regular Burrito",
+   "price": 7.25,
+   "description": "rice, beans, salsa, onion, cilantro"
+  },
+  {
+   "section": "Burritos",
+   "item": "Super Burrito",
+   "price": 8.25,
+   "description": "+ cheese, sour cream, avocado"
+  },
+  {
+   "section": "Burritos",
+   "item": "Super Shrimp Burrito",
+   "price": 13.5,
+   "description": ""
+  },
+  {
+   "section": "Burritos",
+   "item": "Bosses Burrito",
+   "price": 14.5,
+   "description": "shrimp + al pastor"
+  },
+  {
+   "section": "Tacos",
+   "item": "Regular Taco",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Tacos",
+   "item": "Crispy Taco",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Quesadilla de Maiz",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Quesadilla de Harina",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Quesadilla Suiza",
+   "price": 4.95,
+   "description": "cheese + steak"
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Super Quesadilla Suiza",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Quesadilla para Dos",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Nachos",
+   "item": "Regular Nachos",
+   "price": 6.75,
+   "description": ""
+  },
+  {
+   "section": "Nachos",
+   "item": "Super Nachos",
+   "price": 7.95,
+   "description": "with meat or eggs"
+  },
+  {
+   "section": "Tostadas",
+   "item": "Regular Tostada",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Tostadas",
+   "item": "Tostada de Ceviche",
+   "price": 4.95,
+   "description": "shrimp"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Torta Mexicana",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Complete Meals",
+   "item": "Enchiladas",
+   "price": 10.25,
+   "description": "rice, beans, tortillas"
+  },
+  {
+   "section": "Complete Meals",
+   "item": "Chiles Rellenos",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Complete Meals",
+   "item": "Pastor, Chorizo, or Carnitas Plate",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Complete Meals",
+   "item": "Bistek or Pollo Ranchero",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Complete Meals",
+   "item": "Taquitos (4)",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Complete Meals",
+   "item": "Flautas (2)",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Camarones a la Diabla",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Camarones Rancheros",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Camarones al Mojo de Ajo",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Sour cream / cheese / avocado",
+   "price": 1.75,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Any meat",
+   "price": 2.5,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Soda",
+   "price": 1.75,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Mexican Soda",
+   "price": 2.75,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Aguas Frescas",
+   "price": 1.75,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Mexican Beer",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Flan",
+   "price": 3.75,
+   "description": ""
+  }
+ ],
+ "notes": "Site itself warns 'Menu items and prices may not reflect the most current offerings'; prices look several years stale (regular burrito $7.25). Cash only at all locations. Meats: carne asada, al pastor, carnitas, pollo asado, chorizo, lengua, cabeza, veg. Open 10am-2am.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median of 13 prices in sections ['Burritos', 'Complete Meals', 'Seafood']"
+}

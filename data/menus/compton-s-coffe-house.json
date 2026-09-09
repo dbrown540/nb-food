@@ -1,0 +1,307 @@
+{
+ "name": "Compton's Coffe House",
+ "addr": "543 Columbus Avenue",
+ "menu_url": "https://www.comptonscoffee.com/menu",
+ "source": "restaurant website (Squarespace sub-pages: /coffees /matchas /teas /specials /pastries)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Coffee",
+   "item": "Drip Coffee",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cold Brew",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "House Blend Espresso",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Single Origin Espresso",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Macchiato",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Americano",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cortado",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cappuccino",
+   "price": 4.75,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Flat White",
+   "price": 4.75,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Latte",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Flavored Latte",
+   "price": 6.25,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Mocha",
+   "price": 6.25,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Espresso & Tonic",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Add-ons",
+   "item": "Extra shot",
+   "price": 1.0,
+   "description": ""
+  },
+  {
+   "section": "Add-ons",
+   "item": "Oat/almond/soy milk",
+   "price": 0.75,
+   "description": ""
+  },
+  {
+   "section": "Add-ons",
+   "item": "House syrup",
+   "price": 0.75,
+   "description": "vanilla, lavender, earl grey, honey, seasonal"
+  },
+  {
+   "section": "Matcha",
+   "item": "Matcha Latte",
+   "price": 6.25,
+   "description": ""
+  },
+  {
+   "section": "Matcha",
+   "item": "Flavored Matcha Latte",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Matcha",
+   "item": "Iced Raspberry Matcha",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Matcha",
+   "item": "Matcha Americano",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Tea",
+   "item": "Hot Tea",
+   "price": 3.75,
+   "description": ""
+  },
+  {
+   "section": "Tea",
+   "item": "Iced Tea",
+   "price": 3.75,
+   "description": ""
+  },
+  {
+   "section": "Tea",
+   "item": "Chai Latte",
+   "price": 5.75,
+   "description": ""
+  },
+  {
+   "section": "Tea",
+   "item": "Cardamom Rose Black Tea Latte",
+   "price": 5.75,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "Orange Blossom Cappuccino",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "Orange Blossom Espresso Spritz",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "Chamomile Hibiscus Arnold Palmer",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Butter Croissant",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate Croissant",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Bacon Onion Swiss Croissant",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Pretzel Croissant",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate Hazelnut Croissant",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Twice Baked Almond Croissant",
+   "price": 5.75,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Seasonal Kouign Amann",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Morning Bun",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Cherry Almond Coffee Cake",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Cream Cheese Danish",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Bacon and Cheddar Scone",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Veggie Scone",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Mixed Fruit Scone",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Vegan Chocolate Zucchini Loaf",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Banana Rye Loaf",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Vegan Pumpkin Loaf",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Raisin Bran Muffin",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Blueberry Muffin",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Lemon Poppy Muffin",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate Chip Cookie",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Snickerdoodle Cookie",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Indulgent Brownie",
+   "price": 4.5,
+   "description": ""
+  }
+ ],
+ "notes": "Drinks + pastries only; no savory food beyond bacon/cheddar scone and bacon-onion-swiss croissant.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median of 22 prices in sections ['Pastries']"
+}

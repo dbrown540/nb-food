@@ -17,6 +17,10 @@ policy, best orders).
 - `docs/index.html` — self-contained browsable viewer (open in a browser;
   search, category/health filters, "curated only" toggle)
 - `menus/` — saved menu PDFs, referenced from curated `menu` fields
+- `data/menus/<slug>.json` — extracted menus (items, prices, short
+  descriptions) per restaurant/cafe, each with `source` + `as_of`;
+  `data/menus/index.json` is the manifest (status ok/partial/not_found/skipped)
+- `scripts/menus_report.py` — menu coverage report
 - `scripts/fetch.sh` — refresh OSM data and rebuild
 - `scripts/build.py` — merge + emit places.json and the viewer
 

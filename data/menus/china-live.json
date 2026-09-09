@@ -1,0 +1,12 @@
+{
+ "name": "China Live",
+ "addr": "644 Broadway",
+ "menu_url": "https://chinalivesf.com/menu/china-live-restaurant/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "menu page renders no item text (JS/popup); SpotOn ordering is JS-only",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

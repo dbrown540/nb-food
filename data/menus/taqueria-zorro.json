@@ -1,0 +1,12 @@
+{
+ "name": "Taqueria Zorro",
+ "addr": "",
+ "menu_url": "https://www.taqueriazorro.com/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "single-page JS app with no server-rendered menu",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

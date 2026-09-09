@@ -1,0 +1,12 @@
+{
+ "name": "Osmanthus Dim Sum Lounge",
+ "addr": "504 Broadway",
+ "menu_url": "https://osmanthusdimsum.com/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "site links only to a JS ordering platform (bestfoodtodayus) with no server-rendered items",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

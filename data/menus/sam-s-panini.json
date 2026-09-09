@@ -1,0 +1,79 @@
+{
+ "name": "Sam's Panini",
+ "addr": "519 Columbus Avenue",
+ "menu_url": "https://samspanini.com/menu",
+ "source": "restaurant website (menu page lists items without prices)",
+ "as_of": "2026-09-09",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Panini",
+   "item": "Italian Mortadella / Pickle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Sujuk (Armenian sausage) / Pickle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Halloumi Cheese Baguette / Basil",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Italian Ham & Cheese",
+   "price": null,
+   "description": "swiss or cheddar"
+  },
+  {
+   "section": "Panini",
+   "item": "Pulled Chicken Garlic / Pickle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Grilled Swiss or Cheddar Baguette",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Panini",
+   "item": "Falafel on Lavash",
+   "price": null,
+   "description": "hummus, tahini, tomatoes"
+  },
+  {
+   "section": "Panini",
+   "item": "Prosciutto Baguette",
+   "price": null,
+   "description": "extra charge for cheese"
+  },
+  {
+   "section": "Beverages",
+   "item": "Orange Juice",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Carrot Juice",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Yogurt Drink (Ayran)",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "Site shows item names only, no prices. Hours: Mon-Thu 12-7, Fri-Sat 12-9, Sun 12-5. Pulled chicken garlic and sujuk are the protein options.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

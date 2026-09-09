@@ -1,0 +1,91 @@
+{
+ "name": "Golden Boy Pizza",
+ "addr": "540 Green Street",
+ "menu_url": "https://www.goldenboypizza.com/menu",
+ "source": "restaurant website (Wix menu page)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "By the Slice",
+   "item": "Cheese",
+   "price": 3.75,
+   "description": ""
+  },
+  {
+   "section": "By the Slice",
+   "item": "Pepperoni",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "By the Slice",
+   "item": "Sausage",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "By the Slice",
+   "item": "Combo",
+   "price": 4.75,
+   "description": "pepperoni, sausage, onion, mushroom, zucchini, tomato"
+  },
+  {
+   "section": "By the Slice",
+   "item": "Pesto Veggie",
+   "price": 4.75,
+   "description": "pesto, onion, mushroom, zucchini, tomato, black olive"
+  },
+  {
+   "section": "By the Slice",
+   "item": "Clam & Garlic",
+   "price": 4.75,
+   "description": "baby clams, garlic, parsley"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Cheese (small)",
+   "price": 12.75,
+   "description": "large $24.00"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Pepperoni (small)",
+   "price": 14.5,
+   "description": "large $27.25"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Sausage (small)",
+   "price": 14.5,
+   "description": "large $27.25"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Combo (small)",
+   "price": 16.25,
+   "description": "large $30.50"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Pesto Veggie (small)",
+   "price": 16.25,
+   "description": "large $30.50"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Clam & Garlic (small)",
+   "price": 16.25,
+   "description": "large $30.50"
+  },
+  {
+   "section": "By the Pan",
+   "item": "Build your own — meat/extra cheese topping (small)",
+   "price": 1.5,
+   "description": "large $3.00; veg toppings $0.75/$1.50"
+  }
+ ],
+ "notes": "Slices sold at North Beach; pans small 13x9 (4 slices, one flavor) / large 13x18 (8 slices, may split 2 flavors).",
+ "price_level_estimate": 1,
+ "price_level_basis": "median of 6 prices in sections ['By the Slice']"
+}

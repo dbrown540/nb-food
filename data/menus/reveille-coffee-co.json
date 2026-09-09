@@ -1,0 +1,109 @@
+{
+ "name": "Réveille Coffee Co.",
+ "addr": "200 Columbus Avenue",
+ "menu_url": "https://cafereveille.square.site/",
+ "source": "repo file menus/reveille-north-beach-2026-08.pdf (printout of the Square order site; pdftoppm + visual read). Square site is JS-only, prices not fetched. reveillecoffee.com has no menu page.",
+ "as_of": "2026-09-09",
+ "status": "partial",
+ "items": [
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Matcha Chia Pudding",
+   "price": null,
+   "description": "macadamia, banana, cacao (V, GF)"
+  },
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Acai Bowl",
+   "price": null,
+   "description": "house granola, berries, banana"
+  },
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Avocado Toast",
+   "price": null,
+   "description": "poached egg, nori flakes, chili crunch, levain"
+  },
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Breakfast Bowl",
+   "price": null,
+   "description": "two eggs, avocado, carrots, cabbage, kale, green tahini over brown rice"
+  },
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Breakfast Sandwich",
+   "price": null,
+   "description": "egg frittata, cheddar, avocado, arugula, poppy seed kaiser"
+  },
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Breakfast Burrito",
+   "price": null,
+   "description": "black beans, avocado, tater tots, egg frittata, cheddar"
+  },
+  {
+   "section": "All Day (7:30-3)",
+   "item": "Yogurt and Granola",
+   "price": null,
+   "description": "coconut yogurt, cacao granola, fruit"
+  },
+  {
+   "section": "Lunch Bowls & Salads (11:15-3)",
+   "item": "Kale Salad",
+   "price": null,
+   "description": "green goddess, avocado, pistachio, parmesan"
+  },
+  {
+   "section": "Lunch Bowls & Salads (11:15-3)",
+   "item": "Crunchy Bowl",
+   "price": null,
+   "description": "sweet potato, shiitake, kale, avocado, broken rice"
+  },
+  {
+   "section": "Lunch Bowls & Salads (11:15-3)",
+   "item": "Halloumi Salad",
+   "price": null,
+   "description": "seared halloumi, tomato-cucumber, pepitas"
+  },
+  {
+   "section": "Lunch Bowls & Salads (11:15-3)",
+   "item": "Tahini Squash Bowl",
+   "price": null,
+   "description": "squash, poached egg over lentils, brown rice, quinoa"
+  },
+  {
+   "section": "Lunch Bowls & Salads (11:15-3)",
+   "item": "Falafel Bowl",
+   "price": null,
+   "description": "falafel, avocado, poached egg over lentils, brown rice, quinoa"
+  },
+  {
+   "section": "Lunch Bowls & Salads (11:15-3)",
+   "item": "Plantain Bowl",
+   "price": null,
+   "description": "fried plantain, black bean, avocado"
+  },
+  {
+   "section": "Sandwiches (11:15-3)",
+   "item": "Falafel Sandwich",
+   "price": null,
+   "description": "green tahini, yogurt, cabbage on levain"
+  },
+  {
+   "section": "Sandwiches (11:15-3)",
+   "item": "Avocado Sandwich",
+   "price": null,
+   "description": "white cheddar, hummus, sprouts"
+  },
+  {
+   "section": "Sandwiches (11:15-3)",
+   "item": "Turkey Sandwich",
+   "price": null,
+   "description": "turkey, avocado, white cheddar, sprouts, roasted tomato, aioli on sour batard"
+  }
+ ],
+ "notes": "PDF (Aug 2026) lists items + descriptions but no prices. Curated notes: +1 egg $2.50. All-day 7:30-3; lunch bowls 11:15+. Egg-forward breakfast bowl and turkey sandwich are the protein picks.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

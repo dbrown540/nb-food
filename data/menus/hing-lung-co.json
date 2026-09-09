@@ -1,0 +1,175 @@
+{
+ "name": "Hing Lung Co",
+ "addr": "",
+ "menu_url": "https://www.go-duck-yourself.com/_files/ugd/f78a7b_3feba19d92294d189f6540a242da6b7d.pdf",
+ "source": "restaurant website PDF menu (pdftotext)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Duck",
+   "item": "GDY Cantonese Roast Duck (half) - deboned",
+   "price": 38,
+   "description": "with bone $35; plum vinaigrette + duck jus"
+  },
+  {
+   "section": "Duck",
+   "item": "Disco Duck",
+   "price": 44,
+   "description": "roast duck with popping candy + preserves"
+  },
+  {
+   "section": "Duck",
+   "item": "Chiu Chow Soy Marinated Duck - deboned",
+   "price": 35,
+   "description": "with bone $32; served chilled"
+  },
+  {
+   "section": "Chicken",
+   "item": "Soy Marinated Chicken",
+   "price": 28,
+   "description": "deboned except wing; ginger-scallion chutney"
+  },
+  {
+   "section": "Pork",
+   "item": "Charsiu (BBQ Pork Collar) - small",
+   "price": 14.5,
+   "description": "M $20 / L $26"
+  },
+  {
+   "section": "Pork",
+   "item": "Crispy Skin Pork Belly - small",
+   "price": 17,
+   "description": "M $24 / L $31"
+  },
+  {
+   "section": "Pork",
+   "item": "Crispy and BBQ Pork Combo",
+   "price": 24,
+   "description": "6 oz each"
+  },
+  {
+   "section": "Pork",
+   "item": "Braised Pork Belly w/ Mustard Greens",
+   "price": 28,
+   "description": ""
+  },
+  {
+   "section": "Pork",
+   "item": "Sweet and Sour Pork",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Carbs",
+   "item": "Good Ducking Noodle",
+   "price": 24,
+   "description": "duck + chicken stir-fried egg noodles"
+  },
+  {
+   "section": "Carbs",
+   "item": "Stuffed Sticky Rice",
+   "price": 24,
+   "description": "lotus leaf wrap"
+  },
+  {
+   "section": "Sides",
+   "item": "Bao (6 steamed buns)",
+   "price": 9,
+   "description": "9 for $13, 12 for $17"
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic Greens - small",
+   "price": 12,
+   "description": "large $22"
+  },
+  {
+   "section": "Sides",
+   "item": "White Jasmine Rice - small",
+   "price": 3,
+   "description": "large $6"
+  },
+  {
+   "section": "Small Bites",
+   "item": "Im-peck-able Wings (6)",
+   "price": 14,
+   "description": "12 for $26"
+  },
+  {
+   "section": "Small Bites",
+   "item": "Chiu Chow Fish Sauce Wings (6)",
+   "price": 16,
+   "description": "12 for $26"
+  },
+  {
+   "section": "Small Bites",
+   "item": "Hong Kong 'Swiss' Chicken Wings (6)",
+   "price": 14,
+   "description": "12 for $26"
+  },
+  {
+   "section": "Small Bites",
+   "item": "Taro Shrimp Cake (4)",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Small Bites",
+   "item": "Fried Pork Wonton (10)",
+   "price": 8,
+   "description": "20 for $16"
+  },
+  {
+   "section": "Small Bites",
+   "item": "Crispy Glutinous Rice Dumplings (3)",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Small Bites",
+   "item": "Fried Chiu Chow Shrimp Dumplings (5)",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Small Bites",
+   "item": "Siu Mai (4)",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Small Bites",
+   "item": "Steamed Chive Shrimp Dumplings (3)",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Small Bites",
+   "item": "Steamed Chiu Chow Dumplings (3)",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Canned drinks",
+   "price": 4,
+   "description": "bottled $5"
+  },
+  {
+   "section": "Drinks",
+   "item": "Beer (16oz can)",
+   "price": 14,
+   "description": "$12-14"
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the glass",
+   "price": 13,
+   "description": "$11-18"
+  }
+ ],
+ "notes": "CAUTION: PDF header says 439 Cortland Ave (Bernal Heights, Go Duck Yourself); OSM lists this Chinatown entry with the same website. Chinatown menu assumed same — verify in person. Meats: +$8 combo adds garlic greens + jasmine rice. 'No MSG'.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median of 11 prices in sections ['Duck', 'Chicken', 'Pork', 'Carbs']"
+}

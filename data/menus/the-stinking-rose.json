@@ -1,0 +1,379 @@
+{
+ "name": "The Stinking Rose",
+ "addr": "430 Columbus Avenue",
+ "menu_url": "https://thestinkingrose.com/menus/menu-sf.pdf",
+ "source": "restaurant website PDF daily menu (pdftotext; two-column layout hand-reconciled)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Breads / Soup",
+   "item": "Garlic Soaking in a Hot Tub",
+   "price": 12.99,
+   "description": "iron skillet roasted garlic + house bread"
+  },
+  {
+   "section": "Breads / Soup",
+   "item": "Brick Oven-Baked Acme Baguette",
+   "price": 3.99,
+   "description": ""
+  },
+  {
+   "section": "Breads / Soup",
+   "item": "Garlic Bread",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Breads / Soup",
+   "item": "Cheese Bread",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Breads / Soup",
+   "item": "Frankenstein Garlic Soup of the Day",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Breads / Soup",
+   "item": "Garlic Yukon Gold Potatoes",
+   "price": 5.99,
+   "description": "mashed with zucchini"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Bruschetta di Aglio",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Italian Garlic Pot Stickers",
+   "price": 19.99,
+   "description": "sausage, ginger, vegetables"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Burrata Prosciutto",
+   "price": 19.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab, Smoked Salmon Crostini",
+   "price": 29.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Smoked Salmon, Avocado",
+   "price": 22.99,
+   "description": "wonton crisps, ponzu"
+  },
+  {
+   "section": "Salads",
+   "item": "The Stinking Rose Garlic Salad",
+   "price": 16.99,
+   "description": "mixed greens, tomatoes, avocado, garlic vinaigrette"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Wild Arugula",
+   "price": 17.99,
+   "description": "avocado, onions, blue cheese"
+  },
+  {
+   "section": "Salads",
+   "item": "Panzanella",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Pt. Reyes Blue Cheese Crumble",
+   "price": 16.99,
+   "description": "cherry tomatoes, bacon"
+  },
+  {
+   "section": "Salads",
+   "item": "Foggy Wharf Crab Salad",
+   "price": 29.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Add Jidori chicken",
+   "price": 6.99,
+   "description": "crab +19.99, shrimp/burrata/smoked salmon +9.99"
+  },
+  {
+   "section": "Hot Sandwiches",
+   "item": "Garlic Chicken",
+   "price": 18.99,
+   "description": "jidori chicken, avocado, arugula, pesto, brie"
+  },
+  {
+   "section": "Hot Sandwiches",
+   "item": "Juicy Burger",
+   "price": 17.99,
+   "description": "grass-fed angus, jack"
+  },
+  {
+   "section": "Hot Sandwiches",
+   "item": "Bacon, Tomato, Avocado",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "Hot Sandwiches",
+   "item": "Prosciutto",
+   "price": 17.99,
+   "description": "avocado, arugula, crescenza"
+  },
+  {
+   "section": "Hot Sandwiches",
+   "item": "Crab Melt",
+   "price": 34.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Vampire Killer",
+   "price": 26.99,
+   "description": "garlic relish, roasted garlic, jack"
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Margherita",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Garlic Chicken",
+   "price": 26.99,
+   "description": "brie, fontina"
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Cheese",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Veggie",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Artisan Pepperoni",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Prosciutto San Daniele",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Sausage Trio",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Smoked Salmon",
+   "price": 26.99,
+   "description": "burrata, red onion"
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Cremini Mushrooms",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Combo",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "The Italian Calzone",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Stink'n Pizzas",
+   "item": "Lasagna-Style Calzone",
+   "price": 26.99,
+   "description": ""
+  },
+  {
+   "section": "Hot Iron Skillet",
+   "item": "Mussels or Shrimp",
+   "price": 24.99,
+   "description": "garlic roasted"
+  },
+  {
+   "section": "Hot Iron Skillet",
+   "item": "Mussels & Shrimp",
+   "price": 24.99,
+   "description": ""
+  },
+  {
+   "section": "Hot Iron Skillet",
+   "item": "Combo Mussels, Shrimp & Crab",
+   "price": 69.99,
+   "description": ""
+  },
+  {
+   "section": "Hot Iron Skillet",
+   "item": "Super Combo",
+   "price": 99.99,
+   "description": ""
+  },
+  {
+   "section": "Hot Iron Skillet",
+   "item": "Brick Oven-Roasted Dungeness Killer Crab - half",
+   "price": 39.99,
+   "description": "whole $69.99; lotsa crab $99.99"
+  },
+  {
+   "section": "Entrees",
+   "item": "Count Vladimir's Sizzling Garlic Prime Ribeye Steak",
+   "price": 54.99,
+   "description": ""
+  },
+  {
+   "section": "Entrees",
+   "item": "40 Clove Garlic Chicken",
+   "price": 34.99,
+   "description": "jidori chicken, GF"
+  },
+  {
+   "section": "Entrees",
+   "item": "Roasted Italian-Style Baby Back Ribs",
+   "price": 36.99,
+   "description": "rosemary, garlic, GF"
+  },
+  {
+   "section": "Entrees",
+   "item": "Sea Bass",
+   "price": 36.99,
+   "description": "rose relish lemon butter, GF"
+  },
+  {
+   "section": "Entrees",
+   "item": "Roasted Salmon",
+   "price": 36.99,
+   "description": "soy sesame glaze on chopped lettuce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Cioppino",
+   "price": 44.99,
+   "description": "mussels, crab, shrimp, calamari"
+  },
+  {
+   "section": "Entrees",
+   "item": "Seafood Fettuccine",
+   "price": 44.99,
+   "description": ""
+  },
+  {
+   "section": "Entrees",
+   "item": "Silence of the Lamb Shank",
+   "price": 49.99,
+   "description": "chianti glaze, fava beans, GF"
+  },
+  {
+   "section": "Entrees",
+   "item": "Filet Mignon",
+   "price": 59.99,
+   "description": "GF"
+  },
+  {
+   "section": "Entrees",
+   "item": "Lasagna Al Forno",
+   "price": 29.99,
+   "description": "pork & beef sugo"
+  },
+  {
+   "section": "Basta Pasta",
+   "item": "Choose Pasta (gnocchi / short-rib ravioli / fettuccine) + preparation",
+   "price": 26.99,
+   "description": "alfredo, brie & mushrooms, blue cheese & bacon, tomato alfredo, bolognese, garlic lovers; add crab 19.99 / shrimp 9.99 / chicken 6.99"
+  },
+  {
+   "section": "Desserts",
+   "item": "Gilroy's Famous Garlic Ice Cream",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Affogato",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Tiramisu",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Creme Brulee Cheesecake",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Auntie Em's Lemon Torte",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Draft Beer",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Bottled Beer",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Soft drinks / juices",
+   "price": 4.99,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "House wine (draft) glass",
+   "price": 9.99,
+   "description": ""
+  }
+ ],
+ "notes": "Menu dated 7-30-2026. No added surcharges. GF-marked entrees: 40 Clove Chicken, ribs, sea bass, lamb shank, filet.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median of 29 prices in sections ['Entrees', 'Basta Pasta', \"Stink'n Pizzas\", 'Hot Sandwiches']"
+}

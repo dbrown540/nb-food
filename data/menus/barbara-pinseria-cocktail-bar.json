@@ -1,0 +1,217 @@
+{
+ "name": "Barbara Pinseria & Cocktail Bar",
+ "addr": "431 Columbus Avenue",
+ "menu_url": "https://www.sfbarbara.com/_files/ugd/41dd26_56d744f22a2c46af9e4a2be75699dd9a.pdf",
+ "source": "restaurant website PDF menu (pdftotext)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Caprese",
+   "price": 17,
+   "description": "heirloom tomato, mozzarella, balsamic"
+  },
+  {
+   "section": "Starters",
+   "item": "Carpaccio di Manzo",
+   "price": 19,
+   "description": "veal, arugula, parmesan"
+  },
+  {
+   "section": "Starters",
+   "item": "Salumi & Cheese Plate",
+   "price": 24,
+   "description": "prosciutto, mortadella, salami, parmigiano"
+  },
+  {
+   "section": "Starters",
+   "item": "Frittura di Calamari & Gamberi",
+   "price": 22,
+   "description": "fried prawns, squid, zucchini"
+  },
+  {
+   "section": "Starters",
+   "item": "Olives",
+   "price": 8,
+   "description": "marinated warm olives"
+  },
+  {
+   "section": "Starters",
+   "item": "Polpette al Sugo",
+   "price": 16,
+   "description": "beef meatballs, tomato sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Suppli al Telefono",
+   "price": 11,
+   "description": "rice croquette, mozzarella"
+  },
+  {
+   "section": "Starters",
+   "item": "Brussels Chips",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Burrata",
+   "price": 23,
+   "description": "crostini, peperonata"
+  },
+  {
+   "section": "Starters",
+   "item": "Bruschetta",
+   "price": 14,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Sformato",
+   "price": 19,
+   "description": "baked swiss chard & mozzarella with sauteed prawns"
+  },
+  {
+   "section": "Starters",
+   "item": "Involtino di Melanzana",
+   "price": 18,
+   "description": "fried rolled eggplant, scamorza"
+  },
+  {
+   "section": "Greens",
+   "item": "Lattuga",
+   "price": 13,
+   "description": "butter lettuce, anchovy, parmesan, radish, fennel"
+  },
+  {
+   "section": "Greens",
+   "item": "Arugula",
+   "price": 15,
+   "description": "arugula, endive, radicchio, walnut, gorgonzola"
+  },
+  {
+   "section": "Pinsa (Roman pizza)",
+   "item": "Burrata & Pesto",
+   "price": 22,
+   "description": ""
+  },
+  {
+   "section": "Pinsa (Roman pizza)",
+   "item": "Margherita",
+   "price": 19,
+   "description": ""
+  },
+  {
+   "section": "Pinsa (Roman pizza)",
+   "item": "Pera & Gorgonzola",
+   "price": 22,
+   "description": ""
+  },
+  {
+   "section": "Pinsa (Roman pizza)",
+   "item": "San Francisco",
+   "price": 21,
+   "description": "spicy salami, sausage, red onion"
+  },
+  {
+   "section": "Pinsa (Roman pizza)",
+   "item": "Prosciutto",
+   "price": 22,
+   "description": "san daniele, arugula, parmesan"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti Carbonara",
+   "price": 22,
+   "description": "eggs, pork cheek, pecorino"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti Neri",
+   "price": 24,
+   "description": "black ink spaghetti, prawns"
+  },
+  {
+   "section": "Pasta",
+   "item": "Tagliatelle Bolognese",
+   "price": 22,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Tonnarelli Cacio & Pepe",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Bucatini Amatriciana",
+   "price": 21,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Linguine Vongole",
+   "price": 23,
+   "description": "clams"
+  },
+  {
+   "section": "Pasta",
+   "item": "Linguine ai Frutti di Mare",
+   "price": 24,
+   "description": "calamari, clams, mussels, prawns"
+  },
+  {
+   "section": "Pasta",
+   "item": "Tagliatelle Salmone & Zucchine",
+   "price": 22,
+   "description": "smoked salmon"
+  },
+  {
+   "section": "Pasta",
+   "item": "Rigatoni Salsiccia & Funghi",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Gnocchi alla Sorrentina",
+   "price": 20,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Pappardelle con Funghi",
+   "price": 21,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Tortelloni di Manzo",
+   "price": 21,
+   "description": ""
+  },
+  {
+   "section": "Secondi",
+   "item": "Tagliata di Manzo",
+   "price": 39,
+   "description": "flat iron steak, swiss chard"
+  },
+  {
+   "section": "Secondi",
+   "item": "Arista di Maiale",
+   "price": 34,
+   "description": "stuffed pork chop, prosciutto, mozzarella"
+  },
+  {
+   "section": "Secondi",
+   "item": "Catch of the Day",
+   "price": 34,
+   "description": ""
+  }
+ ],
+ "notes": "PDF undated; 5% surcharge added. Salad add-ons: grilled chicken +6, steak +7, prawns +7. Pizza add-ons $4 (burrata $5).",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 20 prices in sections ['Pinsa (Roman pizza)', 'Pasta', 'Secondi']"
+}

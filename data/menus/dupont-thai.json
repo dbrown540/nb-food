@@ -1,0 +1,12 @@
+{
+ "name": "Dupont Thai",
+ "addr": "1398 Grant Avenue",
+ "menu_url": null,
+ "source": "web search",
+ "as_of": "2026-09-09",
+ "status": "skipped",
+ "items": [],
+ "notes": "CLOSED per Yelp (Mar 2026); 1398 Grant is now Tasty Pot (Taiwanese hot pot). Remove from places.json on next OSM refresh.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

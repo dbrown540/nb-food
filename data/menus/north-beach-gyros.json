@@ -1,0 +1,12 @@
+{
+ "name": "North Beach Gyros",
+ "addr": "561 Columbus Avenue",
+ "menu_url": "https://www.mynorthbeachgyros.com/",
+ "source": "no reliable menu source",
+ "as_of": "2026-09-09",
+ "status": "not_found",
+ "items": [],
+ "notes": "official site unreachable; Toast/UberEats listings JS-only",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

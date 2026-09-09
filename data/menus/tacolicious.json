@@ -1,0 +1,259 @@
+{
+ "name": "Tacolicious",
+ "addr": "1548 Stockton Street",
+ "menu_url": "https://www.tacolicious.com/menus/",
+ "source": "restaurant website (BentoBox menus page)",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Tacos",
+   "item": "Tacos - 2 for $15",
+   "price": 15,
+   "description": "4 for $29 / 10 for $65; all with three salsas"
+  },
+  {
+   "section": "Tacos",
+   "item": "Shot-and-a-Beer Braised Chicken",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tacos",
+   "item": "Coca-Cola Braised Carnitas",
+   "price": null,
+   "description": "GF"
+  },
+  {
+   "section": "Tacos",
+   "item": "Vampiro",
+   "price": null,
+   "description": "+$1; carne asada, pepper jack"
+  },
+  {
+   "section": "Tacos",
+   "item": "Guajillo-Braised Beef",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tacos",
+   "item": "La Veronica",
+   "price": null,
+   "description": "braised lamb shoulder, GF"
+  },
+  {
+   "section": "Tacos",
+   "item": "Crispy Shrimp",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tacos",
+   "item": "Baja Fried Fish",
+   "price": null,
+   "description": "flour tortilla"
+  },
+  {
+   "section": "Tacos",
+   "item": "Verduras",
+   "price": null,
+   "description": "vegan"
+  },
+  {
+   "section": "Tacos",
+   "item": "Abbot's Plant-Based Chorizo-Potato",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tacos",
+   "item": "Mushroom Carnitas",
+   "price": null,
+   "description": "refried black beans, kale, GF veg"
+  },
+  {
+   "section": "Sides",
+   "item": "Black Midnight Beans",
+   "price": 7,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Non-traditional Refried Beans",
+   "price": 7,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Rice-o-licious",
+   "price": 7,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Corn",
+   "price": 7,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Made-to-Order Guacamole",
+   "price": 13.25,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Chile Con Queso",
+   "price": 13,
+   "description": "add chorizo +3"
+  },
+  {
+   "section": "Snacks",
+   "item": "Chicharrones de Pollo",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Small Plates",
+   "item": "Watermelon-Tomato Salad",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Small Plates",
+   "item": "Shrimp Aguachile",
+   "price": 16,
+   "description": ""
+  },
+  {
+   "section": "Small Plates",
+   "item": "Tuna Tostada Contramar-Style",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Small Plates",
+   "item": "Calamari a la Plancha",
+   "price": 16,
+   "description": "yellow-eye beans"
+  },
+  {
+   "section": "Small Plates",
+   "item": "MF Chicken Tacos",
+   "price": 14,
+   "description": "two crispy tacos"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Sopa Maya",
+   "price": 14,
+   "description": "chicken, lime, avocado, rice"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Albondigas Mexitalia",
+   "price": 15,
+   "description": "pork-beef meatballs, polenta"
+  },
+  {
+   "section": "Salads",
+   "item": "Marina Girl Salad",
+   "price": 16,
+   "description": "add chicken +4.25, shrimp/fish +5.25"
+  },
+  {
+   "section": "Salads",
+   "item": "Kale Salad",
+   "price": 16,
+   "description": "add chicken +4.25, shrimp/fish +5.25"
+  },
+  {
+   "section": "Platos Fuertes",
+   "item": "Steak Fritas",
+   "price": 39,
+   "description": "NY strip, fries, tortillas"
+  },
+  {
+   "section": "Platos Fuertes",
+   "item": "Tamales de la Casa",
+   "price": 18,
+   "description": "with rice and beans"
+  },
+  {
+   "section": "Lunch Special (M-F 11:30-3)",
+   "item": "2 tacos + cup of soup or small salad",
+   "price": 17,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (weekdays 3-5:30)",
+   "item": "2 Tacos",
+   "price": 8,
+   "description": "chicken, carnitas, fish, or verduras"
+  },
+  {
+   "section": "Happy Hour (weekdays 3-5:30)",
+   "item": "MF Chicken Tacos",
+   "price": 9,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (weekdays 3-5:30)",
+   "item": "T-Lish Dip Trio",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Taco Tuesday",
+   "item": "Old-school tacos kit (6)",
+   "price": 26,
+   "description": ""
+  },
+  {
+   "section": "Dulce",
+   "item": "Churritos",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Dulce",
+   "item": "Meyer Lemon Flan",
+   "price": 12,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Fresh-pressed juices",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Margarita de la Casa",
+   "price": 16,
+   "description": "pitcher $54"
+  },
+  {
+   "section": "Drinks",
+   "item": "Tap beer",
+   "price": 9,
+   "description": "$9-11"
+  },
+  {
+   "section": "Drinks",
+   "item": "Agua Fresca",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Kids menu",
+   "price": 10,
+   "description": ""
+  }
+ ],
+ "notes": "CAUTION: tacolicious.com lists only Marina and Mission locations (Sept 2026); the 1548 Stockton (North Beach) storefront may be closed — verify before walking over. 6.5% surcharge. Lunch special Mon-Fri 11:30-3: 2 tacos + soup or small salad $17. Happy hour weekdays 3-5:30: 2 tacos $8.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median of 13 prices in sections ['Small Plates', 'Salads', 'Platos Fuertes', 'Lunch Special (M-F 11:30-3)', 'Tacos']"
+}

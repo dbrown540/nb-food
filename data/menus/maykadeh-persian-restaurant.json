@@ -1,0 +1,325 @@
+{
+ "name": "Maykadeh Persian Restaurant",
+ "addr": "470 Green Street",
+ "menu_url": "https://maykadehrestaurant.com/menu/",
+ "source": "restaurant website (menu page headed 'Delivery & Catering Prices')",
+ "as_of": "2026-09-09",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Shirazi Salad",
+   "price": 10,
+   "description": "cucumber, tomato, onion"
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Mast-o-Khiar",
+   "price": 10,
+   "description": "yogurt, cucumber"
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Mast-o-Musir",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Feta Cheese Spread",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Feta Cheese & Olives",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Sabzee & Panir",
+   "price": 10,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Torshee",
+   "price": 10,
+   "description": "pickled vegetables"
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Pickles",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Fancy Salad",
+   "price": 16,
+   "description": "poached pear, spinach, walnuts"
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Greek Salad",
+   "price": 15,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Heart of Romaine",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Baba Ghanoush",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Hummus",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Kashke Bademjan",
+   "price": 16,
+   "description": "eggplant"
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Aash",
+   "price": 10,
+   "description": "barley vegetable soup"
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Poloo (plate of basmati rice)",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Koobideh (one side skewer)",
+   "price": 13,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Lamb Tongue",
+   "price": 27,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Lamb Head",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Pache (lamb feet)",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Brain",
+   "price": 24,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "French Feta Cheese",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Skewer of Broiled Tomatoes",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Herbed Thick Cut Fries",
+   "price": 10,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Grilled Zucchini, Bell Pepper & Onion Kebab",
+   "price": 15,
+   "description": ""
+  },
+  {
+   "section": "Mazeh (appetizers)",
+   "item": "Bag of Six Sangak Bread",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Chelo-kebab Koobideh",
+   "price": 27,
+   "description": "ground angus beef + lamb, basmati rice"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Chelo-kebab Chicken Koobideh",
+   "price": 27,
+   "description": "ground chicken breast"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Joojeh Kebab",
+   "price": 27,
+   "description": "saffron chicken thighs, vegetables, rice"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Spicy Joojeh Kebab",
+   "price": 27,
+   "description": ""
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Breast Kebab",
+   "price": 28,
+   "description": "marinated chicken breast"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Poussin",
+   "price": 32,
+   "description": "baby chicken"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Shishilik",
+   "price": 44,
+   "description": "rack of lamb chops"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Maykadeh Kebab (Barg)",
+   "price": 45,
+   "description": "filet mignon slices"
+  },
+  {
+   "section": "Entrees - Kebabs",
+   "item": "Maykadeh Soltani",
+   "price": 54,
+   "description": "barg + koobideh"
+  },
+  {
+   "section": "Steaks",
+   "item": "Saffron Filet Mignon Kebab",
+   "price": 62,
+   "description": ""
+  },
+  {
+   "section": "Steaks",
+   "item": "Rib Eye Steak (16 oz)",
+   "price": 60,
+   "description": ""
+  },
+  {
+   "section": "Entrees - Stews",
+   "item": "Ghorme Sabzee",
+   "price": 30,
+   "description": "lamb shank, herbs, rice"
+  },
+  {
+   "section": "Entrees - Stews",
+   "item": "Khoresht Bademjan",
+   "price": 28,
+   "description": "lamb shank, eggplant"
+  },
+  {
+   "section": "Entrees - Stews",
+   "item": "Khoresht Fesenjoon",
+   "price": 27,
+   "description": "walnut pomegranate, chicken thighs"
+  },
+  {
+   "section": "Entrees - Stews",
+   "item": "Khoresht Ghaymeh",
+   "price": 28,
+   "description": "lamb, split peas"
+  },
+  {
+   "section": "Entrees - Stews",
+   "item": "Zereshk Polo",
+   "price": 28,
+   "description": "barberry rice, chicken thighs"
+  },
+  {
+   "section": "Entrees - Stews",
+   "item": "Baghali Polo (Sunday only)",
+   "price": 28,
+   "description": "fava dill rice, lamb shank"
+  },
+  {
+   "section": "Seafood",
+   "item": "Giant Prawns",
+   "price": 36,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Organic Filet of Salmon",
+   "price": 34,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Bastani (Persian ice cream)",
+   "price": 10,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Fallodeh",
+   "price": 10,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Creme Caramel",
+   "price": 10,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Homemade Baklava",
+   "price": 8,
+   "description": ""
+  },
+  {
+   "section": "Beverage",
+   "item": "Dough (yogurt drink)",
+   "price": 7,
+   "description": ""
+  },
+  {
+   "section": "Beverage",
+   "item": "Soft Drinks",
+   "price": 4,
+   "description": ""
+  },
+  {
+   "section": "Beverage",
+   "item": "Persian Tea / Coffee",
+   "price": 4,
+   "description": ""
+  }
+ ],
+ "notes": "Page is headed 'Delivery & Catering Prices' — dine-in may differ. Visa/MC only, no substitutions. Kebabs are charcoal-grilled chicken/lamb/beef with basmati rice — protein-forward but $27+.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median of 17 prices in sections ['Entrees - Kebabs', 'Entrees - Stews', 'Seafood']"
+}
