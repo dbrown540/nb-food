@@ -5,6 +5,13 @@ North Beach, SF — with walk times from 371 Columbus Ave, price ratings,
 health-fit ratings, and hand-verified notes (Apple Pay, cash-only, laptop
 policy, best orders).
 
+## Enrichment layers (merged into places.json by build.py, by POI name)
+
+- **Street risk** — `data/crime/poi_street_risk.json` (`scripts/street_risk.py`): SFPD incidents within 150 m over the trailing 365 days per POI, split violent / property / drug, with a percentile across the 374. Caveat: SFPD snaps incidents to intersections, so a POI 160+ m from any intersection point reads artificially low (`nearest_incident_m`).
+- **Health inspections** — `data/inspections/poi_inspections.json` (`scripts/fetch_inspections.py`, `scripts/inspections.py`): three SF DPH open datasets — numeric scores 2016–2019, and placard results (Pass / Conditional Pass / Closure + violation counts) for 2020–2023 and 2024–present (monthly). 302/374 POIs matched (207 name+address, 95 name-only). Current data lags the city's lookup tool by months for some businesses.
+- **Menus** — `data/menus/*.json` + `index.json` (`scripts/menus_report.py`): item/price extractions from restaurants' own sites or storefront pages; 22 of 41 attempted North Beach places so far. Aggregators (Yelp/Toast/DoorDash) block automation, so coverage grows by hand.
+- **Citywide base** — `data/sf_places.json` / `data/sf.db` (`scripts/fetch_sf_pois.py`): all 3,932 restaurants, cafes and grocery shops in SF from OSM, for extending the index beyond North Beach.
+
 ## Layout
 
 - `data/osm_raw.json` — raw OpenStreetMap POIs for the North Beach bbox

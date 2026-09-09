@@ -15,7 +15,7 @@
       "health": "ok",
       "applePay": true,
       "laptops": true,
-      "notes": "Danny's find: two floors, 2nd floor good for relaxed work; open late (Mon 10pm, Tue-Sun ~11pm) — solves the everything-closes-at-4 problem. Decaf lattes. Food is comfort Italian (panini, cannoli); tuna sandwich = most protein-forward.",
+      "notes": "Danny's find: two floors, 2nd floor good for relaxed work; open late (Mon 10pm, Tue-Sun ~11pm) — solves the everything-closes-at-4 problem. Decaf lattes. Food is comfort Italian (panini, cannoli); tuna sandwich = most protein-forward. DPH: Conditional Pass on 2025-08-05 with 8 violations (2016-19 score 96) — fine for coffee; check the current placard before eating there.",
       "verified": "2026-08-31"
     },
     "comptons coffe house": {
@@ -78,8 +78,8 @@
     },
     "gourmet delight bbq": {
       "price": 1,
-      "health": "trap",
-      "notes": "SKIP: last SF health inspection on record scored 79 with 6 violations incl. high-risk food holding temperature and inadequate handwashing (DataSF LIVES, 2019-10); Danny saw recent reviews citing cleanliness/raw-meat handling. Use Kam Po instead.",
+      "health": "ok",
+      "notes": "Mixed record: 2019 numeric score 79 (6 violations incl. high-risk temperature holding) and recent reviews citing cleanliness — BUT the latest SF DPH inspection (2026-02-19) is a PASS with 0 violations. Kam Po (Pass 2025-09, 0 violations) remains the safer pick for roast meat.",
       "verified": "2026-09-09"
     },
     "kam po kitchen": {
