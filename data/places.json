@@ -2287,7 +2287,11 @@
   "lon": -122.41037,
   "hours": "",
   "website": "https://kampokitchen.shop/",
-  "phone": "+1-415-982-3516"
+  "phone": "+1-415-982-3516",
+  "price": 1,
+  "health": "strong",
+  "notes": "Best-known roast-meat shop in the neighborhood (Broadway at Powell). Same order: roast pork or duck over rice, extra vegetables; skip crispy pork belly before lifting.",
+  "verified": "2026-09-09"
  },
  {
   "name": "Lady Luck Cafe",
@@ -2742,7 +2746,11 @@
   "lon": -122.40837,
   "hours": "Mo-Su 08:00-18:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "price": 1,
+  "health": "strong",
+  "notes": "Siu mei (roast meat) counter on Stockton, on the walk to Betty Ann Ong rec center. Roast pork/duck/soy chicken over rice + choy sum = 40g+ protein, ~$10-13. Pre-gym meal. Likely cash.",
+  "verified": "2026-09-09"
  },
  {
   "name": "Gourmet Kitchen",
@@ -2794,7 +2802,11 @@
   "lon": -122.40607,
   "hours": "",
   "website": "https://honswuntunhouse-sf.com/",
-  "phone": "+1-415-397-3232"
+  "phone": "+1-415-397-3232",
+  "price": 1,
+  "health": "ok",
+  "notes": "Wonton noodle soup, one block from Betty Ann Ong. Lighter pre-gym option (~25g protein). Cash.",
+  "verified": "2026-09-09"
  },
  {
   "name": "Hotpot Champ",

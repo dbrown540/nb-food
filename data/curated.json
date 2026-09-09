@@ -75,6 +75,24 @@
       "health": "strong",
       "notes": "Free try-before-you-buy tasting bar, ~300 teas (ask for Uncle Gee). Buy loose-leaf green (~$0.30/cup at home) — the budget green-tea habit.",
       "verified": "2026-08-30"
+    },
+    "gourmet delight bbq": {
+      "price": 1,
+      "health": "strong",
+      "notes": "Siu mei (roast meat) counter on Stockton, on the walk to Betty Ann Ong rec center. Roast pork/duck/soy chicken over rice + choy sum = 40g+ protein, ~$10-13. Pre-gym meal. Likely cash.",
+      "verified": "2026-09-09"
+    },
+    "kam po kitchen": {
+      "price": 1,
+      "health": "strong",
+      "notes": "Best-known roast-meat shop in the neighborhood (Broadway at Powell). Same order: roast pork or duck over rice, extra vegetables; skip crispy pork belly before lifting.",
+      "verified": "2026-09-09"
+    },
+    "hons wun tun house": {
+      "price": 1,
+      "health": "ok",
+      "notes": "Wonton noodle soup, one block from Betty Ann Ong. Lighter pre-gym option (~25g protein). Cash.",
+      "verified": "2026-09-09"
     }
   },
   "extras": [
