@@ -10,7 +10,16 @@
   "lon": -122.40842,
   "hours": "Mo-Fr 16:00-24:00; Sa-Su 13:00-25:00",
   "website": "https://thebellecora.com/",
-  "phone": "+1 415 8725451"
+  "phone": "+1 415 8725451",
+  "risk": {
+   "violent": 42,
+   "property": 101,
+   "drug": 10,
+   "total": 153,
+   "per_month": 12.76,
+   "percentile": 67.3,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Bocce Cafe",
@@ -23,7 +32,16 @@
   "lon": -122.40709,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 27,
+   "property": 70,
+   "drug": 4,
+   "total": 101,
+   "per_month": 8.42,
+   "percentile": 41.3,
+   "nearest_incident_m": 34
+  }
  },
  {
   "name": "Caffe Trieste",
@@ -42,7 +60,16 @@
   "applePay": false,
   "laptops": false,
   "notes": "CASH-LEANING. Oldest espresso bar on the West Coast (1956). Weekend cappuccino spot, culturally analog — not an office. Open late (~10pm).",
-  "verified": "2026-08-30"
+  "verified": "2026-08-30",
+  "risk": {
+   "violent": 57,
+   "property": 138,
+   "drug": 18,
+   "total": 213,
+   "per_month": 17.76,
+   "percentile": 86.9,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Caffe Trieste Annex Retail Store",
@@ -55,7 +82,16 @@
   "lon": -122.40737,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 56,
+   "property": 138,
+   "drug": 18,
+   "total": 212,
+   "per_month": 17.68,
+   "percentile": 86.6,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Caffè Greco",
@@ -74,7 +110,16 @@
   "applePay": false,
   "laptops": false,
   "notes": "CASH ONLY (verified in person). Open until ~11pm — the evening decaf-latte spot once you carry cash. Joe-app mobile ordering listing is stale.",
-  "verified": "2026-08-30"
+  "verified": "2026-08-30",
+  "risk": {
+   "violent": 59,
+   "property": 173,
+   "drug": 22,
+   "total": 254,
+   "per_month": 21.18,
+   "percentile": 97.9,
+   "nearest_incident_m": 37
+  }
  },
  {
   "name": "Caffé Sport",
@@ -87,7 +132,16 @@
   "lon": -122.40862,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 31,
+   "property": 77,
+   "drug": 8,
+   "total": 116,
+   "per_month": 9.67,
+   "percentile": 48.8,
+   "nearest_incident_m": 40
+  }
  },
  {
   "name": "California Fish Market",
@@ -100,7 +154,16 @@
   "lon": -122.40828,
   "hours": "",
   "website": "",
-  "phone": "+1 415-757-0918"
+  "phone": "+1 415-757-0918",
+  "risk": {
+   "violent": 42,
+   "property": 105,
+   "drug": 10,
+   "total": 157,
+   "per_month": 13.09,
+   "percentile": 70.2,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Cassava",
@@ -113,7 +176,16 @@
   "lon": -122.40823,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 59,
+   "property": 173,
+   "drug": 22,
+   "total": 254,
+   "per_month": 21.18,
+   "percentile": 97.9,
+   "nearest_incident_m": 27
+  }
  },
  {
   "name": "Chubby Noodle",
@@ -126,7 +198,16 @@
   "lon": -122.40854,
   "hours": "Mo-Fr 17:00-22:00; Sa,Su 10:00-22:00",
   "website": "https://www.chubbynoodle.com/north-beach",
-  "phone": "+1 415 2969600"
+  "phone": "+1 415 2969600",
+  "risk": {
+   "violent": 31,
+   "property": 77,
+   "drug": 8,
+   "total": 116,
+   "per_month": 9.67,
+   "percentile": 48.8,
+   "nearest_incident_m": 34
+  }
  },
  {
   "name": "Dupont Thai",
@@ -139,7 +220,16 @@
   "lon": -122.40728,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 32,
+   "property": 92,
+   "drug": 10,
+   "total": 134,
+   "per_month": 11.17,
+   "percentile": 61.7,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Golden Boy Pizza",
@@ -155,7 +245,16 @@
   "phone": "+1 415-982-9738",
   "price": 1,
   "health": "trap",
-  "notes": "Legendary focaccia squares. A treat, not a system — log it for intentional nights."
+  "notes": "Legendary focaccia squares. A treat, not a system — log it for intentional nights.",
+  "risk": {
+   "violent": 43,
+   "property": 107,
+   "drug": 10,
+   "total": 160,
+   "per_month": 13.34,
+   "percentile": 71.8,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Green Street Market",
@@ -168,7 +267,16 @@
   "lon": -122.40752,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 41,
+   "property": 103,
+   "drug": 9,
+   "total": 153,
+   "per_month": 12.76,
+   "percentile": 67.3,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Henry's Hunan North",
@@ -181,7 +289,16 @@
   "lon": -122.4073,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 32,
+   "property": 92,
+   "drug": 10,
+   "total": 134,
+   "per_month": 11.17,
+   "percentile": 61.7,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Hi-Way",
@@ -194,7 +311,16 @@
   "lon": -122.40843,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 59,
+   "property": 173,
+   "drug": 22,
+   "total": 254,
+   "per_month": 21.18,
+   "percentile": 97.9,
+   "nearest_incident_m": 45
+  }
  },
  {
   "name": "Maykadeh Persian Restaurant",
@@ -207,7 +333,16 @@
   "lon": -122.40699,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 27,
+   "property": 72,
+   "drug": 4,
+   "total": 103,
+   "per_month": 8.59,
+   "percentile": 42.6,
+   "nearest_incident_m": 40
+  }
  },
  {
   "name": "Mo's Grill",
@@ -220,7 +355,16 @@
   "lon": -122.40721,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 31,
+   "property": 91,
+   "drug": 10,
+   "total": 132,
+   "per_month": 11.01,
+   "percentile": 59.8,
+   "nearest_incident_m": 47
+  }
  },
  {
   "name": "Mona Lisa Mare e Monti",
@@ -233,7 +377,16 @@
   "lon": -122.40804,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 39,
+   "property": 117,
+   "drug": 12,
+   "total": 168,
+   "per_month": 14.01,
+   "percentile": 74.0,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "North Beach Pizza",
@@ -246,7 +399,16 @@
   "lon": -122.40747,
   "hours": "",
   "website": "https://www.northbeachpizza.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 22,
+   "property": 55,
+   "drug": 4,
+   "total": 81,
+   "per_month": 6.75,
+   "percentile": 30.0,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Sodini's",
@@ -259,7 +421,16 @@
   "lon": -122.40768,
   "hours": "Mo-Fr 17:00-00:00; Sa-Su16:00-00:00",
   "website": "https://sodinisgreenvalley.com/",
-  "phone": "+1-415-291-0499"
+  "phone": "+1-415-291-0499",
+  "risk": {
+   "violent": 42,
+   "property": 102,
+   "drug": 10,
+   "total": 154,
+   "per_month": 12.84,
+   "percentile": 68.1,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Sotto Mare",
@@ -272,7 +443,16 @@
   "lon": -122.40832,
   "hours": "Mo-Th 11:30-21:00; Fr,Sa 11:30-22:00; Su 11:30-21:00",
   "website": "https://www.sottomaresf.com/",
-  "phone": "+1 415 3983181"
+  "phone": "+1 415 3983181",
+  "risk": {
+   "violent": 42,
+   "property": 105,
+   "drug": 10,
+   "total": 157,
+   "per_month": 13.09,
+   "percentile": 70.2,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Stella Pastry",
@@ -285,7 +465,16 @@
   "lon": -122.40832,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 40,
+   "property": 118,
+   "drug": 14,
+   "total": 172,
+   "per_month": 14.34,
+   "percentile": 74.5,
+   "nearest_incident_m": 53
+  }
  },
  {
   "name": "Tamarind Hall",
@@ -298,7 +487,16 @@
   "lon": -122.4071,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 54,
+   "property": 125,
+   "drug": 16,
+   "total": 195,
+   "per_month": 16.26,
+   "percentile": 82.3,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "The Stinking Rose",
@@ -311,7 +509,16 @@
   "lon": -122.40817,
   "hours": "",
   "website": "https://thestinkingrose.com/",
-  "phone": "+1 415 7817673"
+  "phone": "+1 415 7817673",
+  "risk": {
+   "violent": 40,
+   "property": 118,
+   "drug": 14,
+   "total": 172,
+   "per_month": 14.34,
+   "percentile": 74.5,
+   "nearest_incident_m": 45
+  }
  },
  {
   "name": "Tupelo",
@@ -324,7 +531,16 @@
   "lon": -122.40739,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 40,
+   "property": 119,
+   "drug": 12,
+   "total": 171,
+   "per_month": 14.26,
+   "percentile": 74.3,
+   "nearest_incident_m": 48
+  }
  },
  {
   "name": "Yarsa",
@@ -337,7 +553,16 @@
   "lon": -122.40718,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 48,
+   "property": 126,
+   "drug": 14,
+   "total": 188,
+   "per_month": 15.68,
+   "percentile": 80.4,
+   "nearest_incident_m": 23
+  }
  },
  {
   "name": "ristorante ideal",
@@ -350,7 +575,16 @@
   "lon": -122.40739,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 42,
+   "property": 116,
+   "drug": 14,
+   "total": 172,
+   "per_month": 14.34,
+   "percentile": 74.5,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "606",
@@ -363,7 +597,16 @@
   "lon": -122.40721,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 63,
+   "property": 146,
+   "drug": 25,
+   "total": 234,
+   "per_month": 19.51,
+   "percentile": 92.2,
+   "nearest_incident_m": 49
+  }
  },
  {
   "name": "Acquolina",
@@ -376,7 +619,16 @@
   "lon": -122.40908,
   "hours": "",
   "website": "https://www.facebook.com/Acquolina-446017905573613/",
-  "phone": "+1 415-781-0331"
+  "phone": "+1 415-781-0331",
+  "risk": {
+   "violent": 27,
+   "property": 45,
+   "drug": 5,
+   "total": 77,
+   "per_month": 6.42,
+   "percentile": 27.6,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Alimento",
@@ -389,7 +641,16 @@
   "lon": -122.40953,
   "hours": "",
   "website": "https://www.alimentosf.com/",
-  "phone": "+1 415 2969463"
+  "phone": "+1 415 2969463",
+  "risk": {
+   "violent": 35,
+   "property": 82,
+   "drug": 11,
+   "total": 128,
+   "per_month": 10.67,
+   "percentile": 56.6,
+   "nearest_incident_m": 49
+  }
  },
  {
   "name": "Barbara Pinseria & Cocktail Bar",
@@ -402,7 +663,16 @@
   "lon": -122.40878,
   "hours": "Su-Th 12:00-22:00; Fr-Sa 12:00-23:00",
   "website": "https://www.sfbarbara.com/",
-  "phone": "+1 415 445 3009"
+  "phone": "+1 415 445 3009",
+  "risk": {
+   "violent": 46,
+   "property": 127,
+   "drug": 13,
+   "total": 186,
+   "per_month": 15.51,
+   "percentile": 79.1,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Betty Lou's",
@@ -415,7 +685,16 @@
   "lon": -122.40701,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 56,
+   "property": 110,
+   "drug": 21,
+   "total": 187,
+   "per_month": 15.59,
+   "percentile": 79.4,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Broadway Cigar & Liquors",
@@ -428,7 +707,16 @@
   "lon": -122.40641,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 58,
+   "property": 111,
+   "drug": 22,
+   "total": 191,
+   "per_month": 15.93,
+   "percentile": 81.2,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Cafe Angolo",
@@ -441,7 +729,16 @@
   "lon": -122.4094,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 35,
+   "property": 85,
+   "drug": 11,
+   "total": 131,
+   "per_month": 10.92,
+   "percentile": 59.5,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "Caffè Roma",
@@ -454,7 +751,16 @@
   "lon": -122.40936,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 29,
+   "property": 48,
+   "drug": 8,
+   "total": 85,
+   "per_month": 7.09,
+   "percentile": 31.6,
+   "nearest_incident_m": 63
+  }
  },
  {
   "name": "Capo's",
@@ -467,7 +773,16 @@
   "lon": -122.40838,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 53,
+   "property": 158,
+   "drug": 22,
+   "total": 233,
+   "per_month": 19.43,
+   "percentile": 91.7,
+   "nearest_incident_m": 38
+  }
  },
  {
   "name": "Cavalli Cafe",
@@ -486,7 +801,16 @@
   "applePay": true,
   "laptops": true,
   "notes": "Danny's find: two floors, 2nd floor good for relaxed work; open late (Mon 10pm, Tue-Sun ~11pm) — solves the everything-closes-at-4 problem. Decaf lattes. Food is comfort Italian (panini, cannoli); tuna sandwich = most protein-forward.",
-  "verified": "2026-08-31"
+  "verified": "2026-08-31",
+  "risk": {
+   "violent": 29,
+   "property": 89,
+   "drug": 10,
+   "total": 128,
+   "per_month": 10.67,
+   "percentile": 56.6,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "China Live",
@@ -499,7 +823,16 @@
   "lon": -122.40788,
   "hours": "",
   "website": "https://chinalivesf.com/",
-  "phone": "+1-415-788-8188"
+  "phone": "+1-415-788-8188",
+  "risk": {
+   "violent": 63,
+   "property": 159,
+   "drug": 24,
+   "total": 246,
+   "per_month": 20.51,
+   "percentile": 95.7,
+   "nearest_incident_m": 72
+  }
  },
  {
   "name": "Don Pistos",
@@ -512,7 +845,16 @@
   "lon": -122.40797,
   "hours": "",
   "website": "https://www.donpistos.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 57,
+   "drug": 4,
+   "total": 82,
+   "per_month": 6.84,
+   "percentile": 30.3,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Eight Tables",
@@ -525,7 +867,16 @@
   "lon": -122.40788,
   "hours": "Tu-Sa 17:30+",
   "website": "https://eighttables.com/",
-  "phone": "+1 415 7888788"
+  "phone": "+1 415 7888788",
+  "risk": {
+   "violent": 60,
+   "property": 148,
+   "drug": 25,
+   "total": 233,
+   "per_month": 19.43,
+   "percentile": 91.7,
+   "nearest_incident_m": 54
+  }
  },
  {
   "name": "El Farolito",
@@ -538,7 +889,16 @@
   "lon": -122.40707,
   "hours": "Mo-Su 10:00-02:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 63,
+   "property": 136,
+   "drug": 22,
+   "total": 221,
+   "per_month": 18.43,
+   "percentile": 88.5,
+   "nearest_incident_m": 8
+  }
  },
  {
   "name": "Elena's",
@@ -551,7 +911,16 @@
   "lon": -122.40766,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 64,
+   "property": 152,
+   "drug": 25,
+   "total": 241,
+   "per_month": 20.1,
+   "percentile": 93.0,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "Fancy Wheat Field Bakery",
@@ -564,7 +933,16 @@
   "lon": -122.40865,
   "hours": "",
   "website": "",
-  "phone": "+1-415-982-1368"
+  "phone": "+1-415-982-1368",
+  "risk": {
+   "violent": 53,
+   "property": 155,
+   "drug": 22,
+   "total": 230,
+   "per_month": 19.18,
+   "percentile": 89.8,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Firenze by Night",
@@ -577,7 +955,16 @@
   "lon": -122.40903,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 36,
+   "property": 115,
+   "drug": 14,
+   "total": 165,
+   "per_month": 13.76,
+   "percentile": 72.9,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Flour + Water Pizzeria",
@@ -590,7 +977,16 @@
   "lon": -122.40958,
   "hours": "Mo-Su 11:30-22:00",
   "website": "https://www.fwpizzeria.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 28,
+   "property": 51,
+   "drug": 8,
+   "total": 87,
+   "per_month": 7.25,
+   "percentile": 32.4,
+   "nearest_incident_m": 63
+  }
  },
  {
   "name": "Gelato Classico Italian",
@@ -603,7 +999,16 @@
   "lon": -122.40889,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 27,
+   "property": 48,
+   "drug": 5,
+   "total": 80,
+   "per_month": 6.67,
+   "percentile": 29.8,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Georgian Cheese Boat",
@@ -616,7 +1021,16 @@
   "lon": -122.40706,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 56,
+   "property": 110,
+   "drug": 21,
+   "total": 187,
+   "per_month": 15.59,
+   "percentile": 79.4,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Il Casaro Pizzeria",
@@ -629,7 +1043,16 @@
   "lon": -122.40737,
   "hours": "Mo-Th 11:30-23:00; Fr-Sa 11:30-00:00; Su 12:00-23:00",
   "website": "https://www.ilcasaropizzeria.com/",
-  "phone": "+1 415 677 9455"
+  "phone": "+1 415 677 9455",
+  "risk": {
+   "violent": 70,
+   "property": 169,
+   "drug": 25,
+   "total": 264,
+   "per_month": 22.02,
+   "percentile": 99.5,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "JW & L Market",
@@ -642,7 +1065,16 @@
   "lon": -122.409,
   "hours": "",
   "website": "",
-  "phone": "+1 415 3972668"
+  "phone": "+1 415 3972668",
+  "risk": {
+   "violent": 37,
+   "property": 107,
+   "drug": 14,
+   "total": 158,
+   "per_month": 13.18,
+   "percentile": 70.8,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Kiss of Matcha",
@@ -655,7 +1087,16 @@
   "lon": -122.40735,
   "hours": "Tu-Th 11:00-19:00; Fr-Su 10:00-21:00",
   "website": "http://www.kissofmatcha.com/",
-  "phone": "+1 415 509 3043"
+  "phone": "+1 415 509 3043",
+  "risk": {
+   "violent": 64,
+   "property": 153,
+   "drug": 25,
+   "total": 242,
+   "per_month": 20.18,
+   "percentile": 93.6,
+   "nearest_incident_m": 55
+  }
  },
  {
   "name": "Little City Market",
@@ -668,7 +1109,16 @@
   "lon": -122.4087,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 51,
+   "property": 150,
+   "drug": 21,
+   "total": 222,
+   "per_month": 18.51,
+   "percentile": 88.7,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Little Vine",
@@ -681,7 +1131,16 @@
   "lon": -122.40781,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 11,
+   "property": 30,
+   "drug": 3,
+   "total": 44,
+   "per_month": 3.67,
+   "percentile": 14.5,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "Luke's Local Grocery",
@@ -698,7 +1157,16 @@
   "price": 3,
   "health": "strong",
   "notes": "2 min from home, 8am-9pm. Quality tier but pricey (deli plates ~$16, $11 tiny burrito — Danny verified) — role: emergency ingredients + prepared dinner when the TJ's window is missed, NOT staples or everyday lunch. Real butcher counter.",
-  "verified": "2026-08-31"
+  "verified": "2026-08-31",
+  "risk": {
+   "violent": 38,
+   "property": 80,
+   "drug": 9,
+   "total": 127,
+   "per_month": 10.59,
+   "percentile": 55.8,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Mee Mee Bakery",
@@ -711,7 +1179,16 @@
   "lon": -122.40858,
   "hours": "Mo-Sa 08:00-18:00; Su 08:00-17:00",
   "website": "https://meemeebakery.com/",
-  "phone": "+1-415-362-3204"
+  "phone": "+1-415-362-3204",
+  "risk": {
+   "violent": 42,
+   "property": 132,
+   "drug": 21,
+   "total": 195,
+   "per_month": 16.26,
+   "percentile": 82.3,
+   "nearest_incident_m": 53
+  }
  },
  {
   "name": "Molinari Delicatessen",
@@ -729,7 +1206,16 @@
   "health": "ok",
   "notes": "100-year-old deli next door to 371 Columbus. Danny's healthy order (verified 8/31): Custom Sandwich $19.25 — oven roasted turkey, soft roll, lettuce, tomatoes, mustard, NO cheese; add sweet bell peppers +$1 for bulk. Online pickup orders 9am-5:10pm. Cured-meat specials are the trap while cutting. Closed Sundays.",
   "verified": "2026-08-31",
-  "applePay": true
+  "applePay": true,
+  "risk": {
+   "violent": 71,
+   "property": 181,
+   "drug": 25,
+   "total": 277,
+   "per_month": 23.1,
+   "percentile": 100.0,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "MyCanh",
@@ -742,7 +1228,16 @@
   "lon": -122.40755,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 63,
+   "property": 155,
+   "drug": 25,
+   "total": 243,
+   "per_month": 20.26,
+   "percentile": 93.8,
+   "nearest_incident_m": 72
+  }
  },
  {
   "name": "Nick's Liquor",
@@ -755,7 +1250,16 @@
   "lon": -122.40728,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 68,
+   "property": 163,
+   "drug": 23,
+   "total": 254,
+   "per_month": 21.18,
+   "percentile": 97.9,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "North Beach 1st Test Kitchen",
@@ -768,7 +1272,16 @@
   "lon": -122.40931,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 29,
+   "property": 58,
+   "drug": 8,
+   "total": 95,
+   "per_month": 7.92,
+   "percentile": 36.7,
+   "nearest_incident_m": 47
+  }
  },
  {
   "name": "North Beach Restaurant",
@@ -781,7 +1294,16 @@
   "lon": -122.40892,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 38,
+   "property": 80,
+   "drug": 9,
+   "total": 127,
+   "per_month": 10.59,
+   "percentile": 55.8,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Original Joe's",
@@ -794,7 +1316,16 @@
   "lon": -122.40933,
   "hours": "Mo-Th 15:00-22:00; Fr 12:00-22:00; Sa,Su 10:00-22:00",
   "website": "https://originaljoes.com/",
-  "phone": "+1 415 7754877"
+  "phone": "+1 415 7754877",
+  "risk": {
+   "violent": 29,
+   "property": 47,
+   "drug": 8,
+   "total": 84,
+   "per_month": 7.0,
+   "percentile": 30.8,
+   "nearest_incident_m": 47
+  }
  },
  {
   "name": "Pizzelle di North Beach",
@@ -807,7 +1338,16 @@
   "lon": -122.40695,
   "hours": "Mo-We 10:00-22:00; Th-Fr 10:00-01:00; Sa 11:00-01:00; Su 11:00-23:00",
   "website": "https://www.pizzelle314.com/",
-  "phone": "+1-415-398-3555"
+  "phone": "+1-415-398-3555",
+  "risk": {
+   "violent": 59,
+   "property": 118,
+   "drug": 23,
+   "total": 200,
+   "per_month": 16.68,
+   "percentile": 83.4,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "Red Window",
@@ -820,7 +1360,16 @@
   "lon": -122.40923,
   "hours": "Tu-Th 17:00-22:00; Fr,Sa 10:00-23:00; Su 10:00-20:00; Mo off",
   "website": "https://www.theredwindow.com/",
-  "phone": "+1 415 7570600"
+  "phone": "+1 415 7570600",
+  "risk": {
+   "violent": 30,
+   "property": 58,
+   "drug": 8,
+   "total": 96,
+   "per_month": 8.01,
+   "percentile": 37.3,
+   "nearest_incident_m": 39
+  }
  },
  {
   "name": "Sam's",
@@ -833,7 +1382,16 @@
   "lon": -122.40735,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 63,
+   "property": 153,
+   "drug": 25,
+   "total": 241,
+   "per_month": 20.1,
+   "percentile": 93.0,
+   "nearest_incident_m": 60
+  }
  },
  {
   "name": "Sam's Panini",
@@ -846,7 +1404,16 @@
   "lon": -122.40962,
   "hours": "Mo-Su 12:00-19:00",
   "website": "https://samspanini.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 35,
+   "property": 82,
+   "drug": 11,
+   "total": 128,
+   "per_month": 10.67,
+   "percentile": 56.6,
+   "nearest_incident_m": 60
+  }
  },
  {
   "name": "Sun Kau Shing Co., Inc.",
@@ -859,7 +1426,16 @@
   "lon": -122.40864,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 53,
+   "property": 155,
+   "drug": 22,
+   "total": 230,
+   "per_month": 19.18,
+   "percentile": 89.8,
+   "nearest_incident_m": 23
+  }
  },
  {
   "name": "SunMoon Market",
@@ -872,7 +1448,16 @@
   "lon": -122.40765,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 65,
+   "property": 164,
+   "drug": 25,
+   "total": 254,
+   "per_month": 21.18,
+   "percentile": 97.9,
+   "nearest_incident_m": 77
+  }
  },
  {
   "name": "Tacolicious",
@@ -885,7 +1470,16 @@
   "lon": -122.40901,
   "hours": "Su-We 11:30-23:00; Th-Sa 11:30-24:00",
   "website": "https://www.tacolicious.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 36,
+   "property": 73,
+   "drug": 8,
+   "total": 117,
+   "per_month": 9.76,
+   "percentile": 49.3,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "Tacorea",
@@ -898,7 +1492,16 @@
   "lon": -122.40745,
   "hours": "",
   "website": "https://tacorea.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 63,
+   "property": 155,
+   "drug": 25,
+   "total": 243,
+   "per_month": 20.26,
+   "percentile": 93.8,
+   "nearest_incident_m": 66
+  }
  },
  {
   "name": "Taishan Specialty",
@@ -911,7 +1514,16 @@
   "lon": -122.40893,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 38,
+   "property": 113,
+   "drug": 15,
+   "total": 166,
+   "per_month": 13.84,
+   "percentile": 73.5,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Taqueria Zorro",
@@ -924,7 +1536,16 @@
   "lon": -122.40683,
   "hours": "Su-Th 11:00-23:00, Fr,Sa 11:00-02:00",
   "website": "https://www.taqueriazorro.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 59,
+   "property": 118,
+   "drug": 23,
+   "total": 200,
+   "per_month": 16.68,
+   "percentile": 83.4,
+   "nearest_incident_m": 33
+  }
  },
  {
   "name": "Tony's Coal Fired Pizza & Slice House",
@@ -937,7 +1558,16 @@
   "lon": -122.40904,
   "hours": "Mo-Tu 12:00-20:00; We-Sa 11:30-23:30",
   "website": "https://www.tonyscoalfired.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 29,
+   "property": 53,
+   "drug": 7,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 33
+  }
  },
  {
   "name": "Tony's Pizza Napoletana",
@@ -950,7 +1580,16 @@
   "lon": -122.40905,
   "hours": "Mo 12:00-22:00; We-Su 12:00-23:00",
   "website": "https://tonyspizzanapoletana.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 29,
+   "property": 53,
+   "drug": 7,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Vallejo Seafood Company",
@@ -963,7 +1602,16 @@
   "lon": -122.4092,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 37,
+   "property": 114,
+   "drug": 14,
+   "total": 165,
+   "per_month": 13.76,
+   "percentile": 72.9,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "ABC Supermarket Inc",
@@ -976,7 +1624,16 @@
   "lon": -122.40762,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 64,
+   "property": 160,
+   "drug": 25,
+   "total": 249,
+   "per_month": 20.76,
+   "percentile": 96.2,
+   "nearest_incident_m": 62
+  }
  },
  {
   "name": "Best Food",
@@ -989,7 +1646,16 @@
   "lon": -122.40844,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 34,
+   "property": 83,
+   "drug": 13,
+   "total": 130,
+   "per_month": 10.84,
+   "percentile": 58.4,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Broadway Dim Sum and Cafe",
@@ -1002,7 +1668,16 @@
   "lon": -122.40836,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 58,
+   "property": 148,
+   "drug": 25,
+   "total": 231,
+   "per_month": 19.26,
+   "percentile": 90.9,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "Café Broadway",
@@ -1015,7 +1690,16 @@
   "lon": -122.4082,
   "hours": "",
   "website": "",
-  "phone": "+1 415-956-1668"
+  "phone": "+1 415-956-1668",
+  "risk": {
+   "violent": 58,
+   "property": 148,
+   "drug": 25,
+   "total": 231,
+   "per_month": 19.26,
+   "percentile": 90.9,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "Canna Bistro",
@@ -1028,7 +1712,16 @@
   "lon": -122.40492,
   "hours": "",
   "website": "https://www.cannabistrotogo.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 30,
+   "property": 48,
+   "drug": 9,
+   "total": 87,
+   "per_month": 7.25,
+   "percentile": 32.4,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Cao Kee Market",
@@ -1041,7 +1734,16 @@
   "lon": -122.40909,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 35,
+   "property": 108,
+   "drug": 15,
+   "total": 158,
+   "per_month": 13.18,
+   "percentile": 70.8,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Chef Bowl, Inc.",
@@ -1054,7 +1756,16 @@
   "lon": -122.40995,
   "hours": "",
   "website": "",
-  "phone": "+1-415-398-3288"
+  "phone": "+1-415-398-3288",
+  "risk": {
+   "violent": 27,
+   "property": 86,
+   "drug": 13,
+   "total": 126,
+   "per_month": 10.51,
+   "percentile": 54.7,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Compton's Coffe House",
@@ -1072,7 +1783,16 @@
   "health": "ok",
   "laptops": true,
   "notes": "Backup office: free fast wifi, outlet bar under counter, ~6 solo tables; tight at peak, go early. Apple Pay unverified.",
-  "verified": "2026-08-30"
+  "verified": "2026-08-30",
+  "risk": {
+   "violent": 27,
+   "property": 47,
+   "drug": 8,
+   "total": 82,
+   "per_month": 6.84,
+   "percentile": 30.3,
+   "nearest_incident_m": 59
+  }
  },
  {
   "name": "D & G Group",
@@ -1085,7 +1805,16 @@
   "lon": -122.40709,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 74,
+   "property": 158,
+   "drug": 31,
+   "total": 263,
+   "per_month": 21.93,
+   "percentile": 99.2,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Dim Sum Bistro",
@@ -1098,7 +1827,16 @@
   "lon": -122.40806,
   "hours": "Mo-Su 08:00-16:00",
   "website": "https://dim-sum-bistro.com/",
-  "phone": "+1 415 7887028"
+  "phone": "+1 415 7887028",
+  "risk": {
+   "violent": 45,
+   "property": 120,
+   "drug": 20,
+   "total": 185,
+   "per_month": 15.43,
+   "percentile": 78.6,
+   "nearest_incident_m": 49
+  }
  },
  {
   "name": "Hing Lung Co",
@@ -1111,7 +1849,16 @@
   "lon": -122.40873,
   "hours": "",
   "website": "https://go-duck-yourself.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 28,
+   "property": 74,
+   "drug": 11,
+   "total": 113,
+   "per_month": 9.42,
+   "percentile": 48.0,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Il Pollaio",
@@ -1124,7 +1871,16 @@
   "lon": -122.41001,
   "hours": "Mo-Sa 11:30-14:30, 16:00-21:00",
   "website": "https://www.ilpollaiosf.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 24,
+   "property": 44,
+   "drug": 8,
+   "total": 76,
+   "per_month": 6.34,
+   "percentile": 26.8,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "Jamra",
@@ -1137,7 +1893,16 @@
   "lon": -122.40671,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 59,
+   "property": 116,
+   "drug": 22,
+   "total": 197,
+   "per_month": 16.43,
+   "percentile": 83.1,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Kin Tat Co.",
@@ -1150,7 +1915,16 @@
   "lon": -122.40843,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 80,
+   "drug": 11,
+   "total": 124,
+   "per_month": 10.34,
+   "percentile": 52.5,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Kum Luen",
@@ -1163,7 +1937,16 @@
   "lon": -122.40873,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 98,
+   "drug": 12,
+   "total": 143,
+   "per_month": 11.92,
+   "percentile": 65.4,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Liguria Bakery",
@@ -1176,7 +1959,16 @@
   "lon": -122.40928,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 8,
+   "property": 16,
+   "drug": 4,
+   "total": 28,
+   "per_month": 2.33,
+   "percentile": 6.7,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Little Garden",
@@ -1189,7 +1981,16 @@
   "lon": -122.40953,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 36,
+   "property": 113,
+   "drug": 15,
+   "total": 164,
+   "per_month": 13.68,
+   "percentile": 72.7,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Little Szechuan",
@@ -1202,7 +2003,16 @@
   "lon": -122.40569,
   "hours": "PH,Mo-Su 11:00-22:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 51,
+   "property": 90,
+   "drug": 21,
+   "total": 162,
+   "per_month": 13.51,
+   "percentile": 72.4,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Louie's Dim Sum Inc.",
@@ -1215,7 +2025,16 @@
   "lon": -122.40842,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 78,
+   "drug": 11,
+   "total": 122,
+   "per_month": 10.17,
+   "percentile": 51.7,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "Love Tea",
@@ -1228,7 +2047,16 @@
   "lon": -122.4071,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 74,
+   "property": 160,
+   "drug": 31,
+   "total": 265,
+   "per_month": 22.1,
+   "percentile": 99.7,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Mario's Bohemian Cigar Store Cafe",
@@ -1241,7 +2069,16 @@
   "lon": -122.40987,
   "hours": "Mo-Su 11:00-21:00",
   "website": "https://mariosbohemian.com",
-  "phone": "+1-415-362-0536"
+  "phone": "+1-415-362-0536",
+  "risk": {
+   "violent": 24,
+   "property": 42,
+   "drug": 6,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Ming's Poultry Inc",
@@ -1254,7 +2091,16 @@
   "lon": -122.40684,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 46,
+   "property": 88,
+   "drug": 20,
+   "total": 154,
+   "per_month": 12.84,
+   "percentile": 68.1,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Mura",
@@ -1267,7 +2113,16 @@
   "lon": -122.40475,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 30,
+   "property": 53,
+   "drug": 9,
+   "total": 92,
+   "per_month": 7.67,
+   "percentile": 35.7,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "North Beach Gyros",
@@ -1280,7 +2135,16 @@
   "lon": -122.41006,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 22,
+   "property": 38,
+   "drug": 6,
+   "total": 66,
+   "per_month": 5.5,
+   "percentile": 22.0,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Osmanthus Dim Sum Lounge",
@@ -1293,7 +2157,16 @@
   "lon": -122.4057,
   "hours": "Mo-Su 10:30-20:00",
   "website": "https://www.osmanthusdimsum.com/",
-  "phone": "+1 415 872 9648"
+  "phone": "+1 415 872 9648",
+  "risk": {
+   "violent": 50,
+   "property": 85,
+   "drug": 20,
+   "total": 155,
+   "per_month": 12.93,
+   "percentile": 68.9,
+   "nearest_incident_m": 23
+  }
  },
  {
   "name": "Pang Kee Bargain Market",
@@ -1306,7 +2179,16 @@
   "lon": -122.40854,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 42,
+   "property": 131,
+   "drug": 21,
+   "total": 194,
+   "per_month": 16.18,
+   "percentile": 82.0,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Paris Pizza",
@@ -1319,7 +2201,16 @@
   "lon": -122.4048,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 30,
+   "property": 53,
+   "drug": 9,
+   "total": 92,
+   "per_month": 7.67,
+   "percentile": 35.7,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "San Francisco Poultry",
@@ -1332,7 +2223,16 @@
   "lon": -122.40681,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 36,
+   "property": 57,
+   "drug": 9,
+   "total": 102,
+   "per_month": 8.51,
+   "percentile": 42.1,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Spuntino",
@@ -1345,7 +2245,16 @@
   "lon": -122.40988,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 24,
+   "property": 44,
+   "drug": 8,
+   "total": 76,
+   "per_month": 6.34,
+   "percentile": 26.8,
+   "nearest_incident_m": 54
+  }
  },
  {
   "name": "Summing Ho Trading Co.",
@@ -1358,7 +2267,16 @@
   "lon": -122.40699,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 40,
+   "property": 78,
+   "drug": 10,
+   "total": 128,
+   "per_month": 10.67,
+   "percentile": 56.6,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Sushi Chef",
@@ -1371,7 +2289,16 @@
   "lon": -122.40611,
   "hours": "We 11:00-14:00,16:30-21:30; Th-Su 10:30-14:00,16:30-21:30",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 64,
+   "property": 171,
+   "drug": 18,
+   "total": 253,
+   "per_month": 21.1,
+   "percentile": 97.6,
+   "nearest_incident_m": 54
+  }
  },
  {
   "name": "Tai Hing Market",
@@ -1384,7 +2311,16 @@
   "lon": -122.40815,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 49,
+   "property": 122,
+   "drug": 20,
+   "total": 191,
+   "per_month": 15.93,
+   "percentile": 81.2,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Tommaso's Ristorante Italiano",
@@ -1397,7 +2333,16 @@
   "lon": -122.4053,
   "hours": "Tu-Sa 17:00-22:30; Su 16:00-21:30",
   "website": "https://www.tommasos.com/",
-  "phone": "+1-415-398-9696"
+  "phone": "+1-415-398-9696",
+  "risk": {
+   "violent": 49,
+   "property": 72,
+   "drug": 15,
+   "total": 136,
+   "per_month": 11.34,
+   "percentile": 63.3,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "V & J Cafe",
@@ -1410,7 +2355,16 @@
   "lon": -122.40812,
   "hours": "",
   "website": "",
-  "phone": "+1 415-788-2822"
+  "phone": "+1 415-788-2822",
+  "risk": {
+   "violent": 57,
+   "property": 145,
+   "drug": 23,
+   "total": 225,
+   "per_month": 18.76,
+   "percentile": 89.3,
+   "nearest_incident_m": 50
+  }
  },
  {
   "name": "V.I.P Coffee & Cake Shop",
@@ -1423,7 +2377,16 @@
   "lon": -122.40796,
   "hours": "",
   "website": "",
-  "phone": "+1 415-989-7118"
+  "phone": "+1 415-989-7118",
+  "risk": {
+   "violent": 57,
+   "property": 145,
+   "drug": 23,
+   "total": 225,
+   "per_month": 18.76,
+   "percentile": 89.3,
+   "nearest_incident_m": 58
+  }
  },
  {
   "name": "Wa Li Bakery & Cafe",
@@ -1436,7 +2399,16 @@
   "lon": -122.40872,
   "hours": "",
   "website": "",
-  "phone": "+1-415-986-1660"
+  "phone": "+1-415-986-1660",
+  "risk": {
+   "violent": 28,
+   "property": 74,
+   "drug": 11,
+   "total": 113,
+   "per_month": 9.42,
+   "percentile": 48.0,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Yee's Restaurant",
@@ -1449,7 +2421,16 @@
   "lon": -122.40702,
   "hours": "Mo-Fr 08:00-20:00",
   "website": "http://www.yeesrestaurant.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 54,
+   "property": 124,
+   "drug": 22,
+   "total": 200,
+   "per_month": 16.68,
+   "percentile": 83.4,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Yuet Lee Seafood Restaurant",
@@ -1462,7 +2443,16 @@
   "lon": -122.4085,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 46,
+   "property": 133,
+   "drug": 21,
+   "total": 200,
+   "per_month": 16.68,
+   "percentile": 83.4,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Yummy BBQ Kitchen",
@@ -1475,7 +2465,16 @@
   "lon": -122.40822,
   "hours": "",
   "website": "",
-  "phone": "+1 415-378-3768"
+  "phone": "+1 415-378-3768",
+  "risk": {
+   "violent": 49,
+   "property": 122,
+   "drug": 20,
+   "total": 191,
+   "per_month": 15.93,
+   "percentile": 81.2,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "iL cilentano",
@@ -1488,7 +2487,16 @@
   "lon": -122.41021,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 23,
+   "property": 41,
+   "drug": 9,
+   "total": 73,
+   "per_month": 6.09,
+   "percentile": 25.2,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Blue Sky Restaurant",
@@ -1501,7 +2509,16 @@
   "lon": -122.41039,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 54,
+   "drug": 6,
+   "total": 73,
+   "per_month": 6.09,
+   "percentile": 25.2,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Brandy Ho's Hunan Food",
@@ -1514,7 +2531,16 @@
   "lon": -122.406,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 62,
+   "property": 164,
+   "drug": 18,
+   "total": 244,
+   "per_month": 20.35,
+   "percentile": 94.4,
+   "nearest_incident_m": 56
+  }
  },
  {
   "name": "Brioche Bakery & Cafe",
@@ -1527,7 +2553,16 @@
   "lon": -122.40572,
   "hours": "",
   "website": "",
-  "phone": "+1 415-572-3858"
+  "phone": "+1 415-572-3858",
+  "risk": {
+   "violent": 61,
+   "property": 167,
+   "drug": 19,
+   "total": 247,
+   "per_month": 20.6,
+   "percentile": 96.0,
+   "nearest_incident_m": 75
+  }
  },
  {
   "name": "Chong Hing Supermarket",
@@ -1540,7 +2575,16 @@
   "lon": -122.40856,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 28,
+   "property": 88,
+   "drug": 10,
+   "total": 126,
+   "per_month": 10.51,
+   "percentile": 54.7,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Coit Liquors",
@@ -1553,7 +2597,16 @@
   "lon": -122.41091,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 8,
+   "property": 17,
+   "drug": 5,
+   "total": 30,
+   "per_month": 2.5,
+   "percentile": 8.8,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "Coit Tower Cafe",
@@ -1566,7 +2619,16 @@
   "lon": -122.4061,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 1,
+   "property": 7,
+   "drug": 0,
+   "total": 8,
+   "per_month": 0.67,
+   "percentile": 0.8,
+   "nearest_incident_m": 100
+  }
  },
  {
   "name": "Dong Hing Supermarket",
@@ -1579,7 +2641,16 @@
   "lon": -122.40835,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 34,
+   "property": 88,
+   "drug": 13,
+   "total": 135,
+   "per_month": 11.26,
+   "percentile": 62.5,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Enter the Cafe",
@@ -1592,7 +2663,16 @@
   "lon": -122.41044,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 17,
+   "property": 43,
+   "drug": 4,
+   "total": 64,
+   "per_month": 5.34,
+   "percentile": 21.2,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Fondue Chinoise",
@@ -1605,7 +2685,16 @@
   "lon": -122.40466,
   "hours": "",
   "website": "https://fondue-chinoise.business.site",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 30,
+   "property": 51,
+   "drug": 9,
+   "total": 90,
+   "per_month": 7.51,
+   "percentile": 35.1,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Golden Gate Bakery",
@@ -1618,7 +2707,16 @@
   "lon": -122.40686,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 59,
+   "drug": 6,
+   "total": 98,
+   "per_month": 8.17,
+   "percentile": 39.9,
+   "nearest_incident_m": 47
+  }
  },
  {
   "name": "Happy Donut",
@@ -1631,7 +2729,16 @@
   "lon": -122.40549,
   "hours": "24/7",
   "website": "",
-  "phone": "+1-415-956-9189"
+  "phone": "+1-415-956-9189",
+  "risk": {
+   "violent": 53,
+   "property": 150,
+   "drug": 15,
+   "total": 218,
+   "per_month": 18.18,
+   "percentile": 87.4,
+   "nearest_incident_m": 79
+  }
  },
  {
   "name": "Hilda and Jesse",
@@ -1644,7 +2751,16 @@
   "lon": -122.41096,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 8,
+   "property": 17,
+   "drug": 5,
+   "total": 30,
+   "per_month": 2.5,
+   "percentile": 8.8,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Hop Hing Market",
@@ -1657,7 +2773,16 @@
   "lon": -122.40865,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 29,
+   "property": 85,
+   "drug": 11,
+   "total": 125,
+   "per_month": 10.42,
+   "percentile": 53.4,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "Huaxing Produce Inc.",
@@ -1670,7 +2795,16 @@
   "lon": -122.40832,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 34,
+   "property": 94,
+   "drug": 13,
+   "total": 141,
+   "per_month": 11.76,
+   "percentile": 64.9,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "J & L Vegi Supermarket",
@@ -1683,7 +2817,16 @@
   "lon": -122.40867,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 28,
+   "property": 66,
+   "drug": 9,
+   "total": 103,
+   "per_month": 8.59,
+   "percentile": 42.6,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "La Mediterranee",
@@ -1696,7 +2839,16 @@
   "lon": -122.4106,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 16,
+   "property": 34,
+   "drug": 3,
+   "total": 53,
+   "per_month": 4.42,
+   "percentile": 16.9,
+   "nearest_incident_m": 42
+  }
  },
  {
   "name": "Lai Hong Lounge",
@@ -1709,7 +2861,16 @@
   "lon": -122.41024,
   "hours": "10:00-14:30; 17:30-20:30; PH unknown",
   "website": "https://www.laihonglounge.com/",
-  "phone": "+1 415-397-2290"
+  "phone": "+1 415-397-2290",
+  "risk": {
+   "violent": 26,
+   "property": 70,
+   "drug": 11,
+   "total": 107,
+   "per_month": 8.92,
+   "percentile": 43.7,
+   "nearest_incident_m": 46
+  }
  },
  {
   "name": "Liang's Seafood Inc.",
@@ -1722,7 +2883,16 @@
   "lon": -122.40865,
   "hours": "",
   "website": "",
-  "phone": "+1 415-399-8783"
+  "phone": "+1 415-399-8783",
+  "risk": {
+   "violent": 28,
+   "property": 87,
+   "drug": 10,
+   "total": 125,
+   "per_month": 10.42,
+   "percentile": 53.4,
+   "nearest_incident_m": 33
+  }
  },
  {
   "name": "Mama's on Washington Square",
@@ -1735,7 +2905,16 @@
   "lon": -122.40955,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 16,
+   "property": 18,
+   "drug": 5,
+   "total": 39,
+   "per_month": 3.25,
+   "percentile": 12.9,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Napoli Market",
@@ -1748,7 +2927,16 @@
   "lon": -122.40939,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 9,
+   "drug": 1,
+   "total": 12,
+   "per_month": 1.0,
+   "percentile": 1.3,
+   "nearest_incident_m": 81
+  }
  },
  {
   "name": "New Asia Market",
@@ -1761,7 +2949,16 @@
   "lon": -122.40799,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 35,
+   "property": 89,
+   "drug": 14,
+   "total": 138,
+   "per_month": 11.51,
+   "percentile": 63.5,
+   "nearest_incident_m": 33
+  }
  },
  {
   "name": "New Hollywood Bakery & Restaurant",
@@ -1774,7 +2971,16 @@
   "lon": -122.4065,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 48,
+   "property": 71,
+   "drug": 15,
+   "total": 134,
+   "per_month": 11.17,
+   "percentile": 61.7,
+   "nearest_incident_m": 11
+  }
  },
  {
   "name": "New Moon",
@@ -1787,7 +2993,16 @@
   "lon": -122.40869,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 27,
+   "property": 71,
+   "drug": 9,
+   "total": 107,
+   "per_month": 8.92,
+   "percentile": 43.7,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "New Pacific Court Cafe",
@@ -1800,7 +3015,16 @@
   "lon": -122.40724,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 54,
+   "property": 123,
+   "drug": 19,
+   "total": 196,
+   "per_month": 16.34,
+   "percentile": 82.8,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "New Regent Café",
@@ -1813,7 +3037,16 @@
   "lon": -122.40632,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 64,
+   "property": 169,
+   "drug": 18,
+   "total": 251,
+   "per_month": 20.93,
+   "percentile": 96.8,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Pacific St Fish Market",
@@ -1826,7 +3059,16 @@
   "lon": -122.40855,
   "hours": "",
   "website": "",
-  "phone": "+1 415-872-9018"
+  "phone": "+1 415-872-9018",
+  "risk": {
+   "violent": 28,
+   "property": 88,
+   "drug": 10,
+   "total": 126,
+   "per_month": 10.51,
+   "percentile": 54.7,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "Peña Pachamama",
@@ -1839,7 +3081,16 @@
   "lon": -122.41061,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 15,
+   "property": 32,
+   "drug": 3,
+   "total": 50,
+   "per_month": 4.17,
+   "percentile": 16.4,
+   "nearest_incident_m": 50
+  }
  },
  {
   "name": "Produce",
@@ -1852,7 +3103,16 @@
   "lon": -122.40624,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 64,
+   "property": 169,
+   "drug": 18,
+   "total": 251,
+   "per_month": 20.93,
+   "percentile": 96.8,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Réveille Coffee Co.",
@@ -1872,7 +3132,16 @@
   "laptops": true,
   "notes": "Default morning office; closes 4pm. Healthy picks: Tahini Squash Bowl (lunch, 11:15+), Breakfast Bowl (all day). Skip: burrito (tater tots), acai/granola (sugar). Add-on math: +1 egg $2.50 ok, avocado add-on redundant.",
   "menu": "menus/reveille-north-beach-2026-08.pdf",
-  "verified": "2026-08-31"
+  "verified": "2026-08-31",
+  "risk": {
+   "violent": 64,
+   "property": 166,
+   "drug": 19,
+   "total": 249,
+   "per_month": 20.76,
+   "percentile": 96.2,
+   "nearest_incident_m": 85
+  }
  },
  {
   "name": "Stockton St produce stalls",
@@ -1884,7 +3153,16 @@
   "applePay": false,
   "notes": "Cheapest produce in SF; several stalls, treat as one corridor. Mostly cash — bring small bills. Google Translate camera mode for labels.",
   "verified": "2026-08-29",
-  "walkMin": 4
+  "walkMin": 4,
+  "risk": {
+   "violent": 35,
+   "property": 89,
+   "drug": 14,
+   "total": 138,
+   "per_month": 11.51,
+   "percentile": 63.5,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "Sun Sang Market",
@@ -1897,7 +3175,16 @@
   "lon": -122.40863,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 28,
+   "property": 87,
+   "drug": 10,
+   "total": 125,
+   "per_month": 10.42,
+   "percentile": 53.4,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Sun Sun Produce",
@@ -1910,7 +3197,16 @@
   "lon": -122.41035,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 53,
+   "drug": 6,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Taishan Cuisine",
@@ -1923,7 +3219,16 @@
   "lon": -122.40988,
   "hours": "Mo-We,Fr-Su 11:00-15:00,17:00-27:00; Th 17:00-27:00",
   "website": "",
-  "phone": "+1 415 7882288;+1 415 2440253"
+  "phone": "+1 415 7882288;+1 415 2440253",
+  "risk": {
+   "violent": 33,
+   "property": 90,
+   "drug": 12,
+   "total": 135,
+   "per_month": 11.26,
+   "percentile": 62.5,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "Tancca",
@@ -1936,7 +3241,16 @@
   "lon": -122.40996,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 32,
+   "property": 86,
+   "drug": 12,
+   "total": 130,
+   "per_month": 10.84,
+   "percentile": 58.4,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "The Station",
@@ -1949,7 +3263,16 @@
   "lon": -122.4052,
   "hours": "Mo-Fr 07:30-17:00; Sa 09:00-15:30; Su 09:00-15:00",
   "website": "https://www.thestationsf.com/",
-  "phone": "+1 415-291-0690"
+  "phone": "+1 415-291-0690",
+  "risk": {
+   "violent": 54,
+   "property": 159,
+   "drug": 17,
+   "total": 230,
+   "per_month": 19.18,
+   "percentile": 89.8,
+   "nearest_incident_m": 93
+  }
  },
  {
   "name": "Washington Square Bar & Grill",
@@ -1962,7 +3285,16 @@
   "lon": -122.41104,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 8,
+   "property": 19,
+   "drug": 5,
+   "total": 32,
+   "per_month": 2.67,
+   "percentile": 9.7,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Yin Du Wonton Noodle",
@@ -1975,7 +3307,16 @@
   "lon": -122.40645,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 64,
+   "property": 169,
+   "drug": 18,
+   "total": 251,
+   "per_month": 20.93,
+   "percentile": 96.8,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Yummy Yummy",
@@ -1988,7 +3329,16 @@
   "lon": -122.40785,
   "hours": "",
   "website": "",
-  "phone": "+1 415-391-1068"
+  "phone": "+1 415-391-1068",
+  "risk": {
+   "violent": 37,
+   "property": 93,
+   "drug": 14,
+   "total": 144,
+   "per_month": 12.01,
+   "percentile": 65.7,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "ABC Cafe Restaurant",
@@ -2001,7 +3351,16 @@
   "lon": -122.40614,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 48,
+   "property": 147,
+   "drug": 11,
+   "total": 206,
+   "per_month": 17.18,
+   "percentile": 85.0,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Begoni Bistro",
@@ -2014,7 +3373,16 @@
   "lon": -122.40558,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 57,
+   "property": 166,
+   "drug": 14,
+   "total": 237,
+   "per_month": 19.76,
+   "percentile": 92.5,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Blue Bottle Coffee",
@@ -2027,7 +3395,16 @@
   "lon": -122.40385,
   "hours": "Mo-Su 07:00-17:00",
   "website": "https://bluebottlecoffee.com/cafes/jackson-square",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 15,
+   "property": 60,
+   "drug": 9,
+   "total": 84,
+   "per_month": 7.0,
+   "percentile": 30.8,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "Cafe Zoetrope",
@@ -2040,7 +3417,16 @@
   "lon": -122.40506,
   "hours": "Mo-Fr 11:00-22:00; Sa 12:00-22:00; Su 12:00-21:00",
   "website": "www.cafecoppola.com/cafezoetrope/",
-  "phone": "+1 415 291 1700"
+  "phone": "+1 415 291 1700",
+  "risk": {
+   "violent": 31,
+   "property": 125,
+   "drug": 10,
+   "total": 166,
+   "per_month": 13.84,
+   "percentile": 73.5,
+   "nearest_incident_m": 42
+  }
  },
  {
   "name": "Cheng Hong Meat Market",
@@ -2053,7 +3439,16 @@
   "lon": -122.41032,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 21,
+   "drug": 1,
+   "total": 35,
+   "per_month": 2.92,
+   "percentile": 11.0,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Chong Qing Xiao Mian",
@@ -2066,7 +3461,16 @@
   "lon": -122.40535,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 41,
+   "property": 134,
+   "drug": 14,
+   "total": 189,
+   "per_month": 15.76,
+   "percentile": 80.7,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Chung Hing Produce Co.",
@@ -2079,7 +3483,16 @@
   "lon": -122.40997,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 40,
+   "drug": 2,
+   "total": 55,
+   "per_month": 4.59,
+   "percentile": 17.4,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Coi",
@@ -2092,7 +3505,16 @@
   "lon": -122.40293,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 5,
+   "property": 28,
+   "drug": 1,
+   "total": 34,
+   "per_month": 2.84,
+   "percentile": 10.2,
+   "nearest_incident_m": 52
+  }
  },
  {
   "name": "Cotogna",
@@ -2105,7 +3527,16 @@
   "lon": -122.40353,
   "hours": "Mo-Th 11:30-23:00; Fr-Sa 11:30-00:00; Su 17:00-21:00",
   "website": "https://www.cotognasf.com/",
-  "phone": "+1-415-775-8508"
+  "phone": "+1-415-775-8508",
+  "risk": {
+   "violent": 9,
+   "property": 47,
+   "drug": 4,
+   "total": 60,
+   "per_month": 5.0,
+   "percentile": 18.5,
+   "nearest_incident_m": 51
+  }
  },
  {
   "name": "Delicious Dim Sum",
@@ -2118,7 +3549,16 @@
   "lon": -122.40755,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 36,
+   "property": 88,
+   "drug": 4,
+   "total": 128,
+   "per_month": 10.67,
+   "percentile": 56.6,
+   "nearest_incident_m": 10
+  }
  },
  {
   "name": "Duk Hing Chinese Deli & Meat Inc.",
@@ -2131,7 +3571,16 @@
   "lon": -122.40853,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 27,
+   "property": 84,
+   "drug": 10,
+   "total": 121,
+   "per_month": 10.09,
+   "percentile": 51.2,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Garden Bakery",
@@ -2144,7 +3593,16 @@
   "lon": -122.40772,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 85,
+   "drug": 3,
+   "total": 121,
+   "per_month": 10.09,
+   "percentile": 51.2,
+   "nearest_incident_m": 10
+  }
  },
  {
   "name": "Gold Coin Trading Co",
@@ -2157,7 +3615,16 @@
   "lon": -122.40974,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 27,
+   "property": 71,
+   "drug": 9,
+   "total": 107,
+   "per_month": 8.92,
+   "percentile": 43.7,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Golden Flower",
@@ -2170,7 +3637,16 @@
   "lon": -122.40631,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 53,
+   "property": 150,
+   "drug": 11,
+   "total": 214,
+   "per_month": 17.85,
+   "percentile": 87.1,
+   "nearest_incident_m": 9
+  }
  },
  {
   "name": "Grand Palace Restaurant",
@@ -2183,7 +3659,16 @@
   "lon": -122.40652,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 51,
+   "property": 145,
+   "drug": 11,
+   "total": 207,
+   "per_month": 17.26,
+   "percentile": 85.3,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "Great Dim Sum",
@@ -2196,7 +3681,16 @@
   "lon": -122.40594,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 129,
+   "drug": 9,
+   "total": 183,
+   "per_month": 15.26,
+   "percentile": 77.2,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Great Eastern Restaurant",
@@ -2209,7 +3703,16 @@
   "lon": -122.40595,
   "hours": "We-Mo 10:00-21:00",
   "website": "http://www.greateasternsf.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 129,
+   "drug": 9,
+   "total": 183,
+   "per_month": 15.26,
+   "percentile": 77.2,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Great Saigon",
@@ -2222,7 +3725,16 @@
   "lon": -122.40536,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 40,
+   "property": 133,
+   "drug": 14,
+   "total": 187,
+   "per_month": 15.59,
+   "percentile": 79.4,
+   "nearest_incident_m": 34
+  }
  },
  {
   "name": "Happy Chinese Restaurant",
@@ -2235,7 +3747,16 @@
   "lon": -122.41001,
   "hours": "",
   "website": "",
-  "phone": "+1-415-398-1268"
+  "phone": "+1-415-398-1268",
+  "risk": {
+   "violent": 27,
+   "property": 65,
+   "drug": 9,
+   "total": 101,
+   "per_month": 8.42,
+   "percentile": 41.3,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Hong Kong Clay Pot Restaurant",
@@ -2248,7 +3769,16 @@
   "lon": -122.40654,
   "hours": "Th-Tu 11:00-15:00, 17:30-21:00",
   "website": "https://hongkongclaypotrestaurant.webs.com/",
-  "phone": "+1 415 9892638"
+  "phone": "+1 415 9892638",
+  "risk": {
+   "violent": 52,
+   "property": 148,
+   "drug": 11,
+   "total": 211,
+   "per_month": 17.6,
+   "percentile": 85.5,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "House of Nanking",
@@ -2261,7 +3791,16 @@
   "lon": -122.40536,
   "hours": "Mo-Fr 11:00-21:00; Sa-Su 12:00-21:00",
   "website": "https://www.houseofnankingsf.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 40,
+   "property": 133,
+   "drug": 14,
+   "total": 187,
+   "per_month": 15.59,
+   "percentile": 79.4,
+   "nearest_incident_m": 38
+  }
  },
  {
   "name": "House of Xian Dumpling",
@@ -2274,7 +3813,16 @@
   "lon": -122.40537,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 34,
+   "property": 129,
+   "drug": 10,
+   "total": 173,
+   "per_month": 14.43,
+   "percentile": 75.9,
+   "nearest_incident_m": 42
+  }
  },
  {
   "name": "Kam Po Kitchen",
@@ -2291,7 +3839,16 @@
   "price": 1,
   "health": "strong",
   "notes": "Best-known roast-meat shop in the neighborhood (Broadway at Powell), 4.8/5 on ~1,400 reviews, famous roast duck. Last inspection on record 88 (2018). Cash only. Order: two-item plate, roast duck + white-cut chicken, extra choy sum, sauce on the side. Skip crispy pork belly before lifting.",
-  "verified": "2026-09-09"
+  "verified": "2026-09-09",
+  "risk": {
+   "violent": 16,
+   "property": 41,
+   "drug": 2,
+   "total": 59,
+   "per_month": 4.92,
+   "percentile": 18.2,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Lady Luck Cafe",
@@ -2304,7 +3861,16 @@
   "lon": -122.40655,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 52,
+   "property": 148,
+   "drug": 11,
+   "total": 211,
+   "per_month": 17.6,
+   "percentile": 85.5,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Little Paradise",
@@ -2317,7 +3883,16 @@
   "lon": -122.40841,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 74,
+   "drug": 2,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 54
+  }
  },
  {
   "name": "Little Paris",
@@ -2330,7 +3905,16 @@
   "lon": -122.40849,
   "hours": "",
   "website": "",
-  "phone": "+1-415-982-6111"
+  "phone": "+1-415-982-6111",
+  "risk": {
+   "violent": 19,
+   "property": 79,
+   "drug": 3,
+   "total": 101,
+   "per_month": 8.42,
+   "percentile": 41.3,
+   "nearest_incident_m": 53
+  }
  },
  {
   "name": "Lun Ting Cafe",
@@ -2343,7 +3927,16 @@
   "lon": -122.40631,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 47,
+   "property": 145,
+   "drug": 11,
+   "total": 203,
+   "per_month": 16.93,
+   "percentile": 84.7,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "Ma's Dim Sum & Cafe",
@@ -2356,7 +3949,16 @@
   "lon": -122.41025,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 12,
+   "property": 27,
+   "drug": 1,
+   "total": 40,
+   "per_month": 3.34,
+   "percentile": 13.7,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "New Woey Loy Goey",
@@ -2369,7 +3971,16 @@
   "lon": -122.4065,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 52,
+   "property": 148,
+   "drug": 11,
+   "total": 211,
+   "per_month": 17.6,
+   "percentile": 85.5,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Ocean Seafood",
@@ -2382,7 +3993,16 @@
   "lon": -122.40891,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 16,
+   "property": 68,
+   "drug": 4,
+   "total": 88,
+   "per_month": 7.34,
+   "percentile": 33.0,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Original Bakery",
@@ -2395,7 +4015,16 @@
   "lon": -122.41033,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 21,
+   "drug": 1,
+   "total": 35,
+   "per_month": 2.92,
+   "percentile": 11.0,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Peninsula Sea Food Restaurant",
@@ -2408,7 +4037,16 @@
   "lon": -122.40581,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 44,
+   "property": 125,
+   "drug": 9,
+   "total": 178,
+   "per_month": 14.84,
+   "percentile": 76.1,
+   "nearest_incident_m": 9
+  }
  },
  {
   "name": "Piazza Pellegrini",
@@ -2421,7 +4059,16 @@
   "lon": -122.41129,
   "hours": "Fr-Sa 11:30-23:00; Su-Th 11:30-22:00",
   "website": "https://www.piazzapellegrini.com",
-  "phone": "+1-415-397-7355"
+  "phone": "+1-415-397-7355",
+  "risk": {
+   "violent": 8,
+   "property": 15,
+   "drug": 5,
+   "total": 28,
+   "per_month": 2.33,
+   "percentile": 6.7,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "Piccolo Forno",
@@ -2434,7 +4081,16 @@
   "lon": -122.41187,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 3,
+   "property": 22,
+   "drug": 4,
+   "total": 29,
+   "per_month": 2.42,
+   "percentile": 8.0,
+   "nearest_incident_m": 48
+  }
  },
  {
   "name": "Powell Grocery",
@@ -2447,7 +4103,16 @@
   "lon": -122.41023,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 12,
+   "property": 29,
+   "drug": 1,
+   "total": 42,
+   "per_month": 3.5,
+   "percentile": 14.2,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Quickly - Kobe Bento",
@@ -2460,7 +4125,16 @@
   "lon": -122.40531,
   "hours": "12:00-19:00",
   "website": "http://quicklyusa.com/sfkearny.html",
-  "phone": "+1 415 986 2688"
+  "phone": "+1 415 986 2688",
+  "risk": {
+   "violent": 39,
+   "property": 126,
+   "drug": 13,
+   "total": 178,
+   "per_month": 14.84,
+   "percentile": 76.1,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Quince",
@@ -2473,7 +4147,16 @@
   "lon": -122.4034,
   "hours": "",
   "website": "",
-  "phone": "+1-415-775-8500"
+  "phone": "+1-415-775-8500",
+  "risk": {
+   "violent": 9,
+   "property": 54,
+   "drug": 4,
+   "total": 67,
+   "per_month": 5.59,
+   "percentile": 22.3,
+   "nearest_incident_m": 63
+  }
  },
  {
   "name": "Sam & Son Market",
@@ -2486,7 +4169,16 @@
   "lon": -122.41029,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 22,
+   "drug": 1,
+   "total": 36,
+   "per_month": 3.0,
+   "percentile": 11.8,
+   "nearest_incident_m": 11
+  }
  },
  {
   "name": "TenRen's Tea",
@@ -2499,7 +4191,16 @@
   "lon": -122.4067,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 52,
+   "property": 148,
+   "drug": 11,
+   "total": 211,
+   "per_month": 17.6,
+   "percentile": 85.5,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Toppu Ramen & Dim Sum House",
@@ -2512,7 +4213,16 @@
   "lon": -122.4054,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 141,
+   "drug": 16,
+   "total": 202,
+   "per_month": 16.84,
+   "percentile": 84.5,
+   "nearest_incident_m": 60
+  }
  },
  {
   "name": "Victoria Pastry Company",
@@ -2525,7 +4235,16 @@
   "lon": -122.41122,
   "hours": "Mo-Su 07:00-20:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 10,
+   "property": 19,
+   "drug": 6,
+   "total": 35,
+   "per_month": 2.92,
+   "percentile": 11.0,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Wayne's Liquors",
@@ -2538,7 +4257,16 @@
   "lon": -122.40535,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 41,
+   "property": 134,
+   "drug": 14,
+   "total": 189,
+   "per_month": 15.76,
+   "percentile": 80.7,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Wong Lee Bakery",
@@ -2551,7 +4279,16 @@
   "lon": -122.40725,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 37,
+   "property": 82,
+   "drug": 4,
+   "total": 123,
+   "per_month": 10.26,
+   "percentile": 52.0,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Yummy Bakery & Cafe",
@@ -2564,7 +4301,16 @@
   "lon": -122.40548,
   "hours": "",
   "website": "",
-  "phone": "+1 415 9898388"
+  "phone": "+1 415 9898388",
+  "risk": {
+   "violent": 57,
+   "property": 166,
+   "drug": 14,
+   "total": 237,
+   "per_month": 19.76,
+   "percentile": 92.5,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Z & Y Restaurant",
@@ -2577,7 +4323,16 @@
   "lon": -122.40605,
   "hours": "",
   "website": "https://www.zandyrestaurant.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 129,
+   "drug": 9,
+   "total": 183,
+   "per_month": 15.26,
+   "percentile": 77.2,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Z&Y Bistro",
@@ -2590,7 +4345,16 @@
   "lon": -122.40546,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 40,
+   "property": 131,
+   "drug": 14,
+   "total": 185,
+   "per_month": 15.43,
+   "percentile": 78.6,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "bund Shanghai Restaurant",
@@ -2603,7 +4367,16 @@
   "lon": -122.40592,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 129,
+   "drug": 9,
+   "total": 183,
+   "per_month": 15.26,
+   "percentile": 77.2,
+   "nearest_incident_m": 11
+  }
  },
  {
   "name": "Aroma Tea Shop",
@@ -2616,7 +4389,16 @@
   "lon": -122.40727,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 42,
+   "property": 98,
+   "drug": 7,
+   "total": 147,
+   "per_month": 12.26,
+   "percentile": 66.0,
+   "nearest_incident_m": 8
+  }
  },
  {
   "name": "Bix",
@@ -2629,7 +4411,16 @@
   "lon": -122.40293,
   "hours": "",
   "website": "https://www.bixrestaurant.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 7,
+   "property": 47,
+   "drug": 8,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 40
+  }
  },
  {
   "name": "By Me Boba Tea",
@@ -2642,7 +4433,16 @@
   "lon": -122.40733,
   "hours": "",
   "website": "https://www.bymebobatea.com/",
-  "phone": "+1 415 7993850"
+  "phone": "+1 415 7993850",
+  "risk": {
+   "violent": 38,
+   "property": 67,
+   "drug": 6,
+   "total": 111,
+   "per_month": 9.26,
+   "percentile": 46.4,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Caffè Macaroni",
@@ -2655,7 +4455,16 @@
   "lon": -122.40443,
   "hours": "Mo-Sa 11:00-23:00",
   "website": "https://www.caffemacaroni.com/",
-  "phone": "+1-415-956-9737"
+  "phone": "+1-415-956-9737",
+  "risk": {
+   "violent": 32,
+   "property": 175,
+   "drug": 11,
+   "total": 218,
+   "per_month": 18.18,
+   "percentile": 87.4,
+   "nearest_incident_m": 33
+  }
  },
  {
   "name": "Chinatown Restaurant",
@@ -2668,7 +4477,16 @@
   "lon": -122.40599,
   "hours": "",
   "website": "",
-  "phone": "+1-415-392-7958"
+  "phone": "+1-415-392-7958",
+  "risk": {
+   "violent": 59,
+   "property": 175,
+   "drug": 10,
+   "total": 244,
+   "per_month": 20.35,
+   "percentile": 94.4,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "Columbus Burger",
@@ -2681,7 +4499,16 @@
   "lon": -122.40438,
   "hours": "Mo-Th 11:00-23:00; Fr 11:00-26:00; Sa 12:00-26:00; Su 12:00-23:00",
   "website": "https://www.columbusburger.com/",
-  "phone": "+1 415 6056181"
+  "phone": "+1 415 6056181",
+  "risk": {
+   "violent": 32,
+   "property": 175,
+   "drug": 11,
+   "total": 218,
+   "per_month": 18.18,
+   "percentile": 87.4,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Dai Lee Food Inc.",
@@ -2694,7 +4521,16 @@
   "lon": -122.40774,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 32,
+   "property": 91,
+   "drug": 3,
+   "total": 126,
+   "per_month": 10.51,
+   "percentile": 54.7,
+   "nearest_incident_m": 23
+  }
  },
  {
   "name": "Enjoy Vegetarian",
@@ -2707,7 +4543,16 @@
   "lon": -122.40524,
   "hours": "11:00-14:30,17:00-20:00",
   "website": "https://enjoyveggie.com/",
-  "phone": "+1 415 9567868"
+  "phone": "+1 415 9567868",
+  "risk": {
+   "violent": 54,
+   "property": 158,
+   "drug": 12,
+   "total": 224,
+   "per_month": 18.68,
+   "percentile": 89.0,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Golden Dragon Dining",
@@ -2720,7 +4565,16 @@
   "lon": -122.4069,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 44,
+   "property": 76,
+   "drug": 7,
+   "total": 127,
+   "per_month": 10.59,
+   "percentile": 55.8,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "Good Mong Kok Bakery",
@@ -2733,7 +4587,16 @@
   "lon": -122.40834,
   "hours": "Mo-Su 07:00-18:00",
   "website": "https://goodmongkokbakery.com/",
-  "phone": "+1-415-397-2688"
+  "phone": "+1-415-397-2688",
+  "risk": {
+   "violent": 15,
+   "property": 67,
+   "drug": 4,
+   "total": 86,
+   "per_month": 7.17,
+   "percentile": 31.9,
+   "nearest_incident_m": 61
+  }
  },
  {
   "name": "Gourmet Delight B.B.Q.",
@@ -2750,7 +4613,16 @@
   "price": 1,
   "health": "trap",
   "notes": "SKIP: last SF health inspection on record scored 79 with 6 violations incl. high-risk food holding temperature and inadequate handwashing (DataSF LIVES, 2019-10); Danny saw recent reviews citing cleanliness/raw-meat handling. Use Kam Po instead.",
-  "verified": "2026-09-09"
+  "verified": "2026-09-09",
+  "risk": {
+   "violent": 21,
+   "property": 74,
+   "drug": 2,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 60
+  }
  },
  {
   "name": "Gourmet Kitchen",
@@ -2763,7 +4635,16 @@
   "lon": -122.40838,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 74,
+   "drug": 2,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 57
+  }
  },
  {
   "name": "Grant Place",
@@ -2776,7 +4657,16 @@
   "lon": -122.40617,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 46,
+   "property": 80,
+   "drug": 7,
+   "total": 133,
+   "per_month": 11.09,
+   "percentile": 60.6,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Ha Tea",
@@ -2789,7 +4679,16 @@
   "lon": -122.40977,
   "hours": "",
   "website": "",
-  "phone": "+1 415 7570849"
+  "phone": "+1 415 7570849",
+  "risk": {
+   "violent": 7,
+   "property": 20,
+   "drug": 2,
+   "total": 29,
+   "per_month": 2.42,
+   "percentile": 8.0,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Hon's Wun-Tun House",
@@ -2806,7 +4705,16 @@
   "price": 1,
   "health": "ok",
   "notes": "Wonton noodle soup, one block from Betty Ann Ong. Lighter pre-gym option (~25g protein). Cash. Last inspection on record: 100, zero violations (2018).",
-  "verified": "2026-09-09"
+  "verified": "2026-09-09",
+  "risk": {
+   "violent": 59,
+   "property": 175,
+   "drug": 10,
+   "total": 244,
+   "per_month": 20.35,
+   "percentile": 94.4,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "Hotpot Champ",
@@ -2819,7 +4727,16 @@
   "lon": -122.40516,
   "hours": "",
   "website": "https://www.hotpotchamp.com/",
-  "phone": "+1-415-400-4528"
+  "phone": "+1-415-400-4528",
+  "risk": {
+   "violent": 56,
+   "property": 174,
+   "drug": 14,
+   "total": 244,
+   "per_month": 20.35,
+   "percentile": 94.4,
+   "nearest_incident_m": 23
+  }
  },
  {
   "name": "Hunan House",
@@ -2832,7 +4749,16 @@
   "lon": -122.40701,
   "hours": "",
   "website": "https://www.hunanhouse-sf.com/",
-  "phone": "+1-415-398-1299"
+  "phone": "+1-415-398-1299",
+  "risk": {
+   "violent": 47,
+   "property": 99,
+   "drug": 7,
+   "total": 153,
+   "per_month": 12.76,
+   "percentile": 67.3,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Kam Lok Restaurant",
@@ -2845,7 +4771,16 @@
   "lon": -122.40711,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 99,
+   "drug": 7,
+   "total": 151,
+   "per_month": 12.59,
+   "percentile": 66.5,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Kiki Supermarket",
@@ -2858,7 +4793,16 @@
   "lon": -122.41002,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 7,
+   "property": 19,
+   "drug": 2,
+   "total": 28,
+   "per_month": 2.33,
+   "percentile": 6.7,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Le Sandwich",
@@ -2871,7 +4815,16 @@
   "lon": -122.41202,
   "hours": "Mo-Sa 09:00-15:00",
   "website": "https://www.lesandwichsf.com",
-  "phone": "+1 415-947-7137"
+  "phone": "+1 415-947-7137",
+  "risk": {
+   "violent": 3,
+   "property": 21,
+   "drug": 4,
+   "total": 28,
+   "per_month": 2.33,
+   "percentile": 6.7,
+   "nearest_incident_m": 51
+  }
  },
  {
   "name": "Little Window by Bicycle Banh Mi",
@@ -2884,7 +4837,16 @@
   "lon": -122.40209,
   "hours": "Mo-Fr 07:30-14:00",
   "website": "http://www.eatbanhmi.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 4,
+   "property": 11,
+   "drug": 1,
+   "total": 16,
+   "per_month": 1.33,
+   "percentile": 2.1,
+   "nearest_incident_m": 51
+  }
  },
  {
   "name": "Lombard Heights Market",
@@ -2897,7 +4859,16 @@
   "lon": -122.40985,
   "hours": "Mo-Sa 07:30-21:30; Su 08:00-21:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 8,
+   "drug": 1,
+   "total": 11,
+   "per_month": 0.92,
+   "percentile": 1.1,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Loveski Deli",
@@ -2910,7 +4881,16 @@
   "lon": -122.40334,
   "hours": "",
   "website": "https://loveskideli.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 7,
+   "property": 47,
+   "drug": 8,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Lucky Creation",
@@ -2923,7 +4903,16 @@
   "lon": -122.4074,
   "hours": "",
   "website": "",
-  "phone": "+1 415-989-0818"
+  "phone": "+1 415-989-0818",
+  "risk": {
+   "violent": 45,
+   "property": 99,
+   "drug": 7,
+   "total": 151,
+   "per_month": 12.59,
+   "percentile": 66.5,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "M.P. Seafood Market",
@@ -2936,7 +4925,16 @@
   "lon": -122.40918,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 16,
+   "property": 69,
+   "drug": 4,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Napoleon Super Bakery",
@@ -2949,7 +4947,16 @@
   "lon": -122.40837,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 74,
+   "drug": 2,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 58
+  }
  },
  {
   "name": "New Golden Daisy",
@@ -2962,7 +4969,16 @@
   "lon": -122.40835,
   "hours": "Mo-Su 08:00-17:00",
   "website": "",
-  "phone": "+1-415-392-0111"
+  "phone": "+1-415-392-0111",
+  "risk": {
+   "violent": 19,
+   "property": 69,
+   "drug": 4,
+   "total": 92,
+   "per_month": 7.67,
+   "percentile": 35.7,
+   "nearest_incident_m": 64
+  }
  },
  {
   "name": "Peking Garden",
@@ -2975,7 +4991,16 @@
   "lon": -122.40555,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 53,
+   "property": 170,
+   "drug": 9,
+   "total": 232,
+   "per_month": 19.35,
+   "percentile": 91.4,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Ravi",
@@ -2988,7 +5013,16 @@
   "lon": -122.40459,
   "hours": "Mo-Fr 11:00-22:00; Sa,Su 12:00-22:00",
   "website": "",
-  "phone": "+1-415-693-0499"
+  "phone": "+1-415-693-0499",
+  "risk": {
+   "violent": 28,
+   "property": 122,
+   "drug": 9,
+   "total": 159,
+   "per_month": 13.26,
+   "percentile": 71.3,
+   "nearest_incident_m": 49
+  }
  },
  {
   "name": "Roka Akor",
@@ -3001,7 +5035,16 @@
   "lon": -122.40371,
   "hours": "",
   "website": "https://www.rokaakor.com/san-francisco/",
-  "phone": "+1 415 362 8887"
+  "phone": "+1 415 362 8887",
+  "risk": {
+   "violent": 23,
+   "property": 145,
+   "drug": 11,
+   "total": 179,
+   "per_month": 14.93,
+   "percentile": 76.7,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Sai's Vietnamese Restaurant",
@@ -3014,7 +5057,16 @@
   "lon": -122.4041,
   "hours": "Mo-Sa 10:00-21:00",
   "website": "https://saisvietnameserestaurant.com/",
-  "phone": "+1 415 362 3689"
+  "phone": "+1 415 362 3689",
+  "risk": {
+   "violent": 24,
+   "property": 147,
+   "drug": 11,
+   "total": 182,
+   "per_month": 15.18,
+   "percentile": 76.9,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "San Sun",
@@ -3027,7 +5079,16 @@
   "lon": -122.40723,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 99,
+   "drug": 7,
+   "total": 151,
+   "per_month": 12.59,
+   "percentile": 66.5,
+   "nearest_incident_m": 10
+  }
  },
  {
   "name": "Sushi on North Beach - Katsu",
@@ -3040,7 +5101,16 @@
   "lon": -122.41193,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 3,
+   "property": 22,
+   "drug": 4,
+   "total": 29,
+   "per_month": 2.42,
+   "percentile": 8.0,
+   "nearest_incident_m": 51
+  }
  },
  {
   "name": "Sweetheart Cafe",
@@ -3053,7 +5123,16 @@
   "lon": -122.40663,
   "hours": "",
   "website": "",
-  "phone": "+1 415 2629989"
+  "phone": "+1 415 2629989",
+  "risk": {
+   "violent": 45,
+   "property": 78,
+   "drug": 7,
+   "total": 130,
+   "per_month": 10.84,
+   "percentile": 58.4,
+   "nearest_incident_m": 27
+  }
  },
  {
   "name": "The AA Bakery & Cafe",
@@ -3066,7 +5145,16 @@
   "lon": -122.40811,
   "hours": "Mo-Su 06:00-18:30",
   "website": "",
-  "phone": "+1 415 9810123"
+  "phone": "+1 415 9810123",
+  "risk": {
+   "violent": 22,
+   "property": 75,
+   "drug": 2,
+   "total": 99,
+   "per_month": 8.26,
+   "percentile": 40.5,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "The Italian Homemade Company",
@@ -3079,7 +5167,16 @@
   "lon": -122.41183,
   "hours": "Mo-Su 11:00-21:00",
   "website": "https://italianhomemade.com",
-  "phone": "+1-415-712-8874"
+  "phone": "+1-415-712-8874",
+  "risk": {
+   "violent": 3,
+   "property": 20,
+   "drug": 4,
+   "total": 27,
+   "per_month": 2.25,
+   "percentile": 5.9,
+   "nearest_incident_m": 66
+  }
  },
  {
   "name": "Trattoria Contadina",
@@ -3092,7 +5189,16 @@
   "lon": -122.41237,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 0,
+   "property": 17,
+   "drug": 4,
+   "total": 21,
+   "per_month": 1.75,
+   "percentile": 4.3,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Trestle",
@@ -3105,7 +5211,16 @@
   "lon": -122.40452,
   "hours": "Su-Th 17:30-21:00; Fr,Sa 17:30-22:00",
   "website": "https://www.trestlesf.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 25,
+   "property": 147,
+   "drug": 11,
+   "total": 183,
+   "per_month": 15.26,
+   "percentile": 77.2,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "VeggieLand Market",
@@ -3118,7 +5233,16 @@
   "lon": -122.40841,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 74,
+   "drug": 2,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 57
+  }
  },
  {
   "name": "Vital Tea-Leaf",
@@ -3135,7 +5259,16 @@
   "price": 1,
   "health": "strong",
   "notes": "Free try-before-you-buy tasting bar, ~300 teas (ask for Uncle Gee). Buy loose-leaf green (~$0.30/cup at home) — the budget green-tea habit.",
-  "verified": "2026-08-30"
+  "verified": "2026-08-30",
+  "risk": {
+   "violent": 45,
+   "property": 78,
+   "drug": 7,
+   "total": 130,
+   "per_month": 10.84,
+   "percentile": 58.4,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Yi Fang Tea",
@@ -3148,7 +5281,16 @@
   "lon": -122.40761,
   "hours": "11:00-22:30",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 35,
+   "property": 100,
+   "drug": 3,
+   "total": 138,
+   "per_month": 11.51,
+   "percentile": 63.5,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "750 Restaurant & Bar",
@@ -3161,7 +5303,16 @@
   "lon": -122.40442,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 42,
+   "property": 173,
+   "drug": 15,
+   "total": 230,
+   "per_month": 19.18,
+   "percentile": 89.8,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "Bow Hon Seafood Restaurant",
@@ -3174,7 +5325,16 @@
   "lon": -122.40635,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 46,
+   "property": 80,
+   "drug": 7,
+   "total": 133,
+   "per_month": 11.09,
+   "percentile": 60.6,
+   "nearest_incident_m": 23
+  }
  },
  {
   "name": "Charming Sun Market Inc",
@@ -3187,7 +5347,16 @@
   "lon": -122.40591,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 43,
+   "property": 82,
+   "drug": 7,
+   "total": 132,
+   "per_month": 11.01,
+   "percentile": 59.8,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Chiaroscuro",
@@ -3200,7 +5369,16 @@
   "lon": -122.4027,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 7,
+   "property": 48,
+   "drug": 8,
+   "total": 63,
+   "per_month": 5.25,
+   "percentile": 20.9,
+   "nearest_incident_m": 89
+  }
  },
  {
   "name": "Cool Tea Bar",
@@ -3213,7 +5391,16 @@
   "lon": -122.40697,
   "hours": "Mo-Su 11:00-19:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 50,
+   "property": 99,
+   "drug": 6,
+   "total": 155,
+   "per_month": 12.93,
+   "percentile": 68.9,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Empress of China",
@@ -3226,7 +5413,16 @@
   "lon": -122.40612,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 46,
+   "property": 80,
+   "drug": 7,
+   "total": 133,
+   "per_month": 11.09,
+   "percentile": 60.6,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Golden Star Vietnamese Restaurant",
@@ -3239,7 +5435,16 @@
   "lon": -122.40583,
   "hours": "",
   "website": "",
-  "phone": "+1 415 398 1215"
+  "phone": "+1 415 398 1215",
+  "risk": {
+   "violent": 37,
+   "property": 80,
+   "drug": 7,
+   "total": 124,
+   "per_month": 10.34,
+   "percentile": 52.5,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Ha Mini Mart",
@@ -3252,7 +5457,16 @@
   "lon": -122.40643,
   "hours": "",
   "website": "https://haminimart.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 47,
+   "property": 106,
+   "drug": 8,
+   "total": 161,
+   "per_month": 13.43,
+   "percentile": 72.1,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "High Horse SF",
@@ -3265,7 +5479,16 @@
   "lon": -122.40285,
   "hours": "Mo-Fr 11:00-23:00; Sa 14:00-24:00",
   "website": "https://highhorsesf.com/",
-  "phone": "+1-415-981-1500"
+  "phone": "+1-415-981-1500",
+  "risk": {
+   "violent": 6,
+   "property": 48,
+   "drug": 8,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 89
+  }
  },
  {
   "name": "Jackson Produce",
@@ -3278,7 +5501,16 @@
   "lon": -122.40585,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 37,
+   "property": 80,
+   "drug": 7,
+   "total": 124,
+   "per_month": 10.34,
+   "percentile": 52.5,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Joy Hing B.B.Q Noodle House",
@@ -3291,7 +5523,16 @@
   "lon": -122.40472,
   "hours": "",
   "website": "",
-  "phone": "+1 415 9810531"
+  "phone": "+1 415 9810531",
+  "risk": {
+   "violent": 24,
+   "property": 90,
+   "drug": 9,
+   "total": 123,
+   "per_month": 10.26,
+   "percentile": 52.0,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Kusakabe",
@@ -3304,7 +5545,16 @@
   "lon": -122.40288,
   "hours": "",
   "website": "https://kusakabe-sf.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 6,
+   "property": 48,
+   "drug": 8,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 89
+  }
  },
  {
   "name": "La Trappe",
@@ -3317,7 +5567,16 @@
   "lon": -122.41298,
   "hours": "",
   "website": "https://www.latrappecafe.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 10,
+   "property": 29,
+   "drug": 0,
+   "total": 39,
+   "per_month": 3.25,
+   "percentile": 12.9,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "Little Sweet Go",
@@ -3330,7 +5589,16 @@
   "lon": -122.40356,
   "hours": "Mo-Fr 07:00-18:00; Sa 11:00-18:00",
   "website": "https://www.little-sweet.com/",
-  "phone": "+1-415-688-5215"
+  "phone": "+1-415-688-5215",
+  "risk": {
+   "violent": 18,
+   "property": 92,
+   "drug": 10,
+   "total": 120,
+   "per_month": 10.01,
+   "percentile": 50.9,
+   "nearest_incident_m": 96
+  }
  },
  {
   "name": "Maggie's Cafe",
@@ -3343,7 +5611,16 @@
   "lon": -122.40634,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 46,
+   "property": 80,
+   "drug": 7,
+   "total": 133,
+   "per_month": 11.09,
+   "percentile": 60.6,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Maison Nico",
@@ -3356,7 +5633,16 @@
   "lon": -122.40326,
   "hours": "Tu-Fr 08:00-17:00; Sa-Su 09:00-16:00",
   "website": "https://maisonnico.com/",
-  "phone": "+1-415-359-1000"
+  "phone": "+1-415-359-1000",
+  "risk": {
+   "violent": 6,
+   "property": 47,
+   "drug": 8,
+   "total": 61,
+   "per_month": 5.09,
+   "percentile": 18.8,
+   "nearest_incident_m": 77
+  }
  },
  {
   "name": "Metro Milk Tea Hong Kong Dessert",
@@ -3369,7 +5655,16 @@
   "lon": -122.40787,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 39,
+   "property": 94,
+   "drug": 2,
+   "total": 135,
+   "per_month": 11.26,
+   "percentile": 62.5,
+   "nearest_incident_m": 42
+  }
  },
  {
   "name": "Oolong Noodles",
@@ -3382,7 +5677,16 @@
   "lon": -122.40437,
   "hours": "",
   "website": "",
-  "phone": "+1-415-986-2737"
+  "phone": "+1-415-986-2737",
+  "risk": {
+   "violent": 38,
+   "property": 166,
+   "drug": 15,
+   "total": 219,
+   "per_month": 18.26,
+   "percentile": 88.2,
+   "nearest_incident_m": 56
+  }
  },
  {
   "name": "RJ’s market",
@@ -3395,7 +5699,16 @@
   "lon": -122.40341,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 15,
+   "drug": 1,
+   "total": 18,
+   "per_month": 1.5,
+   "percentile": 3.2,
+   "nearest_incident_m": 70
+  }
  },
  {
   "name": "Red Blossom Tea Company",
@@ -3408,7 +5721,16 @@
   "lon": -122.4065,
   "hours": "",
   "website": "https://redblossomtea.com/",
-  "phone": "+1 415 3950868"
+  "phone": "+1 415 3950868",
+  "risk": {
+   "violent": 46,
+   "property": 108,
+   "drug": 5,
+   "total": 159,
+   "per_month": 13.26,
+   "percentile": 71.3,
+   "nearest_incident_m": 50
+  }
  },
  {
   "name": "The Coffee Movement",
@@ -3421,7 +5743,16 @@
   "lon": -122.4103,
   "hours": "Mo-Su 07:00-16:00",
   "website": "https://www.thecoffeemovement.com/",
-  "phone": "+1 415 2373375"
+  "phone": "+1 415 2373375",
+  "risk": {
+   "violent": 4,
+   "property": 16,
+   "drug": 2,
+   "total": 22,
+   "per_month": 1.83,
+   "percentile": 4.8,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "The Garden Restaurant",
@@ -3434,7 +5765,16 @@
   "lon": -122.40474,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 81,
+   "drug": 9,
+   "total": 111,
+   "per_month": 9.26,
+   "percentile": 46.4,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Tricolore",
@@ -3447,7 +5787,16 @@
   "lon": -122.40311,
   "hours": "",
   "website": "https://www.tricoloresf.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 6,
+   "property": 48,
+   "drug": 8,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 94
+  }
  },
  {
   "name": "Villa Taverna",
@@ -3460,7 +5809,16 @@
   "lon": -122.40304,
   "hours": "",
   "website": "https://villataverna.org/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 6,
+   "property": 48,
+   "drug": 8,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 57
+  }
  },
  {
   "name": "Wo Chong Company",
@@ -3473,7 +5831,16 @@
   "lon": -122.40763,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 35,
+   "property": 94,
+   "drug": 3,
+   "total": 132,
+   "per_month": 11.01,
+   "percentile": 59.8,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Wycen Foods",
@@ -3486,7 +5853,16 @@
   "lon": -122.40759,
   "hours": "",
   "website": "https://wycenfoods.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 42,
+   "property": 96,
+   "drug": 2,
+   "total": 140,
+   "per_month": 11.67,
+   "percentile": 64.6,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Xica",
@@ -3499,7 +5875,16 @@
   "lon": -122.40227,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 3,
+   "property": 13,
+   "drug": 0,
+   "total": 16,
+   "per_month": 1.33,
+   "percentile": 2.1,
+   "nearest_incident_m": 63
+  }
  },
  {
   "name": "altoVino",
@@ -3512,7 +5897,16 @@
   "lon": -122.41155,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 5,
+   "property": 17,
+   "drug": 0,
+   "total": 22,
+   "per_month": 1.83,
+   "percentile": 4.8,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "iCafe Chinatown",
@@ -3525,7 +5919,16 @@
   "lon": -122.407,
   "hours": "",
   "website": "",
-  "phone": "+1 415-391-8088"
+  "phone": "+1 415-391-8088",
+  "risk": {
+   "violent": 39,
+   "property": 81,
+   "drug": 5,
+   "total": 125,
+   "per_month": 10.42,
+   "percentile": 53.4,
+   "nearest_incident_m": 50
+  }
  },
  {
   "name": "iCafe SF",
@@ -3538,7 +5941,16 @@
   "lon": -122.40592,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 59,
+   "property": 175,
+   "drug": 10,
+   "total": 244,
+   "per_month": 20.35,
+   "percentile": 94.4,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "A-1",
@@ -3551,7 +5963,16 @@
   "lon": -122.40597,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 43,
+   "property": 103,
+   "drug": 10,
+   "total": 156,
+   "per_month": 13.01,
+   "percentile": 69.7,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Ama",
@@ -3564,7 +5985,16 @@
   "lon": -122.402,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 43,
+   "drug": 2,
+   "total": 47,
+   "per_month": 3.92,
+   "percentile": 15.3,
+   "nearest_incident_m": 39
+  }
  },
  {
   "name": "Butter & Crumble",
@@ -3577,7 +6007,16 @@
   "lon": -122.40966,
   "hours": "Th-Su 09:00-14:00",
   "website": "https://butterandcrumble.com/",
-  "phone": "+1-415-874-9484"
+  "phone": "+1-415-874-9484",
+  "risk": {
+   "violent": 2,
+   "property": 42,
+   "drug": 1,
+   "total": 45,
+   "per_month": 3.75,
+   "percentile": 15.0,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Capital Restaurant",
@@ -3590,7 +6029,16 @@
   "lon": -122.40706,
   "hours": "",
   "website": "http://www.capitalsf.com",
-  "phone": "+1-415-397-6269"
+  "phone": "+1-415-397-6269",
+  "risk": {
+   "violent": 43,
+   "property": 94,
+   "drug": 2,
+   "total": 139,
+   "per_month": 11.59,
+   "percentile": 64.3,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Chef Hug's Restaurant",
@@ -3603,7 +6051,16 @@
   "lon": -122.40667,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 45,
+   "property": 74,
+   "drug": 6,
+   "total": 125,
+   "per_month": 10.42,
+   "percentile": 53.4,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Chim",
@@ -3616,7 +6073,16 @@
   "lon": -122.40404,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 20,
+   "property": 84,
+   "drug": 7,
+   "total": 111,
+   "per_month": 9.26,
+   "percentile": 46.4,
+   "nearest_incident_m": 66
+  }
  },
  {
   "name": "City View",
@@ -3629,7 +6095,16 @@
   "lon": -122.4041,
   "hours": "Mo,Tu off; We-Su 11:00-14:00, Fr-Su 17:00-19:30",
   "website": "https://cityviewdimsum.com/",
-  "phone": "+1 415 3982838"
+  "phone": "+1 415 3982838",
+  "risk": {
+   "violent": 20,
+   "property": 84,
+   "drug": 7,
+   "total": 111,
+   "per_month": 9.26,
+   "percentile": 46.4,
+   "nearest_incident_m": 56
+  }
  },
  {
   "name": "Eastern Bakery",
@@ -3642,7 +6117,16 @@
   "lon": -122.4061,
   "hours": "11:00-16:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 71,
+   "drug": 7,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 42
+  }
  },
  {
   "name": "Freddie's Sandwiches",
@@ -3655,7 +6139,16 @@
   "lon": -122.41032,
   "hours": "Mo-Fr 07:30-16:00; Sa 08:30-16:00",
   "website": "http://orderfreddiessandwiches.com",
-  "phone": "+1-415-433-2882"
+  "phone": "+1-415-433-2882",
+  "risk": {
+   "violent": 8,
+   "property": 37,
+   "drug": 3,
+   "total": 48,
+   "per_month": 4.0,
+   "percentile": 16.1,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "G & Y Bakery Cafe",
@@ -3668,7 +6161,16 @@
   "lon": -122.40758,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 94,
+   "drug": 2,
+   "total": 129,
+   "per_month": 10.76,
+   "percentile": 57.9,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Golden King Vietnamese Restaurant",
@@ -3681,7 +6183,16 @@
   "lon": -122.40582,
   "hours": "",
   "website": "",
-  "phone": "+1 415 217 6888"
+  "phone": "+1 415 217 6888",
+  "risk": {
+   "violent": 41,
+   "property": 103,
+   "drug": 10,
+   "total": 154,
+   "per_month": 12.84,
+   "percentile": 68.1,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Good Luck",
@@ -3694,7 +6205,16 @@
   "lon": -122.40485,
   "hours": "Mo-Sa 07:00-19:00; Su 08:00-15:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 17,
+   "property": 86,
+   "drug": 5,
+   "total": 108,
+   "per_month": 9.01,
+   "percentile": 44.8,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Gum Hua Lee Liquors",
@@ -3707,7 +6227,16 @@
   "lon": -122.40809,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 26,
+   "property": 80,
+   "drug": 2,
+   "total": 108,
+   "per_month": 9.01,
+   "percentile": 44.8,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Hinodeya Downtown",
@@ -3720,7 +6249,16 @@
   "lon": -122.40446,
   "hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-23:00",
   "website": "https://hinodeyaramen.com/",
-  "phone": "+1 415 2006466"
+  "phone": "+1 415 2006466",
+  "risk": {
+   "violent": 23,
+   "property": 86,
+   "drug": 10,
+   "total": 119,
+   "per_month": 9.92,
+   "percentile": 50.7,
+   "nearest_incident_m": 34
+  }
  },
  {
   "name": "Kan's",
@@ -3733,7 +6271,16 @@
   "lon": -122.40606,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 72,
+   "drug": 7,
+   "total": 98,
+   "per_month": 8.17,
+   "percentile": 39.9,
+   "nearest_incident_m": 24
+  }
  },
  {
   "name": "Latte Express",
@@ -3746,7 +6293,16 @@
   "lon": -122.40461,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 20,
+   "property": 91,
+   "drug": 6,
+   "total": 117,
+   "per_month": 9.76,
+   "percentile": 49.3,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Little Jane on Grant",
@@ -3759,7 +6315,16 @@
   "lon": -122.40622,
   "hours": "Th-Su 10:00-14:00,14:30-18:00",
   "website": "https://www.itsjane.com/location/little-jane-on-grant/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 48,
+   "property": 116,
+   "drug": 8,
+   "total": 172,
+   "per_month": 14.34,
+   "percentile": 74.5,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Mangia Tutti Ristorante",
@@ -3772,7 +6337,16 @@
   "lon": -122.40378,
   "hours": "",
   "website": "https://mangia-tutti.com/",
-  "phone": "+1-415-788-2088"
+  "phone": "+1-415-788-2088",
+  "risk": {
+   "violent": 20,
+   "property": 90,
+   "drug": 7,
+   "total": 117,
+   "per_month": 9.76,
+   "percentile": 49.3,
+   "nearest_incident_m": 72
+  }
  },
  {
   "name": "Matcha Cafe Maiko",
@@ -3785,7 +6359,16 @@
   "lon": -122.40624,
   "hours": "",
   "website": "https://www.matchacafe-maiko.com/eng/store/index.html?country=usa&region=ca&target=ca-sanfran#store-breakdown",
-  "phone": "+1 415 6587748"
+  "phone": "+1 415 6587748",
+  "risk": {
+   "violent": 48,
+   "property": 116,
+   "drug": 8,
+   "total": 172,
+   "per_month": 14.34,
+   "percentile": 74.5,
+   "nearest_incident_m": 7
+  }
  },
  {
   "name": "Mister Jiu's",
@@ -3798,7 +6381,16 @@
   "lon": -122.40666,
   "hours": "05:03-22:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 23,
+   "property": 59,
+   "drug": 2,
+   "total": 84,
+   "per_month": 7.0,
+   "percentile": 30.8,
+   "nearest_incident_m": 45
+  }
  },
  {
   "name": "Munchboxx",
@@ -3811,7 +6403,16 @@
   "lon": -122.40393,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 20,
+   "property": 90,
+   "drug": 7,
+   "total": 117,
+   "per_month": 9.76,
+   "percentile": 49.3,
+   "nearest_incident_m": 76
+  }
  },
  {
   "name": "New Honolulu",
@@ -3824,7 +6425,16 @@
   "lon": -122.40773,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 94,
+   "drug": 2,
+   "total": 129,
+   "per_month": 10.76,
+   "percentile": 57.9,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "Outta Sight Pizza II",
@@ -3837,7 +6447,16 @@
   "lon": -122.40387,
   "hours": "Mo-Th 11:00-20:00; Fr 11:00-21:00; Sa-Su 12:00-17:00",
   "website": "https://www.thatsouttasight.com/",
-  "phone": "+1-415-363-9775"
+  "phone": "+1-415-363-9775",
+  "risk": {
+   "violent": 20,
+   "property": 90,
+   "drug": 7,
+   "total": 117,
+   "per_month": 9.76,
+   "percentile": 49.3,
+   "nearest_incident_m": 79
+  }
  },
  {
   "name": "Paparikas",
@@ -3850,7 +6469,16 @@
   "lon": -122.40397,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 20,
+   "property": 85,
+   "drug": 7,
+   "total": 112,
+   "per_month": 9.34,
+   "percentile": 47.7,
+   "nearest_incident_m": 72
+  }
  },
  {
   "name": "Paper Son at Soon and Soon",
@@ -3863,7 +6491,16 @@
   "lon": -122.40634,
   "hours": "Fr-Su 09:00-15:00",
   "website": "https://papersoncoffee.com",
-  "phone": "+1-415-857-9688"
+  "phone": "+1-415-857-9688",
+  "risk": {
+   "violent": 23,
+   "property": 64,
+   "drug": 2,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 48
+  }
  },
  {
   "name": "Produce Land",
@@ -3876,7 +6513,16 @@
   "lon": -122.40593,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 43,
+   "property": 103,
+   "drug": 10,
+   "total": 156,
+   "per_month": 13.01,
+   "percentile": 69.7,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Pyramid Cafe",
@@ -3889,7 +6535,16 @@
   "lon": -122.403,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 11,
+   "property": 54,
+   "drug": 8,
+   "total": 73,
+   "per_month": 6.09,
+   "percentile": 25.2,
+   "nearest_incident_m": 86
+  }
  },
  {
   "name": "R & G Lounge",
@@ -3902,7 +6557,16 @@
   "lon": -122.4049,
   "hours": "Su-Th 11:00-21:00; Fr-Sa 11:00-21:30",
   "website": "https://www.rnglounge.com/",
-  "phone": "+1-415-982-7877"
+  "phone": "+1-415-982-7877",
+  "risk": {
+   "violent": 18,
+   "property": 88,
+   "drug": 5,
+   "total": 111,
+   "per_month": 9.26,
+   "percentile": 46.4,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Rural Ramen Bar",
@@ -3915,7 +6579,16 @@
   "lon": -122.40983,
   "hours": "Mo-Su 11:00-14:30,17:00-21:00",
   "website": "https://ruralramenbar.com/",
-  "phone": "+1 415 2749942"
+  "phone": "+1 415 2749942",
+  "risk": {
+   "violent": 2,
+   "property": 17,
+   "drug": 2,
+   "total": 21,
+   "per_month": 1.75,
+   "percentile": 4.3,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Sam Wo Restaurant",
@@ -3928,7 +6601,16 @@
   "lon": -122.40513,
   "hours": "We-Sa 11:00-20:00; Su-Mo 11:00-18:00",
   "website": "https://samworestaurant.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 36,
+   "property": 102,
+   "drug": 10,
+   "total": 148,
+   "per_month": 12.34,
+   "percentile": 66.2,
+   "nearest_incident_m": 32
+  }
  },
  {
   "name": "Snow Garden Restaurant",
@@ -3941,7 +6623,16 @@
   "lon": -122.40606,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 71,
+   "drug": 7,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Spicy & Cloud Restaurant",
@@ -3954,7 +6645,16 @@
   "lon": -122.40672,
   "hours": "Mo-Su 11:30-21:30",
   "website": "https://www.spicycloudrestaurant.com/",
-  "phone": "+14153986883"
+  "phone": "+14153986883",
+  "risk": {
+   "violent": 50,
+   "property": 99,
+   "drug": 6,
+   "total": 155,
+   "per_month": 12.93,
+   "percentile": 68.9,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "Spicy King",
@@ -3967,7 +6667,16 @@
   "lon": -122.40691,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 44,
+   "property": 95,
+   "drug": 2,
+   "total": 141,
+   "per_month": 11.76,
+   "percentile": 64.9,
+   "nearest_incident_m": 14
+  }
  },
  {
   "name": "Wok Shop",
@@ -3983,7 +6692,16 @@
   "phone": "+1-415-989-3797",
   "price": 1,
   "notes": "Buy the 6-qt stockpot here (sous vide bath + soup pot). Cheap restaurant-grade kitchenware.",
-  "verified": "2026-08-29"
+  "verified": "2026-08-29",
+  "risk": {
+   "violent": 19,
+   "property": 71,
+   "drug": 7,
+   "total": 97,
+   "per_month": 8.09,
+   "percentile": 37.8,
+   "nearest_incident_m": 36
+  }
  },
  {
   "name": "901 colombus cafe",
@@ -3996,7 +6714,16 @@
   "lon": -122.41404,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 9,
+   "property": 34,
+   "drug": 1,
+   "total": 44,
+   "per_month": 3.67,
+   "percentile": 14.5,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Better Than Sweet",
@@ -4009,7 +6736,16 @@
   "lon": -122.41313,
   "hours": "",
   "website": "www.betterthansweet.us",
-  "phone": "+1 99910325692"
+  "phone": "+1 99910325692",
+  "risk": {
+   "violent": 0,
+   "property": 17,
+   "drug": 2,
+   "total": 19,
+   "per_month": 1.58,
+   "percentile": 3.8,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "Cafe Capriccio",
@@ -4022,7 +6758,16 @@
   "lon": -122.41312,
   "hours": "",
   "website": "https://foodeist.com/place/cafecapriccio",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 9,
+   "property": 19,
+   "drug": 0,
+   "total": 28,
+   "per_month": 2.33,
+   "percentile": 6.7,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Cafe Francisco",
@@ -4035,7 +6780,16 @@
   "lon": -122.41194,
   "hours": "Mo off; Tu-Su 09:00-15:00",
   "website": "http://www.cafefrancisco.com/",
-  "phone": "+1-415-397-2602"
+  "phone": "+1-415-397-2602",
+  "risk": {
+   "violent": 7,
+   "property": 15,
+   "drug": 2,
+   "total": 24,
+   "per_month": 2.0,
+   "percentile": 5.6,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Cafe Isabella",
@@ -4048,7 +6802,16 @@
   "lon": -122.41312,
   "hours": "Mo-Tu off; We-Su 08:30-15:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 0,
+   "property": 17,
+   "drug": 2,
+   "total": 19,
+   "per_month": 1.58,
+   "percentile": 3.8,
+   "nearest_incident_m": 27
+  }
  },
  {
   "name": "Curry Leaf",
@@ -4061,7 +6824,16 @@
   "lon": -122.41444,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 9,
+   "property": 31,
+   "drug": 1,
+   "total": 41,
+   "per_month": 3.42,
+   "percentile": 13.9,
+   "nearest_incident_m": 58
+  }
  },
  {
   "name": "Far East Cafe",
@@ -4074,7 +6846,16 @@
   "lon": -122.40617,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 22,
+   "property": 55,
+   "drug": 9,
+   "total": 86,
+   "per_month": 7.17,
+   "percentile": 31.9,
+   "nearest_incident_m": 46
+  }
  },
  {
   "name": "Hang Ah Tea Room",
@@ -4087,7 +6868,16 @@
   "lon": -122.40738,
   "hours": "Mo-Su 10:30-20:30",
   "website": "https://hangahtearoom.com/",
-  "phone": "+1-415-982-5686"
+  "phone": "+1-415-982-5686",
+  "risk": {
+   "violent": 23,
+   "property": 73,
+   "drug": 4,
+   "total": 100,
+   "per_month": 8.34,
+   "percentile": 41.0,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Hillstone",
@@ -4100,7 +6890,16 @@
   "lon": -122.40514,
   "hours": "Su-Th 11:30-21:00; Fr,Sa 11:30-21:30",
   "website": "https://www.hillstonerestaurant.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 1,
+   "property": 14,
+   "drug": 0,
+   "total": 15,
+   "per_month": 1.25,
+   "percentile": 1.9,
+   "nearest_incident_m": 39
+  }
  },
  {
   "name": "Jack's",
@@ -4113,7 +6912,16 @@
   "lon": -122.40349,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 15,
+   "property": 88,
+   "drug": 7,
+   "total": 110,
+   "per_month": 9.17,
+   "percentile": 45.8,
+   "nearest_incident_m": 46
+  }
  },
  {
   "name": "Jinshan Cafe",
@@ -4126,7 +6934,16 @@
   "lon": -122.40592,
   "hours": "",
   "website": "",
-  "phone": "+1 415-466-8117"
+  "phone": "+1 415-466-8117",
+  "risk": {
+   "violent": 15,
+   "property": 53,
+   "drug": 5,
+   "total": 73,
+   "per_month": 6.09,
+   "percentile": 25.2,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "New Fortune Restaurant",
@@ -4139,7 +6956,16 @@
   "lon": -122.40793,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 20,
+   "property": 71,
+   "drug": 4,
+   "total": 95,
+   "per_month": 7.92,
+   "percentile": 36.7,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Palio",
@@ -4152,7 +6978,16 @@
   "lon": -122.40362,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 15,
+   "property": 88,
+   "drug": 7,
+   "total": 110,
+   "per_month": 9.17,
+   "percentile": 45.8,
+   "nearest_incident_m": 39
+  }
  },
  {
   "name": "RM212",
@@ -4165,7 +7000,16 @@
   "lon": -122.40438,
   "hours": "",
   "website": "",
-  "phone": "+1 415-500-2780"
+  "phone": "+1 415-500-2780",
+  "risk": {
+   "violent": 19,
+   "property": 82,
+   "drug": 7,
+   "total": 108,
+   "per_month": 9.01,
+   "percentile": 44.8,
+   "nearest_incident_m": 25
+  }
  },
  {
   "name": "Ristorante Fior d'Italia",
@@ -4178,7 +7022,16 @@
   "lon": -122.41351,
   "hours": "11:30-21:30",
   "website": "https://fior.com/",
-  "phone": "+1 415-986-1886"
+  "phone": "+1 415-986-1886",
+  "risk": {
+   "violent": 14,
+   "property": 43,
+   "drug": 5,
+   "total": 62,
+   "per_month": 5.17,
+   "percentile": 19.0,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "So Hunan",
@@ -4191,7 +7044,16 @@
   "lon": -122.40404,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 18,
+   "property": 82,
+   "drug": 7,
+   "total": 107,
+   "per_month": 8.92,
+   "percentile": 43.7,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Steap Tea & Snack Bar",
@@ -4204,7 +7066,16 @@
   "lon": -122.40661,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 24,
+   "property": 71,
+   "drug": 4,
+   "total": 99,
+   "per_month": 8.26,
+   "percentile": 40.5,
+   "nearest_incident_m": 9
+  }
  },
  {
   "name": "Sushi Boat Restaurant",
@@ -4217,7 +7088,16 @@
   "lon": -122.40605,
   "hours": "",
   "website": "",
-  "phone": "+1 415-872-9008"
+  "phone": "+1 415-872-9008",
+  "risk": {
+   "violent": 18,
+   "property": 56,
+   "drug": 5,
+   "total": 79,
+   "per_month": 6.59,
+   "percentile": 28.2,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Today Food",
@@ -4230,7 +7110,16 @@
   "lon": -122.4048,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 17,
+   "property": 86,
+   "drug": 5,
+   "total": 108,
+   "per_month": 9.01,
+   "percentile": 44.8,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Tokyo Express: Teriyaki House",
@@ -4243,7 +7132,16 @@
   "lon": -122.40385,
   "hours": "",
   "website": "",
-  "phone": "+1 415-956-3040"
+  "phone": "+1 415-956-3040",
+  "risk": {
+   "violent": 14,
+   "property": 83,
+   "drug": 7,
+   "total": 104,
+   "per_month": 8.67,
+   "percentile": 43.2,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Albona",
@@ -4256,7 +7154,16 @@
   "lon": -122.4141,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 14,
+   "property": 46,
+   "drug": 5,
+   "total": 65,
+   "per_month": 5.42,
+   "percentile": 21.7,
+   "nearest_incident_m": 65
+  }
  },
  {
   "name": "Bistro Burger",
@@ -4269,7 +7176,16 @@
   "lon": -122.40207,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 14,
+   "property": 59,
+   "drug": 3,
+   "total": 76,
+   "per_month": 6.34,
+   "percentile": 26.8,
+   "nearest_incident_m": 62
+  }
  },
  {
   "name": "Cathay House",
@@ -4282,7 +7198,16 @@
   "lon": -122.40663,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 51,
+   "drug": 9,
+   "total": 79,
+   "per_month": 6.59,
+   "percentile": 28.2,
+   "nearest_incident_m": 20
+  }
  },
  {
   "name": "Cilantro SF Taqueria",
@@ -4295,7 +7220,16 @@
   "lon": -122.41355,
   "hours": "Mo-Su 10:00-20:45",
   "website": "https://cilantrosftaqueria.com/",
-  "phone": "+1 415-655-9948"
+  "phone": "+1 415-655-9948",
+  "risk": {
+   "violent": 14,
+   "property": 36,
+   "drug": 4,
+   "total": 54,
+   "per_month": 4.5,
+   "percentile": 17.2,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "DeLise Dessert cafe",
@@ -4308,7 +7242,16 @@
   "lon": -122.41267,
   "hours": "",
   "website": "",
-  "phone": "+1-415-399-9694"
+  "phone": "+1-415-399-9694",
+  "risk": {
+   "violent": 22,
+   "property": 64,
+   "drug": 6,
+   "total": 92,
+   "per_month": 7.67,
+   "percentile": 35.7,
+   "nearest_incident_m": 66
+  }
  },
  {
   "name": "Grocery Outlet",
@@ -4319,7 +7262,16 @@
   "health": "strong",
   "notes": "Opened Aug 2026 in the old Safeway space, across from Trader Joe's. Deep-discount pantry staples; stock rotates. Not yet in OSM.",
   "verified": "2026-08-29",
-  "walkMin": 10
+  "walkMin": 10,
+  "risk": {
+   "violent": 22,
+   "property": 63,
+   "drug": 6,
+   "total": 91,
+   "per_month": 7.59,
+   "percentile": 35.4,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Ladle & Leaf",
@@ -4332,7 +7284,16 @@
   "lon": -122.40404,
   "hours": "Mo-Fr 10:00-14:00; PH off",
   "website": "https://ladleandleaf.com/locations/",
-  "phone": "+1-415-214-3971"
+  "phone": "+1-415-214-3971",
+  "risk": {
+   "violent": 10,
+   "property": 61,
+   "drug": 4,
+   "total": 75,
+   "per_month": 6.25,
+   "percentile": 26.5,
+   "nearest_incident_m": 85
+  }
  },
  {
   "name": "Leo's Oyster Bar",
@@ -4345,7 +7306,16 @@
   "lon": -122.40253,
   "hours": "Mo-We 15:00-22:00; Th-Fr 15:00-23:00; Sa 05:30-23:00",
   "website": "https://leossf.com/",
-  "phone": "+1 415-872-9982"
+  "phone": "+1 415-872-9982",
+  "risk": {
+   "violent": 15,
+   "property": 61,
+   "drug": 3,
+   "total": 79,
+   "per_month": 6.59,
+   "percentile": 28.2,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Miyabi Sushi",
@@ -4358,7 +7328,16 @@
   "lon": -122.41338,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 11,
+   "property": 31,
+   "drug": 5,
+   "total": 47,
+   "per_month": 3.92,
+   "percentile": 15.3,
+   "nearest_incident_m": 31
+  }
  },
  {
   "name": "Monte's Bar",
@@ -4371,7 +7350,16 @@
   "lon": -122.40295,
   "hours": "Mo-Su 16:00-22:00",
   "website": "https://www.omnihotels.com/hotels/san-francisco/dining/montes-bar",
-  "phone": "+1 415 2733088"
+  "phone": "+1 415 2733088",
+  "risk": {
+   "violent": 16,
+   "property": 82,
+   "drug": 4,
+   "total": 102,
+   "per_month": 8.51,
+   "percentile": 42.1,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "New Russian Hill Market",
@@ -4384,7 +7372,16 @@
   "lon": -122.4149,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 12,
+   "drug": 3,
+   "total": 17,
+   "per_month": 1.42,
+   "percentile": 2.7,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Pat's Cafe",
@@ -4397,7 +7394,16 @@
   "lon": -122.41484,
   "hours": "Mo-Su 07:30-14:00",
   "website": "https://patscafesf.com/",
-  "phone": "+1 415-776-8735"
+  "phone": "+1 415-776-8735",
+  "risk": {
+   "violent": 7,
+   "property": 27,
+   "drug": 2,
+   "total": 36,
+   "per_month": 3.0,
+   "percentile": 11.8,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Pizzeria & Grill",
@@ -4410,7 +7416,16 @@
   "lon": -122.41312,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 17,
+   "property": 35,
+   "drug": 6,
+   "total": 58,
+   "per_month": 4.84,
+   "percentile": 17.7,
+   "nearest_incident_m": 43
+  }
  },
  {
   "name": "Queen's Louisiana Po-Boy Cafe",
@@ -4423,7 +7438,16 @@
   "lon": -122.40566,
   "hours": "Tu-Sa 11:00-16:00",
   "website": "https://queenslapoboyscafe.com/",
-  "phone": "+1-415-656-0711"
+  "phone": "+1-415-656-0711",
+  "risk": {
+   "violent": 0,
+   "property": 13,
+   "drug": 0,
+   "total": 13,
+   "per_month": 1.08,
+   "percentile": 1.6,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "Subway",
@@ -4436,7 +7460,16 @@
   "lon": -122.4027,
   "hours": "Mo-Fr 08:30-18:00",
   "website": "https://restaurants.subway.com/united-states/ca/san-francisco/408-montgomery-street",
-  "phone": "+1 415-391-1123"
+  "phone": "+1 415-391-1123",
+  "risk": {
+   "violent": 18,
+   "property": 92,
+   "drug": 5,
+   "total": 115,
+   "per_month": 9.59,
+   "percentile": 48.5,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "Sum Dim Sum",
@@ -4449,7 +7482,16 @@
   "lon": -122.40609,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 37,
+   "drug": 8,
+   "total": 58,
+   "per_month": 4.84,
+   "percentile": 17.7,
+   "nearest_incident_m": 61
+  }
  },
  {
   "name": "The Eater Point",
@@ -4462,7 +7504,16 @@
   "lon": -122.41181,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 13,
+   "property": 57,
+   "drug": 2,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Venticello",
@@ -4475,7 +7526,16 @@
   "lon": -122.41314,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 25,
+   "drug": 3,
+   "total": 30,
+   "per_month": 2.5,
+   "percentile": 8.8,
+   "nearest_incident_m": 16
+  }
  },
  {
   "name": "Wayfare Tavern",
@@ -4488,7 +7548,16 @@
   "lon": -122.40235,
   "hours": "",
   "website": "https://www.wayfaretavern.com/",
-  "phone": "+1 415 772 9060"
+  "phone": "+1 415 772 9060",
+  "risk": {
+   "violent": 14,
+   "property": 57,
+   "drug": 3,
+   "total": 74,
+   "per_month": 6.17,
+   "percentile": 26.3,
+   "nearest_incident_m": 34
+  }
  },
  {
   "name": "Asia Chinese Food",
@@ -4501,7 +7570,16 @@
   "lon": -122.41313,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 16,
+   "property": 58,
+   "drug": 5,
+   "total": 79,
+   "per_month": 6.59,
+   "percentile": 28.2,
+   "nearest_incident_m": 72
+  }
  },
  {
   "name": "Fiddle Fig Cafe",
@@ -4513,7 +7591,16 @@
   "laptops": true,
   "notes": "Roomy, plant-filled, laptop-normal. Wifi password 'coffeeandplants', outlets, sunny corner + sidewalk seats. Good breakfast burrito. Not yet in OSM.",
   "verified": "2026-08-30",
-  "walkMin": 11
+  "walkMin": 11,
+  "risk": {
+   "violent": 3,
+   "property": 14,
+   "drug": 0,
+   "total": 17,
+   "per_month": 1.42,
+   "percentile": 2.7,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Jackson Market",
@@ -4526,7 +7613,16 @@
   "lon": -122.41495,
   "hours": "Mo-Sa 14:00-19:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 3,
+   "property": 17,
+   "drug": 3,
+   "total": 23,
+   "per_month": 1.92,
+   "percentile": 5.4,
+   "nearest_incident_m": 15
+  }
  },
  {
   "name": "Mendocino Farms",
@@ -4539,7 +7635,16 @@
   "lon": -122.40245,
   "hours": "Mo-Fr 11:00-19:30",
   "website": "https://www.mendocinofarms.com/san-francisco/",
-  "phone": "+1 415 321 2170"
+  "phone": "+1 415 321 2170",
+  "risk": {
+   "violent": 13,
+   "property": 79,
+   "drug": 4,
+   "total": 96,
+   "per_month": 8.01,
+   "percentile": 37.3,
+   "nearest_incident_m": 29
+  }
  },
  {
   "name": "New Thai Elephant",
@@ -4552,7 +7657,16 @@
   "lon": -122.41342,
   "hours": "Mo-Su 11:00-21:30",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 11,
+   "property": 31,
+   "drug": 5,
+   "total": 47,
+   "per_month": 3.92,
+   "percentile": 15.3,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Nob Hill Cafe",
@@ -4565,7 +7679,16 @@
   "lon": -122.4126,
   "hours": "Tu-Th,Su 17:00-21:00; Fr-Sa 17:00-22:00; Mo off",
   "website": "https://www.nobhillcafe.com/",
-  "phone": "+1 415 7766500"
+  "phone": "+1 415 7766500",
+  "risk": {
+   "violent": 6,
+   "property": 25,
+   "drug": 1,
+   "total": 32,
+   "per_month": 2.67,
+   "percentile": 9.7,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Trader Joe's",
@@ -4582,7 +7705,16 @@
   "price": 1,
   "health": "strong",
   "notes": "Staples HQ, open to 9pm; has a parking lot. The zero-cook kit: Just Grilled Chicken Strips + salad kit + avocado (~$8 dinner); steamed lentils; tofu spring rolls (fresh, not fried — appetizer not meal); pre-peeled boiled eggs; Greek yogurt; frozen backup meals as the delivery-app circuit breaker.",
-  "verified": "2026-08-30"
+  "verified": "2026-08-30",
+  "risk": {
+   "violent": 10,
+   "property": 24,
+   "drug": 4,
+   "total": 38,
+   "per_month": 3.17,
+   "percentile": 12.6,
+   "nearest_incident_m": 22
+  }
  },
  {
   "name": "Pescatore",
@@ -4595,7 +7727,16 @@
   "lon": -122.414,
   "hours": "",
   "website": "https://www.hotelzoesf.com/dining",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 12,
+   "property": 32,
+   "drug": 6,
+   "total": 50,
+   "per_month": 4.17,
+   "percentile": 16.4,
+   "nearest_incident_m": 91
+  }
  },
  {
   "name": "Starbucks",
@@ -4608,7 +7749,16 @@
   "lon": -122.41508,
   "hours": "Mo-Su 06:00-17:00",
   "website": "https://www.starbucks.com/store-locator/store/8644/bay-taylor-499-bay-street-san-francisco-ca-941331860-us",
-  "phone": "+1 415-409-1847"
+  "phone": "+1 415-409-1847",
+  "risk": {
+   "violent": 18,
+   "property": 42,
+   "drug": 7,
+   "total": 67,
+   "per_month": 5.59,
+   "percentile": 22.3,
+   "nearest_incident_m": 94
+  }
  },
  {
   "name": "Sushi Rapture",
@@ -4621,7 +7771,16 @@
   "lon": -122.41616,
   "hours": "Mo-Su 00:00-22:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 24,
+   "drug": 1,
+   "total": 27,
+   "per_month": 2.25,
+   "percentile": 5.9,
+   "nearest_incident_m": 17
+  }
  },
  {
   "name": "Hollywood Café",
@@ -4634,7 +7793,16 @@
   "lon": -122.41582,
   "hours": "Mo-Su 08:00-14:00",
   "website": "https://www.hollywoodcafesf.com/",
-  "phone": "+1-415-563-3779"
+  "phone": "+1-415-563-3779",
+  "risk": {
+   "violent": 14,
+   "property": 55,
+   "drug": 3,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "IHOP",
@@ -4647,7 +7815,16 @@
   "lon": -122.41259,
   "hours": "Mo-Th,Su 06:00-22:00; Fr-Sa 06:00-24:00",
   "website": "https://restaurants.ihop.com/en-us/ca/san-francisco/breakfast-200-beach-st-1762",
-  "phone": "+1 415-655-3381"
+  "phone": "+1 415-655-3381",
+  "risk": {
+   "violent": 5,
+   "property": 29,
+   "drug": 0,
+   "total": 34,
+   "per_month": 2.84,
+   "percentile": 10.2,
+   "nearest_incident_m": 128
+  }
  },
  {
   "name": "Le Beau Market",
@@ -4660,7 +7837,16 @@
   "lon": -122.41623,
   "hours": "",
   "website": "https://www.lebeaumarket.com/",
-  "phone": "+1-415-885-3030"
+  "phone": "+1-415-885-3030",
+  "risk": {
+   "violent": 3,
+   "property": 31,
+   "drug": 5,
+   "total": 39,
+   "per_month": 3.25,
+   "percentile": 12.9,
+   "nearest_incident_m": 18
+  }
  },
  {
   "name": "Nob Hill General Store",
@@ -4673,7 +7859,16 @@
   "lon": -122.41617,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 24,
+   "drug": 1,
+   "total": 27,
+   "per_month": 2.25,
+   "percentile": 5.9,
+   "nearest_incident_m": 12
+  }
  },
  {
   "name": "The Dog House",
@@ -4686,7 +7881,16 @@
   "lon": -122.40996,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 3,
+   "property": 15,
+   "drug": 0,
+   "total": 18,
+   "per_month": 1.5,
+   "percentile": 3.2,
+   "nearest_incident_m": 88
+  }
  },
  {
   "name": "7-Eleven",
@@ -4699,7 +7903,16 @@
   "lon": -122.41395,
   "hours": "",
   "website": "https://www.7-eleven.com/locations/ca/san-francisco/2650-mason-st-33006",
-  "phone": "+1 415-391-7499"
+  "phone": "+1 415-391-7499",
+  "risk": {
+   "violent": 0,
+   "property": 0,
+   "drug": 0,
+   "total": 0,
+   "per_month": 0.0,
+   "percentile": 0.0,
+   "nearest_incident_m": 164
+  }
  },
  {
   "name": "Chennai Kings",
@@ -4712,7 +7925,16 @@
   "lon": -122.41597,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 63,
+   "drug": 5,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 33
+  }
  },
  {
   "name": "Darren's Cafe",
@@ -4725,7 +7947,16 @@
   "lon": -122.41587,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 63,
+   "drug": 5,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 41
+  }
  },
  {
   "name": "Hot Sauce and Panko",
@@ -4738,7 +7969,16 @@
   "lon": -122.41798,
   "hours": "We-Sa 11:30-19:00; Su 11:30-17:00; Mo,Tu off",
   "website": "https://hotsauceandpanko.com/",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 2,
+   "property": 33,
+   "drug": 1,
+   "total": 36,
+   "per_month": 3.0,
+   "percentile": 11.8,
+   "nearest_incident_m": 13
+  }
  },
  {
   "name": "Krispy Krunchy Chicken",
@@ -4751,7 +7991,16 @@
   "lon": -122.41398,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 0,
+   "property": 0,
+   "drug": 0,
+   "total": 0,
+   "per_month": 0.0,
+   "percentile": 0.0,
+   "nearest_incident_m": 160
+  }
  },
  {
   "name": "Mango Crazy",
@@ -4764,7 +8013,16 @@
   "lon": -122.41312,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 0,
+   "property": 0,
+   "drug": 0,
+   "total": 0,
+   "per_month": 0.0,
+   "percentile": 0.0,
+   "nearest_incident_m": 204
+  }
  },
  {
   "name": "Sushi GoGo",
@@ -4777,7 +8035,16 @@
   "lon": -122.41577,
   "hours": "",
   "website": "www.sushigogo11.com",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 21,
+   "property": 63,
+   "drug": 5,
+   "total": 89,
+   "per_month": 7.42,
+   "percentile": 33.2,
+   "nearest_incident_m": 19
+  }
  },
  {
   "name": "Taqueria El Farolito",
@@ -4790,7 +8057,16 @@
   "lon": -122.4149,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 53,
+   "drug": 5,
+   "total": 77,
+   "per_month": 6.42,
+   "percentile": 27.6,
+   "nearest_incident_m": 69
+  }
  },
  {
   "name": "Applebee's",
@@ -4803,7 +8079,16 @@
   "lon": -122.41561,
   "hours": "",
   "website": "https://restaurants.applebees.com/en-us/ca/san-francisco/2770-taylor-st-77043",
-  "phone": "+1 415-749-9025"
+  "phone": "+1 415-749-9025",
+  "risk": {
+   "violent": 19,
+   "property": 48,
+   "drug": 5,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 26
+  }
  },
  {
   "name": "Boudin Bakery & Museum",
@@ -4816,7 +8101,16 @@
   "lon": -122.41486,
   "hours": "Mo-Su 12:00-21:00",
   "website": "http://www.boudinbakery.com/",
-  "phone": "+1 415-928-1849"
+  "phone": "+1 415-928-1849",
+  "risk": {
+   "violent": 10,
+   "property": 20,
+   "drug": 4,
+   "total": 34,
+   "per_month": 2.84,
+   "percentile": 10.2,
+   "nearest_incident_m": 90
+  }
  },
  {
   "name": "Crab Station",
@@ -4829,7 +8123,16 @@
   "lon": -122.416,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 48,
+   "drug": 5,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 28
+  }
  },
  {
   "name": "Fisherman’s Wharf Chowder and Crab Sidewalk Stands",
@@ -4842,7 +8145,16 @@
   "lon": -122.41596,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 48,
+   "drug": 5,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 21
+  }
  },
  {
   "name": "Pollo Campero",
@@ -4855,7 +8167,16 @@
   "lon": -122.41509,
   "hours": "Mo-Fr 08:00-21:00",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 48,
+   "drug": 5,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 63
+  }
  },
  {
   "name": "Supreme Crab",
@@ -4868,7 +8189,16 @@
   "lon": -122.41651,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 33,
+   "property": 65,
+   "drug": 7,
+   "total": 105,
+   "per_month": 8.76,
+   "percentile": 43.4,
+   "nearest_incident_m": 69
+  }
  },
  {
   "name": "Surisan",
@@ -4881,7 +8211,16 @@
   "lon": -122.41748,
   "hours": "",
   "website": "https://www.surisansf.com",
-  "phone": "+1-415-771-8449"
+  "phone": "+1-415-771-8449",
+  "risk": {
+   "violent": 24,
+   "property": 36,
+   "drug": 4,
+   "total": 64,
+   "per_month": 5.34,
+   "percentile": 21.2,
+   "nearest_incident_m": 35
+  }
  },
  {
   "name": "Tanguito",
@@ -4894,7 +8233,16 @@
   "lon": -122.41719,
   "hours": "",
   "website": "",
-  "phone": "+1-415-577-4223"
+  "phone": "+1-415-577-4223",
+  "risk": {
+   "violent": 24,
+   "property": 52,
+   "drug": 3,
+   "total": 79,
+   "per_month": 6.59,
+   "percentile": 28.2,
+   "nearest_incident_m": 30
+  }
  },
  {
   "name": "The Codmother Fish and Chips",
@@ -4907,7 +8255,16 @@
   "lon": -122.41708,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 24,
+   "property": 52,
+   "drug": 3,
+   "total": 79,
+   "per_month": 6.59,
+   "percentile": 28.2,
+   "nearest_incident_m": 27
+  }
  },
  {
   "name": "Sabella & LaTorre",
@@ -4920,6 +8277,15 @@
   "lon": -122.41602,
   "hours": "",
   "website": "",
-  "phone": ""
+  "phone": "",
+  "risk": {
+   "violent": 19,
+   "property": 48,
+   "drug": 5,
+   "total": 72,
+   "per_month": 6.0,
+   "percentile": 22.8,
+   "nearest_incident_m": 34
+  }
  }
 ]

@@ -50,6 +50,8 @@
   .b.strong{background:var(--strong-bg);color:var(--strong)}
   .b.trap{background:var(--trap-bg);color:var(--trap)}
   .b.price{font-variant-numeric:tabular-nums}
+  .b.good{background:var(--strong-bg);color:var(--strong)} .b.warn{background:#F6EEDC;color:#8A5A00} .b.bad{background:var(--trap-bg);color:var(--trap)}
+  @media (prefers-color-scheme: dark){ .b.warn{background:#3A2E14;color:#F0C060} }
   .notes{margin:8px 0 0;font-size:13.5px;max-width:64ch}
   .verified{color:var(--muted);font-size:11.5px;margin-top:6px}
   .empty{color:var(--muted);padding:30px 0;text-align:center}
@@ -58,7 +60,7 @@
 <body>
 <div class="wrap">
   <h1>NB Food Index</h1>
-  <p class="sub">Every restaurant, cafe &amp; grocery around 371 Columbus · walk times from your door · curated notes where verified</p>
+  <p class="sub">Every restaurant, cafe &amp; grocery around 371 Columbus · walk times from your door · curated notes, SF health-inspection scores (2016–2019 dataset), 150 m street-risk percentile from SFPD incidents, and menus where found</p>
   <div class="controls">
     <input type="search" id="q" placeholder="Search name, cuisine, notes…">
     <span class="seg" id="cat">
@@ -68,6 +70,7 @@
       <button data-v="" class="on">Any</button><button data-v="strong">Healthy picks</button>
     </span>
     <label class="tog"><input type="checkbox" id="curated"> curated only</label>
+    <label class="tog"><input type="checkbox" id="hasmenu"> has menu</label>
   </div>
   <p class="count" id="count"></p>
   <div class="list" id="list"></div>
@@ -89,6 +92,11 @@ function row(p){
   if(p.applePay===true) badges.push('<span class="b strong">apple pay</span>');
   if(p.applePay===false) badges.push('<span class="b trap">cash only</span>');
   if(p.cuisine) badges.push(`<span class="b">${esc(p.cuisine)}</span>`);
+  if(p.inspection && p.inspection.last_score!=null){ const sc=p.inspection.last_score; const cls=sc>=90?"good":sc>=80?"warn":"bad";
+    badges.push(`<span class="b ${cls}" title="SF health inspection (${esc(p.inspection.dataset_range||"2016-2019")}), match: ${esc(p.inspection.match_confidence||"")}">inspection ${sc} · ${esc(String(p.inspection.last_score_date||"").slice(0,7))}</span>`); }
+  if(p.risk && p.risk.percentile!=null){ const pc=p.risk.percentile; const cls=pc>=75?"bad":pc>=40?"warn":"good";
+    badges.push(`<span class="b ${cls}" title="SFPD incidents within 150 m, trailing 365 d: ${p.risk.violent} violent / ${p.risk.property} property / ${p.risk.drug} drug">street risk p${Math.round(pc)} · ${p.risk.per_month}/mo</span>`); }
+  if(p.menu_data && p.menu_data.url) badges.push(`<a class="b" href="${esc(p.menu_data.url)}" target="_blank" rel="noopener">menu${p.menu_data.items?` (${p.menu_data.items} items)`:""}</a>`);
   const meta = [p.addr, p.hours].filter(Boolean).map(esc).join(" · ");
   const site = p.website ? ` · <a href="${esc(p.website)}" target="_blank" rel="noopener">site</a>` : "";
   const menu = p.menu ? ` · <a href="../${esc(p.menu)}" target="_blank">menu</a>` : "";
@@ -108,6 +116,7 @@ function apply(){
     if(cat && p.category!==cat) return false;
     if(health && p.health!==health) return false;
     if(cur && !p.notes) return false;
+    if($("hasmenu").checked && !p.menu_data) return false;
     if(words.length){
       const hay = (p.name+" "+(p.cuisine||"")+" "+(p.notes||"")+" "+(p.subtype||"")).toLowerCase();
       if(!words.every(w=>hay.includes(w))) return false;
@@ -129,6 +138,7 @@ for(const segId of ["cat","health"]){
 }
 $("q").addEventListener("input", e=>{q=e.target.value; apply();});
 $("curated").addEventListener("change", apply);
+$("hasmenu").addEventListener("change", apply);
 apply();
 </script>
 </body>

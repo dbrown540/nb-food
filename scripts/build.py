@@ -98,6 +98,23 @@ def main() -> None:
         extra["walkMin"] = walk_minutes(extra.pop("lat"), extra.pop("lon"))
         places.append(extra)
 
+    # ---- optional enrichment layers (each produced by its own script; merged by POI name) ----
+    def load(p):
+        f = ROOT / p
+        return json.loads(f.read_text()) if f.exists() else None
+    risk = (load("data/crime/poi_street_risk.json") or {}).get("pois", {})
+    insp = load("data/inspections/poi_inspections.json") or {}
+    menus = {m.get("name"): m for m in (load("data/menus/index.json") or []) if isinstance(m, dict)}
+    for p in places:
+        r = risk.get(p["name"])
+        if r:
+            p["risk"] = {k: r.get(k) for k in ("violent", "property", "drug", "total", "per_month", "percentile", "nearest_incident_m")}
+        i = insp.get(p["name"])
+        if i and i.get("match_confidence") not in (None, "none"):
+            p["inspection"] = {k: i.get(k) for k in ("last_score", "last_score_date", "last_inspection_date", "violation_count_last", "high_risk_count_all_time", "worst_score_all_time", "match_confidence", "dataset_range")}
+        m = menus.get(p["name"])
+        if m and m.get("status") in ("ok", "partial"):
+            p["menu_data"] = {"url": m.get("menu_url"), "items": m.get("items_count"), "status": m.get("status"), "slug": m.get("slug")}
     places.sort(key=lambda p: (p["walkMin"], p["name"]))
     (ROOT / "data/places.json").write_text(
         json.dumps(places, indent=1, ensure_ascii=False))
@@ -108,8 +125,8 @@ def main() -> None:
         template.replace("/*__DATA__*/[]", payload))
 
     curated_count = sum(1 for p in places if "notes" in p)
-    print(f"{len(places)} places -> data/places.json, docs/index.html "
-          f"({curated_count} curated)")
+    print(f"{len(places)} places -> data/places.json, docs/index.html ({curated_count} curated; "
+          f"risk {sum(1 for p in places if 'risk' in p)}, inspections {sum(1 for p in places if 'inspection' in p)}, menus {sum(1 for p in places if 'menu_data' in p)})")
 
 
 if __name__ == "__main__":
