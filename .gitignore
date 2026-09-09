@@ -1,1 +1,5 @@
 data/osm_raw.json
+# raw Socrata dumps (>20MB each); regenerate with scripts/fetch_inspections.py
+data/inspections/inspections_2016_2019.json
+data/inspections/current/inspections_2020_2023.json
+data/inspections/current/inspections_2024_present.json
