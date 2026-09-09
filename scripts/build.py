@@ -111,7 +111,7 @@ def main() -> None:
             p["risk"] = {k: r.get(k) for k in ("violent", "property", "drug", "total", "per_month", "percentile", "nearest_incident_m")}
         i = insp.get(p["name"])
         if i and i.get("match_confidence") not in (None, "none"):
-            p["inspection"] = {k: i.get(k) for k in ("last_score", "last_score_date", "last_inspection_date", "violation_count_last", "high_risk_count_all_time", "worst_score_all_time", "match_confidence", "dataset_range")}
+            p["inspection"] = {k: i.get(k) for k in ("last_score", "last_score_date", "last_inspection_date", "last_inspection_type", "violation_count_last", "last_status", "last_status_date", "closures_all_time", "conditional_pass_all_time", "high_risk_count_all_time", "worst_score_all_time", "inspections_total", "match_confidence", "dataset_range")}
         m = menus.get(p["name"])
         if m and m.get("status") in ("ok", "partial"):
             p["menu_data"] = {"url": m.get("menu_url"), "items": m.get("items_count"), "status": m.get("status"), "slug": m.get("slug")}
