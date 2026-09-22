@@ -1,0 +1,289 @@
+{
+ "name": "Crab House",
+ "addr": "2 Beach Street (Pier 39)",
+ "menu_url": "https://crabhouse39.com/menu/",
+ "source": "restaurant website (menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Garlic Fries",
+   "price": 9.0,
+   "description": "garlic, parmesan, herbs"
+  },
+  {
+   "section": "Starters",
+   "item": "Garlic Bread",
+   "price": 10.0,
+   "description": "garlic butter, parmesan"
+  },
+  {
+   "section": "Starters",
+   "item": "Skillet Roasted Sourdough",
+   "price": 10.0,
+   "description": "cheesy tomato cream sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Garlic Truffle Fries",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Crab Cakes",
+   "price": 22.0,
+   "description": "cayenne aioli"
+  },
+  {
+   "section": "Starters",
+   "item": "Crispy Calamari",
+   "price": 17.0,
+   "description": "pepperoncinis"
+  },
+  {
+   "section": "Starters",
+   "item": "Oysters on a Half Shell (6)",
+   "price": 24.0,
+   "description": "mignonette"
+  },
+  {
+   "section": "Starters",
+   "item": "Crab Bruschetta",
+   "price": 18.0,
+   "description": "sourdough crostini, tomatoes, garlic, crab, parmesan"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Crab Topped Clam Chowder (cup)",
+   "price": 13.0,
+   "description": "bowl $16, bread bowl $18"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Chowder and Salad Combo",
+   "price": 26.0,
+   "description": "bread bowl chowder with Caesar or house salad"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Caesar",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Beet, Mozzarella & Arugula Salad",
+   "price": 17.0,
+   "description": "lemon vinaigrette, fig jam, sourdough"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "House Salad",
+   "price": 10.0,
+   "description": "add chicken/shrimp $8, crab $12"
+  },
+  {
+   "section": "Dungeness Killer Crab",
+   "item": "Half Crab",
+   "price": 36.0,
+   "description": "garlic-roasted Dungeness on a sizzling skillet"
+  },
+  {
+   "section": "Dungeness Killer Crab",
+   "item": "Whole Crab",
+   "price": 65.0,
+   "description": ""
+  },
+  {
+   "section": "Dungeness Killer Crab",
+   "item": "Crab + Half",
+   "price": 98.0,
+   "description": ""
+  },
+  {
+   "section": "Dungeness Killer Crab",
+   "item": "Two Whole Crabs",
+   "price": 125.0,
+   "description": ""
+  },
+  {
+   "section": "Dungeness Killer Crab",
+   "item": "Crab Feast",
+   "price": 184.0,
+   "description": ""
+  },
+  {
+   "section": "Sizzling Iron Skillets",
+   "item": "Mussels Skillet",
+   "price": 18.0,
+   "description": "double $32"
+  },
+  {
+   "section": "Sizzling Iron Skillets",
+   "item": "Shrimp Skillet",
+   "price": 23.0,
+   "description": "double $39"
+  },
+  {
+   "section": "Sizzling Iron Skillets",
+   "item": "Killer Combo",
+   "price": 51.0,
+   "description": "crab, mussels, shrimp; double $81"
+  },
+  {
+   "section": "Sizzling Iron Skillets",
+   "item": "Super Combo",
+   "price": 110.0,
+   "description": "1 1/2 crabs, mussels, shrimp"
+  },
+  {
+   "section": "Sizzling Iron Skillets",
+   "item": "Ultimate Combo",
+   "price": 154.0,
+   "description": "1 1/2 crabs, 2 lobster tails, mussels, shrimp"
+  },
+  {
+   "section": "Pastas",
+   "item": "Crab & Shrimp Fettuccine",
+   "price": 33.0,
+   "description": "tomatoes, garlic, mushrooms, white wine, butter sauce"
+  },
+  {
+   "section": "Pastas",
+   "item": "Seafood Pasta",
+   "price": 29.0,
+   "description": "shrimp, mussels, fish, red crab sauce, fettuccine"
+  },
+  {
+   "section": "Pastas",
+   "item": "Garlic Noodles",
+   "price": 20.0,
+   "description": "garlic butter, cilantro, green onion, parmesan"
+  },
+  {
+   "section": "Pastas",
+   "item": "Crab Mac & Cheese",
+   "price": 28.0,
+   "description": "jack, cheddar, mozzarella, parmesan crumb"
+  },
+  {
+   "section": "Entrees",
+   "item": "Crab Fried Rice",
+   "price": 26.0,
+   "description": "crab, egg, lemongrass, ginger, garlic"
+  },
+  {
+   "section": "Entrees",
+   "item": "Fish & Chips",
+   "price": 21.0,
+   "description": "Pacific cod, fries, coleslaw"
+  },
+  {
+   "section": "Entrees",
+   "item": "Cod Piccata",
+   "price": 27.0,
+   "description": "caper lemon butter"
+  },
+  {
+   "section": "Entrees",
+   "item": "Crab Enchiladas",
+   "price": 32.0,
+   "description": "flour tortillas, crab, cheese, roasted peppers, red sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Salmon",
+   "price": 31.0,
+   "description": "tarragon butter"
+  },
+  {
+   "section": "Entrees",
+   "item": "NY Steak",
+   "price": 41.0,
+   "description": "rosemary, garlic"
+  },
+  {
+   "section": "Entrees",
+   "item": "Crab Topped NY Steak",
+   "price": 53.0,
+   "description": "10oz"
+  },
+  {
+   "section": "Entrees",
+   "item": "Crab Roll",
+   "price": 28.0,
+   "description": "brioche roll"
+  },
+  {
+   "section": "Entrees",
+   "item": "Crab Topped Cheeseburger",
+   "price": 22.0,
+   "description": "two patties, American cheese, crab"
+  },
+  {
+   "section": "Entrees",
+   "item": "Surf and Turf",
+   "price": 65.0,
+   "description": "NY steak and half Killer Crab"
+  },
+  {
+   "section": "Entrees",
+   "item": "Seafood Cioppino",
+   "price": 39.0,
+   "description": "shrimp, mussels, clams, fish, crab"
+  },
+  {
+   "section": "Desserts",
+   "item": "Desserts",
+   "price": 10.0,
+   "description": "tiramisu, chocolate torte, creme brulee cheesecake, apple crumble, key lime pie"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids entree",
+   "price": 10.0,
+   "description": "cheeseburger, pasta, chicken tenders, mac & cheese"
+  },
+  {
+   "section": "Drinks",
+   "item": "Cocktails",
+   "price": 16.0,
+   "description": "margarita, mai tai, mojito, old fashioned, others"
+  },
+  {
+   "section": "Drinks",
+   "item": "Crab House Punch",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Draft Beer",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the glass",
+   "price": 13.0,
+   "description": "starting price; house $13; bottle from $48"
+  },
+  {
+   "section": "Drinks",
+   "item": "Zero-proof cocktails",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Lemonades / Italian Soda",
+   "price": 8.0,
+   "description": ""
+  }
+ ],
+ "notes": "Crab House at Pier 39 (upstairs). Menu states a 5% surcharge on each check. Happy hour Mon-Fri 3-5:30pm bar only. Wine list and most cocktails collapsed.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $30.00 of 20 prices in sections ['Sizzling Iron Skillets', 'Pastas', 'Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

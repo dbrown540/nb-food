@@ -1,0 +1,163 @@
+{
+ "name": "Fish & Farm",
+ "addr": "",
+ "menu_url": "https://www.fishandfarmsf.com/dinner/",
+ "source": "restaurant website (dinner menu image, read visually)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Soup du Jour",
+   "price": 11.0,
+   "description": "chef's choice"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Artichoke Salad",
+   "price": 17.0,
+   "description": "spring mix, vinaigrette"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Caesar Salad",
+   "price": 17.0,
+   "description": "lemon anchovy dressing"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fresh Grilled Calamari Salad",
+   "price": 19.0,
+   "description": "olives, garlic-parsley sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fresh Fried Calamari",
+   "price": 20.0,
+   "description": "tartar sauce, lemon"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Cakes",
+   "price": 23.0,
+   "description": "shrimp, red pepper aioli"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mussels Mariniere",
+   "price": 18.0,
+   "description": "garlic, parsley, white wine; + moules frites $6"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Margherita Pizza",
+   "price": 22.0,
+   "description": "basil, tomato, fior di latte mozzarella"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Pepperoni Pizza",
+   "price": 24.0,
+   "description": "pepperoni, fior di latte mozzarella"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Funghi Pizza",
+   "price": 24.0,
+   "description": "mushrooms, fior di latte mozzarella"
+  },
+  {
+   "section": "Entrees",
+   "item": "Atlantic Salmon",
+   "price": 34.0,
+   "description": "herbed potatoes, spinach, beurre blanc"
+  },
+  {
+   "section": "Entrees",
+   "item": "Filet of Sole",
+   "price": 32.0,
+   "description": "meuniere butter, vegetables, roasted potatoes"
+  },
+  {
+   "section": "Entrees",
+   "item": "Fish & Chips",
+   "price": 28.0,
+   "description": "beer battered, tartar sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Mushroom Risotto",
+   "price": 27.0,
+   "description": "wild mushrooms, spinach, parmesan, truffle oil"
+  },
+  {
+   "section": "Entrees",
+   "item": "Marin Sun Farm Burger",
+   "price": 21.0,
+   "description": "aged white cheddar, caramelized onion, pickles; + egg $2, + bacon $6"
+  },
+  {
+   "section": "Entrees",
+   "item": "Southern Fried Chicken",
+   "price": 29.0,
+   "description": "mashed potatoes, cole slaw, buttered hot sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "New York Steak (12oz)",
+   "price": 39.0,
+   "description": "french fries, roasted vegetables, bordelaise"
+  },
+  {
+   "section": "Entrees",
+   "item": "Cioppino",
+   "price": 38.0,
+   "description": "white fish, shrimp, mussels, calamari, spicy tomato broth"
+  },
+  {
+   "section": "Entrees",
+   "item": "Niman Ranch Bone-In Pork Chop",
+   "price": 32.0,
+   "description": "sauteed cabbage with bacon"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Mac & Cheese",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Side Dishes",
+   "item": "French Fries",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Sweet Potato Fries",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Mashed Potatoes",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Roasted Market Vegetables",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Brussel Sprouts",
+   "price": 11.0,
+   "description": ""
+  }
+ ],
+ "notes": "Dinner menu only (image dated 2024 upload); breakfast, lunch and dessert pages exist but were not transcribed.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $32.00 of 9 prices in sections ['Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

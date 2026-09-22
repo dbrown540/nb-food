@@ -1,0 +1,733 @@
+{
+ "name": "Fish N Gari",
+ "addr": "1718 Polk Street",
+ "menu_url": "https://www.fishngarisf.com/14lij85h/restaurant/menu?menu=All+Day+Menu",
+ "source": "restaurant online-ordering page (own ordering site; All Day Menu rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Agedashi Tofu",
+   "price": 8.75,
+   "description": "fried tofu cubes topped with bonito flakes"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Gomaae",
+   "price": 7.5,
+   "description": "boiled spinach with sesame dressing"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Gyoza",
+   "price": 9.25,
+   "description": "pork pot stickers"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Soft Shell Crab",
+   "price": 15.25,
+   "description": "deep fried soft shell crab"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Edamame",
+   "price": 6.35,
+   "description": "boiled salted beans"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Yaki Nasu",
+   "price": 9.65,
+   "description": "grilled eggplant, ginger sauce, bonito flakes"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Kaki Fry",
+   "price": 13.55,
+   "description": "breaded fried oyster"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Shrimp Tempura",
+   "price": 15.25,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tuna Poke",
+   "price": 18.65,
+   "description": "Hawaiian-style tuna salad"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Hamachi Kama",
+   "price": 18.65,
+   "description": "grilled yellowtail collar"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Albacore Tataki",
+   "price": 18.95,
+   "description": "seared albacore, ponzu"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tuna Tataki",
+   "price": 18.95,
+   "description": "seared tuna, ponzu"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Beef Negi Roll",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Sushi Rice",
+   "price": 3.1,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Miso Yaki Butterfish",
+   "price": 18.25,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Yaki Tori",
+   "price": 8.25,
+   "description": "two grilled chicken skewers"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Yaki Ika",
+   "price": 10.5,
+   "description": "grilled squid"
+  },
+  {
+   "section": "Soup And Salad",
+   "item": "Miso Soup",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Soup And Salad",
+   "item": "Clam Soup",
+   "price": 8.35,
+   "description": ""
+  },
+  {
+   "section": "Soup And Salad",
+   "item": "Seaweed Salad",
+   "price": 7.15,
+   "description": "marinated seaweed"
+  },
+  {
+   "section": "Soup And Salad",
+   "item": "Green Salad",
+   "price": 9.85,
+   "description": "mixed greens with dressing"
+  },
+  {
+   "section": "Soup And Salad",
+   "item": "Cucumber Salad",
+   "price": 7.75,
+   "description": "cucumber, vinegar dressing"
+  },
+  {
+   "section": "Soup And Salad",
+   "item": "Ocean Sunomono",
+   "price": 13.75,
+   "description": "ebi, crab, tako and cucumber in vinegar dressing"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Chicken Udon",
+   "price": 15.95,
+   "description": "chicken noodle soup"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Beef Udon",
+   "price": 17.65,
+   "description": "beef noodle soup"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Tempura Udon",
+   "price": 15.1,
+   "description": "tempura noodle soup"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Seafood Udon",
+   "price": 17.1,
+   "description": "seafood noodle soup"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Tonkatsu Don",
+   "price": 17.1,
+   "description": "pork cutlet rice bowl"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Oyako Don",
+   "price": 16.35,
+   "description": "chicken rice bowl"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Beef Don",
+   "price": 18.95,
+   "description": "beef rice bowl"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Chirashi",
+   "price": 29.5,
+   "description": "assorted fish rice bowl"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Unagi Don",
+   "price": 29.5,
+   "description": "eel rice bowl"
+  },
+  {
+   "section": "Noodles And Donburi",
+   "item": "Tekka Don",
+   "price": 29.5,
+   "description": "tuna rice bowl"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Maguro Nigiri",
+   "price": 8.5,
+   "description": "tuna"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Hamachi Nigiri",
+   "price": 8.5,
+   "description": "yellowtail"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Sake Nagiri",
+   "price": 8.45,
+   "description": "salmon"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Hotate Nigiri",
+   "price": 8.45,
+   "description": "scallop"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Unagi Nigiri",
+   "price": 8.5,
+   "description": "eel"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ikura Nigiri",
+   "price": 9.35,
+   "description": "salmon roe"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ebi Nigiri",
+   "price": 8.35,
+   "description": "shrimp"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Saba Nigiri",
+   "price": 8.35,
+   "description": "mackerel"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Tobiko Nigiri",
+   "price": 6.25,
+   "description": "flying fish roe"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Albacore Nigiri",
+   "price": 8.15,
+   "description": "white tuna"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Tako Nigiri",
+   "price": 8.1,
+   "description": "octopus"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Butterfish Nigiri",
+   "price": 7.15,
+   "description": "escolar"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Amaebi Nigiri",
+   "price": 12.15,
+   "description": "sweet shrimp"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Inari Nagiri",
+   "price": 4.25,
+   "description": "tofu skin"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Shitake Nigiri",
+   "price": 4.25,
+   "description": "mushroom"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Tamago Nigiri",
+   "price": 5.15,
+   "description": "egg"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Spicy Hotate Nigiri",
+   "price": 6.95,
+   "description": "spicy scallop"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Kani Nigiri",
+   "price": 5.25,
+   "description": "crab"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ika Nigiri",
+   "price": 5.75,
+   "description": "squid"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ocean Trout",
+   "price": 8.35,
+   "description": ""
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Suzuki",
+   "price": 8.3,
+   "description": "striped bass"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Maguro Sashimi",
+   "price": 18.15,
+   "description": "tuna"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Hamachi Sashimi",
+   "price": 18.15,
+   "description": "yellowtail"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Sake Sashimi",
+   "price": 17.15,
+   "description": "salmon"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Hotate Sashimi",
+   "price": 18.15,
+   "description": "scallop"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Saba Sashimi",
+   "price": 13.15,
+   "description": "mackerel"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Tako Sashimi",
+   "price": 14.25,
+   "description": "octopus"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Butterfish Sashimi",
+   "price": 15.3,
+   "description": "escolar"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Amaebi Sashimi",
+   "price": 30.8,
+   "description": "sweet shrimp"
+  },
+  {
+   "section": "Sashimi (5 pcs)",
+   "item": "Suzuki Sashimi",
+   "price": 17.25,
+   "description": "striped bass"
+  },
+  {
+   "section": "Sashimi And Nigiri Combo",
+   "item": "Nigiri Sushi Combo A (8pcs)",
+   "price": 29.95,
+   "description": "maguro 2, sake 2, hamachi 1, chef's choice 3"
+  },
+  {
+   "section": "Sashimi And Nigiri Combo",
+   "item": "Nigiri Sushi Combo B (10pcs)",
+   "price": 37.95,
+   "description": "tuna 2, salmon 2, hamachi 1, sashimi chef's choice 5"
+  },
+  {
+   "section": "Sashimi And Nigiri Combo",
+   "item": "Sushi & Sashimi Combo C",
+   "price": 57.5,
+   "description": "sushi 5 pcs, sashimi 6 pcs, rainbow or 49ers roll"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Avocado Maki",
+   "price": 5.75,
+   "description": "avocado"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Kappa Maki",
+   "price": 5.85,
+   "description": "cucumber"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Oshinko Maki",
+   "price": 5.75,
+   "description": "pickle"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Futo Maki",
+   "price": 9.85,
+   "description": "vegetables and egg cake"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Vegetarian Roll",
+   "price": 8.95,
+   "description": "mixed fresh vegetables"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Shitake Maki",
+   "price": 4.85,
+   "description": "mushroom"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Ebi Maki",
+   "price": 6.25,
+   "description": "shrimp"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Tekka Maki",
+   "price": 7.95,
+   "description": "tuna"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Hamachi Maki",
+   "price": 7.95,
+   "description": "yellowtail"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Sake Maki",
+   "price": 7.95,
+   "description": "salmon"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Kanpyo Maki",
+   "price": 5.25,
+   "description": "sweetened squash"
+  },
+  {
+   "section": "Hosomaki And Temaki",
+   "item": "Ume Shiso Maki",
+   "price": 5.85,
+   "description": "plum paste with shiso leaf"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "California Roll",
+   "price": 6.95,
+   "description": "crab and avocado"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Golden California Roll",
+   "price": 8.5,
+   "description": "crab, avocado, tobiko"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Ebikyu",
+   "price": 6.75,
+   "description": "shrimp and cucumber"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "New York Roll",
+   "price": 7.25,
+   "description": "shrimp and avocado"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Rock and Roll",
+   "price": 10.15,
+   "description": "unagi and avocado"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Spicy Tuna Roll",
+   "price": 9.5,
+   "description": "spicy tuna and cucumber"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Alaska Roll",
+   "price": 9.5,
+   "description": "salmon and avocado"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Crunch Roll",
+   "price": 14.85,
+   "description": "deep fried California roll"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Spider Roll",
+   "price": 15.15,
+   "description": "soft shell crab, cucumber, avocado"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Philadelphia Roll",
+   "price": 9.15,
+   "description": "cream cheese and smoked salmon"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Salmon Skin Roll",
+   "price": 9.15,
+   "description": "grilled salmon skin and cucumber"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Screaming Roll",
+   "price": 9.15,
+   "description": "spicy yellowtail, cucumber, scallion"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Shrimp Tempura Roll",
+   "price": 14.5,
+   "description": "shrimp tempura, cucumber, avocado"
+  },
+  {
+   "section": "Uramaki or Temaki",
+   "item": "Snow Crab California Roll",
+   "price": 14.5,
+   "description": "real crab meat"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Caterpillar Roll",
+   "price": 17.05,
+   "description": "eel, cucumber, avocado, tobiko"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Dragon Roll",
+   "price": 18.85,
+   "description": "eel, shrimp tempura, avocado, tobiko"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Red Dragon Roll",
+   "price": 17.85,
+   "description": "California roll topped with spicy tuna and tobiko"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Rainbow Roll",
+   "price": 17.85,
+   "description": "California roll topped with assorted fish"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Pink Lady Roll",
+   "price": 14.25,
+   "description": "tempura vegetables in soy paper"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Crunch Spider Roll",
+   "price": 19.25,
+   "description": "tempura bits, soft shell crab, mango chutney dressing"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Lazy Summer Roll",
+   "price": 19.25,
+   "description": "crab, fish, avocado wrapped in cucumber, ponzu"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Romeo and Juliet Roll",
+   "price": 18.25,
+   "description": "avocado and eel topped with scallop, spicy sauce"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Sakura Roll",
+   "price": 18.25,
+   "description": "cucumber and avocado topped with tuna and yellowtail"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Snow Beauty Roll",
+   "price": 18.5,
+   "description": "white tuna, cucumber, avocado, torched butterfish"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Ocean Breeze Roll",
+   "price": 18.75,
+   "description": "salmon, cucumber, avocado, torched tuna"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Honey Walnut Prawn Roll",
+   "price": 18.95,
+   "description": "shrimp tempura, walnut, avocado, honey sauce"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "49er's Roll",
+   "price": 18.25,
+   "description": "California roll topped with salmon and lemon"
+  },
+  {
+   "section": "House Signature Rolls",
+   "item": "Dynamite Roll",
+   "price": 14.95,
+   "description": "fried spicy tuna with tobiko"
+  },
+  {
+   "section": "Agemono (Fried)",
+   "item": "Tonkatsu",
+   "price": 19.5,
+   "description": "breaded fried pork cutlet"
+  },
+  {
+   "section": "Agemono (Fried)",
+   "item": "Vegetable Tempura",
+   "price": 16.75,
+   "description": "vegetables in tempura batter"
+  },
+  {
+   "section": "Agemono (Fried)",
+   "item": "Shrimp Tempura",
+   "price": 20.0,
+   "description": "shrimp and vegetables in tempura batter"
+  },
+  {
+   "section": "Agemono (Fried)",
+   "item": "Seafood Tempura",
+   "price": 20.0,
+   "description": "shrimp, fish and vegetables in tempura batter"
+  },
+  {
+   "section": "Agemono (Fried)",
+   "item": "Chicken Katsu",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Yakimono (Grilled)",
+   "item": "Chicken Teriyaki",
+   "price": 18.85,
+   "description": "grilled chicken, teriyaki sauce"
+  },
+  {
+   "section": "Yakimono (Grilled)",
+   "item": "Beef Teriyaki",
+   "price": 20.9,
+   "description": "grilled beef, teriyaki sauce"
+  },
+  {
+   "section": "Yakimono (Grilled)",
+   "item": "Salmon Teriyaki",
+   "price": 19.9,
+   "description": "grilled salmon, teriyaki sauce"
+  },
+  {
+   "section": "Yakimono (Grilled)",
+   "item": "Saba Shioyaki",
+   "price": 17.65,
+   "description": "lightly salted mackerel"
+  },
+  {
+   "section": "Yakimono (Grilled)",
+   "item": "Sakana Misoyaki",
+   "price": 21.85,
+   "description": "grilled miso-marinated black cod"
+  },
+  {
+   "section": "Bento Dinner Combinations",
+   "item": "2 Item Bento Dinner Combination",
+   "price": 24.75,
+   "description": "choice of two items with miso soup, salad, rice"
+  },
+  {
+   "section": "Bento Dinner Combinations",
+   "item": "3 Item Bento Dinner Combination",
+   "price": 27.75,
+   "description": "choice of three items with miso soup, salad, rice"
+  },
+  {
+   "section": "Drinks & Dessert",
+   "item": "Soft Drink",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Drinks & Dessert",
+   "item": "Ice Cream",
+   "price": 4.95,
+   "description": ""
+  }
+ ],
+ "notes": "Full All Day Menu from the restaurant's own ordering site (item names as printed). Agemono, yakimono and bento entrees come with miso soup, salad and rice. Separate Lunch (11am-3pm) and Party Tray menus not captured; condiment add-ons omitted. Hours per search: 4:30-9:30pm, closed Wednesday.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $18.85 of 39 prices in sections ['Noodles And Donburi', 'Sashimi And Nigiri Combo', 'House Signature Rolls', 'Agemono (Fried)', 'Yakimono (Grilled)', 'Bento Dinner Combinations']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,12 @@
+{
+ "name": "Project Juice",
+ "addr": "2259 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/project-juice-san-francisco-3",
+ "source": "web search only (Yelp and HappyCow list the Polk St location as CLOSED)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp lists Project Juice at 2259 Polk St as CLOSED (updated December 2025) and HappyCow titles it \"CLOSED: Project Juice - Russian Hill\".",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

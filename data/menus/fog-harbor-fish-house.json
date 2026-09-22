@@ -1,0 +1,397 @@
+{
+ "name": "Fog Harbor Fish House",
+ "addr": "Pier 39",
+ "menu_url": "https://fogharbor.com/menu/",
+ "source": "restaurant website (fogharbor.com menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Blue Cheese Garlic Bread",
+   "price": 10.0,
+   "description": "sourdough, garlic, blue cheese, herbs"
+  },
+  {
+   "section": "Starters",
+   "item": "Baked Tomato Bruschetta",
+   "price": 14.0,
+   "description": "crostini, cherry tomatoes, garlic, basil, shallots, pesto, Asiago, balsamic glaze"
+  },
+  {
+   "section": "Starters",
+   "item": "Fried Scallops",
+   "price": 18.0,
+   "description": "roasted jalapeno aioli"
+  },
+  {
+   "section": "Starters",
+   "item": "Crispy Calamari",
+   "price": 17.0,
+   "description": "fried jalapenos and onions, lemon aioli"
+  },
+  {
+   "section": "Starters",
+   "item": "Red Chili Garlic Shrimp",
+   "price": 18.0,
+   "description": "red chili paste, onions, peppers, garlic"
+  },
+  {
+   "section": "Starters",
+   "item": "Baked Oysters",
+   "price": 25.0,
+   "description": "half dozen, spinach, bacon, creamy Asiago sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Crab Cakes",
+   "price": 20.0,
+   "description": "two crab cakes, harissa aioli, mixed greens, roasted red peppers"
+  },
+  {
+   "section": "Starters",
+   "item": "Steamed Clams",
+   "price": 18.0,
+   "description": "chorizo butter, cilantro, roasted red peppers, corn"
+  },
+  {
+   "section": "Starters",
+   "item": "Oysters (1/2 dozen)",
+   "price": 24.0,
+   "description": "cocktail sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Mussel Fries",
+   "price": 19.0,
+   "description": "onions, fennel, sambuca cream, garlic aioli"
+  },
+  {
+   "section": "Starters",
+   "item": "Ahi Tuna Poke",
+   "price": 20.0,
+   "description": "marinated raw tuna, avocado, sesame-soy sauce, wasabi aioli"
+  },
+  {
+   "section": "Clam Chowder",
+   "item": "Clam Chowder",
+   "price": 9.5,
+   "description": "starting price; cup $9.50 / bowl $11.50 / sourdough bread bowl $15.75; add crab $7.50"
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 9.0,
+   "description": "mixed greens, house vinaigrette"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar",
+   "price": 12.0,
+   "description": "romaine, shaved parmesan, garlic croutons"
+  },
+  {
+   "section": "Salads",
+   "item": "Crab and Avocado Caesar Salad",
+   "price": 32.0,
+   "description": "bacon, avocado, queso fresco, tortilla strips, cilantro, romaine, avocado Caesar"
+  },
+  {
+   "section": "Salads",
+   "item": "Salmon \"Club\" Salad",
+   "price": 28.0,
+   "description": "mixed greens, bacon, tomatoes, red onions, cucumbers, lemon vinaigrette, lemon ranch"
+  },
+  {
+   "section": "Salads",
+   "item": "Blue Cheese Wedge",
+   "price": 14.0,
+   "description": "iceberg, bacon, green onions, cherry tomatoes, blue cheese dressing"
+  },
+  {
+   "section": "Salads",
+   "item": "Soup and Salad Combo",
+   "price": 22.0,
+   "description": "mixed greens or Caesar with clam chowder in a bread bowl"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Salmon",
+   "price": 33.0,
+   "description": "grilled filet, quinoa, arugula, cranberries, tomato relish, beurre blanc, crispy onions"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Petrale Sole",
+   "price": 32.0,
+   "description": "pan seared, spinach, fingerling potatoes, pesto cream sauce, capers"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Seared Pacific Cod",
+   "price": 29.0,
+   "description": "white beans, chorizo butter, tomatoes, spinach, garlic shallot aioli"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Sesame Seared Ahi Tuna",
+   "price": 37.0,
+   "description": "ponzu glaze, yakisoba noodles, mixed vegetables, wasabi aioli, pickled ginger"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Swordfish",
+   "price": 37.0,
+   "description": "roasted peppers, red onions, zucchini, fingerling potatoes, chimichurri, pesto aioli"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Mixed Grill",
+   "price": 34.0,
+   "description": "salmon, Pacific cod, shrimp, citrus beurre blanc, vegetables, garlic mashed potatoes"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Lobster Tails",
+   "price": 56.0,
+   "description": "two 4-5 oz tails, drawn butter, vegetables, garlic mashed potatoes"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Fish & Chips",
+   "price": 24.0,
+   "description": "beer-battered cod, coleslaw"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Shrimp Brochette",
+   "price": 32.0,
+   "description": "grilled shrimp, garlic mashed potatoes, vegetables, drawn butter"
+  },
+  {
+   "section": "Fresh Fish & Seafood",
+   "item": "Seared Scallop & Crab Risotto",
+   "price": 41.0,
+   "description": "jumbo scallops, crab risotto, tomatoes, parmesan, basil pesto, beurre blanc"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Cioppino",
+   "price": 42.0,
+   "description": "crab, fish, shrimp, scallops, clams, mussels in seafood tomato broth"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Whole Dungeness Crab",
+   "price": 58.0,
+   "description": "steamed, vegetables, roasted fingerling potatoes, butter"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Garlic Roasted Whole Dungeness Crab",
+   "price": 58.0,
+   "description": "vegetables, roasted fingerling potatoes"
+  },
+  {
+   "section": "House Specialties",
+   "item": "NY Steak",
+   "price": 42.0,
+   "description": "10 oz Angus, peppercorn sauce, garlic mashed potatoes, sauteed spinach"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Filet Mignon",
+   "price": 56.0,
+   "description": "demi sauce, garlic mashed potatoes, cherry tomatoes, sauteed spinach"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Surf & Turf",
+   "price": 76.0,
+   "description": "filet mignon and 4-5 oz lobster tail, vegetables, garlic mashed potatoes"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Chicken Breast",
+   "price": 27.0,
+   "description": "grilled, roasted shallots, demi sauce, spinach, garlic mashed potatoes"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Shellfish Platter",
+   "price": 54.0,
+   "description": "starting price; for one $54 / for two $96; half crab, mussels, clams, shrimp, fingerling potatoes"
+  },
+  {
+   "section": "Pastas",
+   "item": "Seafood Penne",
+   "price": 32.0,
+   "description": "fish, shrimp, scallops, clams, mussels, tomato cream sauce"
+  },
+  {
+   "section": "Pastas",
+   "item": "Pesto Chicken Pasta",
+   "price": 24.0,
+   "description": "tomatoes, spinach, peppers, onions, garlic, basil pesto, parmesan"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Fog Harbor Burger",
+   "price": 21.0,
+   "description": "Angus patty, grilled onions, jack, bacon, chipotle 1000 island, french fries"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Salmon BLT",
+   "price": 22.0,
+   "description": "toasted french roll, pesto aioli"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Lobster Roll",
+   "price": null,
+   "description": "market price; lobster, butter, brioche roll"
+  },
+  {
+   "section": "Seasonal Starters",
+   "item": "Kumamoto Oysters",
+   "price": 29.0,
+   "description": "starting price; half dozen $29 / dozen $54; champagne mignonette"
+  },
+  {
+   "section": "Seasonal Starters",
+   "item": "Baked Crab & Tomato Bruschetta",
+   "price": 21.0,
+   "description": "sourdough crostini, cherry tomatoes, parmesan, crab"
+  },
+  {
+   "section": "Seasonal Starters",
+   "item": "Scallop and Shrimp Ceviche",
+   "price": 21.0,
+   "description": "tomato, cilantro, red onion, cucumber, mango, jalapeno lime, tortilla chips"
+  },
+  {
+   "section": "Seasonal Starters",
+   "item": "Tempura Fried Salmon Nuggets",
+   "price": 19.0,
+   "description": "crispy pickles, dill tartar sauce"
+  },
+  {
+   "section": "Seasonal Entrees",
+   "item": "Miso Salmon",
+   "price": 35.0,
+   "description": "white rice, bok choy, red peppers, sesame-soy cucumbers, cilantro"
+  },
+  {
+   "section": "Seasonal Entrees",
+   "item": "Lobster, Burrata & Cheese Ravioli",
+   "price": 41.0,
+   "description": "lobster, cheese ravioli, tomatoes, lobster cream sauce, burrata"
+  },
+  {
+   "section": "Seasonal Entrees",
+   "item": "Seafood Risotto",
+   "price": 39.0,
+   "description": "shrimp, scallops, mussels, calamari, cherry tomatoes, spinach, rouille"
+  },
+  {
+   "section": "Seasonal Cocktails",
+   "item": "Sugar Magnolia Martini",
+   "price": 17.0,
+   "description": "gin, elderflower liqueur, rose hibiscus, lemon"
+  },
+  {
+   "section": "Seasonal Cocktails",
+   "item": "Fortaleza Martini",
+   "price": 21.0,
+   "description": "Fortaleza blanco tequila, orange bitters"
+  },
+  {
+   "section": "Seasonal Cocktails",
+   "item": "Sunset Passion",
+   "price": 17.0,
+   "description": "vanilla vodka, passion fruit, lime, citrus foam"
+  },
+  {
+   "section": "Seasonal Cocktails",
+   "item": "Lychee Martini",
+   "price": 17.0,
+   "description": "citrus vodka, lychee liqueur, lime sweet and sour"
+  },
+  {
+   "section": "Seasonal Cocktails",
+   "item": "Ultimate Dirty Martini",
+   "price": 19.0,
+   "description": "Grey Goose, olive juice, blue cheese olive, cocktail onion"
+  },
+  {
+   "section": "Seasonal Cocktails",
+   "item": "Espresso Martini",
+   "price": 17.0,
+   "description": "vodka, espresso, coffee liqueur"
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Draft Beer",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "House Wine (glass)",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Well Cocktails",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Specialty cocktails (mule, margarita, old fashioned, martini, Alcatraz Escape)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Cup of Clam Chowder",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Crispy Lemon Calamari",
+   "price": 10.0,
+   "description": "lemon aioli"
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Nashville Chicken Tenders",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Red Chili Shrimp",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Crab Cake",
+   "price": 12.0,
+   "description": "one crab cake, harissa aioli"
+  },
+  {
+   "section": "Happy Hour (Mon-Fri 3-5pm, bar)",
+   "item": "Garlic Fries",
+   "price": 8.0,
+   "description": "garlic, parmesan, chili flakes"
+  }
+ ],
+ "notes": "Batch website pointed to a directory page; the official site fogharbor.com was used. Main menu, seasonal specials and happy hour (Mon-Fri 3-5pm, bar only) recorded; wine list, desserts and kids tabs omitted (desserts/kids not in page text). A 5% SF employee-benefits surcharge is added to each check. Lobster roll is market price.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $37.00 of 25 prices in sections ['Fresh Fish & Seafood', 'House Specialties', 'Pastas', 'Sandwiches', 'Seasonal Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

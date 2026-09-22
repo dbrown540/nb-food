@@ -1,11 +1,11 @@
 {
  "source": "https://data.sf.gov/resource/tvy3-wexg.json",
  "dataset_id": "tvy3-wexg",
- "as_of": "2026-09-09",
- "rows": 22426,
+ "as_of": "2026-09-22",
+ "rows": 22578,
  "date_min": "2024-01-02",
  "date_max": "2031-05-16",
- "date_max_not_after_today": "2026-09-08",
+ "date_max_not_after_today": "2026-09-21",
  "future_dated_rows": 1,
- "raw_bytes": 33681136
+ "raw_bytes": 33890442
 }

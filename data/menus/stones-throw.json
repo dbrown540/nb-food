@@ -1,0 +1,12 @@
+{
+ "name": "Stones Throw",
+ "addr": "1896 Hyde Street",
+ "menu_url": "https://www.yelp.com/biz/stones-throw-san-francisco-2",
+ "source": "web search only (Yelp and Foursquare list it as closed)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp lists Stones Throw at 1896 Hyde St as CLOSED and Foursquare as \"Now Closed\"; search sources report it closed in 2018.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

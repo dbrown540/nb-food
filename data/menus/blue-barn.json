@@ -1,0 +1,241 @@
+{
+ "name": "Blue Barn",
+ "addr": "2237 Polk Street",
+ "menu_url": "https://order.spoton.com/so-blue-barn-385/san-francisco-ca/66df4fea61077c8592c02db4",
+ "source": "restaurant online-ordering page (SpotOn, Polk Street location)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Salads",
+   "item": "U-pick Salad",
+   "price": 18.95,
+   "description": "starting price; build your own salad; includes herb focaccia"
+  },
+  {
+   "section": "Salads",
+   "item": "Heirloom Salad",
+   "price": 18.95,
+   "description": "house romaine mix, heirloom tomato, sweet corn, green beans, summer squash, basil, pinenuts"
+  },
+  {
+   "section": "Salads",
+   "item": "Tea Leaf Salad",
+   "price": 19.95,
+   "description": "cherry tomato, scallion, cabbage, peanuts, sunflower seeds, sesame seeds, crispy quinoa & farro"
+  },
+  {
+   "section": "Salads",
+   "item": "Waldorf Salad",
+   "price": 18.95,
+   "description": "fuji apple, sasonal fruit, golden raisins, roasted beets, celery, pickled red onion"
+  },
+  {
+   "section": "Salads",
+   "item": "Fattoush Salad",
+   "price": 18.95,
+   "description": "cherry tomato, cucumber, garbanzo beans, nicoise olives, red onion, scallion, herb mix"
+  },
+  {
+   "section": "Salads",
+   "item": "Tostada Salad",
+   "price": 18.95,
+   "description": "toasted corn, black beans, cherry tomato, jicama, scallion, herb mix, cabot white cheddar"
+  },
+  {
+   "section": "Salads",
+   "item": "Thai Chicken Salad",
+   "price": 20.95,
+   "description": "chili-lime chicken, carrot, snow peas, cabbage, scallion, herb mix, peanuts, sesame seeds"
+  },
+  {
+   "section": "Salads",
+   "item": "Spicy Tuna Salad",
+   "price": 21.95,
+   "description": "spicy wild ahi tuna tartare, avocado, edamame, cucumber, seaweed salad, scallion, sesame seeds"
+  },
+  {
+   "section": "Salads",
+   "item": "Cobber Salad",
+   "price": 21.95,
+   "description": "chili-lime chicken, niman ranch bacon, sliced organic egg, cherry tomato, cucumber, carrot"
+  },
+  {
+   "section": "Salads",
+   "item": "Kale Caesar Salad",
+   "price": 17.95,
+   "description": "baby kale, cherry tomato, scallion, shaved sonoma dry jack, garlic croutons"
+  },
+  {
+   "section": "Sandos",
+   "item": "Barn Blt Sandwich",
+   "price": 16.95,
+   "description": "niman ranch bacon, laura chenel goat cheese, heirloom tomato"
+  },
+  {
+   "section": "Sandos",
+   "item": "Truffle Sandwich",
+   "price": 16.95,
+   "description": "diestel pepper turkey, brie d’affinois, roma tomato, pickled onion"
+  },
+  {
+   "section": "Sandos",
+   "item": "Turkey Sandwich",
+   "price": 16.95,
+   "description": "diestel roasted turkey, laura chenel goat cheese"
+  },
+  {
+   "section": "Sandos",
+   "item": "Clubber Sandwich",
+   "price": 18.95,
+   "description": "diestel roasted turkey, niman ranch bacon, pepper jack, roma tomato, red onion"
+  },
+  {
+   "section": "Sandos",
+   "item": "Rooster Sandwich",
+   "price": 18.95,
+   "description": "grilled “rooster” mary‘s chicken breast, niman ranch bacon, cabot white cheddar, smashed avocado"
+  },
+  {
+   "section": "Sandos",
+   "item": "Kicken' Chicken Sandwich",
+   "price": 18.95,
+   "description": "grilled “rooster” mary‘s chicken breast, barn bbq sauce, niman ranch bacon, smoked gouda"
+  },
+  {
+   "section": "Sandos",
+   "item": "Northern Fry Sandwich",
+   "price": 17.95,
+   "description": "crispy fried mary’s chicken breast, barn bbq sauce & poppyseed-pickled onion slaw on a ciabatta roll"
+  },
+  {
+   "section": "Sandos",
+   "item": "Buffalo Fry Sandwich",
+   "price": 17.95,
+   "description": "house buffalo sauce dipped northern fried mary’s chicken breast & barn ranch-dino kale slaw on a"
+  },
+  {
+   "section": "Sandos",
+   "item": "Skirt Sandwich",
+   "price": 19.95,
+   "description": "grilled brandt ranch flank steak, provolone, roma tomato, pickled onion"
+  },
+  {
+   "section": "Sandos",
+   "item": "Big Blue Sandwich",
+   "price": 19.95,
+   "description": "grilled brandt ranch flank steak, pt.reyes blue cheese, caramelized onion"
+  },
+  {
+   "section": "Sandos",
+   "item": "Burrata Grilled Cheese",
+   "price": 15.95,
+   "description": "fresh mozzarella burrata, heirloom tomato"
+  },
+  {
+   "section": "Sandos",
+   "item": "Buddha Sandwich",
+   "price": 14.95,
+   "description": "laura chenel goat cheese, heirloom tomato, summer squash, roasted eggplant, pickled onion"
+  },
+  {
+   "section": "Sandos",
+   "item": "Goddess Sandwich",
+   "price": 14.95,
+   "description": "herb whipped feta, grilled tofu, cucumber, pickled jalapeño & broccoli sprouts on sliced whole wheat"
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Tator Tots",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side Salad",
+   "price": 3.95,
+   "description": "mixed greens & classic balsamic dressing (dressing served on the side)"
+  },
+  {
+   "section": "Sides",
+   "item": "Side Caesar",
+   "price": 4.95,
+   "description": "romaine hearts"
+  },
+  {
+   "section": "Soups",
+   "item": "Tomato Soup",
+   "price": 10.95,
+   "description": "garnished with parmesan-reggiano"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Grilled Salmon",
+   "price": 8.95,
+   "description": "organic grilled salmon served with a seasonal vegetable"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Chicken Tenders",
+   "price": 8.95,
+   "description": "fried mary’s chicken tenders & your choice of sauce"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Grilled Cheese",
+   "price": 6.95,
+   "description": "cabot white cheddar on pain de mie"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Pb&j",
+   "price": 5.95,
+   "description": "organic peanut butter & organic seasonal jam on pain de mie"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Sando",
+   "price": 8.95,
+   "description": "diestel roasted turkey, cabot white cheddar & mayo on pain de mie"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Chicken Caesar",
+   "price": 8.95,
+   "description": "romaine, croutons, roasted garlic-parmesan dressing & chopped mary’s chicken"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Seasonal Veggies",
+   "price": 1.0,
+   "description": "please inquire with staff for current offering (photos may not reflect current offering)"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Organic Apple",
+   "price": 1.0,
+   "description": "organic apple slices"
+  },
+  {
+   "section": "Add Protein",
+   "item": "Salad/sandwich protein add-on",
+   "price": 2.95,
+   "description": "starting price; chicken $6.95-8.95, flank steak $10.50, shrimp $7.95, salmon $8.95, ahi tartare $8.95"
+  },
+  {
+   "section": "Drinks",
+   "item": "Bottled sodas, teas, kombucha, cold brew",
+   "price": 2.5,
+   "description": "starting price; sparkling water/sodas $2.50-4, kombucha $6, cold brew $5.50"
+  }
+ ],
+ "notes": "Salads and sandwiches from the Polk Street location's own SpotOn ordering menu (linked from bluebarngourmet.com). Build-your-own salad starts at the listed price. Add-on proteins and bottled drinks collapsed; extra sauces/dressings and packaged chips omitted; tacos & burgers section was empty online.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $18.95 of 23 prices in sections ['Salads', 'Sandos']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,475 @@
+{
+ "name": "Little Sweet",
+ "addr": "333 Jefferson Street",
+ "menu_url": "https://little-sweet.square.site/",
+ "source": "restaurant online-ordering page (Square Online, chain-wide catalog)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Milk Tea",
+   "item": "Honey Green Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Rose High Mountain Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "High Mountain Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Iron Buddha Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Jasmine Milk Green Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Assam Black Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Brown Sugar Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Honey Black Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "White Gourd Milk Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Tea",
+   "item": "Ice Cream Milk Tea",
+   "price": 6.7,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy Iron Buddha Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy High Mountain Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy Thai Tea",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy Coffee",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy Black Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy Green Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Salted Cheese Tea",
+   "item": "Creamy White Gourd Tea",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Original Tea",
+   "item": "Assam Black Tea",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Original Tea",
+   "item": "High Mountain Tea",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Original Tea",
+   "item": "Jasmine Green Tea",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Original Tea",
+   "item": "White Gourd Tea",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Original Tea",
+   "item": "Iron Buddha Oolong Tea",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Lemon Yogurt",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Fresh Fruit Tea",
+   "price": 6.4,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Honey with any tea",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Lemon White Gourd",
+   "price": 5.4,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Handcrafted Lemon with any tea",
+   "price": 5.4,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Passion Fruit Green Tea",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Rose With Any Tea",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Honey Lemon w/aloe",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Infusion Tea",
+   "item": "Summer Refresher",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Creamy Thai Green Milk Tea",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Creamy Strawberry Watermelon",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Mixed Fruit Yogurt Smoothie",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Pineapple Slush",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "The Other Fruit Tea",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Mango Yogurt Smoothie",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Pineapple Watermelon Slush",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Strawberry Watermelon Slush",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Strawberry Slush",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Pineberry Banana",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Strawberry Banana Smoothie",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Tropical Smoothie",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Watermelon Slush",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Mango Pineapple Banana Smoothie",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Avocado Milk Shake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Strawberry Milk Shake",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Banana Milk Shake",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Series",
+   "item": "Avocado Banana Milk Shake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Mango Matcha Latte",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Matcha Latte",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Strawberry Matcha Latte",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Grass Jelly Fresh Milk",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Iced Thai Milk Tea",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Black Sugar Fresh Milk w/boba",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Iced Thai Green Milk Tea",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Oreo Milk Shake",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Mango Strawberry Sago",
+   "price": 8.9,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Red Bean Milk Slush",
+   "price": 5.2,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Mango Sago",
+   "price": 8.4,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Strawberry Banana Milk shake",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Hojicha Latte",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Matcha Latte (Warm) 12oz",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Whole Milk 12oz",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Oat Milk 12oz",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Almond Milk 12oz",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Strawberry Hojicha Latte",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Milk Series",
+   "item": "Matcha Corn Latte",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Ice Cream",
+   "item": "Ice Cream Boba",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Ice Cream",
+   "item": "Ice Cream",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Fried Chicken Wings",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Egg Puff Waffle",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Gyoza Pork/Chicken Dumpling",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Sweet Potato Fries",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Fries",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Ice Cream Boba Egg Puff Waffle",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Veggie Spring Rolls",
+   "price": 10.0,
+   "description": ""
+  }
+ ],
+ "notes": "Little Sweet boba chain; the Fisherman's Wharf shop is at 333 Jefferson St #100. The Square ordering catalog is shared across locations (it also carries hotel-cafe breakfast, wine and Sightglass coffee items, omitted here), so prices are not confirmed as Wharf-specific. Boba/tea, fruit, milk series and snacks recorded; sodas, water, merchandise omitted.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $7.00 of 54 prices in sections ['Milk Tea', 'Salted Cheese Tea', 'Fresh Fruit Series', 'Milk Series']; rule L1<10, L2<18, L3<30, L4>=30"
+}

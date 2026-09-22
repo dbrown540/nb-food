@@ -1,0 +1,685 @@
+{
+ "name": "Flying Ninja",
+ "addr": "461 Jefferson Street",
+ "menu_url": "https://flyingninjasushi.com/san-francisco-fisherman-s-wharf-flying-ninja-sushi-food-menu",
+ "source": "restaurant website (food menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Agedashi Tofu",
+   "price": 13.0,
+   "description": "fried tofu, bonito flakes, green onion, tempura sauce"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Edamame",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Fried Oyster",
+   "price": 14.0,
+   "description": "5 pieces, katsu sauce"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Hamachi Kama",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Ika Karaage",
+   "price": 14.95,
+   "description": "fried calamari, house sauce"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Hawaiian Poki",
+   "price": 22.95,
+   "description": "tuna, house salad, spicy poki dressing, sesame"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Wakame Salad",
+   "price": 7.95,
+   "description": "seasoned seaweed"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Yakitori",
+   "price": 13.95,
+   "description": "chicken and vegetable skewers, teriyaki glaze"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Shrimp and Vegetable Tempura",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Croquette",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Gyoza",
+   "price": 10.95,
+   "description": "pork & chicken or vegetable dumplings, ponzu"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Chicken Karaage",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Tofu Nuggets",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Sunomono",
+   "price": 7.95,
+   "description": "cucumber salad, ponzu"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Soft Shell Crab",
+   "price": 13.95,
+   "description": "tempura sauce"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Spam Musubi",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Stuffed Jalapeno",
+   "price": 13.25,
+   "description": "spicy tuna and cream cheese, batter fried"
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Taste of Sashimi - Tuna (5 pcs)",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Taste of Sashimi - Hamachi (5 pcs)",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizer / Small Plates",
+   "item": "Taste of Sashimi - Salmon (5 pcs)",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Bento Box",
+   "item": "Bento Box, 2 items",
+   "price": 24.95,
+   "description": "with soup, salad, rice; teriyaki/bulgogi, 6-pc roll, or katsu/tempura/gyoza"
+  },
+  {
+   "section": "Bento Box",
+   "item": "Bento Box, 3 items",
+   "price": 28.95,
+   "description": "with soup, salad, rice"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Fire Cracker",
+   "price": 20.95,
+   "description": "salmon, onion, cucumber, avocado, deep fried"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Crunch Spicy Tuna",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Crunch Ebi",
+   "price": 20.95,
+   "description": "shrimp tempura, cucumber, ebi, tempura bites"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "San Francisco",
+   "price": 22.95,
+   "description": "shrimp tempura, cream cheese, avocado, mango, strawberry"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Lobster",
+   "price": 22.95,
+   "description": "shrimp tempura, cucumber, baby lobster meat"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Caterpillar",
+   "price": 22.95,
+   "description": "unagi, cucumber, avocado"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Fisherman's Wharf",
+   "price": 24.95,
+   "description": "soft shell crab, cucumber, unagi, avocado"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Lion King",
+   "price": 20.95,
+   "description": "crab meat, avocado, baked salmon"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Bay Scallop",
+   "price": 20.95,
+   "description": "crab meat, avocado, baked scallop"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Dragon",
+   "price": 21.95,
+   "description": "shrimp tempura, cucumber, unagi, avocado, eel sauce"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Volcano",
+   "price": 16.95,
+   "description": "deep-fried crab, avocado, cucumber, spicy sauce"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Jade",
+   "price": 20.95,
+   "description": "chicken teriyaki, cucumber, avocado"
+  },
+  {
+   "section": "Cooked Rolls",
+   "item": "Crunch SP California",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Ninja's Ramen",
+   "price": 19.95,
+   "description": "vegetables, thin wheat noodles, chicken broth"
+  },
+  {
+   "section": "Noodle",
+   "item": "Tonkotsu Ramen",
+   "price": 23.0,
+   "description": "pork and chicken broth, chashu, vegetables, half egg"
+  },
+  {
+   "section": "Noodle",
+   "item": "Miso Ramen",
+   "price": 23.0,
+   "description": "miso-chicken broth, chashu, vegetables, half egg"
+  },
+  {
+   "section": "Noodle",
+   "item": "Ninja's Udon",
+   "price": 20.25,
+   "description": "vegetables in vegetable broth"
+  },
+  {
+   "section": "Noodle",
+   "item": "Yakisoba",
+   "price": 21.0,
+   "description": "pan-fried wheat noodles, vegetables"
+  },
+  {
+   "section": "Noodle",
+   "item": "Fried Rice",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Tekka",
+   "price": 11.25,
+   "description": "6 pcs, red tuna"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Sake",
+   "price": 10.25,
+   "description": "salmon"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Negihama",
+   "price": 10.25,
+   "description": "yellowtail, green onion"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "California",
+   "price": 11.25,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Spicy Tuna",
+   "price": 11.25,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Alaska",
+   "price": 11.25,
+   "description": "salmon, avocado"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Philadelphia",
+   "price": 13.25,
+   "description": "salmon, avocado, cream cheese"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Salmon Skin",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Rock N Roll",
+   "price": 13.25,
+   "description": "BBQ eel, cucumber"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Shrimp Tempura Roll",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Spider",
+   "price": 20.95,
+   "description": "soft shell crab, avocado, crab meat, cucumber"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Teriyaki Chicken Roll",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Avocado Roll",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Kappa",
+   "price": 6.95,
+   "description": "cucumber"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Oshinko",
+   "price": 7.25,
+   "description": "pickled radish"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Sweet Potato Roll",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Veggie Rainbow",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Futo",
+   "price": 15.95,
+   "description": "tamago, spinach, avocado, carrot, cucumber, shiitake, oshinko"
+  },
+  {
+   "section": "Maki Rolls",
+   "item": "Veggie Lover",
+   "price": 22.0,
+   "description": "fried tofu, sweet potato, avocado, inari, onion sauce"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "49ers",
+   "price": 20.95,
+   "description": "crab meat, avocado, salmon, lemon"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Cherry Blossom",
+   "price": 22.95,
+   "description": "salmon, avocado, tuna"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Wonder Woman",
+   "price": 20.95,
+   "description": "shrimp tempura, cucumber, salmon, tuna, green onion"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Ghiradelli",
+   "price": 22.5,
+   "description": "shrimp tempura, cucumber, salmon, tuna, avocado, crab meat"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Sexy",
+   "price": 22.5,
+   "description": "shrimp tempura, cucumber, salmon, spicy tuna"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Golden Gate Bridge",
+   "price": 21.95,
+   "description": "spicy tuna, cucumber, tuna, tempura bites"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Seattle",
+   "price": 22.5,
+   "description": "crab meat, avocado, albacore"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Shrek",
+   "price": 23.25,
+   "description": "tuna, yellowtail, avocado"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Flying Ninja",
+   "price": 21.95,
+   "description": "shrimp tempura, cucumber, salmon, avocado, lemon, onion"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Sakura",
+   "price": 22.95,
+   "description": "salmon, cucumber, jalapeno"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Ocean Wakame",
+   "price": 20.95,
+   "description": "spicy tuna, cucumber, seaweed salad"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Salmon Delight",
+   "price": 20.5,
+   "description": "crab meat, avocado, seared salmon"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Rainbow",
+   "price": 21.95,
+   "description": "crab meat, avocado, tuna, salmon, escolar, ebi"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Tom & Jerry",
+   "price": 22.95,
+   "description": "avocado, tuna, albacore, white onion"
+  },
+  {
+   "section": "Signature Rolls",
+   "item": "Tuna Paradise",
+   "price": 22.95,
+   "description": "tuna, avocado, mango, spicy crab, cucumber"
+  },
+  {
+   "section": "Charboiled Entree",
+   "item": "Chicken Teriyaki",
+   "price": 24.95,
+   "description": "with miso soup, salad, rice"
+  },
+  {
+   "section": "Charboiled Entree",
+   "item": "Beef Teriyaki",
+   "price": 28.95,
+   "description": ""
+  },
+  {
+   "section": "Charboiled Entree",
+   "item": "Salmon Teriyaki",
+   "price": 27.95,
+   "description": ""
+  },
+  {
+   "section": "Charboiled Entree",
+   "item": "Bulgogi",
+   "price": 29.95,
+   "description": "marinated sliced beef"
+  },
+  {
+   "section": "Charboiled Entree",
+   "item": "Korean Galbi",
+   "price": 38.95,
+   "description": "marinated beef short ribs"
+  },
+  {
+   "section": "Charboiled Entree",
+   "item": "Korean Spicy Pork",
+   "price": 26.95,
+   "description": ""
+  },
+  {
+   "section": "Donburi",
+   "item": "Chicken Donburi",
+   "price": 20.95,
+   "description": "chicken, vegetables, egg over rice"
+  },
+  {
+   "section": "Donburi",
+   "item": "Curry",
+   "price": 21.95,
+   "description": "Japanese curry, potatoes, carrots, onions"
+  },
+  {
+   "section": "Donburi",
+   "item": "Tonkatsu Donburi",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Donburi",
+   "item": "Unagi Don",
+   "price": 33.95,
+   "description": ""
+  },
+  {
+   "section": "Donburi",
+   "item": "Chirashi Don",
+   "price": 35.95,
+   "description": "assorted sashimi over sushi rice"
+  },
+  {
+   "section": "Donburi",
+   "item": "Bulgogi Donburi",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Maguro",
+   "price": 10.0,
+   "description": "red tuna"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ebi",
+   "price": 9.0,
+   "description": "shrimp"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Sake",
+   "price": 10.0,
+   "description": "salmon"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ika",
+   "price": 10.0,
+   "description": "squid"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Saba",
+   "price": 9.0,
+   "description": "mackerel"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Hamachi",
+   "price": 10.0,
+   "description": "yellowtail"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Unagi",
+   "price": 10.0,
+   "description": "freshwater eel"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Shiro Maguro",
+   "price": 10.0,
+   "description": "albacore"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Hotate",
+   "price": 10.0,
+   "description": "scallop"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Walu",
+   "price": 9.0,
+   "description": "escolar"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Tako",
+   "price": 9.0,
+   "description": "octopus"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Tobiko",
+   "price": 10.0,
+   "description": "flying fish roe"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Ikura",
+   "price": 12.0,
+   "description": "salmon roe"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Tamago",
+   "price": 7.0,
+   "description": "egg omelette"
+  },
+  {
+   "section": "Nigiri (2 pcs)",
+   "item": "Inari",
+   "price": 7.0,
+   "description": "tofu skin"
+  },
+  {
+   "section": "Ninja's Combo",
+   "item": "Moriawase Sashimi A (10 pcs)",
+   "price": 39.95,
+   "description": "chef's choice"
+  },
+  {
+   "section": "Ninja's Combo",
+   "item": "Moriawase Sashimi B (15 pcs)",
+   "price": 56.95,
+   "description": "chef's choice"
+  },
+  {
+   "section": "Ninja's Combo",
+   "item": "Sushi Combo A",
+   "price": 29.95,
+   "description": "7 pcs nigiri"
+  },
+  {
+   "section": "Ninja's Combo",
+   "item": "Sushi Combo B",
+   "price": 39.95,
+   "description": "9 pcs nigiri, spicy tuna hand roll"
+  },
+  {
+   "section": "Ninja's Combo",
+   "item": "Sushi Combo C",
+   "price": 41.95,
+   "description": "6 sashimi, 4 nigiri, 6 pcs roll"
+  },
+  {
+   "section": "Ninja's Combo",
+   "item": "Sushi Combo D",
+   "price": 69.95,
+   "description": "9 sashimi, 6 nigiri, 6 pcs roll, tempura hand roll"
+  },
+  {
+   "section": "Sides",
+   "item": "Rice",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sushi Rice / Brown Rice",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Miso Soup",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Green Salad",
+   "price": 4.0,
+   "description": ""
+  }
+ ],
+ "notes": "The batch URL flyingninjasf.com no longer resolves; current official site is flyingninjasushi.com (found via search). Drinks and catering omitted; a few lower-demand vegetable rolls and duplicate sides trimmed.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $22.50 of 46 prices in sections ['Cooked Rolls', 'Signature Rolls', 'Noodle', 'Charboiled Entree', 'Donburi']; rule L1<10, L2<18, L3<30, L4>=30"
+}

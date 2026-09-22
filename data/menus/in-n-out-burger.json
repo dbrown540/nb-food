@@ -1,0 +1,67 @@
+{
+ "name": "In-N-Out Burger",
+ "addr": "333 Jefferson Street",
+ "menu_url": "https://www.in-n-out.com/menu",
+ "source": "chain corporate website (menu page, rendered in browser)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Burgers",
+   "item": "Double-Double",
+   "price": null,
+   "description": "toasted bun, beef, onions, lettuce, spread, tomato, cheese"
+  },
+  {
+   "section": "Burgers",
+   "item": "Cheeseburger",
+   "price": null,
+   "description": "toasted bun, beef, onions, lettuce, spread, tomato, cheese"
+  },
+  {
+   "section": "Burgers",
+   "item": "Hamburger",
+   "price": null,
+   "description": "toasted bun, beef, onions, lettuce, spread, tomato"
+  },
+  {
+   "section": "Combos",
+   "item": "Combo #1 - Double-Double",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Combos",
+   "item": "Combo #2 - Cheeseburger",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Combos",
+   "item": "Combo #3 - Hamburger",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides and Drinks",
+   "item": "French Fries",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides and Drinks",
+   "item": "Beverages",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides and Drinks",
+   "item": "Shakes",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "chain menu; prices not location-specific (the corporate menu page shows no prices). Location page (locations.in-n-out.com/154): dine-in only, no drive-thru; hours Sun-Thu 10:30am-1am, Fri-Sat 10:30am-1:30am. Beverage, shake and not-so-secret-menu items are shown only as images, so only the category names are listed.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

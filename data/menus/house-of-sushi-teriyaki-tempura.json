@@ -1,0 +1,649 @@
+{
+ "name": "House of Sushi Teriyaki & Tempura",
+ "addr": "2157 Polk Street",
+ "menu_url": "https://www.allmenus.com/ca/san-francisco/395974-house-of-sushi/menu/",
+ "source": "aggregator: allmenus menu page (no official site found)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Yakitori",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Beef Kushi",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Ebi Kushi",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tempura",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Vegetable Tempura",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Gyoza",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Shumai Dumplings",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Yasai Korokke",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Age Tofu",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fried Oysters",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fried Octopus",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Soft Shell Crab",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Sunomono",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Hiyashi Wakame",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Special House Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Kamikaze Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Salmon Skin Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Shrimp Tempura Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Rock N' Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Spicy Tuna Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Unakyu",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Spider Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Hamachi Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Alaska Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Golden Gate Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Makimono",
+   "item": "Phil Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Dragon Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Rainbow Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Swamp Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Volcano Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Hamachi Lover Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Hana Roll Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Salmon Lover Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Crispy Spider Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Phoenix Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Beef Specialty Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Special Veggie Roll",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Specialty Rolls",
+   "item": "Gyoza Specialty Roll",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Vegetables Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Crab Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Shrimp Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Eel Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Shrimp Tempura Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Hamachi Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Scallop Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Spicy Tuna Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Salmon Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Temaki",
+   "item": "Asparagus Temaki",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "California Roll Lover",
+   "item": "California Roll",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "California Roll Lover",
+   "item": "Special California Roll",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "California Roll Lover",
+   "item": "Super California Roll",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "California Roll Lover",
+   "item": "Winter California Roll",
+   "price": 13.5,
+   "description": ""
+  },
+  {
+   "section": "California Roll Lover",
+   "item": "Golden California Roll",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Udon",
+   "item": "Chicken Udon",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Udon",
+   "item": "Beef Udon",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Udon",
+   "item": "Tempura Udon",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Udon",
+   "item": "Veggie Udon",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Sushi Combination",
+   "price": 30.0,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Vegetable Combination",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Tobiko Sushi",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Amaebi Sushi",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Ikura Sushi",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Hokigai Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Ishidai Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Maguro Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Hamachi Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Albacore Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Izumi Tai Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sushi",
+   "item": "Sake Sushi",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Maguro Sashimi",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Hamachi Sashimi",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Albacore Sashimi",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Sake Sashimi",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Saba Sashimi",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Tako Sashimi",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Chefs Choice",
+   "price": 32.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "Combo Sashimi",
+   "price": 37.0,
+   "description": ""
+  },
+  {
+   "section": "Special Dinner Box",
+   "item": "Sashimi, Chicken, Beef, California Roll Bento Box",
+   "price": 30.0,
+   "description": ""
+  },
+  {
+   "section": "Special Dinner Box",
+   "item": "Sashimi, Tempura, Chicken, California Roll Bento Box",
+   "price": 30.0,
+   "description": ""
+  },
+  {
+   "section": "Special Dinner Box",
+   "item": "Tempura, Chicken, Beef, California Roll Bento Box",
+   "price": 30.0,
+   "description": ""
+  },
+  {
+   "section": "Special Dinner Box",
+   "item": "Sashimi, Tonkatsu, Gyoza, California Roll Bento Box",
+   "price": 30.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Yakitori & Gyoza",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Beef Kushi & Gyoza",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Yasai Korokke & Yakitori",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Chicken Teriyaki & Sushi",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Beef Teriyaki & Sushi",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Tempura & Sushi",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Kaki Fry & Yakitori",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "House Combination",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Beef Teriyaki & Tempura",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Beef Teriyaki & Salmon Teriyaki",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Beef Teriyaki & Sashimi",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Combination Dinner",
+   "item": "Beef Teriyaki & Chicken",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Beef Teriyaki",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Chicken Teriyaki",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Salmon Teriyaki",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Tempura",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Unagi Donburi",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Tekka Don",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Tonkatsu",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Chicken Cutlet",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Hamachi Don",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner",
+   "item": "Sake Don",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Green Tea Cheesecake",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Soft Drink",
+   "price": 3.5,
+   "description": ""
+  }
+ ],
+ "notes": "House of Sushi, 2157 Polk St. Aggregator menu; prices may be dated. Capped at 12 items per section (about 110 of ~165 listed); drinks omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $23.00 of 30 prices in sections ['Combination Dinner', 'Dinner', 'Special Dinner Box', 'Udon']; rule L1<10, L2<18, L3<30, L4>=30"
+}

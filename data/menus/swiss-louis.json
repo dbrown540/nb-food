@@ -1,0 +1,379 @@
+{
+ "name": "Swiss Louis",
+ "addr": "Pier 39, Space 160",
+ "menu_url": "https://swisslouis.com/menu/",
+ "source": "restaurant website (WordPress menu page; PDF also linked)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "New England Clam Chowder (cup)",
+   "price": 6.0,
+   "description": "bowl $9.00; sourdough bread bowl $14.95"
+  },
+  {
+   "section": "Appetizers",
+   "item": "San Francisco Sourdough Bread (basket)",
+   "price": 2.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Bread (half)",
+   "price": 5.0,
+   "description": "full $8.00"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Seafood Platter to Share",
+   "price": 26.95,
+   "description": "prawns, mussels picante, oysters on the half shell, fried calamari"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Deep Fried Calamari (appetizer)",
+   "price": 17.75,
+   "description": "cocktail and tartar sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Steamed Clams Bordeaux (appetizer)",
+   "price": 18.75,
+   "description": "clam juice, garlic, lemon, butter"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mussels alla Tarantina (appetizer)",
+   "price": 18.75,
+   "description": "tomatoes, garlic, chili flakes, wine sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fresh Oysters on the Half Shell",
+   "price": 19.95,
+   "description": "six oysters, cocktail and mignonette"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Prawn Cocktail",
+   "price": 18.95,
+   "description": "cocktail sauce, horseradish"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Cakes",
+   "price": 21.95,
+   "description": "roasted pepper aioli"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fried Mozzarella Sticks",
+   "price": 9.75,
+   "description": "marinara"
+  },
+  {
+   "section": "Salad",
+   "item": "Mixed Green Salad",
+   "price": 9.75,
+   "description": "greens, tomatoes, olives, beets, carrot, artichoke hearts; bay shrimp +$5"
+  },
+  {
+   "section": "Salad",
+   "item": "Caesar Salad",
+   "price": 13.95,
+   "description": "croutons, parmigiana, romaine; chicken +$6"
+  },
+  {
+   "section": "Salad",
+   "item": "Shrimp Louie",
+   "price": 26.95,
+   "description": "baby shrimp, tomatoes, egg, asparagus, olives, beets, Louie dressing"
+  },
+  {
+   "section": "Salad",
+   "item": "Seafood Salad",
+   "price": 29.5,
+   "description": "crab meat, baby shrimp, egg, asparagus, olives, beets, Louie dressing"
+  },
+  {
+   "section": "Salad",
+   "item": "Caprese Salad",
+   "price": 15.95,
+   "description": "tomatoes, mozzarella, basil, pesto, olive oil, balsamic"
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Cheese Pizza",
+   "price": 20.5,
+   "description": "cheddar and mozzarella"
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Pepperoni Pizza",
+   "price": 22.75,
+   "description": ""
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Margherita Pizza",
+   "price": 20.75,
+   "description": "basil, diced tomatoes, mozzarella"
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Vegetarian Pesto Pizza",
+   "price": 21.5,
+   "description": "pesto, tomatoes, garlic, olives, artichoke hearts, mozzarella"
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Grilled Chicken Breast Sandwich",
+   "price": 19.95,
+   "description": "honey mustard, jack cheese, onion ring; fries"
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Italian Sausage Sandwich",
+   "price": 19.95,
+   "description": "cheese, marinara, bell peppers, onions, sourdough roll; fries"
+  },
+  {
+   "section": "Pizza & Sandwiches",
+   "item": "Cheeseburger",
+   "price": 18.95,
+   "description": "lettuce, tomato, cheddar, onions; fries"
+  },
+  {
+   "section": "Steak & Poultry",
+   "item": "New York Steak",
+   "price": 39.95,
+   "description": "madera mushroom, sauteed vegetables"
+  },
+  {
+   "section": "Steak & Poultry",
+   "item": "Steak & Lobster",
+   "price": 56.75,
+   "description": "NY steak and lobster tail, sauteed vegetables"
+  },
+  {
+   "section": "Steak & Poultry",
+   "item": "Chicken Marsala",
+   "price": 28.75,
+   "description": "marsala wine, green onions, mushrooms; spaghetti"
+  },
+  {
+   "section": "Steak & Poultry",
+   "item": "Chicken Parmigiana",
+   "price": 28.75,
+   "description": "breaded cutlet, mozzarella, marinara; spaghetti"
+  },
+  {
+   "section": "Steak & Poultry",
+   "item": "Chicken Milanese",
+   "price": 28.75,
+   "description": "breaded cutlet, lemon, white wine, garlic sauce; spaghetti"
+  },
+  {
+   "section": "Pasta",
+   "item": "Baked Lasagna",
+   "price": 19.95,
+   "description": "ricotta, Italian meat sauce"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti Bolognese",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Napoletana",
+   "price": 19.25,
+   "description": "diced tomatoes, basil, garlic, green onions"
+  },
+  {
+   "section": "Pasta",
+   "item": "Ravioli with Meat Sauce",
+   "price": 23.95,
+   "description": "beef ravioli"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Alfredo",
+   "price": 23.75,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Baked Penne Ragu",
+   "price": 21.75,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Linguine al Pesto",
+   "price": 27.25,
+   "description": "basil, creamy parmesan sauce, garlic, pine nuts"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Sophia",
+   "price": 23.75,
+   "description": "alfredo with ham and peas"
+  },
+  {
+   "section": "Pasta",
+   "item": "Pasta Primavera",
+   "price": 22.95,
+   "description": "penne, seasonal vegetables, light tomato cream"
+  },
+  {
+   "section": "Pasta",
+   "item": "Penne Salsiccia",
+   "price": 24.95,
+   "description": "tomato cream, Italian sausage, bell peppers"
+  },
+  {
+   "section": "Pasta",
+   "item": "Prix Fixe Menu",
+   "price": 39.95,
+   "description": "chowder or salad; choice of entree; creme caramel"
+  },
+  {
+   "section": "Seafood Pasta",
+   "item": "Spaghetti al Salmone",
+   "price": 29.95,
+   "description": "light tomato cream, fresh salmon"
+  },
+  {
+   "section": "Seafood Pasta",
+   "item": "Linguine with Fresh Clams",
+   "price": 29.95,
+   "description": "white wine, garlic, lemon, butter"
+  },
+  {
+   "section": "Seafood Pasta",
+   "item": "Spaghetti con Frutti di Mare",
+   "price": 32.75,
+   "description": "clams, mussels, calamari, prawns, garlic tomato sauce"
+  },
+  {
+   "section": "Seafood Pasta",
+   "item": "Fettuccine alla Florentine",
+   "price": 28.95,
+   "description": "prawns, spinach, tomatoes, capers, lemon dill cream"
+  },
+  {
+   "section": "Seafood Pasta",
+   "item": "Linguine Mussels alla Tarantina",
+   "price": 29.95,
+   "description": "mussels, tomatoes, garlic, chili flakes, wine sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "Deep Fried Calamari",
+   "price": 25.95,
+   "description": "sauteed vegetables"
+  },
+  {
+   "section": "Seafood",
+   "item": "Sauteed Calamari",
+   "price": 25.95,
+   "description": "tomatoes, garlic, white wine"
+  },
+  {
+   "section": "Seafood",
+   "item": "Fillet of Basa",
+   "price": 25.95,
+   "description": "grilled, mango cruda sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "Shrimp Sicilian",
+   "price": 31.25,
+   "description": "large shrimp, Sicilian red sauce, garlic, tomatoes"
+  },
+  {
+   "section": "Seafood",
+   "item": "Broiled Lobster",
+   "price": 51.75,
+   "description": "two lobster tails, drawn butter"
+  },
+  {
+   "section": "Seafood",
+   "item": "Baked Salmon",
+   "price": 33.5,
+   "description": "sweet chili sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "Fisherman's Seafood Platter",
+   "price": 33.95,
+   "description": "fried calamari, prawns, white fish"
+  },
+  {
+   "section": "Seafood",
+   "item": "Whole Dungeness Crab",
+   "price": 52.95,
+   "description": "chilled; steamed +$3, garlic roasted +$5"
+  },
+  {
+   "section": "Seafood",
+   "item": "Fish and Chips",
+   "price": 26.75,
+   "description": "beer battered white fish, fries"
+  },
+  {
+   "section": "Seafood",
+   "item": "Crab Enchiladas",
+   "price": 31.95,
+   "description": "crab, cheddar, red enchilada sauce, sour cream"
+  },
+  {
+   "section": "Seafood",
+   "item": "Steamed Clams Bordeaux",
+   "price": 29.75,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Mussels alla Tarantina",
+   "price": 29.75,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Cioppino",
+   "price": 39.95,
+   "description": "crab, clams, prawns, mussels, white fish; lazy cioppino +$10"
+  },
+  {
+   "section": "Sides",
+   "item": "Spaghetti with Meat Sauce",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Ravioli with Meat Sauce",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sauteed Mushrooms",
+   "price": 7.25,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sauteed Vegetables",
+   "price": 6.95,
+   "description": ""
+  }
+ ],
+ "notes": "Italian and seafood since 1936. Hours on site: Sun-Thu 11am-9pm, Fri-Sat 11am-10pm. 6.5% SF surcharge added to checks. Food menu transcribed; drinks PDF not transcribed. Prix fixe 39.95 (chowder or salad; salmon, primavera, chicken parmigiana or basa; creme caramel).",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $28.85 of 34 prices in sections ['Steak & Poultry', 'Pasta', 'Seafood Pasta', 'Seafood']; rule L1<10, L2<18, L3<30, L4>=30"
+}

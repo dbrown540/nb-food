@@ -1,0 +1,313 @@
+{
+ "name": "Eagle Cafe",
+ "addr": "Pier 39, Space A-201",
+ "menu_url": "https://eaglecafe.com/menu/",
+ "source": "restaurant website (menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Eagle Classics",
+   "item": "Breakfast Special",
+   "price": 20.0,
+   "description": "2 eggs, 2 bacon or sausage, toast, home fries"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Breakfast Burger",
+   "price": 19.0,
+   "description": "burger patty, fried egg, American cheese, bacon"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Breakfast Sandwich",
+   "price": 19.0,
+   "description": "2 eggs, bacon, jack and cheddar, lettuce, tomato, harissa aioli, sourdough"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Joe's Special",
+   "price": 20.0,
+   "description": "2 eggs scrambled with ground beef, spinach, garlic, onions; toast"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Avocado Toast with Egg",
+   "price": 17.0,
+   "description": "avocado on Boudin sourdough, tomato onion balsamic relish, greens"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Chilaquiles",
+   "price": 19.0,
+   "description": "tortilla chips in red chile sauce, black beans, 2 eggs, queso fresco"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Huevos Rancheros",
+   "price": 19.0,
+   "description": "2 eggs on corn tortillas, black beans, cheese, red chile sauce"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Breakfast Burrito",
+   "price": 19.0,
+   "description": "2 eggs, bacon, jack and cheddar, roasted salsa, sour cream"
+  },
+  {
+   "section": "Eagle Classics",
+   "item": "Chorizo & Egg Burrito",
+   "price": 21.0,
+   "description": "eggs, chorizo, cheese, potatoes, red chile sauce, queso fresco"
+  },
+  {
+   "section": "Benedicts",
+   "item": "Classic Eggs Benedict",
+   "price": 20.0,
+   "description": "poached eggs, ham, hollandaise on Boudin sourdough"
+  },
+  {
+   "section": "Benedicts",
+   "item": "Crab Cake Benedict",
+   "price": 24.0,
+   "description": "house crab cakes, poached eggs, hollandaise, tarragon"
+  },
+  {
+   "section": "Omelets",
+   "item": "Ham & Cheese",
+   "price": 19.0,
+   "description": "jack and cheddar"
+  },
+  {
+   "section": "Omelets",
+   "item": "Meat Lovers",
+   "price": 20.0,
+   "description": "bacon, ham, sausage, jack and cheddar"
+  },
+  {
+   "section": "Omelets",
+   "item": "California",
+   "price": 20.0,
+   "description": "bacon, avocado spread, spinach, jack and cheddar"
+  },
+  {
+   "section": "Omelets",
+   "item": "Veggie",
+   "price": 19.0,
+   "description": "bell peppers, onions, avocado spread, spinach, tomatoes, cheese"
+  },
+  {
+   "section": "Omelets",
+   "item": "Crab Avocado",
+   "price": 24.0,
+   "description": "crab, tomatoes, jack and cheddar"
+  },
+  {
+   "section": "From the Griddle",
+   "item": "Buttermilk Pancakes",
+   "price": 13.0,
+   "description": "two large pancakes, whipped maple butter"
+  },
+  {
+   "section": "From the Griddle",
+   "item": "Chocolate Chip Pancakes",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "From the Griddle",
+   "item": "Biscoff & Banana Pancakes or French Toast",
+   "price": 20.0,
+   "description": "Biscoff cookie butter, bananas, Biscoff crumbs"
+  },
+  {
+   "section": "From the Griddle",
+   "item": "Banana Pecan Pancakes or French Toast",
+   "price": 18.0,
+   "description": "caramelized bananas and pecans"
+  },
+  {
+   "section": "From the Griddle",
+   "item": "French Toast",
+   "price": 14.0,
+   "description": "Boudin sourdough, vanilla cinnamon batter"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Breakfast (eggs, French toast or pancake)",
+   "price": 11.0,
+   "description": "with bacon or sausage"
+  },
+  {
+   "section": "Kids",
+   "item": "Kids Lunch (cheeseburger, hamburger, tenders, fish & chips)",
+   "price": 10.0,
+   "description": "starting price; with fries; cheeseburger $11"
+  },
+  {
+   "section": "Starters",
+   "item": "Clam Chowder Bread Bowl",
+   "price": 12.0,
+   "description": "cup $8"
+  },
+  {
+   "section": "Starters",
+   "item": "Fried Calamari",
+   "price": 14.0,
+   "description": "horseradish cocktail sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Crispy Spicy Shrimp",
+   "price": 14.0,
+   "description": "creamy sweet and spicy sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Garlic Fries",
+   "price": 10.0,
+   "description": "parsley, garlic, parmesan"
+  },
+  {
+   "section": "Starters",
+   "item": "Avocado Toast",
+   "price": 14.0,
+   "description": "Boudin sourdough, tomato onion balsamic relish"
+  },
+  {
+   "section": "Starters",
+   "item": "Crab Cakes",
+   "price": 16.0,
+   "description": "2 crab cakes, harissa aioli, mixed greens"
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 8.0,
+   "description": "organic greens, house vinaigrette, red onions, tomatoes"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 10.0,
+   "description": "romaine, Caesar dressing, parmesan"
+  },
+  {
+   "section": "Salads",
+   "item": "Soup & Salad Combo",
+   "price": 18.0,
+   "description": "chowder bread bowl with Caesar or house salad"
+  },
+  {
+   "section": "Salads",
+   "item": "Blackened Salmon Salad",
+   "price": 23.0,
+   "description": "romaine, Caesar, avocado, tomatoes, cucumbers, bacon, salmon"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Cheeseburger",
+   "price": 16.0,
+   "description": "American cheese; fries"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "The Eagle Burger",
+   "price": 18.0,
+   "description": "bacon, American cheese, pickles, lettuce, tomato, onion, Eagle sauce"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Patty Melt",
+   "price": 18.0,
+   "description": "grilled onions, Thousand Island, Swiss on Boudin sourdough"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Guacamole Bacon Burger",
+   "price": 19.0,
+   "description": "guacamole, bacon, jack cheese"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Impossible Burger",
+   "price": 18.0,
+   "description": "plant-based patty, lettuce, tomato, onion, Eagle sauce"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "BLTA",
+   "price": 17.0,
+   "description": "bacon, lettuce, tomato, avocado, mayo on sourdough"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Nashville Hot Chicken",
+   "price": 18.0,
+   "description": "crispy chicken, hot sauce, mayo, pickles, slaw, Swiss"
+  },
+  {
+   "section": "Seafood",
+   "item": "Fish & Chips",
+   "price": 21.0,
+   "description": "beer battered cod, pickled slaw, fries"
+  },
+  {
+   "section": "Seafood",
+   "item": "Fish Tacos",
+   "price": 19.0,
+   "description": "grilled cod, chipotle aioli, tomatillo avocado salsa, slaw"
+  },
+  {
+   "section": "Seafood",
+   "item": "Seared Salmon Sandwich",
+   "price": 20.0,
+   "description": "salmon, lettuce, pickled vegetables, spicy aioli, french roll"
+  },
+  {
+   "section": "Seafood",
+   "item": "Blackened Fish Wrap",
+   "price": 19.0,
+   "description": "cod, Eagle sauce, slaw, pickled vegetables, rice, flour tortilla"
+  },
+  {
+   "section": "Seafood",
+   "item": "Crab Avocado Toast",
+   "price": 23.0,
+   "description": "avocado on sourdough topped with crab"
+  },
+  {
+   "section": "Seafood",
+   "item": "Crispy Shrimp Tacos",
+   "price": 21.0,
+   "description": "sweet and spicy shrimp, pickled slaw, roasted tomato salsa"
+  },
+  {
+   "section": "Seafood",
+   "item": "Salmon Tacos",
+   "price": 21.0,
+   "description": "grilled salmon, chipotle aioli, slaw, roasted tomato salsa"
+  },
+  {
+   "section": "Drinks",
+   "item": "Mimosa",
+   "price": 10.0,
+   "description": "sparkling brut, orange juice"
+  },
+  {
+   "section": "Drinks",
+   "item": "Eagle Bloody Mary",
+   "price": 15.0,
+   "description": "vodka, house mix, pickled veggies, bacon"
+  },
+  {
+   "section": "Drinks",
+   "item": "Cocktails (espresso martini, cosmo, mule, etc.)",
+   "price": 15.0,
+   "description": ""
+  }
+ ],
+ "notes": "Open daily 8am-3pm, breakfast until 11:30am, walk-ins only (per site). 5% SF surcharge added to checks. Kids menus, sides and cocktails abbreviated.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $19.00 of 28 prices in sections ['Eagle Classics', 'Omelets', 'Burgers & Sandwiches', 'Seafood']; rule L1<10, L2<18, L3<30, L4>=30"
+}

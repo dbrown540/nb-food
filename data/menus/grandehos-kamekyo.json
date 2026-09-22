@@ -1,0 +1,775 @@
+{
+ "name": "Grandeho’s Kamekyo",
+ "addr": "2721 Hyde Street",
+ "menu_url": "https://menupages.com/grandehos-kamekyo-sushi-bar/2721-hyde-st-san-francisco",
+ "source": "aggregator: MenuPages (Grubhub-powered) menu page",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Gyoza",
+   "price": 11.95,
+   "description": "Potstickers. Homemade with choice of your protein."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Edamame",
+   "price": 8.95,
+   "description": "Steamed organic soybeans."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tempura Combo",
+   "price": 16.95,
+   "description": "Deep-fried battered shrimp 2 pieces and vegetable 4 pieces."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Shrimp Tempura",
+   "price": 13.95,
+   "description": "4 Pieces."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Vegetable Tempura",
+   "price": 12.95,
+   "description": "6 Pieces."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Ikamaru Yaki",
+   "price": 18.95,
+   "description": "Grilled whole squid."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Agedashi Tofu",
+   "price": 11.95,
+   "description": "Deep-fried tempura tofu served with ginger sauce."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Noodle",
+   "price": 20.95,
+   "description": "Add-ons are available for an additional charge."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Karage",
+   "price": 15.95,
+   "description": "Deep-fried white meat chicken."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Grilled Shrimp",
+   "price": 17.95,
+   "description": "6 Pieces."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Soft Shell Crab",
+   "price": 16.95,
+   "description": "Deep-fried battered soft shell crab."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Hamachi Kama",
+   "price": 18.95,
+   "description": "Grilled yellowtail cheek with ponzu sauce."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Salmon Kama",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Egg Roll",
+   "price": 14.95,
+   "description": "Veggie or meat."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Baked Mussle",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Kaku",
+   "price": 8.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Sunomono",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Tofu Soup",
+   "item": "Vegetable Tofu Soup",
+   "price": 22.0,
+   "description": "Vegetable soup base."
+  },
+  {
+   "section": "Tofu Soup",
+   "item": "Beef Tofu Soup",
+   "price": 25.95,
+   "description": ""
+  },
+  {
+   "section": "Tofu Soup",
+   "item": "Seafood Tofu Soup",
+   "price": 26.95,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Tuna Tataki Salad",
+   "price": 25.0,
+   "description": "Seared tuna with green salad and house dressing."
+  },
+  {
+   "section": "Salads",
+   "item": "Wakame Salad",
+   "price": 12.95,
+   "description": "Marinated seaweed with lemon and green onion."
+  },
+  {
+   "section": "Salads",
+   "item": "Cucumber Salad",
+   "price": 12.95,
+   "description": "Ponzu sauce and lemon."
+  },
+  {
+   "section": "Salads",
+   "item": "Salmon Skin Salad",
+   "price": 15.95,
+   "description": "Salmon skin with green salad and house dressing."
+  },
+  {
+   "section": "Salads",
+   "item": "Tofu Salad",
+   "price": 16.95,
+   "description": "Pan fried tofu with green salad, avocado and house dressing."
+  },
+  {
+   "section": "Salads",
+   "item": "Hawaiian Poki Salad",
+   "price": 28.0,
+   "description": "Hawaiian poki with green salad, avocado and tomato."
+  },
+  {
+   "section": "Salads",
+   "item": "Green Salad",
+   "price": 14.95,
+   "description": "Seasonal spring mix, tomato, avocado and house dressing."
+  },
+  {
+   "section": "Salads",
+   "item": "Mixed Organic Salad",
+   "price": 12.95,
+   "description": "Seasonal fresh vegetables with house dressing."
+  },
+  {
+   "section": "Salads",
+   "item": "Fresh Tofu Salad",
+   "price": 11.95,
+   "description": "Fresh green salad, fresh tofu, and avocado house dressing."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Chirashi",
+   "price": 38.0,
+   "description": "10 Pieces. Assorted raw fish over sushi rice."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sashimi Deluxe",
+   "price": 110.0,
+   "description": "25 Pieces. Chef's daily fresh fish choices."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Tekka Don",
+   "price": 32.0,
+   "description": "Fresh sliced red tuna over rice."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Salmon Don",
+   "price": 32.0,
+   "description": "Fresh sliced red salmon over rice."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Unagi Don",
+   "price": 32.0,
+   "description": "Barbecued eel over rice."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sashimi Bi Bim Bob",
+   "price": 38.0,
+   "description": "Chef's daily fresh fish and salad over rice with sp sauce."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sushi Combination",
+   "price": 38.0,
+   "description": "8 Pieces, nigiri chef's choice with California roll."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sashimi Appetizer",
+   "price": 27.0,
+   "description": "Tuna 2 pieces, salmon 2 pieces, hamachi 2 pieces."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sushi Boat A",
+   "price": 120.0,
+   "description": "Chef's choice."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sushi Boat B",
+   "price": 140.0,
+   "description": "Chef's choice."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sushi Boat C",
+   "price": 170.0,
+   "description": "Chef's choice."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Rainbow Roll",
+   "price": 21.0,
+   "description": "Tuna, hamachi, salmon, white fish and avocado, crabmeat."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Dragon Roll",
+   "price": 21.0,
+   "description": "Barbecued eel over avocado, cucumber and shrimp tempura."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Cherry Blossom Roll",
+   "price": 22.0,
+   "description": "Salmon, cucumber and avocado. Tuna with seaweed salad on top."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Hawaiian Poki Roll",
+   "price": 24.0,
+   "description": "Inside spicy tuna top with spicy marinated assorted fish."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Double Salmon Roll",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Bay Roll",
+   "price": 21.0,
+   "description": "Crabmeat and avocado. Topped with wasabi sauce and lemon."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Dynamite Roll",
+   "price": 20.0,
+   "description": "Deep fried spicy tuna, cucumber."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Swamp Roll",
+   "price": 20.0,
+   "description": "Wakame seaweed salad on top of spicy tuna roll."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Lion King Roll",
+   "price": 21.0,
+   "description": "Oven-baked California roll topped with salmon and spicy mayo sauce."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Kamekyo's Special Roll",
+   "price": 29.0,
+   "description": "10 pieces. Inside with shrimp tempura, spicy tuna, top with tuna, unagi, avocado, crabmeat"
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Caterpillar Roll",
+   "price": 13.95,
+   "description": "Avocado over barbecued eel and cucumber."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Cable Car Roll",
+   "price": 17.95,
+   "description": "Spicy tuna, shrimp tempura, avocado, crab, BBQ eel wrapped."
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Seattle Roll",
+   "price": 9.95,
+   "description": "Baked Salmon and Avocado"
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Double Hamachi Roll",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Unique Rolls",
+   "item": "Spicy Tuna Tempura Roll",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Nigiri",
+   "item": "Yellowtail",
+   "price": 11.5,
+   "description": "hamachi"
+  },
+  {
+   "section": "Nigiri",
+   "item": "Barbecue Eel",
+   "price": 11.5,
+   "description": "Unagi."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Tuna",
+   "price": 10.5,
+   "description": "Maguro."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Salmon",
+   "price": 11.0,
+   "description": "Sake."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Mackerel",
+   "price": 10.0,
+   "description": "Saba."
+  },
+  {
+   "section": "Nigiri",
+   "item": "White Tuna",
+   "price": 10.0,
+   "description": "Shiro maguro."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Flying Fish Egg",
+   "price": 10.0,
+   "description": "Tobiko."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Cooked Shrimp",
+   "price": 9.5,
+   "description": "Ebi."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Tamago",
+   "price": 8.5,
+   "description": "Sweet egg omelet."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Butter Fish",
+   "price": 10.0,
+   "description": "Escolar."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Scallop",
+   "price": 11.5,
+   "description": "Hotate."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Salmon Egg",
+   "price": 11.0,
+   "description": "Ikura."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Spicy Scallop",
+   "price": 14.95,
+   "description": "Spicy hotate."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Squid",
+   "price": 11.0,
+   "description": "Ika."
+  },
+  {
+   "section": "Nigiri",
+   "item": "Sweet Shrimp",
+   "price": 21.0,
+   "description": "Amaebi."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Spider Maki Roll",
+   "price": 17.95,
+   "description": "Deep-fried soft shell crab, tobiko, and vegetables."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Seattle Maki Roll",
+   "price": 15.95,
+   "description": "Cooked salmon and avocado."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Shrimp Tempura Maki Roll",
+   "price": 15.95,
+   "description": "Deep-fried battered shrimp, cucumber, and avocado."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Spicy Hotate Maki Roll",
+   "price": 15.95,
+   "description": "Chopped scallop with spicy sauce."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Futo Maki Roll",
+   "price": 15.95,
+   "description": "Egg roll with kampyo, carrot, cucumber, avocado."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Philadelphia Maki Roll",
+   "price": 13.95,
+   "description": "Fresh salmon, avocado and cream cheese."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Rock n Maki Roll",
+   "price": 13.95,
+   "description": "Barbecued eel, avocado, and cucumber."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Golden California Maki Roll",
+   "price": 13.0,
+   "description": "Avocado, crab and tobiko on the top."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Alaska Maki Roll",
+   "price": 12.95,
+   "description": "Fresh salmon and avocado."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Spicy Tuna Maki Roll",
+   "price": 12.95,
+   "description": "Spicy tuna and cucumber."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Negi Hama Maki Roll",
+   "price": 12.0,
+   "description": "Hamachi and green onion."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "California Maki Roll",
+   "price": 11.0,
+   "description": "Avocado and crab."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "New York Maki Roll",
+   "price": 11.0,
+   "description": "Cooked shrimp with avocado."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Tekka Maki Roll",
+   "price": 11.0,
+   "description": "Red tuna."
+  },
+  {
+   "section": "Maki Roll",
+   "item": "Sake Maki Roll",
+   "price": 11.0,
+   "description": "Salmon."
+  },
+  {
+   "section": "Entrees",
+   "item": "Grilled Salmon Entree",
+   "price": 25.95,
+   "description": "Choice of teriyaki sauce or salt seasoning."
+  },
+  {
+   "section": "Entrees",
+   "item": "Saba Entree",
+   "price": 25.95,
+   "description": "Grilled mackerel with choice of teriyaki sauce or salt seasoning."
+  },
+  {
+   "section": "Entrees",
+   "item": "Oyako Don",
+   "price": 21.95,
+   "description": "Chicken omelet over rice. Served with miso and rice."
+  },
+  {
+   "section": "Entrees",
+   "item": "Katsu Don",
+   "price": 22.95,
+   "description": "Deep fried pork over rice. Served with miso and rice."
+  },
+  {
+   "section": "Entrees",
+   "item": "Ten Don",
+   "price": 23.95,
+   "description": "2 pieces shrimp and 4 pieces veggie tempura over rice. Served with miso and rice."
+  },
+  {
+   "section": "Entrees",
+   "item": "Beef Teriyaki Entree",
+   "price": 27.95,
+   "description": "Grilled beef with teriyaki sauce."
+  },
+  {
+   "section": "Entrees",
+   "item": "Tonkatsu Entree",
+   "price": 25.95,
+   "description": "Deep fried pork cutlet."
+  },
+  {
+   "section": "Entrees",
+   "item": "Chicken Teriyaki Entree",
+   "price": 22.95,
+   "description": "Broiled boneless chicken with teriyaki sauce."
+  },
+  {
+   "section": "Entrees",
+   "item": "Tempura Entree",
+   "price": 25.95,
+   "description": "Deep fried 3 pieces shrimp, 5 pieces veggie."
+  },
+  {
+   "section": "Entrees",
+   "item": "Yaki Rice Entree",
+   "price": 19.95,
+   "description": "Pan-fried rice. Served with miso and rice."
+  },
+  {
+   "section": "Entrees",
+   "item": "Tonkatsu Curry",
+   "price": 27.95,
+   "description": "Deep-fried pork cutlet with katsu sauce. Served with miso and rice."
+  },
+  {
+   "section": "Entrees",
+   "item": "Red Snapper Entree",
+   "price": 20.0,
+   "description": "Served with miso soup, rice and house salad."
+  },
+  {
+   "section": "Entrees",
+   "item": "Sea Bass Entree",
+   "price": 27.95,
+   "description": "Served with miso soup, rice and house salad."
+  },
+  {
+   "section": "Ramen",
+   "item": "Tonkotsu Special Ramen",
+   "price": 21.95,
+   "description": "Pork broth with chashu, baby bokchoy, been sprout, fish cake, boiled egg, green onion and"
+  },
+  {
+   "section": "Ramen",
+   "item": "Original Ramen",
+   "price": 20.95,
+   "description": "Pork broth with chashu, baby bokchoy, been sprout, fish cake, boiled egg and green onion."
+  },
+  {
+   "section": "Ramen",
+   "item": "Spicy Ramen",
+   "price": 20.95,
+   "description": "Fish cake, chashu, baby bokchoi, bean sprouts, green onion."
+  },
+  {
+   "section": "Ramen",
+   "item": "Veggie Ramen",
+   "price": 19.95,
+   "description": "Miso broth and vegetables."
+  },
+  {
+   "section": "Ramen",
+   "item": "Cold Ramen",
+   "price": 20.95,
+   "description": "Tamago, cucumber chashu, avocado, tomatoes, wakame."
+  },
+  {
+   "section": "Udon",
+   "item": "Seafood Nabeyaki Udon",
+   "price": 30.0,
+   "description": "Noodle with soup, assorted seafood and vegetables."
+  },
+  {
+   "section": "Udon",
+   "item": "Tempura Udon",
+   "price": 21.95,
+   "description": "Noodle with soup and side tempura."
+  },
+  {
+   "section": "Udon",
+   "item": "Kamekyo Udon",
+   "price": 20.95,
+   "description": "Noodle with miso broth, tofu and vegetables."
+  },
+  {
+   "section": "Udon",
+   "item": "Yasai Udon",
+   "price": 19.95,
+   "description": "Veggie udon. Noodle with clear vegetables broth and vegetables."
+  },
+  {
+   "section": "Udon",
+   "item": "Kimchi Udon",
+   "price": 19.95,
+   "description": "Noodle with soup and spicy napa cabbage."
+  },
+  {
+   "section": "Udon",
+   "item": "Kitsune Udon",
+   "price": 14.95,
+   "description": "Sweet tofu with bamboo and vegetables noodle soup."
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Dduk Bok Ki",
+   "price": 20.0,
+   "description": "Spicy sauteed rice cake."
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Bul Go Gi Jab Chae",
+   "price": 22.0,
+   "description": "Stir-fried glass noodle with beef and vegetables."
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Vegetable Jab Chae",
+   "price": 21.0,
+   "description": "Stir-fried glass noodle with vegetables."
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Korean BBQ Kalbi",
+   "price": 48.0,
+   "description": "BBQ grilled beef rib."
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Vegetable Korean Pancake",
+   "price": 22.0,
+   "description": "Pan-fried pancake with green onion, carrot, zucchini, onion."
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Homemade Shrimp Gyoza",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Ginseng Chicken Soup",
+   "price": 27.0,
+   "description": ""
+  },
+  {
+   "section": "Korean Specials",
+   "item": "Kimchi Fried Rice",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Bi Bim Bab / Bul Go Gi",
+   "item": "Beef Bul Go Gi",
+   "price": 27.95,
+   "description": "Broiled thin sliced boneless beef rib eye."
+  },
+  {
+   "section": "Bi Bim Bab / Bul Go Gi",
+   "item": "Chicken Bul Go Gi",
+   "price": 26.95,
+   "description": "Broiled chicken thighs."
+  },
+  {
+   "section": "Bi Bim Bab / Bul Go Gi",
+   "item": "Pork Bul Go Gi",
+   "price": 26.95,
+   "description": "Broiled thin sliced spicy pork."
+  },
+  {
+   "section": "Bi Bim Bab / Bul Go Gi",
+   "item": "Tofu",
+   "price": 22.0,
+   "description": "Pan-fried tofu."
+  },
+  {
+   "section": "Bi Bim Bab / Bul Go Gi",
+   "item": "Vegetables",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Green Tea Ice Cream",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Mochi Ice Cream",
+   "price": 6.95,
+   "description": "Choice of green tea, strawberry."
+  },
+  {
+   "section": "Desserts",
+   "item": "Fried Banana",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Fresh Fruit",
+   "price": 10.95,
+   "description": "Organic, seasonal fruit."
+  },
+  {
+   "section": "Desserts",
+   "item": "Tempura Ice Cream",
+   "price": 10.95,
+   "description": "Deep-fried green tea ice cream."
+  }
+ ],
+ "notes": "No official website found; menu taken from an aggregator (delivery-platform prices may differ from dine-in). Lunch specials, per-piece sushi list, drinks, alcohol, veggie rolls, bento boxes and side orders omitted to stay within the item cap. Search listings give hours Tue-Fri 11:30-3 and 5-9, Sat-Sun 11:30-9, closed Mon.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $22.00 of 63 prices in sections [\"Chef's Special\", 'Unique Rolls', 'Entrees', 'Ramen', 'Udon', 'Korean Specials', 'Bi Bim Bab / Bul Go Gi']; rule L1<10, L2<18, L3<30, L4>=30"
+}

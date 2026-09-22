@@ -1,0 +1,127 @@
+{
+ "name": "Bowl'd Acai",
+ "addr": "1958 Polk Street",
+ "menu_url": "https://www.bowldacai.com/menus/",
+ "source": "restaurant website (BentoBox menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Acai Bowls",
+   "item": "Original Gangster",
+   "price": 14.5,
+   "description": "acai, strawberry, banana; topped with granola, fruit, coconut, honey"
+  },
+  {
+   "section": "Acai Bowls",
+   "item": "Green Goliath",
+   "price": 14.5,
+   "description": "acai, strawberry, banana; topped with granola, fruit, goji berries, coconut, honey"
+  },
+  {
+   "section": "Acai Bowls",
+   "item": "These Nuts",
+   "price": 14.5,
+   "description": "acai, strawberry, banana; granola, banana, peanut butter, almonds, hemp seed, honey"
+  },
+  {
+   "section": "Acai Bowls",
+   "item": "Cheat Day",
+   "price": 14.5,
+   "description": "acai, strawberry, banana; granola, banana, Nutella, honey"
+  },
+  {
+   "section": "Rice Bowls",
+   "item": "Great White Poke Bowl (Fish)",
+   "price": 19.5,
+   "description": "brown rice, spinach; marinated wild ahi tuna, sesame, orange, ginger, garlic"
+  },
+  {
+   "section": "Rice Bowls",
+   "item": "Power Bowl (Steak)",
+   "price": 19.5,
+   "description": "brown rice, spinach; braised flank steak, spices, green onion, BBQ sauce"
+  },
+  {
+   "section": "Rice Bowls",
+   "item": "Thunderbird Bowl (Chicken)",
+   "price": 17.5,
+   "description": "brown rice, spinach; pulled chicken with garlic, paprika, chili, green onion"
+  },
+  {
+   "section": "Rice Bowls",
+   "item": "Plant Warrior",
+   "price": 16.5,
+   "description": "brown rice, spinach; pea-based chorizo, green onion"
+  },
+  {
+   "section": "Smoothies (20oz)",
+   "item": "Berry White",
+   "price": 12.5,
+   "description": "acai, strawberry, banana, mixed berries, house almond milk"
+  },
+  {
+   "section": "Smoothies (20oz)",
+   "item": "Hella Green",
+   "price": 12.5,
+   "description": "kale, spinach, mango, pineapple, banana, house almond milk"
+  },
+  {
+   "section": "Smoothies (20oz)",
+   "item": "Beast Mode",
+   "price": 14.5,
+   "description": "acai, strawberry, banana, peanut butter, whey, maca, flaxseed, chia, almond milk"
+  },
+  {
+   "section": "Smoothies (20oz)",
+   "item": "Rocket Fuel",
+   "price": 14.5,
+   "description": "coffee, banana, peanut butter, whey, chia, flaxseed, almond milk"
+  },
+  {
+   "section": "Smoothies (20oz)",
+   "item": "Dragon Slayer",
+   "price": 14.5,
+   "description": "acai, mixed berries, banana, whey, peanut butter, cinnamon, almond milk"
+  },
+  {
+   "section": "Smoothies (20oz)",
+   "item": "Green Goddess",
+   "price": 14.5,
+   "description": "spinach, mango, pineapple, almond milk"
+  },
+  {
+   "section": "Juices (20oz)",
+   "item": "Al Greens",
+   "price": 12.0,
+   "description": "kale, spinach, cucumber, celery, green apple, lemon, ginger"
+  },
+  {
+   "section": "Juices (20oz)",
+   "item": "Cold Assassin",
+   "price": 12.0,
+   "description": "grapefruit, orange, lemon, turmeric, ginger, cayenne"
+  },
+  {
+   "section": "Broth & Coffee",
+   "item": "Beef Broth (12oz)",
+   "price": 9.5,
+   "description": "beef bone broth, vegetables, herbs, lemon, cayenne"
+  },
+  {
+   "section": "Broth & Coffee",
+   "item": "Chicken Broth (12oz)",
+   "price": 9.5,
+   "description": "roasted chicken bone broth, vegetables, herbs, lemon, cayenne"
+  },
+  {
+   "section": "Broth & Coffee",
+   "item": "Organic Cold Brew Coffee (12oz)",
+   "price": 4.0,
+   "description": "on the rocks"
+  }
+ ],
+ "notes": "Polk St cafe hours on site: daily 8:30am-5pm. Cafe menu transcribed; separate food-truck menu and two small wellness-shot items omitted. Online ordering via Square.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $15.50 of 8 prices in sections ['Acai Bowls', 'Rice Bowls']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,319 @@
+{
+ "name": "Wipeout bar & grill",
+ "addr": "Pier 39",
+ "menu_url": "https://wipeoutbarandgrill.com/menu/",
+ "source": "restaurant website (menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Screamin' Starters",
+   "item": "Chips & Salsa",
+   "price": 5.75,
+   "description": ""
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Cheese & Chorizo Dip",
+   "price": 12.95,
+   "description": "white cheddar, chorizo, pico, tortilla chips"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Sweet Potato Fries",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Gnarly Garlic Fries",
+   "price": 10.5,
+   "description": "garlic, olive oil, herbs, parmesan"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Chili Cheese Fries",
+   "price": 12.5,
+   "description": ""
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Outrageous Onion Rings",
+   "price": 10.5,
+   "description": "panko breaded"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Spicy Chicken Wings",
+   "price": 14.75,
+   "description": "ranch dip"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Fried Pickles",
+   "price": 11.95,
+   "description": "chipotle ranch"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Crispy Fried Calamari",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Coconut Fried Shrimp",
+   "price": 16.95,
+   "description": "sweet chili sauce"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Garlic Pizza Bread",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Wipeout Nachos",
+   "price": 15.95,
+   "description": "black beans, cheeses, sour cream, guacamole, pico"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "New England Clam Chowder (cup)",
+   "price": 8.5,
+   "description": "bowl $10.50, bread bowl $13.50, bread bowl & salad $18.95"
+  },
+  {
+   "section": "Screamin' Starters",
+   "item": "Chili con Carne (cup)",
+   "price": 7.95,
+   "description": "bowl $9.95, bread bowl $12.95"
+  },
+  {
+   "section": "Shredding Salads",
+   "item": "House Salad",
+   "price": 8.95,
+   "description": "greens, tomato, cucumber, jicama, cilantro-lime vinaigrette"
+  },
+  {
+   "section": "Shredding Salads",
+   "item": "BBQ Chicken Salad",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Shredding Salads",
+   "item": "Grilled Salmon Salad",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Shredding Salads",
+   "item": "Caesar",
+   "price": 10.95,
+   "description": "add chicken $4.95, shrimp $5.95"
+  },
+  {
+   "section": "Shredding Salads",
+   "item": "Taco Salad",
+   "price": 19.95,
+   "description": "chicken; steak $21.95"
+  },
+  {
+   "section": "Paddlin' Pizzas",
+   "item": "Cheese Please (9\")",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Paddlin' Pizzas",
+   "item": "Pipeline Pepperoni (9\")",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Paddlin' Pizzas",
+   "item": "Specialty Pizzas (9\")",
+   "price": 19.95,
+   "description": "BBQ chicken, buffalo chicken, meat lovers, Hawaii 5 Ohhhh, veg head, others"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Fish & Chips",
+   "price": 21.95,
+   "description": "beer-battered Pacific cod, pineapple coleslaw, fries"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Wipeout Fried Combo",
+   "price": 24.95,
+   "description": "cod, calamari, coconut shrimp"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Fried Calamari & Chips",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Coconut Shrimp & Chips",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Crab Cakes",
+   "price": 23.95,
+   "description": "lemon pepper aioli"
+  },
+  {
+   "section": "Big Wave Bowls",
+   "item": "Grilled Salmon Bowl",
+   "price": 23.95,
+   "description": "teriyaki veggies, mango salsa, rice"
+  },
+  {
+   "section": "Big Wave Bowls",
+   "item": "Teriyaki Chicken Bowl",
+   "price": 21.95,
+   "description": "veggies, grilled pineapple, rice"
+  },
+  {
+   "section": "Big Wave Bowls",
+   "item": "Sizzling Shrimp & Steak Bowl",
+   "price": 24.95,
+   "description": "wok-seared, ginger, garlic, basil, rice"
+  },
+  {
+   "section": "Big Wave Bowls",
+   "item": "Tuna Poke Bowl",
+   "price": 23.95,
+   "description": "ahi, edamame, mango, sriracha aioli, rice"
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "Hamburger",
+   "price": 16.5,
+   "description": "two patties, lettuce, tomato, onion, house dressing, fries"
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "The Jalapeno Burger",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "BBQ Burger",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "The Hawaiian Burger",
+   "price": 18.95,
+   "description": "grilled pineapple, teriyaki glaze, jack"
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "The Wipeout Burger",
+   "price": 18.95,
+   "description": "bacon, blue cheese, fried onions"
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "The California Burger",
+   "price": 18.95,
+   "description": "jack, guacamole, bacon"
+  },
+  {
+   "section": "Wipeout Burgers",
+   "item": "Impossible Burger",
+   "price": 18.95,
+   "description": "cheddar, pesto aioli"
+  },
+  {
+   "section": "Surfin' Sandwiches",
+   "item": "Salmon B.L.T.",
+   "price": 19.95,
+   "description": "pesto mayo, french roll"
+  },
+  {
+   "section": "Surfin' Sandwiches",
+   "item": "Chili Cheese Dog",
+   "price": 17.95,
+   "description": "1/3 lb Nathan's hot dog, chili, cheddar"
+  },
+  {
+   "section": "Surfin' Sandwiches",
+   "item": "BBQ Pork",
+   "price": 17.95,
+   "description": "pulled pork, coleslaw"
+  },
+  {
+   "section": "Surfin' Sandwiches",
+   "item": "Spicy Crispy Fish Sandwich",
+   "price": 18.95,
+   "description": "cod, slaw, hot honey, spicy mayo"
+  },
+  {
+   "section": "Surfin' Sandwiches",
+   "item": "Nashville Hot Chicken",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Baja Tacos",
+   "item": "Any Two Tacos",
+   "price": 17.95,
+   "description": "baja fish, carnitas, al pastor, carne asada, chicken; chips & salsa"
+  },
+  {
+   "section": "Baja Tacos",
+   "item": "Any Three Tacos",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Burritos",
+   "item": "Grilled Chicken / Fish / Al Pastor / Carnitas Burrito",
+   "price": 18.95,
+   "description": "black beans, rice, salsa, cheese, chipotle sauce"
+  },
+  {
+   "section": "Burritos",
+   "item": "Carne Asada Burrito",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Burritos",
+   "item": "California Burrito",
+   "price": 19.95,
+   "description": "carne asada, fries, cheese, guacamole"
+  },
+  {
+   "section": "Drinks",
+   "item": "Wipeout Cocktails",
+   "price": 16.95,
+   "description": "mule, cosmo, Aperol spritz, others"
+  },
+  {
+   "section": "Drinks",
+   "item": "Mojito Flight",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "The Wipeout Margarita (14oz)",
+   "price": 15.95,
+   "description": "21oz $18.95"
+  }
+ ],
+ "notes": "Wipeout Bar & Grill on Pier 39 (found via sister restaurant Crab House's site). Menu states a 5% surcharge on each check. Lunch & dinner menu extracted; drinks abbreviated; desserts and kids menu not extracted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $18.95 of 27 prices in sections [\"Paddlin' Pizzas\", 'Fried Seafood', 'Big Wave Bowls', 'Wipeout Burgers', \"Surfin' Sandwiches\", 'Burritos']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,12 @@
+{
+ "name": "Collina",
+ "addr": "1550 Hyde Street",
+ "menu_url": "https://www.collinasf.com/menus",
+ "source": "restaurant website (menus page embeds a Checkle menu); embed bot-gated",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Italian, handmade pasta. Official site collinasf.com embeds its menu from checkle.menu, which returned a Vercel security checkpoint (HTTP 429) to both curl and WebFetch; not bypassed. Hours on site: Sun-Thu 5-9pm, Fri-Sat 5-9:30pm last seating. A real browser should render the embedded menu.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

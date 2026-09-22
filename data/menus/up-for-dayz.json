@@ -1,0 +1,505 @@
+{
+ "name": "Up For Dayz",
+ "addr": "1801 Polk Street",
+ "menu_url": "https://order.online/store/upfordayz-coffee-tea-juice-polk-st-24381062",
+ "source": "restaurant online-ordering page (DoorDash order.online storefront for the Polk St store, linked from upfordayz.com; rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Wraps & BBQ Sandwich",
+   "item": "BBQ Chicken Sandwich",
+   "price": 18.95,
+   "description": "BBQ chicken, slaw, pickles, house slaw on the side"
+  },
+  {
+   "section": "Wraps & BBQ Sandwich",
+   "item": "Crunchy Kale Wrap",
+   "price": 18.5,
+   "description": "chicken, avocado, feta, carrot, cucumber, sunflower seeds, kale, tahini, spinach tortilla"
+  },
+  {
+   "section": "Wraps & BBQ Sandwich",
+   "item": "Fresco Wrap",
+   "price": 18.5,
+   "description": "chicken, guacamole, black beans, rice, cheddar, chipotle crema, salsa verde"
+  },
+  {
+   "section": "Wraps & BBQ Sandwich",
+   "item": "Protein Wrap",
+   "price": 18.95,
+   "description": "chicken, pistachios, feta, olives, pickled onion, cucumber, tomato, spinach"
+  },
+  {
+   "section": "Bagels",
+   "item": "Upfordayz bagel",
+   "price": 12.95,
+   "description": "cream cheese, cucumber, tomato, arugula"
+  },
+  {
+   "section": "Bagels",
+   "item": "DELOX BAGEL",
+   "price": 17.95,
+   "description": "lox, capers, cream cheese, pickled onion, jalapeno"
+  },
+  {
+   "section": "Bagels",
+   "item": "SCALLION BAGEL",
+   "price": 16.95,
+   "description": "two eggs, avocado, scallion cream cheese, bacon, pickled onion"
+  },
+  {
+   "section": "Bagels",
+   "item": "EGG & BACON",
+   "price": 16.45,
+   "description": "bagel, two eggs, bacon, tomato jam, avocado, cheese"
+  },
+  {
+   "section": "Bagels",
+   "item": "FRESH MOZZARELLA BAGEL",
+   "price": 16.95,
+   "description": "mozzarella, roasted red pepper, pesto, two eggs, bacon, pepperoncini"
+  },
+  {
+   "section": "Bagels",
+   "item": "CREAM CHEESE BAGEL",
+   "price": 8.9,
+   "description": "toasted bagel, cream cheese"
+  },
+  {
+   "section": "Salads",
+   "item": "High protein bowl",
+   "price": 18.9,
+   "description": "kale, butternut squash, beet, chickpea, quinoa, cottage cheese, avocado, nuts"
+  },
+  {
+   "section": "Salads",
+   "item": "Tofu power bowl",
+   "price": 18.9,
+   "description": "tofu, edamame, roasted red pepper, kale, quinoa, olives, radish"
+  },
+  {
+   "section": "Avocado Toasts",
+   "item": "AB&J",
+   "price": 15.9,
+   "description": "almond butter, jam, banana, chia seeds"
+  },
+  {
+   "section": "Avocado Toasts",
+   "item": "Eat with Purpose",
+   "price": 17.9,
+   "description": "avocado, roasted red pepper, arugula, olives, egg, pesto"
+  },
+  {
+   "section": "Avocado Toasts",
+   "item": "OMG Sandwich",
+   "price": 16.9,
+   "description": "avocado, egg, pomegranate"
+  },
+  {
+   "section": "Avocado Toasts",
+   "item": "Randas Favorite",
+   "price": 17.75,
+   "description": "avocado, feta, arugula, pesto"
+  },
+  {
+   "section": "Avocado Toasts",
+   "item": "Wellness Sandwich",
+   "price": 18.75,
+   "description": "avocado, sweet potato, radish, egg, pesto"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Juicy pastrami sandwich",
+   "price": 19.9,
+   "description": "pastrami, Swiss, Russian dressing, pickles, on a house-baked hoagie roll"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Chipotle Chicken Sandwich",
+   "price": 19.9,
+   "description": "chipotle chicken, chipotle gouda, chipotle mayo, tomato, cucumber"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Turkey Sandwich",
+   "price": 19.9,
+   "description": "cracked pepper turkey, provolone, pesto, pickles, tomato"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Avocado Sandwich",
+   "price": 17.9,
+   "description": "avocado, hummus, lettuce, cucumber, tomato, sprouts, meatless bacon bits"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Tuna salad SANDWICH",
+   "price": 18.9,
+   "description": "tuna salad, lettuce, cucumber, tomato, sprouts, bacon bits"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Chicken salad sandwich",
+   "price": 18.9,
+   "description": "chicken salad, lettuce, cucumber, tomato, sprouts, bacon bits"
+  },
+  {
+   "section": "Deli Sandwiches",
+   "item": "Egg salad sandwich",
+   "price": 17.9,
+   "description": "egg salad, lettuce, cucumber, tomato, sprouts, bacon bits"
+  },
+  {
+   "section": "Breakfast Bowls",
+   "item": "Acai Bowl",
+   "price": 17.95,
+   "description": "acai, banana, strawberry, granola, hemp seed, peanut butter"
+  },
+  {
+   "section": "Breakfast Bowls",
+   "item": "Fluffy Sweet Potato Bowl",
+   "price": 16.25,
+   "description": "baked sweet potato, almond milk, cinnamon, pepitas, granola, chia pudding"
+  },
+  {
+   "section": "Breakfast Bowls",
+   "item": "Oat Meal Bowl",
+   "price": 15.9,
+   "description": "oats, banana, oat milk, strawberry, goji berry, honey, pepitas"
+  },
+  {
+   "section": "Breakfast Bowls",
+   "item": "Yougurt Bowl",
+   "price": 15.25,
+   "description": "Straus yogurt, cottage cheese, granola, banana, strawberry, honey"
+  },
+  {
+   "section": "Pastries",
+   "item": "Butter croissant",
+   "price": 8.9,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Blueberry scone",
+   "price": 8.9,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Morning bun",
+   "price": 8.9,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Danish",
+   "price": 8.9,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate muffin",
+   "price": 6.9,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "1000 Hands - Medium Roast (12 oz)",
+   "price": 5.9,
+   "description": "house-roasted drip coffee"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Decaf",
+   "price": 5.9,
+   "description": "medium roast drip"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Espresso",
+   "price": 6.15,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Americano",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Latte",
+   "price": 6.25,
+   "description": "regular, beet, turmeric, lavender or matcha"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Mocha",
+   "price": 6.95,
+   "description": "strawberry, white or dark"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Gibraltar",
+   "price": 5.9,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Macchiato",
+   "price": 5.9,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Turmeric Latte",
+   "price": 8.45,
+   "description": "fresh turmeric root"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Root Beer Cold Brew",
+   "price": 7.9,
+   "description": "root beer, cold brew, cream"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Chocolaty Cold Brew",
+   "price": 7.9,
+   "description": "cold brew from smoked beans"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Caramel Cold Brew",
+   "price": 8.9,
+   "description": "caramel, cold foam, cold brew"
+  },
+  {
+   "section": "Coffee & Espresso",
+   "item": "Hazelnut Cold Foam Cold Brew",
+   "price": 8.9,
+   "description": "hazelnut, cold foam, cold brew"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "Black, Green, Oolong, Pu-Erh or White Blueberry Tea",
+   "price": 6.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "Chai Latte",
+   "price": 6.9,
+   "description": ""
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "Matcha Latte",
+   "price": 7.25,
+   "description": "matcha with milk of choice"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "Herbal Teas",
+   "price": 6.7,
+   "description": "starting price; Cha Cha, chamomile, elderberry wine, lemongrass ginger, peppermint, minty comfort"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "MANGO MATCHA LATTE",
+   "price": 9.9,
+   "description": "mango puree, milk, matcha, ice"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "BLUEBERRY MATCHA LATTE",
+   "price": 9.9,
+   "description": "house blueberry puree, milk, matcha"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "STRAWBERRY MATCHA LATTE",
+   "price": 9.9,
+   "description": "strawberry puree, matcha, milk, ice"
+  },
+  {
+   "section": "Tea & Matcha",
+   "item": "Black Sesame Matcha Latte",
+   "price": 11.9,
+   "description": "matcha, black sesame, condensed milk, cream"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Kiwi Buzz",
+   "price": 15.5,
+   "description": "kiwi, strawberry, apple"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Celery Power",
+   "price": 15.5,
+   "description": "celery, lemon, mint"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Mint Ginger",
+   "price": 15.5,
+   "description": "mint, ginger, lemon, apple"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Orange Buzz",
+   "price": 15.5,
+   "description": "orange, carrot, ginger"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Stress Relief",
+   "price": 15.5,
+   "description": "mixed berry, mint, apple"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Upfordayz Green",
+   "price": 15.5,
+   "description": "cucumber, lemon, apple"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Beet Detox",
+   "price": 16.9,
+   "description": "beet, red bell pepper, apple, lemon, ginger"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Queen of Green",
+   "price": 16.9,
+   "description": "cucumber, kale, apple, avocado, spinach"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Yellow Star",
+   "price": 16.9,
+   "description": "turmeric, ginger, red bell pepper, apple, mint"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Ginger Shot (2oz)",
+   "price": 6.25,
+   "description": "ginger, apple"
+  },
+  {
+   "section": "Juices (16oz)",
+   "item": "Tumeric Shot (2oz)",
+   "price": 6.25,
+   "description": "turmeric, black pepper, lemon, apple"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Balance Shake",
+   "price": 15.75,
+   "description": "banana, avocado, dates, vanilla milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Take Me Away",
+   "price": 15.75,
+   "description": "mixed berry, banana, vanilla milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Upfordayz Mocha",
+   "price": 15.75,
+   "description": "espresso, chocolate, banana, vanilla milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Kale Power",
+   "price": 15.75,
+   "description": "kale, orange, banana"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Orange Carrot Spring",
+   "price": 15.75,
+   "description": "orange, carrot, pineapple, banana"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Sams Shake",
+   "price": 15.75,
+   "description": "strawberry, banana, vanilla milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Kaleicious",
+   "price": 16.9,
+   "description": "kale, spinach, ginger, chia, dates, pineapple, banana, apple"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Power Mocha",
+   "price": 16.9,
+   "description": "coffee, maca, almond butter, cacao nibs, banana, almond milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Blue Power",
+   "price": 16.9,
+   "description": "blueberry, blackberry, banana, almond milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Chocolate Vegan",
+   "price": 16.9,
+   "description": "avocado, almond butter, chia, hemp, chocolate, banana, coconut milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Green Gate",
+   "price": 16.9,
+   "description": "avocado, dates, banana, kale, chia, spirulina, coconut milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Green Machine",
+   "price": 16.9,
+   "description": "avocado, kale, spinach, pineapple, flax, coconut water"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Berries power shake",
+   "price": 16.9,
+   "description": "mixed berry, beetroot, chia, banana, dates, avocado, coconut milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Almond protein shake",
+   "price": 16.9,
+   "description": "avocado, dates, banana, almond butter, chia, dark chocolate"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Blue Spirulina shake",
+   "price": 16.9,
+   "description": "avocado, dates, banana, chia, blue spirulina, coconut milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Matcha power shake",
+   "price": 16.9,
+   "description": "matcha, dates, banana, chia, avocado, strawberry, coconut milk"
+  },
+  {
+   "section": "Shakes (16oz)",
+   "item": "Nutty power shake",
+   "price": 16.9,
+   "description": "avocado, dates, banana, chia, maca, almond butter, coconut milk"
+  }
+ ],
+ "notes": "Family-owned cafe with coffee roasted in-house. Pickup menu of the Polk St store's own order.online storefront; online ordering hours 6:30am-4:20pm. Retail coffee bags, the 10-cup coffee container and bottled water omitted; the teas, herbal teas and shots are abbreviated.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $17.92 of 28 prices in sections ['Wraps & BBQ Sandwich', 'Bagels', 'Salads', 'Avocado Toasts', 'Breakfast Bowls', 'Deli Sandwiches']; rule L1<10, L2<18, L3<30, L4>=30"
+}

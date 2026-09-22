@@ -1,0 +1,271 @@
+{
+ "name": "Helmand Palace",
+ "addr": "2424 Van Ness Avenue",
+ "menu_url": "https://www.helmandsf.com/menu",
+ "source": "restaurant website (Wix menu page); batch URL helmandpalacesf.com is a parked domain, current site found by web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Aushak",
+   "price": 9.99,
+   "description": "ravioli filled with leeks and scallions, mint yogurt, beef sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mantwo",
+   "price": 9.99,
+   "description": "pastry shell with onions and beef, mint yogurt, carrots, split peas, beef sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Samosa",
+   "price": 9.99,
+   "description": "twin pastries: leeks and scallions / spiced potatoes"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Banjan",
+   "price": 9.99,
+   "description": "pan-fried eggplant baked with tomatoes, mint yogurt"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Kadoo",
+   "price": 9.99,
+   "description": "baked baby pumpkin with sugar, ground beef sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Gulpea",
+   "price": 9.99,
+   "description": "cauliflower with tomatoes, hot peppers, fried onion, turmeric"
+  },
+  {
+   "section": "Salad",
+   "item": "Salata",
+   "price": 7.99,
+   "description": "mixed greens, balsamic or pomegranate dressing"
+  },
+  {
+   "section": "Salad",
+   "item": "Afghani Salata",
+   "price": 7.99,
+   "description": "tomatoes, onions, cilantro, mint, cucumber"
+  },
+  {
+   "section": "Salad",
+   "item": "Yogurt Salad",
+   "price": 7.99,
+   "description": "cilantro, cucumber, mint, green onion, yogurt sauce"
+  },
+  {
+   "section": "Salad",
+   "item": "House Salad",
+   "price": 9.99,
+   "description": "greens, tomatoes, kalamata olives, feta, cucumber, olive oil"
+  },
+  {
+   "section": "Entrees",
+   "item": "Qabelee",
+   "price": 21.99,
+   "description": "pallow rice baked with lamb shanks, raisins, glazed carrots"
+  },
+  {
+   "section": "Entrees",
+   "item": "Chowpan",
+   "price": 29.99,
+   "description": "half rack grilled lamb on Afghan bread, okra, pallow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Mixed Grill",
+   "price": 36.99,
+   "description": "lamb, beef, koufta and chicken kabobs, grilled vegetables, okra"
+  },
+  {
+   "section": "Entrees",
+   "item": "Salmon Kabab",
+   "price": 21.99,
+   "description": "grilled salmon, sauteed spinach, challow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Theeka Kabab",
+   "price": 24.99,
+   "description": "prime rib marinated in onion, sumac, garlic; lentils, pallow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Seek Kabab",
+   "price": 22.99,
+   "description": "leg of lamb marinated in garlic, onion, sumac; okra, pallow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Chapendaz",
+   "price": 30.99,
+   "description": "beef tenderloin, lentils, spinach rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Kofta Kabab",
+   "price": 19.99,
+   "description": "ground beef, green onion, cilantro, garlic, hot peppers; challow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Mourgh Kabab",
+   "price": 18.99,
+   "description": "char-broiled chicken breast, sauteed spinach, pallow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Mourgh Salata",
+   "price": 18.99,
+   "description": "grilled chicken on mixed greens, grilled vegetables"
+  },
+  {
+   "section": "Entrees",
+   "item": "Mantwo (entree)",
+   "price": 18.99,
+   "description": "beef and onion dumplings, mint yogurt, split peas, beef sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Aushak (entree)",
+   "price": 18.99,
+   "description": "leek and scallion ravioli, mint yogurt, beef sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Sabzi Chalow",
+   "price": 19.99,
+   "description": "spinach with lamb chunks, challow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Koufta Challow",
+   "price": 18.99,
+   "description": "beef meatballs, sun-dried tomatoes, peppers, peas, tomato sauce; rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Mourgh Challow",
+   "price": 19.99,
+   "description": "chicken breast with spices and split peas, yogurt, challow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Lawand",
+   "price": 22.99,
+   "description": "lamb or shrimp with onions, tomatoes, garlic, cilantro, peppers; rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Kourma Challow",
+   "price": 20.99,
+   "description": "green beans, carrots, cauliflower, turnips, potatoes; beef spinach, rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Special Vegetarian Entree",
+   "price": 20.99,
+   "description": "baked pumpkin, pan-fried eggplant, sauteed okra, pallow rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Kaddo and Banjan Challow",
+   "price": 15.99,
+   "description": "baked pumpkin and eggplant, mint yogurt, tomato sauce, rice"
+  },
+  {
+   "section": "Soup",
+   "item": "Aush",
+   "price": 9.99,
+   "description": "noodle soup, mint yogurt, beef sauce"
+  },
+  {
+   "section": "Soup",
+   "item": "Shorwa",
+   "price": 9.99,
+   "description": "vegetable soup with lamb"
+  },
+  {
+   "section": "Soup",
+   "item": "Lentil Soup",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Sabzi",
+   "price": 7.99,
+   "description": "spinach sauteed with onions"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Bendi",
+   "price": 7.99,
+   "description": "okra with onions, tomatoes, black pepper, garlic"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Dall",
+   "price": 7.99,
+   "description": "lentils"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Challow",
+   "price": 7.99,
+   "description": "baked rice with cumin seed"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Pallow",
+   "price": 7.99,
+   "description": "baked rice with cardamom, cinnamon, nutmeg, cumin"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Hummus",
+   "price": 9.99,
+   "description": "chickpeas, garlic, lemon, tahini, olive oil"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Tabouleh",
+   "price": 9.99,
+   "description": "bulgur, lemon, tomatoes, parsley, onion"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Baba Ganoush",
+   "price": 9.99,
+   "description": "roasted eggplant, garlic, lemon, tahini"
+  },
+  {
+   "section": "Side Dishes",
+   "item": "Falafel",
+   "price": 8.99,
+   "description": "chickpeas, garlic, parsley, chives, sesame, spices"
+  },
+  {
+   "section": "Beverages",
+   "item": "Juices (cranberry, orange) / Lemonade / Sparkling Water",
+   "price": 3.5,
+   "description": "pomegranate juice $4.50"
+  },
+  {
+   "section": "Beverages",
+   "item": "Soda",
+   "price": 2.99,
+   "description": ""
+  }
+ ],
+ "notes": "Afghan and Mediterranean. Hours per search listing: daily 5:30-10pm. Meatless versions of several appetizers/entrees omitted as duplicates; beverages collapsed.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $20.99 of 19 prices in sections ['Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

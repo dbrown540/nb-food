@@ -1,0 +1,223 @@
+{
+ "name": "Boudin Bakery Cafe",
+ "addr": "160 Jefferson Street",
+ "menu_url": "https://boudinbakery.com/bakers-hall-menu/",
+ "source": "chain website, location PDFs (Bakers Hall Fisherman's Wharf; pdftotext)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Breakfast",
+   "item": "Granola & Yogurt",
+   "price": 6.69,
+   "description": "add seasonal fruit $2.59"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Toast (2 slices)",
+   "price": 3.89,
+   "description": "multigrain, sourdough or English muffin, jam & butter"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Dungeness Crab Benedict",
+   "price": 20.59,
+   "description": "crab cakes, poached eggs, creamed spinach, hollandaise, sourdough muffin"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Dungeness Crab Omelette",
+   "price": 20.59,
+   "description": "crab, eggs, tomato, avocado, mozzarella, hollandaise, potato wedges"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Sourdough French Toast",
+   "price": 12.79,
+   "description": "cinnamon sugar, whipped butter, syrup"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Traditional",
+   "price": 13.79,
+   "description": "scrambled eggs, bacon, potato wedges, toast"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Bacon & Cheese English Muffin Sandwich",
+   "price": 12.79,
+   "description": "scrambled eggs, bacon, cheddar"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Bacon & Egg Morning Wrap",
+   "price": 12.79,
+   "description": "bacon, eggs, cheddar, crema"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Veggie & Egg Morning Wrap",
+   "price": 12.79,
+   "description": "red peppers, eggs, Swiss, spinach, tomato"
+  },
+  {
+   "section": "Best of Boudin",
+   "item": "Pick-two combo",
+   "price": 16.99,
+   "description": "half sandwich / bowl of soup / small salad; bread bowl +$1.49"
+  },
+  {
+   "section": "Premium Sandwiches",
+   "item": "Classic French Dip",
+   "price": 15.99,
+   "description": "on sourdough baguette"
+  },
+  {
+   "section": "Premium Sandwiches",
+   "item": "Chicken Pesto",
+   "price": 15.99,
+   "description": "on bastone"
+  },
+  {
+   "section": "Premium Sandwiches",
+   "item": "California Veggie",
+   "price": 15.99,
+   "description": "on multigrain"
+  },
+  {
+   "section": "Premium Sandwiches",
+   "item": "Grilled Cheese with Bacon",
+   "price": 15.99,
+   "description": "sliced sourdough"
+  },
+  {
+   "section": "Premium Sandwiches",
+   "item": "Turkey Avocado",
+   "price": 15.99,
+   "description": "multigrain or croissant"
+  },
+  {
+   "section": "Classic Sandwiches",
+   "item": "Tender Roast Beef",
+   "price": 14.29,
+   "description": "asiago bastone"
+  },
+  {
+   "section": "Classic Sandwiches",
+   "item": "Turkey & Havarti",
+   "price": 14.29,
+   "description": "sourdough roll"
+  },
+  {
+   "section": "Classic Sandwiches",
+   "item": "Tuna Salad",
+   "price": 14.29,
+   "description": "sliced sourdough"
+  },
+  {
+   "section": "Classic Sandwiches",
+   "item": "Grilled Cheese",
+   "price": 14.29,
+   "description": "sliced sourdough"
+  },
+  {
+   "section": "Soup in a Bread Bowl",
+   "item": "Clam Chowder Bread Bowl",
+   "price": 13.99,
+   "description": "New England style"
+  },
+  {
+   "section": "Soup in a Bread Bowl",
+   "item": "Rustic Tomato Bread Bowl",
+   "price": 13.99,
+   "description": "sourdough croutons, parmesan"
+  },
+  {
+   "section": "Soup in a Bread Bowl",
+   "item": "Beef Chili Bread Bowl",
+   "price": 13.99,
+   "description": "cheddar, onions"
+  },
+  {
+   "section": "Soup in a Bread Bowl",
+   "item": "Crab Chowder Bread Bowl",
+   "price": 15.99,
+   "description": "Dungeness crab"
+  },
+  {
+   "section": "Entree Salads",
+   "item": "Classic Chicken Caesar",
+   "price": 14.29,
+   "description": "without chicken $10.69"
+  },
+  {
+   "section": "Entree Salads",
+   "item": "Spring Salad with Chicken",
+   "price": 15.29,
+   "description": "greens, feta, spiced walnuts, apples, balsamic"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "Busca Italian",
+   "price": 19.59,
+   "description": "prosciutto, mortadella, burrata, pesto, arugula, Roma flatbread"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "Italian Classico",
+   "price": 17.49,
+   "description": "salami, mortadella, provolone, pesto, arugula, Roma flatbread"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "San Francisco Dungeness Crab Sandwich",
+   "price": 19.59,
+   "description": "crab salad, green leaf, sliced sourdough"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "Dungeness Crab Melt",
+   "price": 20.59,
+   "description": "crab salad, Havarti, tomatoes, sourdough"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "Chicken Breast with Honey Sriracha Glaze",
+   "price": 17.29,
+   "description": "provolone, caramelized onions, coleslaw, baguette"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "French Dip Deluxe",
+   "price": 17.29,
+   "description": "roast beef, provolone, horseradish mayo, au jus"
+  },
+  {
+   "section": "Wharf Selections",
+   "item": "Pulled Pork",
+   "price": 17.29,
+   "description": "BBQ sauce, coleslaw, pickles, brioche bun"
+  },
+  {
+   "section": "Sourdough Pizzas",
+   "item": "Cheese Pizza",
+   "price": 13.39,
+   "description": ""
+  },
+  {
+   "section": "Sourdough Pizzas",
+   "item": "Pepperoni Pizza",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Sourdough Pizzas",
+   "item": "Cheesy Garlic Bread",
+   "price": 7.49,
+   "description": "mozzarella, cheddar, parmesan, garlic aioli"
+  }
+ ],
+ "notes": "Batch had no address; the Bakers Hall cafe (160 Jefferson St) menu was used as the Fisherman's Wharf cafe. Boudin also runs a Pier 39 cafe and the full-service Bistro Boudin nearby, so the POI match is not certain. Menu PDFs dated April 2025; 4% surcharge on all sales per menu. Breakfast until 11am. Drinks, retail bread and catering omitted.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $15.99 of 22 prices in sections ['Premium Sandwiches', 'Classic Sandwiches', 'Wharf Selections', 'Soup in a Bread Bowl', 'Entree Salads']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,493 @@
+{
+ "name": "Dim Sum Club",
+ "addr": "2550 Van Ness Avenue",
+ "menu_url": "https://www.allmenus.com/ca/san-francisco/476981-dim-sum-club/menu/",
+ "source": "aggregator: allmenus menu page (no official site found)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Chef's Special",
+   "item": "Chicken Pan Fried Noodle",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Beef Tomato Pan Fried Noodle",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Soy Sauce Fried Noodle",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Beef Chow Fun",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Singapore Style Thin Rice Noodle",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Dried Scallop And Egg White Fried Rice",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Yang Chow Fried Rice",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Shrimp Fried Rice",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Mixed Vegetable Fried Rice",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sweet And Sour Pork",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Lemon Chicken",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Kung Po Chicken",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Mongolian Beef",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Broccoli",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Wonton Soup",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Beef Noodle Roll",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "BBQ Pork Noodle Roll",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Fish Noodle Roll",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Shanghai Dumpling",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Shrimp Dumpling",
+   "price": 4.75,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Pork & Shrimp Shu Mai",
+   "price": 3.75,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Steamed Homemade Dumpling",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Beef Ball",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Vegetarian Dumpling",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Sticky Rice In Lotus Leaf",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Steamed BBQ Pork Bun",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Bean Curd Roll",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Steamed Spare Ribs",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Stuffed Mushroom",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Stuffed Eggplant",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Boiled Pork & Shrimp",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Chicken Feet",
+   "price": 3.6,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Baked BBQ Pork Bun",
+   "price": 3.6,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Deep Fried Chives Dumpling",
+   "price": 3.4,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Deep Fried Pork Puff",
+   "price": 3.2,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Deep Fried Taro Dumpling",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Pan Fried Shrimp & Chives Dumpling",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Pan Fried Turnip Cake",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Pan Fried Pot Sticker",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Curry Samosa",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Deep Fried Veg Roll",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Deep Fried Shrimp Dumpling",
+   "price": 4.75,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Pan Fried Bean Curd Skin Roll",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Salt & Pepper Spare Ribs",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Salt & Pepper Calamari",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Salt & Pepper Chicken Wing",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Sponge Cake",
+   "price": 2.75,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Deep Fried Sesame Chili",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Chermoula Rice Dumpling",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Steamed Custard Bun",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Mango Pudding",
+   "price": 2.95,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Coconut Red Bean Cake",
+   "price": 2.75,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Black Sesame Rice",
+   "price": 2.75,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Shanghai Dumpling In Black Vinegar Sauce",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Steamed Shrimp Dumpling",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Pork And Shrimp Sui Mai",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Steamed Pork Bun",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Steamed Vegetarian Dumpling",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Boiled Pork & Shrimp",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Pan Fried Pork Pot Sticker (15mins)",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Salt & Pepper Spare Ribs",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Salt & Pepper Chicken Wing",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Salt & Pepper Calamari",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Appetizers",
+   "item": "Crispy Shrimp And Chives Egg Roll",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Honey Walnut Prawns",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Crispy Salt And Pepper Filet of Rock Sole",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Sauteed Filet of Rock Sole",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Imperial Peking Duck",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Kung Pao Chicken",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Chef Crispy Lemon Chicken",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Sweet And Sour Pork In Fresh Pineapple Boat",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Crispy Salt And Pepper Pork Ribs",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Mongolian Beef",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner Entrees",
+   "item": "Barbecue Pork",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Hunan Eggplant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Chinese Broccoli In Oyster Sauce",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Noodles And Rice",
+   "item": "Singapore Style Thin Rice Noodle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Noodles And Rice",
+   "item": "Thai Style Thin Rice Noodle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Noodles And Rice",
+   "item": "Beef Chow Fun",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Noodles And Rice",
+   "item": "Yang Chow Fried Rice (Shrimp Or Pork)",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "Aggregator menu; prices likely dated. Listings give 2550 Van Ness Ave with lunch dim sum and dinner plates; the current Yelp listing shows Dim Sum Club at 2237 Taraval St, so the Van Ness location may have moved or closed (not confirmed). Some item names garbled on the aggregator were corrected (turnip cake, rock sole).",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $10.00 of 25 prices in sections [\"Chef's Special\", 'Dinner Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

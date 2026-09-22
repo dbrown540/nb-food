@@ -1,0 +1,295 @@
+{
+ "name": "Biscoff Coffee Corner",
+ "addr": "Pier 39",
+ "menu_url": "https://www.biscoffcoffeecorner.com/#menu",
+ "source": "restaurant website (menu section, no prices)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Iced Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Chocolate Mocha Freeze",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Banana Smoothie",
+   "price": null,
+   "description": "Biscoff spread, bananas, milk, vanilla frozen yogurt"
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Cheesecake",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Waffle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Donut",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Biscoff Specialties",
+   "item": "Biscoff Rice Crispy Treat",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Specialty Lattes",
+   "item": "Salted Caramel Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Specialty Lattes",
+   "item": "Cinnamon Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Specialty Lattes",
+   "item": "Toasted Marshmallow Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Specialty Lattes",
+   "item": "Blondie Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Specialty Lattes",
+   "item": "Matcha Green Tea Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Specialty Lattes",
+   "item": "Vanilla Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "House Coffee",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Espresso",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Cafe Americano",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Cappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Mocha",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "White Chocolate Mocha",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Hot Chocolate",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Apple Cider",
+   "price": null,
+   "description": "spiced or cinnamon"
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Hot Tea",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Iced Coffee",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Cold Brew Coffee",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Iced Tea",
+   "price": null,
+   "description": "also black currant or cinnamon spice"
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Chocolate Espresso Freeze",
+   "price": null,
+   "description": "espresso, chocolate milk, vanilla frozen yogurt"
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Caramel Freeze",
+   "price": null,
+   "description": "espresso, caramel, milk, vanilla frozen yogurt"
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Funky Monkey",
+   "price": null,
+   "description": "chocolate milk, banana, peanut butter, frozen yogurt"
+  },
+  {
+   "section": "Iced & Blended",
+   "item": "Chai Freeze",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Fresh Fruit Smoothies",
+   "item": "Very, Very Strawberry",
+   "price": null,
+   "description": "apple juice, strawberries, frozen yogurt"
+  },
+  {
+   "section": "Fresh Fruit Smoothies",
+   "item": "Mango-Orange",
+   "price": null,
+   "description": "orange juice, mango, frozen yogurt"
+  },
+  {
+   "section": "Fresh Fruit Smoothies",
+   "item": "Razberry Rage",
+   "price": null,
+   "description": "orange juice, raspberries, frozen yogurt, raspberry sorbet"
+  },
+  {
+   "section": "Fresh Fruit Smoothies",
+   "item": "Coco-Loco",
+   "price": null,
+   "description": "pineapple and coconut juice, pineapple, frozen yogurt"
+  },
+  {
+   "section": "Fresh Fruit Smoothies",
+   "item": "Strawberry Banana Orange",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Belgian Waffle",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Donut",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Scone",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Muffin",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Croissant",
+   "price": null,
+   "description": "plain or chocolate"
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Banana Bread",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Coffee Cake",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Breakfast",
+   "item": "Breakfast Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Breakfast",
+   "item": "French Toast Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Breakfast",
+   "item": "Breakfast Burrito",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "At the entrance of PIER 39. Hours Sun-Thu 8am-9pm, Fri-Sat 8am-10pm. Website lists items but no prices; free Biscoff cookie with every coffee drink; 3% surcharge on each check. Some smoothie variants and retail items omitted.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

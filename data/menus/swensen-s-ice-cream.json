@@ -1,0 +1,115 @@
+{
+ "name": "Swensen's Ice Cream",
+ "addr": "1999 Hyde Street",
+ "menu_url": "https://swensensofsf.com/order-online/",
+ "source": "restaurant website menu page + restaurant online-ordering page (Clover plugin on own site)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Cups & Cones",
+   "item": "Single (1 scoop)",
+   "price": 5.3,
+   "description": "quarter pound"
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Double (2 scoops)",
+   "price": 7.65,
+   "description": "half pound"
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Triple (3 scoops)",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Homemade Waffle Cone",
+   "price": 1.8,
+   "description": "add-on"
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Plain or Sugar Cone",
+   "price": 0.3,
+   "description": "add-on"
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Toppings (jimmies, hot fudge, hot caramel, almonds)",
+   "price": 0.95,
+   "description": "each"
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Junior (3oz)",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cups & Cones",
+   "item": "Chocolate Dipped cone",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Take Home",
+   "item": "16oz Pint",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Take Home",
+   "item": "32oz Quart",
+   "price": 13.35,
+   "description": ""
+  },
+  {
+   "section": "Take Home",
+   "item": "Pre-packed Half Gallon",
+   "price": 15.45,
+   "description": ""
+  },
+  {
+   "section": "Sundaes",
+   "item": "Sundae (hot fudge, hot caramel, strawberry or chocolate)",
+   "price": null,
+   "description": "1, 2 or 3 scoops"
+  },
+  {
+   "section": "Sundaes",
+   "item": "Walkaway Waffle Cone Sundae",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Milkshakes / Malts / Root Beer Floats",
+   "item": "Milkshake, Malt or Root Beer Float",
+   "price": null,
+   "description": "16oz or 24oz"
+  },
+  {
+   "section": "Homemade Flavors (selection)",
+   "item": "Ice cream flavors",
+   "price": null,
+   "description": "e.g. black raspberry marble, bordeaux cherry, sticky chewy chocolate, swiss orange chip, turkish coffee, toasted almond, lychee, peppermint stick; seasonal pumpkin, eggnog, rum raisin"
+  },
+  {
+   "section": "Homemade Flavors (selection)",
+   "item": "Sherbets / Sorbets",
+   "price": null,
+   "description": "raspberry, strawberry sorbet, orange, lime"
+  },
+  {
+   "section": "Drinks",
+   "item": "Sodas (Coke, Root Beer and others)",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "Original 1948 Swensen's parlor; ice cream made in-house. Hours on site: Tue-Sun 12-10pm, closed Mon. Cup/scoop, pint/quart and extras prices come from the shop's own Clover pickup ordering; sundaes, milkshakes/malts/floats and sodas are listed on the menu page without prices. Flavor list abbreviated; merchandise omitted.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $3.55 of 6 prices in sections ['Cups & Cones']; rule L1<10, L2<18, L3<30, L4>=30"
+}

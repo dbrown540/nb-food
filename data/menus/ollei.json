@@ -1,0 +1,301 @@
+{
+ "name": "Ollei",
+ "addr": "2127 Polk Street",
+ "menu_url": "https://custom.order.online/store/ollei-24941631",
+ "source": "restaurant online-ordering page (DoorDash order.online storefront run for the restaurant; pickup view rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Small Plates",
+   "item": "Corn Cheese",
+   "price": 12.0,
+   "description": "sweet corn with melted cheese"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Pan-Fried Dumplings",
+   "price": 14.0,
+   "description": "beef or vegetable, 8 pieces"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Tteokbokki / 떡볶이",
+   "price": 21.0,
+   "description": "spicy rice cakes with fish cakes; noodle or cheese add-ons extra"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Creamy Ttok & Pasta / 파스타",
+   "price": 24.0,
+   "description": "rice cakes and pasta in carbonara sauce with bacon"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Gim Malee / 김말이튀김",
+   "price": 13.0,
+   "description": "fried seaweed rolls, sweet chili sauce, 5 pcs"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Ollei Rice ball / 주먹밥",
+   "price": 11.0,
+   "description": "seasoned rice balls in seaweed flakes, side of kimchi, 3 pcs"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Seafood Pancake / 해물파전",
+   "price": 23.0,
+   "description": "squid, shrimp, scallion, carrot, onion"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Kimchi Pancake / 김치전",
+   "price": 21.0,
+   "description": "kimchi pancake"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Truffle Cheesy Fries / 트러플감자튀김",
+   "price": 17.0,
+   "description": "fries with cheddar and mozzarella, house dressing, bacon"
+  },
+  {
+   "section": "Small Plates",
+   "item": "BanChan (Side Dish)",
+   "price": 5.0,
+   "description": "four side dishes including kimchi and fish cake"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Steamed White Rice / 공기밥",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Bul Go Gi 불고기 (Rice Included)",
+   "price": 31.0,
+   "description": "marinated ribeye in a dosirak-style box with rice"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "BBQ Short Ribs 갈비 (Rice Included)",
+   "price": 39.0,
+   "description": "beef short ribs in a dosirak-style box with rice"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Ollie Chicken Wing / 올래치킨윙",
+   "price": 26.0,
+   "description": "8 pieces; plain, spicy or soy garlic"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Boneless Chicken (DakGangJeong) / 닭강정",
+   "price": 25.0,
+   "description": "fried boneless chicken with rice cakes, sweet spicy or garlic sauce"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Grilled Pork Belly 삼겹살 (Rice Included)",
+   "price": 27.0,
+   "description": "pork belly with onion, scallion, garlic, banchan, beef dumplings"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Spicy Pork Belly 매운삼겹살 (Rice Included)",
+   "price": 28.0,
+   "description": "spicy stir-fried pork belly, rice, banchan, beef dumplings"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Soy Sauce Pork Belly 간장삼겹살 (Rice Included)",
+   "price": 28.0,
+   "description": "soy-glazed pork belly, rice, banchan, beef dumplings"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Grilled Mackerel / 고등어구이 (Rice Included)",
+   "price": 24.0,
+   "description": "grilled mackerel fillets, dipping sauce, rice"
+  },
+  {
+   "section": "Meat and Grill",
+   "item": "Fresh Lettuce (SSAM)",
+   "price": 6.0,
+   "description": "lettuce wraps with ssamjang, jalapeno, garlic"
+  },
+  {
+   "section": "Rice",
+   "item": "Bibimbap 비빔밥",
+   "price": 20.0,
+   "description": "beef, spicy pork, chicken or tofu; fried egg on top"
+  },
+  {
+   "section": "Rice",
+   "item": "Kimchi Fried Rice 김치볶음밥",
+   "price": 20.0,
+   "description": "spicy; choice of beef, chicken, spicy pork, shrimp, vegetable or spam, with egg"
+  },
+  {
+   "section": "Rice",
+   "item": "Seafood Bibimbap 해물비빔밥",
+   "price": 23.0,
+   "description": "spicy; squid, shrimp, clams, vegetables, egg"
+  },
+  {
+   "section": "Soup",
+   "item": "Soft Tofu Soup / 순두부찌개 (Rice Included)",
+   "price": 20.0,
+   "description": "spicy; beef, pork, vegetable or seafood, with egg"
+  },
+  {
+   "section": "Soup",
+   "item": "Kimchi Soup with Pork / 김치찌개 (Rice Included)",
+   "price": 20.0,
+   "description": "kimchi soup with pork, tofu, green onion"
+  },
+  {
+   "section": "Soup",
+   "item": "Soy bean paste soup (DoenJang Jjigae) / 된장찌개 (Rice included)",
+   "price": 20.0,
+   "description": "soybean paste stew with tofu and vegetables"
+  },
+  {
+   "section": "Soup",
+   "item": "Short Rib Soup / 갈비탕 (Rice Included)",
+   "price": 30.0,
+   "description": "beef short rib soup, clear noodles, egg"
+  },
+  {
+   "section": "Soup",
+   "item": "Beef Brisket Soup / 육개장 (Rice Included)",
+   "price": 27.0,
+   "description": "spicy; shredded beef, glass noodle, egg, vegetables"
+  },
+  {
+   "section": "Soup",
+   "item": "Bulgogi Soup / 뚝배기불고기 (Rice Included)",
+   "price": 27.0,
+   "description": "ribeye soup with glass noodle, rice cake"
+  },
+  {
+   "section": "Soup",
+   "item": "Assorted Spam and Sausage Stew 부대찌개 (Rice Included)",
+   "price": 45.0,
+   "description": "army stew for two with ramen, cheese, beans, rice cakes"
+  },
+  {
+   "section": "Soup",
+   "item": "Dumpling Soup / 만두국",
+   "price": 22.0,
+   "description": "dumplings, vegetables, egg"
+  },
+  {
+   "section": "Stir-Fried / Noodles",
+   "item": "Stir-Fried Glass Noodles (Jap Chae) / 잡채",
+   "price": 20.0,
+   "description": "glass noodles with beef and vegetables"
+  },
+  {
+   "section": "Stir-Fried / Noodles",
+   "item": "Spicy Stir-Fried Glass Noodles / 매운잡채",
+   "price": 20.0,
+   "description": "glass noodles, spicy pork, kimchi, vegetables"
+  },
+  {
+   "section": "Stir-Fried / Noodles",
+   "item": "Beef (YukgaeJang) Ramen / 육개장라면",
+   "price": 24.0,
+   "description": "spicy shredded beef ramen, egg, bean sprouts, scallion"
+  },
+  {
+   "section": "Beverages",
+   "item": "Sodas (Coke, Coke Zero, Sprite)",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Sunkist Grape",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Milkis 밀키스",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Sik Hye",
+   "price": 4.0,
+   "description": "sweet rice drink"
+  },
+  {
+   "section": "Beverages",
+   "item": "Apple Juice",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Sparkling Water",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Alcohol",
+   "item": "Korean Bottled Beer",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Alcohol",
+   "item": "Korean Beer Pitcher",
+   "price": 21.0,
+   "description": "1.6 liter"
+  },
+  {
+   "section": "Alcohol",
+   "item": "SOJU- Jinro is Back",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Alcohol",
+   "item": "SOJU- Cham E Seol Fresh",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Alcohol",
+   "item": "Flavored SOJU",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Alcohol",
+   "item": "Golden Barley 17-Premium Soju",
+   "price": 37.0,
+   "description": "375ml"
+  },
+  {
+   "section": "Alcohol",
+   "item": "Slow Village - Premium Soju",
+   "price": 37.0,
+   "description": ""
+  },
+  {
+   "section": "Alcohol",
+   "item": "Ilpoom Jinro-Premium Soju",
+   "price": 40.0,
+   "description": "375ml"
+  }
+ ],
+ "notes": "Korean restaurant. Full pickup menu from the restaurant's own order.online storefront; online ordering hours 11:30am-10:40pm. Meat and grill plates are served dosirak-style with steamed rice, banchan and dumplings. Alcohol must be ordered with food; sodas collapsed.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $24.00 of 23 prices in sections ['Meat and Grill', 'Rice', 'Soup', 'Stir-Fried / Noodles']; rule L1<10, L2<18, L3<30, L4>=30"
+}

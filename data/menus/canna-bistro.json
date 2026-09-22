@@ -1,12 +1,12 @@
 {
  "name": "Canna Bistro",
- "addr": "",
- "menu_url": "https://www.cannabistrotogo.com",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
+ "addr": "464 Broadway",
+ "menu_url": "https://www.yelp.com/biz/canna-bistro-san-francisco",
+ "source": "no reliable menu source (official domain and Yelp checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
  "status": "not_found",
  "items": [],
- "notes": "domain does not resolve — may be closed",
+ "notes": "The OSM website (cannabistrotogo.com) does not resolve. Yelp still lists the business as open (unclaimed listing, American / pizza, 464 Broadway, hours Mon-Thu 11am-3am, Fri 11am-4am, Sat 3:30pm-4am, Sun 3:30pm-3am) but has no menu, photos or reviews, so it could not be confirmed either open or closed. Late-night counter; check in person.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

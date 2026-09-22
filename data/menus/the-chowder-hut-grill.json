@@ -1,0 +1,12 @@
+{
+ "name": "The Chowder Hut Grill",
+ "addr": "2890 Taylor Street",
+ "menu_url": "https://www.yelp.com/biz/chowder-hut-san-francisco-2",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Open per Yelp (updated July 2026). No official website found. Aggregators refused automation: Uber Eats 403, Seamless/Grubhub JS shell with no items. Listings describe clam/crab chowder bread bowls, fish and chips, fish tacos, crab sandwich, burgers.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

@@ -1,0 +1,265 @@
+{
+ "name": "Eight Am",
+ "addr": "1323 Columbus Avenue",
+ "menu_url": "https://eightam-sf.com/our-menu/",
+ "source": "restaurant website (WordPress menu page), found via web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "AM",
+   "item": "Chia Seed Pudding",
+   "price": 16.0,
+   "description": "soy milk, fresh berries, kiwi, almonds; matcha/strawberry $17, cacao $18"
+  },
+  {
+   "section": "AM",
+   "item": "Nutella Almond Granola Parfait",
+   "price": 17.0,
+   "description": "vanilla yogurt, mixed fresh fruit"
+  },
+  {
+   "section": "AM",
+   "item": "Fruit and Almond Granola Parfait",
+   "price": 16.0,
+   "description": "vanilla yogurt, mixed fruit"
+  },
+  {
+   "section": "AM",
+   "item": "Fresh Fruit Salad",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "AM",
+   "item": "French Toast",
+   "price": 22.0,
+   "description": "berry compote or caramelized banana, whipped cream"
+  },
+  {
+   "section": "AM",
+   "item": "Sugar Waffle",
+   "price": 16.0,
+   "description": "butter, powdered sugar"
+  },
+  {
+   "section": "AM",
+   "item": "Fresh Berries Waffle",
+   "price": 21.0,
+   "description": "mixed berries, whipped cream, raspberry sauce"
+  },
+  {
+   "section": "AM",
+   "item": "Banana Nut Waffle",
+   "price": 20.0,
+   "description": "bananas, pecans, whipped cream"
+  },
+  {
+   "section": "AM",
+   "item": "Chicken and Waffle",
+   "price": 24.0,
+   "description": "Asian-inspired fried chicken thigh, syrup"
+  },
+  {
+   "section": "AM",
+   "item": "Raspberry Croissant Sandwich",
+   "price": 20.0,
+   "description": "cream cheese, raspberries, banana; with fruit salad"
+  },
+  {
+   "section": "AM",
+   "item": "Blueberry Shortcake",
+   "price": 20.0,
+   "description": "croissant, vanilla pudding, cream cheese, blueberries; fruit salad"
+  },
+  {
+   "section": "AM",
+   "item": "Lox Bagel",
+   "price": 30.0,
+   "description": "smoked salmon, cream cheese, red onion, tomato, capers"
+  },
+  {
+   "section": "AM",
+   "item": "The Napa Bagel",
+   "price": 25.0,
+   "description": "brie, prosciutto, fig glaze, avocado; fruit salad"
+  },
+  {
+   "section": "AM",
+   "item": "Bacon or Sausage and Eggs",
+   "price": 22.0,
+   "description": "two eggs, fruit, potatoes"
+  },
+  {
+   "section": "AM",
+   "item": "Avocado Toast Three Ways",
+   "price": 28.0,
+   "description": "fried egg, heirloom tomato/mozzarella, bacon; side of fruit"
+  },
+  {
+   "section": "AM",
+   "item": "Bagel Fix-Ups",
+   "price": 20.0,
+   "description": "plain bagel with two topping combos; fruit salad"
+  },
+  {
+   "section": "Crepes",
+   "item": "6AM",
+   "price": 18.0,
+   "description": "ham, scrambled eggs, Swiss"
+  },
+  {
+   "section": "Crepes",
+   "item": "7AM",
+   "price": 18.0,
+   "description": "tomatoes, peppers, mushrooms, onions, Swiss"
+  },
+  {
+   "section": "Crepes",
+   "item": "8AM",
+   "price": 18.0,
+   "description": "berry compote"
+  },
+  {
+   "section": "Crepes",
+   "item": "9AM",
+   "price": 18.0,
+   "description": "strawberries, raspberry sauce, cream cheese"
+  },
+  {
+   "section": "Crepes",
+   "item": "10AM",
+   "price": 18.0,
+   "description": "caramelized bananas"
+  },
+  {
+   "section": "Crepes",
+   "item": "11AM",
+   "price": 18.0,
+   "description": "peanut butter, bananas, maple syrup"
+  },
+  {
+   "section": "Crepes",
+   "item": "12PM",
+   "price": 24.0,
+   "description": "fried chicken thigh, spinach, mushrooms, Mornay sauce"
+  },
+  {
+   "section": "Crepes",
+   "item": "1PM",
+   "price": 18.0,
+   "description": "Nutella, bananas"
+  },
+  {
+   "section": "Crepes",
+   "item": "2PM",
+   "price": 12.0,
+   "description": "cinnamon sugar"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Noe Valley",
+   "price": 25.0,
+   "description": "ham, zucchini, Gruyere; potatoes and fruit salad"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Castro",
+   "price": 25.0,
+   "description": "chicken apple sausage, Gruyere"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Russian Hill",
+   "price": 25.0,
+   "description": "bacon or sausage, Cheddar"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Diamond Heights",
+   "price": 25.0,
+   "description": "ham, Cheddar"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Haight Ashbury",
+   "price": 25.0,
+   "description": "mushrooms, onions, tomatoes, peppers, Swiss"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Pacific Heights",
+   "price": 25.0,
+   "description": "asparagus, tomato, Gruyere"
+  },
+  {
+   "section": "Frittatas",
+   "item": "Nob Hill",
+   "price": 25.0,
+   "description": "mushrooms, spinach, shallots, Swiss"
+  },
+  {
+   "section": "Sides",
+   "item": "Applewood Bacon",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sausage Links",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Eggs",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Potatoes",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Seasoned Caprese Salad",
+   "price": 12.0,
+   "description": "heirloom tomatoes, fig glaze"
+  },
+  {
+   "section": "Drinks",
+   "item": "Coffee",
+   "price": 5.5,
+   "description": "unlimited refills"
+  },
+  {
+   "section": "Drinks",
+   "item": "Latte",
+   "price": 6.0,
+   "description": "cappuccino/macchiato $6, espresso/americano $5, mocha $7"
+  },
+  {
+   "section": "Drinks",
+   "item": "Matcha Tea Latte",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Fresh Squeezed Orange Juice",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Soft Drinks",
+   "price": 4.0,
+   "description": ""
+  }
+ ],
+ "notes": "Family-owned breakfast/brunch cafe; hours per listings 8am-1:30pm daily. Service charge for parties of four or more. Sides and most drinks collapsed.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $20.00 of 32 prices in sections ['AM', 'Crepes', 'Frittatas']; rule L1<10, L2<18, L3<30, L4>=30"
+}

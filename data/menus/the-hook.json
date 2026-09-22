@@ -1,0 +1,12 @@
+{
+ "name": "The Hook",
+ "addr": "Pier 39, Building B",
+ "menu_url": "https://www.yelp.com/biz/the-hook-san-francisco",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Listings describe a Pier 39 seafood counter (fish and chips, chowder, fried shrimp and calamari, grilled sandwiches) rather than Asian food; no first-party menu or prices found.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

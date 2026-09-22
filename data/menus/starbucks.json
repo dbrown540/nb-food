@@ -1,0 +1,577 @@
+{
+ "name": "Starbucks",
+ "addr": "499 Bay Street",
+ "menu_url": "https://www.starbucks.com/menu",
+ "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941 (same chain-wide menu applied to this store; extracted once for the 1255 Sansome file)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Blonde Roast - Starbucks Sunsera",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Medium Roast - Pike Place Roast",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Featured Dark Roast - Starbucks 1971 Roast",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Decaf Roast - Pike Place Roast",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Caffè Misto",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Caffè Americano",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Caffè Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Pumpkin Spice Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Pecan Crunch Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee & Espresso",
+   "item": "Lavender Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Pumpkin Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Orange Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Toasted Coconut Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Pistachio Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Vanilla Sweet Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Salted Caramel Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Chocolate Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Nondairy Vanilla Sweet Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee & Espresso",
+   "item": "Nondairy Salted Caramel Cream Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Pumpkin Spice Chai",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Pumpkin Cream Chai",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Banana Bread Chai",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Orange Cream Chai",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Mango Cream Chai",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Lavender Cream Chai",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Iced Matcha Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Tea & Chai & Matcha",
+   "item": "Matcha Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Strawberry Açaí Lemonade Refresher",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Passionfruit Guava Lemonade Refresher",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Mango Strawberry Lemonade Refresher",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Mango Dragonfruit Lemonade Refresher",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Cannon Ball Drink",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Pink Drink",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Island Colada Drink",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Mango Dream",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Dragon Drink",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Refreshers",
+   "item": "Pink Cannon Ball Drink",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Caramel Ribbon Crunch Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Pumpkin Spice Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Horchata Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Pistachio Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Caramel Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Mocha Cookie Crumble Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Mocha Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Coffee Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Vanilla Bean Crème Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Frappuccino",
+   "item": "Pumpkin Spice Crème Frappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Other Drinks",
+   "item": "Hot Chocolate",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Other Drinks",
+   "item": "Lemonade",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Other Drinks",
+   "item": "Strawberry Lemonade",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Other Drinks",
+   "item": "Starbucks VIA Instant Sweetened Iced Coffee",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Double-Smoked Bacon, Cheddar & Egg Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Bacon, Gouda & Egg Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Sausage, Cheddar & Egg Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Turkey Bacon, Cheddar & Egg White Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Egg, Pesto & Mozzarella Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Impossible Breakfast Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Wraps",
+   "item": "Bacon, Sausage & Egg Wrap",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Wraps",
+   "item": "Spinach, Feta & Egg White Wrap",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Egg Bites & Bakes",
+   "item": "Bacon & Gruyère Egg Bites",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Egg Bites & Bakes",
+   "item": "Egg White & Roasted Red Pepper Egg Bites",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Egg Bites & Bakes",
+   "item": "Potato, Cheddar & Chive Bakes",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Croissants & Danishes",
+   "item": "Ham & Swiss Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Croissants & Danishes",
+   "item": "Chocolate Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Croissants & Danishes",
+   "item": "Butter Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Croissants & Danishes",
+   "item": "Cheese Danish",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Croissants & Danishes",
+   "item": "Cookie Croissant Swirl",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Croissants & Danishes",
+   "item": "Cinnamon Pull-Apart",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Pumpkin Cream Cheese Muffin",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Chocolate Pistachio Loaf",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Banana, Walnut & Pecan Loaf",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Iced Lemon Loaf",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Pumpkin & Pepita Loaf",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Cinnamon Coffee Cake",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Blueberry Streusel Muffin",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Loaves, Muffins, & Cakes",
+   "item": "Petite Vanilla Bean Scone",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Bagels",
+   "item": "Plain Bagel",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Bagels",
+   "item": "Everything Bagel",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cake Pops",
+   "item": "Hedgehog Cake Pop",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cake Pops",
+   "item": "Unicorn Cake Pop",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cake Pops",
+   "item": "Birthday Cake Pop",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cake Pops",
+   "item": "Chocolate Cake Pop",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cookies, Brownies, & Bars",
+   "item": "Dubai Chocolate Bite",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cookies, Brownies, & Bars",
+   "item": "Berry Blondie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cookies, Brownies, & Bars",
+   "item": "Chocolate Chip Cookie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cookies, Brownies, & Bars",
+   "item": "Double Chocolate Brownie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Lunch Sandwiches",
+   "item": "Crispy Grilled Cheese on Sourdough",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Lunch Sandwiches",
+   "item": "Ham & Swiss on Baguette",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Lunch Sandwiches",
+   "item": "Tomato & Mozzarella on Focaccia",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pockets",
+   "item": "Spicy Falafel Pocket",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pockets",
+   "item": "Jalapeño Chicken Pocket",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "chain menu; prices not location-specific. Items from the national online menu, capped at 10 per section (94 of ~160 items); seasonal, bottled, packaged-snack and retail items omitted. Store-level availability not verified. Chain menu; prices not location-specific.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

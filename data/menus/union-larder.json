@@ -1,0 +1,121 @@
+{
+ "name": "Union Larder",
+ "addr": "1945 Hyde Street",
+ "menu_url": "https://www.ul-takeout.com/",
+ "source": "restaurant online-ordering page (Square Online takeout store)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Takeout Menu",
+   "item": "Hummus",
+   "price": 16.0,
+   "description": "Chick Pea & Tahini, Toasted Acme Olive Roll"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Three Charcuterie Plate",
+   "price": 30.0,
+   "description": "Choose 3 Meats. Served with House Pickled Vegetables, Mustard and Acme bread."
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Three Cheese Plate",
+   "price": 30.0,
+   "description": "Cheesemonger's Choice of Three of our Favorites"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Olives",
+   "price": 9.0,
+   "description": "Olive oil, Spices & Candied Grapefruit"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Steak Tartare",
+   "price": 28.0,
+   "description": "Raw Wagyu Beef, Fried Capers, Cornichon Relish, Dill Aioli, Dijon"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Burrata",
+   "price": 18.0,
+   "description": "Cream Filled Mozzarella, Basil Oil, Acme Crostini & Micro Arugula"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Herbed Cheese Spread",
+   "price": 14.0,
+   "description": "Whipped Fromage Frais, Chives, Shallots & Fresh Herbs With Acme Baguette Slices"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Seasonal Dessert",
+   "price": 15.0,
+   "description": "Peaches + Cream with White Peach Custard & Housemade Whipped Cream"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Meatballs",
+   "price": 29.0,
+   "description": "Wagyu Beef Meatballs, Pepato Cheese & Tomato Espuma"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Käsekrainer",
+   "price": 19.0,
+   "description": "Emmental Cheese Stuffed Pork Sausage with Caraway, Garlic"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Brussel Sprouts",
+   "price": 19.0,
+   "description": "Bagna Cauda (Umami Butter), Parmigiano-Reggiano Cheese & Herbs"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Cheesesteak",
+   "price": 23.0,
+   "description": "Wagyu Beef, Caramelized Onions, Point Reyes Toma Cheese & Aioli"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Pickles",
+   "price": 6.0,
+   "description": "Fennel, Carrots & Cauliflower"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Shortrib Raclette",
+   "price": 25.0,
+   "description": "Fingerling Potatoes, Spring Brook Farm Raclette Cheese, Beef Short Rib & Cornichons"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "House Cured Lox",
+   "price": 24.0,
+   "description": "Citrus Cured Mt. Lassen Trout, Smoked Trout Roe"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Mussels Escabeche",
+   "price": 19.0,
+   "description": "Steamed Mussels Marinated in Olive Oil, Sherry Vinegar, Garlic & Paprika"
+  },
+  {
+   "section": "Takeout Menu",
+   "item": "Summer Salad",
+   "price": 19.0,
+   "description": "Baby Red & Gold Beets, Herbed Goat Cheese, Haricot Vert, Frisée, Pepitas"
+  },
+  {
+   "section": "Wine",
+   "item": "Tap Wine To Go (bottle)",
+   "price": 35.0,
+   "description": ""
+  }
+ ],
+ "notes": "Cheese, wine and charcuterie bar. Items and prices from the takeout store (19 items); the dine-in menu and by-the-glass wine list were not found on a first-party page.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $19.00 of 18 prices in sections all; rule L1<10, L2<18, L3<30, L4>=30"
+}

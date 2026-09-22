@@ -1,0 +1,181 @@
+{
+ "name": "Chowders",
+ "addr": "Pier 39",
+ "menu_url": "https://chowderspier39.com/menu/",
+ "source": "restaurant website (WordPress menu page), found via web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Chowder",
+   "item": "White or Red Clam Chowder",
+   "price": 15.99,
+   "description": "clams, celery, onions, potatoes, bacon"
+  },
+  {
+   "section": "Seafood Cocktails",
+   "item": "Shrimp Cocktail",
+   "price": 8.99,
+   "description": ""
+  },
+  {
+   "section": "Seafood Cocktails",
+   "item": "Crabmeat Cocktail",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Fish Filet Sandwich",
+   "price": 15.99,
+   "description": "sourdough, mayo, lettuce, tomato"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Crab & Shrimp Sandwich",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Shrimp Sandwich",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Crab Melt Sandwich",
+   "price": 18.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Tuna Sandwich",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Crab Cakes",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Popcorn Shrimp",
+   "price": 8.99,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "French Fried Zucchini or Mushrooms",
+   "price": 10.99,
+   "description": "sourdough breadcrumbs"
+  },
+  {
+   "section": "On the Side",
+   "item": "French Fries",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Onion Rings",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Combination Veggies",
+   "price": 12.99,
+   "description": "fried"
+  },
+  {
+   "section": "Deep Fried Seafood",
+   "item": "Fish & Chips",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Deep Fried Seafood",
+   "item": "Basket of Shrimp & Chips",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Deep Fried Seafood",
+   "item": "Calamari Rings & Chips",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Deep Fried Seafood",
+   "item": "Clam Strips & Chips",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Deep Fried Seafood",
+   "item": "Seafood Platter",
+   "price": 19.99,
+   "description": "fish filet, shrimp, calamari, fries"
+  },
+  {
+   "section": "Fresh Salads",
+   "item": "Shrimp Louie",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Fresh Salads",
+   "item": "Crispy Chicken Salad",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Fresh Salads",
+   "item": "Green Garden Salad (small)",
+   "price": 7.99,
+   "description": "large $10.99"
+  },
+  {
+   "section": "Not So Fishy",
+   "item": "Chicken Strips & Chips",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Not So Fishy",
+   "item": "Snack Size Chicken",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Not So Fishy",
+   "item": "Chicken Ranch Sandwich",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "Not So Fishy",
+   "item": "Grilled Cheese & Tomato Sandwich",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Not So Fishy",
+   "item": "Chili Cheese Fries",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Kids Menu",
+   "item": "Kids Plate",
+   "price": 11.99,
+   "description": "grilled cheese, fish and chips, chicken nuggets, or popcorn shrimp, with fries"
+  }
+ ],
+ "notes": "Counter-service at 2 Beach St, PIER 39 (floor 1). Kids plates $11.99 each; soft drinks $4.99, beer $8.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $17.99 of 11 prices in sections ['Deep Fried Seafood', 'Sandwiches', 'Chowder']; rule L1<10, L2<18, L3<30, L4>=30"
+}

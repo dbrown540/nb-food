@@ -1,0 +1,12 @@
+{
+ "name": "Split",
+ "addr": "2300 Polk Street",
+ "menu_url": "https://www.spliteats.com/",
+ "source": "restaurant website (location picker) + web search",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Likely closed at this address: spliteats.com lists only its SoMa location (560 Mission St) and the Russian Hill menu pages return 404; listings (Uber Eats, Tripadvisor) show MIXT Russian Hill now operating at 2300 Polk St.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

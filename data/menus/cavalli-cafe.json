@@ -1,12 +1,12 @@
 {
  "name": "Cavalli Cafe",
  "addr": "1441 Stockton Street",
- "menu_url": null,
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
+ "menu_url": "https://www.yelp.com/biz/cavalli-cafe-san-francisco",
+ "source": "no reliable menu source (Yelp, Grubhub/MenuPages and a web search checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
  "status": "not_found",
  "items": [],
- "notes": "no official site; Grubhub/Seamless/menupages blocked or 'not accepting orders'; Yelp menu 404",
+ "notes": "No official website found (cavallicafe.com times out; no other domain resolves). Yelp has no menu page (the /menu URL redirects to the business page, which lists popular dishes by name only: tiramisu, panna cotta, cannoli, candied orange peel). MenuPages/Grubhub listing shows \"not accepting orders\" with an empty category list; DoorDash returns 403 to automation. Remaining hits are third-party menu scrapers (wherevi, restaurantji, zmenu) of unknown date, not used. Yelp hours: 7am-11pm daily (Mon to 11:30pm); MenuPages pickup hours 7am-5:30pm.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

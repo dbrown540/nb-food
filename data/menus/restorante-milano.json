@@ -1,0 +1,12 @@
+{
+ "name": "Restorante Milano",
+ "addr": "1448 Pacific Avenue",
+ "menu_url": "https://www.yelp.com/biz/ristorante-milano-san-francisco",
+ "source": "web search (Yelp lists CLOSED; official site milanosf.com)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Matched to Ristorante Milano, 1448 Pacific Ave (Russian Hill); Yelp listing updated September 2026 marks it CLOSED. Northern Italian, house-made pastas. Menu not extracted because the business is closed.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

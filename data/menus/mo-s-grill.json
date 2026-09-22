@@ -2,11 +2,600 @@
  "name": "Mo's Grill",
  "addr": "1322 Grant Avenue",
  "menu_url": "https://www.mosgrillsf.com/menu/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "menu page lists section headings only (burgers, pork, roast & grill, breakfast); items not in page text. Hours 8:30am-9:30pm; cash/Visa/MC.",
- "price_level_estimate": null,
- "price_level_basis": null
+ "source": "restaurant website (WordPress menu page embeds one sub-page per section as iframes: /burger-specialties, /specialty-sandwiches, /daily-special, /salads, /pork-delicious, /roast-grill, /breakfast, /omelettes, /breakfast-side-orders, /desserts-beverages, /sides; each fetched and parsed)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Burger Specialties",
+   "item": "Best Burger",
+   "price": 13.5,
+   "description": "half-pound center-cut chuck on a crusty bun"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Mo's Chicken Breast",
+   "price": 14.5,
+   "description": "grilled chicken breast, spicy Thai curry peanut sauce"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "BBQ Burger",
+   "price": 14.75,
+   "description": "smoky BBQ sauce"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Cheeseburger",
+   "price": 14.75,
+   "description": "sharp cheddar, jack, American or Swiss"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Bacon Burger",
+   "price": 15.0,
+   "description": "apple-smoked bacon"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Mushroom Burger",
+   "price": 15.0,
+   "description": "sautéed mushrooms, onions, garlic, truffle oil"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Patty Melt",
+   "price": 15.0,
+   "description": "American cheese, caramelized onions, sourdough"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "California Burger",
+   "price": 15.5,
+   "description": "jack cheese, avocado"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Belly Buster Burger",
+   "price": 15.5,
+   "description": "sharp cheddar, truffle-oil caramelized onions, mushrooms"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Chili Cheese Burger",
+   "price": 15.5,
+   "description": "sharp cheddar, homemade chili"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Tex-Mex Burger",
+   "price": 15.5,
+   "description": "jack cheese, caramelized onions, jalapeños, chipotle mayo"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Western Burger",
+   "price": 15.5,
+   "description": "sharp cheddar, bacon, BBQ sauce"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Blue Cheese Burger",
+   "price": 16.25,
+   "description": ""
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Alpine Burger",
+   "price": 16.5,
+   "description": "Gruyère, truffle-oil mushrooms"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "French Burger",
+   "price": 16.5,
+   "description": "stuffed with goat cheese, caramelized onions"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Volcano Burger",
+   "price": 17.25,
+   "description": "sharp cheddar, smoked ham, Swiss, chipotle mayo"
+  },
+  {
+   "section": "Burger Specialties",
+   "item": "Hangover Burger",
+   "price": 17.5,
+   "description": "sharp cheddar, bacon, over-easy egg"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Eggplant Parmesan Sandwich",
+   "price": 15.0,
+   "description": "homemade marinara"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Garden Burger",
+   "price": 14.0,
+   "description": "truffle-oil mushrooms, caramelized onions"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "BLT",
+   "price": 13.5,
+   "description": "whole wheat; with avocado 15.00"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Pita Chicken",
+   "price": 14.5,
+   "description": "marinated chicken skewer, salsa, pita"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Salmon Sandwich",
+   "price": 18.5,
+   "description": "smoked Atlantic salmon, cream cheese, cucumber, avocado"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Chicken Pesto",
+   "price": 15.0,
+   "description": "8 oz chicken breast, jack, roasted bell pepper, pesto"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Tuna Melt",
+   "price": 14.5,
+   "description": "albacore tuna salad, smoked provolone, tomato"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Turkey Melt",
+   "price": 14.5,
+   "description": "roast turkey, provolone, caramelized onions, sourdough"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "Classic Club",
+   "price": 14.5,
+   "description": "turkey, ham, bacon, cheese, tomato, lettuce, whole wheat"
+  },
+  {
+   "section": "Specialty Sandwiches",
+   "item": "New York Steak Sandwich",
+   "price": 25.5,
+   "description": "12 oz steak, caramelized onions, mushrooms, French roll"
+  },
+  {
+   "section": "Daily Special",
+   "item": "Rack of St. Louis Ribs (Mon & Fri)",
+   "price": 23.0,
+   "description": "dry rub; cole slaw, mashed potatoes, garlic bread"
+  },
+  {
+   "section": "Daily Special",
+   "item": "Roasted Lemon Rosemary Garlic Chicken (Tue)",
+   "price": 20.5,
+   "description": "vegetables, mashed potatoes, garlic bread"
+  },
+  {
+   "section": "Daily Special",
+   "item": "Beef Brisket (Wed)",
+   "price": 22.0,
+   "description": "12-hour slow roast; vegetables, mashed potatoes, garlic bread"
+  },
+  {
+   "section": "Daily Special",
+   "item": "Herbed Roasted Turkey (Thu)",
+   "price": 21.0,
+   "description": "vegetables, mashed potatoes, gravy, stuffing, cranberry sauce, garlic bread"
+  },
+  {
+   "section": "Salads",
+   "item": "Organic Caesar Salad",
+   "price": 13.0,
+   "description": "with chicken breast 19.00"
+  },
+  {
+   "section": "Salads",
+   "item": "Organic Hearts of Romaine Salad",
+   "price": 11.0,
+   "description": "blue cheese +2.50"
+  },
+  {
+   "section": "Salads",
+   "item": "Very Good Salad",
+   "price": 14.5,
+   "description": "romaine, tomato, avocado, cranberries, pears, almonds, cucumber, blue cheese, croutons; with chicken 20.50"
+  },
+  {
+   "section": "Pork Delicious",
+   "item": "Sloppy Moe Sandwich",
+   "price": 15.0,
+   "description": "pulled pork, BBQ sauce, coleslaw"
+  },
+  {
+   "section": "Pork Delicious",
+   "item": "Mo's Pulled Pork Phillies Sandwich",
+   "price": 17.0,
+   "description": "provolone, caramelized onion, roasted bell pepper, coleslaw"
+  },
+  {
+   "section": "Pork Delicious",
+   "item": "Grilled Spicy Center Cut Pork Chop",
+   "price": 23.5,
+   "description": "mashed potatoes, vegetables, garlic bread"
+  },
+  {
+   "section": "Roast & Grill",
+   "item": "Mo's Special Meat Loaf Dinner",
+   "price": 19.5,
+   "description": "mashed potatoes, vegetables, garlic bread"
+  },
+  {
+   "section": "Roast & Grill",
+   "item": "Grilled Aged New York Steak",
+   "price": 30.0,
+   "description": "14 oz grass-fed"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Two Organic Eggs Any Style",
+   "price": 14.25,
+   "description": "home-fried potatoes, toast or English muffin"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Scrambled Eggs with Scallions and Tomato",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Scrambled Eggs with Scallions and Cream Cheese",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Egg Sandwich",
+   "price": 15.75,
+   "description": "two eggs, cheese, two pieces of bacon on toast"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Two Eggs with Smoked Bacon or Sausage",
+   "price": 17.25,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Two Eggs with Smoked Ham or Canadian Bacon",
+   "price": 17.25,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Two Eggs with Half-Pound Hamburger Patty",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Two Eggs with Spicy Pork Chop",
+   "price": 22.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Old Fashion Pancakes (3)",
+   "price": 14.75,
+   "description": "fresh berries +3.50"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Banana, Blueberry, Chocolate Chip or Bacon Pancakes (3)",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Mo's Thick Sliced French Toast",
+   "price": 14.0,
+   "description": "with organic fruit 17.75"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Bagels and Lox",
+   "price": 17.75,
+   "description": "smoked salmon, cream cheese, red onions, capers, tomato, cucumber"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Eggs Benedict",
+   "price": 18.0,
+   "description": "Canadian bacon, hollandaise"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Eggs Florentine",
+   "price": 17.0,
+   "description": "spinach, hollandaise; add smoked salmon 21.00"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Breakfast Burrito (meat or vegetarian)",
+   "price": 17.25,
+   "description": "eggs, sausage, ham, BBQ pork, potatoes, cheese, chili, sour cream, salsa"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "Aussie Burger",
+   "price": 22.0,
+   "description": "half-pound patty, cheddar, Black Forest ham, Swiss, egg"
+  },
+  {
+   "section": "Breakfast (8:30am-3pm)",
+   "item": "12 oz New York Steak with Two Eggs",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Omelettes",
+   "item": "Cheese Omelette",
+   "price": 17.0,
+   "description": "cheddar, Swiss or jack"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Ham & Cheese Omelette",
+   "price": 18.5,
+   "description": ""
+  },
+  {
+   "section": "Omelettes",
+   "item": "Vegetarian Omelette",
+   "price": 18.5,
+   "description": "mushroom, spinach, scallion, tomato, cheese"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Denver Omelette",
+   "price": 18.5,
+   "description": "ham, bell pepper, scallion, cheese"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Italian Omelette",
+   "price": 18.5,
+   "description": "roasted red pepper, eggplant, sun-dried tomato, pesto, parmesan"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Mexican Omelette",
+   "price": 18.5,
+   "description": "hot link, scallion, jalapeños, salsa, cheese"
+  },
+  {
+   "section": "Omelettes",
+   "item": "BATC Omelette",
+   "price": 18.5,
+   "description": "bacon, avocado, tomato, cheese"
+  },
+  {
+   "section": "Omelettes",
+   "item": "French Omelette",
+   "price": 18.5,
+   "description": "spinach, scallion, goat cheese"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Norwegian Omelette",
+   "price": 20.5,
+   "description": "smoked salmon, cheese, green onion, crème fraîche"
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Toast or Garlic Bread",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "One Organic Egg",
+   "price": 3.75,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Home Fried Potatoes",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Pancake (1)",
+   "price": 6.0,
+   "description": "two 10.00"
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "French Toast (1)",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Fruit Bowl",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Bagel & Cream Cheese",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Hollandaise Sauce",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Hamburger Patty or Chicken Breast",
+   "price": 12.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Pork Chop or Smoked Salmon",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Breakfast Meats (Canadian bacon, ham, bacon, chicken apple sausage, hot link, link sausage)",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Side Orders",
+   "item": "Sour Cream",
+   "price": 2.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic French Fries",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Chili Cheese Fries",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Bowl of Chili",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Bowl of Clam Chowder",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Soup du Jour",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Sautéed Spinach",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Avocado",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Roasted Jalapeños",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Homemade Apple Pie",
+   "price": 7.25,
+   "description": "à la mode 8.50"
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Baileys Malt Mocha Shake",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Apple Pie Milk Shake",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Old Fashioned Shake",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Root Beer Float",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Fresh Squeezed Orange Juice (8 oz)",
+   "price": 6.5,
+   "description": "12 oz 8.00"
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Soft Drinks",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "San Pellegrino & Juices",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Coffee, Tea or Milk",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Beer",
+   "price": 6.0,
+   "description": "Corona, Peroni, Stella, Modelo, Sierra Nevada"
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Mimosa",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts & Beverages",
+   "item": "Wine by the Glass",
+   "price": 11.0,
+   "description": ""
+  }
+ ],
+ "notes": "Hours 8:30am-9:30pm daily; brunch served 8:30am-3pm. Cash, Visa, MasterCard; sales tax added. All burgers are half-pound; burgers and sandwiches come plain (lettuce, tomato, onion, mayo) with a side (fries, cole slaw, cup of chowder or chili, or salad) for +$5. Omelettes use three eggs and come with home-fried potatoes.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $15.50 of 36 prices in sections ['Burger Specialties', 'Specialty Sandwiches', 'Roast & Grill', 'Pork Delicious', 'Daily Special']; rule L1<10, L2<18, L3<30, L4>=30"
 }

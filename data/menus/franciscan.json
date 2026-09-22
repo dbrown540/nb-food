@@ -1,0 +1,349 @@
+{
+ "name": "Franciscan",
+ "addr": "Pier 43 1/2, Fisherman's Wharf",
+ "menu_url": "https://www.franciscancrabrestaurant.com/menu1.html",
+ "source": "restaurant website (daily menu page), found via web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Prix Fixe",
+   "item": "Prix fixe menu",
+   "price": 39.99,
+   "description": "chowder or caesar; choice of crab legs, crab enchilada, fish & chips, pasta, short rib; ice cream"
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Killer Crab (Dungeness)",
+   "price": 39.99,
+   "description": "starting price; secret garlic sauce; small $39.99 / medium $69.99 / large $99.99"
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Crab Feast (four sharing)",
+   "price": 179.99,
+   "description": ""
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Mussels",
+   "price": 14.99,
+   "description": "starting price; small $14.99 / medium $24.99 / large $34.99"
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Shrimp",
+   "price": 14.99,
+   "description": "starting price; small $14.99 / medium $24.99 / large $34.99"
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Combo Mussels & Shrimp",
+   "price": 24.99,
+   "description": "starting price; medium $24.99 / large $34.99"
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Combo Crab, Mussels & Shrimp",
+   "price": 69.99,
+   "description": "starting price; $69.99 / $99.99 / $129.99"
+  },
+  {
+   "section": "Hot Iron Skillet Roasted",
+   "item": "Whole Wild Pacific Red Snapper",
+   "price": 39.99,
+   "description": "panko-encrusted, french fries"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Acme Epi Bread",
+   "price": 3.99,
+   "description": "butter"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Clam Chowder",
+   "price": 13.99,
+   "description": "starting price; cup $13.99 / bread bowl $16.99"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Oysters",
+   "price": 18.99,
+   "description": "starting price; 4 $18.99 / 6 $26.99 / 12 $49.99; mignonette"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Calamari",
+   "price": 19.99,
+   "description": "starting price; small $19.99 / large $24.99; onions, sweet peppers"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crispy Crab Cake",
+   "price": 34.99,
+   "description": "all dungeness, chive butter"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab & Spinach Fondue",
+   "price": 29.99,
+   "description": "crostini"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Cocktail",
+   "price": 29.99,
+   "description": "house cocktail horseradish sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Ital Crab Cocktail",
+   "price": 29.99,
+   "description": "arbequina olive oil, maldon salt"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Jumbo Shrimp Cocktail",
+   "price": 24.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab & Smoked Salmon con Crostini",
+   "price": 34.99,
+   "description": "avocado, olive oil"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Yellowtail Carpaccio",
+   "price": 19.99,
+   "description": "chives, jalapeño, olive oil, ponzu"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tuna Carpaccio",
+   "price": 19.99,
+   "description": "chives, jalapeño, olive oil, ponzu"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crispy Italian Pot Stickers",
+   "price": 19.99,
+   "description": "sausage, ginger, vegetables"
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 12.99,
+   "description": "starting price; small $12.99 / $16.99; tomato, avocado, onions, croutons"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar",
+   "price": 12.99,
+   "description": "starting price; small $12.99 / $17.99"
+  },
+  {
+   "section": "Salads",
+   "item": "Romaine Wedge",
+   "price": 17.99,
+   "description": "Pt. Reyes blue cheese, bacon, tomato"
+  },
+  {
+   "section": "Salads",
+   "item": "Toy Box Tomato",
+   "price": 17.99,
+   "description": "mixed greens, avocado, scallions, almonds, sweet balsamic"
+  },
+  {
+   "section": "Salads",
+   "item": "Arugula",
+   "price": 17.99,
+   "description": "olives, onions, almonds, blue cheese, mustard vinaigrette"
+  },
+  {
+   "section": "Salads",
+   "item": "Louie",
+   "price": 19.99,
+   "description": "tomato, onion, olive, egg, avocado; add crab $19.99, shrimp $9.99"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Old Fashion Juicy Burger",
+   "price": 24.99,
+   "description": "with fries"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "White Fish Fillet",
+   "price": 24.99,
+   "description": "buttermilk-fried, sriracha sambal coleslaw, fries"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Soft Shell Crab",
+   "price": 24.99,
+   "description": "buttermilk-fried, sriracha sambal coleslaw, fries"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Crab Melt",
+   "price": 34.99,
+   "description": "dungeness crab, avocado, red onion, white cheddar"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Chicken",
+   "price": 24.99,
+   "description": "buttermilk-fried, sriracha sambal coleslaw, fries"
+  },
+  {
+   "section": "Macaroni Pasta Bar",
+   "item": "Mac with sauce (alfredo, spicy alfredo, roasted tomato, fra diavolo, bolognese, garlic)",
+   "price": 26.99,
+   "description": "ditalini; add crab $19.99, shrimp $9.99, chicken $7.99"
+  },
+  {
+   "section": "Macaroni Pasta Bar",
+   "item": "Seafood Mac",
+   "price": 44.99,
+   "description": "mussels, crab, clams, calamari, fish, shrimp, cioppino sauce"
+  },
+  {
+   "section": "Fish Plates",
+   "item": "Sea Bass",
+   "price": 39.99,
+   "description": "choice of six preparations; roasted potatoes and vegetables"
+  },
+  {
+   "section": "Fish Plates",
+   "item": "Salmon",
+   "price": 39.99,
+   "description": "choice of six preparations; roasted potatoes and vegetables"
+  },
+  {
+   "section": "Fish Plates",
+   "item": "Basa",
+   "price": 32.99,
+   "description": "choice of six preparations; roasted potatoes and vegetables"
+  },
+  {
+   "section": "Fish Plates",
+   "item": "Branzino",
+   "price": 39.99,
+   "description": "choice of six preparations; roasted potatoes and vegetables"
+  },
+  {
+   "section": "Surf Specialties",
+   "item": "Seafood Cioppino",
+   "price": 44.99,
+   "description": "mussels, crab, clams, calamari, fish, shrimp"
+  },
+  {
+   "section": "Surf Specialties",
+   "item": "Soft Shell Crab (2)",
+   "price": 29.99,
+   "description": "sriracha sambal aioli, fries"
+  },
+  {
+   "section": "Surf Specialties",
+   "item": "Steamed Clams",
+   "price": 29.99,
+   "description": "garlic butter shallot sauce"
+  },
+  {
+   "section": "Surf Specialties",
+   "item": "Dungeness Crab Enchilada",
+   "price": 29.99,
+   "description": ""
+  },
+  {
+   "section": "Surf Specialties",
+   "item": "Fish & Chips",
+   "price": 29.99,
+   "description": ""
+  },
+  {
+   "section": "Surf Specialties",
+   "item": "Shrimp & Chips",
+   "price": 24.99,
+   "description": ""
+  },
+  {
+   "section": "Turf",
+   "item": "Ribeye Steak",
+   "price": 54.99,
+   "description": "angus, pan juices"
+  },
+  {
+   "section": "Turf",
+   "item": "Chicken Breast",
+   "price": 24.99,
+   "description": "buttermilk-fried, lemon butter, potatoes, vegetables"
+  },
+  {
+   "section": "Sides",
+   "item": "Kriskrispy Fries",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Roasted Vegetables and Potatoes",
+   "price": 9.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Sundaes (chocolate, mango, caramel, strawberry, funky monkey, italian)",
+   "price": 12.99,
+   "description": "whipped cream, walnuts"
+  },
+  {
+   "section": "Desserts",
+   "item": "French Vanilla Custard Ice Cream",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Affogato",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Root Beer Float",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Flourless Chocolate Torte",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Grandma's Lemon Custard Torta",
+   "price": 12.99,
+   "description": "pine nuts"
+  },
+  {
+   "section": "Desserts",
+   "item": "Italian Cheesecake",
+   "price": 12.99,
+   "description": "wild strawberry"
+  },
+  {
+   "section": "Cocktails",
+   "item": "Mermaid cocktails",
+   "price": 15.99,
+   "description": "e.g. strawberry margarita freeze, espressotini, blueberry lemon drop, mojito"
+  }
+ ],
+ "notes": "Franciscan Crab Restaurant. Site: seating 12:00-8:00, serving till 9:30 daily; 2-hour validated parking; no surcharge added. Skillet dishes list small/medium/large prices (starting price shown). Pizza, cocktail, wine, foreign-language and Thanksgiving menus not recorded; salumi bar and kids menu omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $29.99 of 26 prices in sections ['Hot Iron Skillet Roasted', 'Sandwiches', 'Macaroni Pasta Bar', 'Fish Plates', 'Surf Specialties', 'Turf']; rule L1<10, L2<18, L3<30, L4>=30"
+}

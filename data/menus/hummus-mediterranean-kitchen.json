@@ -1,0 +1,235 @@
+{
+ "name": "Hummus Mediterranean Kitchen",
+ "addr": "2164 Polk Street",
+ "menu_url": "https://www.eatathummus.com/s/SF-REGULAR-MENU-OFFICIAL.pdf",
+ "source": "restaurant website PDF (image-based; read visually), found via web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Hummus",
+   "item": "Classic Hummus",
+   "price": 9.5,
+   "description": "chickpeas, tahini, lemon, garlic; with pita"
+  },
+  {
+   "section": "Hummus",
+   "item": "Olive & Feta Hummus",
+   "price": 9.95,
+   "description": "olive, feta, roasted garlic"
+  },
+  {
+   "section": "Hummus",
+   "item": "Chipotle Hummus",
+   "price": 9.95,
+   "description": "Mediterranean pepper paste"
+  },
+  {
+   "section": "Hummus",
+   "item": "Beet Hummus",
+   "price": 9.95,
+   "description": "roasted beets"
+  },
+  {
+   "section": "Hummus",
+   "item": "Hummus Flight",
+   "price": 16.5,
+   "description": "all four hummus flavors"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tzatziki",
+   "price": 9.5,
+   "description": "labne, cucumber, mint, garlic"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Baba Ghanoush",
+   "price": 9.5,
+   "description": "smoked eggplant, yogurt, tahini"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Sauteed Eggplant",
+   "price": 10.5,
+   "description": "tomato, garlic, bell peppers"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mediterranean Salsa",
+   "price": 10.5,
+   "description": "pepper paste, peppers, tomato, pomegranate"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Dolmades",
+   "price": 9.5,
+   "description": "stuffed grape leaves, tzatziki"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Falafel",
+   "price": 9.5,
+   "description": "classic hummus, house sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Appetizer Sampler Plate",
+   "price": 20.95,
+   "description": "hummus, eggplant, salsa, baba ghanoush, tzatziki, dolmades, falafel"
+  },
+  {
+   "section": "Plates",
+   "item": "Lamb & Beef Gyros Plate",
+   "price": 20.5,
+   "description": "with rice, salad, pita"
+  },
+  {
+   "section": "Plates",
+   "item": "Chicken Gyros Plate",
+   "price": 20.5,
+   "description": "marinated chicken thigh"
+  },
+  {
+   "section": "Plates",
+   "item": "Chicken Kebab Plate",
+   "price": 20.95,
+   "description": "herb-marinated chicken breast"
+  },
+  {
+   "section": "Plates",
+   "item": "Shish Kebab Plate",
+   "price": 22.95,
+   "description": "lamb or beef cubes"
+  },
+  {
+   "section": "Plates",
+   "item": "Falafel Plate",
+   "price": 19.95,
+   "description": "hummus, baba ghanoush"
+  },
+  {
+   "section": "Plates",
+   "item": "Grilled Salmon Plate",
+   "price": 23.5,
+   "description": "olive oil, lemon, spices"
+  },
+  {
+   "section": "Plates",
+   "item": "House Combo Plate",
+   "price": 24.95,
+   "description": "gyros, chicken kebab, beef kebab"
+  },
+  {
+   "section": "Soup",
+   "item": "Red Lentil Soup",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Greek Salad",
+   "price": 15.5,
+   "description": "romaine, feta, kalamata olives"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Kale Salad",
+   "price": 15.95,
+   "description": "quinoa, beets, almonds, oranges, parmesan"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Fattoush",
+   "price": 15.5,
+   "description": "romaine, sumac, mint, pita chips"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Mediterranean Bowl",
+   "price": 17.95,
+   "description": "hummus, rice, cabbage, quinoa, feta, crispy chickpeas"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Veggie Combo Bowl",
+   "price": 17.95,
+   "description": "hummus, tzatziki, rice, quinoa, falafel"
+  },
+  {
+   "section": "Wraps",
+   "item": "Lamb & Beef Gyros Wrap",
+   "price": 15.5,
+   "description": "lavash, greens, house sauce"
+  },
+  {
+   "section": "Wraps",
+   "item": "Chicken Gyros Wrap",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Wraps",
+   "item": "Falafel Wrap",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Wraps",
+   "item": "Grilled Salmon Wrap",
+   "price": 16.95,
+   "description": "tartar sauce"
+  },
+  {
+   "section": "Sides",
+   "item": "Spanakopita",
+   "price": 10.5,
+   "description": "spinach, feta, tzatziki"
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Greek Fries",
+   "price": 7.5,
+   "description": "parmesan, garlic, feta"
+  },
+  {
+   "section": "Desserts",
+   "item": "Baklava",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Chocolate Mousse Cake",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Homemade Lemonade",
+   "price": 5.5,
+   "description": "cucumber $6.50; iced tea $5.50"
+  },
+  {
+   "section": "Drinks",
+   "item": "Turkish Coffee",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Sangria (glass)",
+   "price": 12.0,
+   "description": "bottle $48"
+  }
+ ],
+ "notes": "Halal. Weekend breakfast Sat-Sun 10am-1pm (separate menu, omitted). 4% service charge added to final bill. Hummus/appetizers also sold as $6 sides; wrap combo +$6.95; meat and seafood add-ons omitted.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $17.95 of 16 prices in sections ['Plates', 'Wraps', 'Salads & Bowls']; rule L1<10, L2<18, L3<30, L4>=30"
+}

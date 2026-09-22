@@ -1,0 +1,73 @@
+{
+ "name": "House of Prime Rib",
+ "addr": "1906 Van Ness Avenue",
+ "menu_url": "https://www.houseofprimerib.net/#menu",
+ "source": "restaurant website (menu section, no prices)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Prime Rib Dinners",
+   "item": "The City Cut",
+   "price": null,
+   "description": "smaller cut, carved tableside"
+  },
+  {
+   "section": "Prime Rib Dinners",
+   "item": "House of Prime Rib Cut",
+   "price": null,
+   "description": "hearty portion, carved tableside"
+  },
+  {
+   "section": "Prime Rib Dinners",
+   "item": "The English Cut",
+   "price": null,
+   "description": "thinner slices"
+  },
+  {
+   "section": "Prime Rib Dinners",
+   "item": "King Henry VIII Cut",
+   "price": null,
+   "description": "extra-thick cut"
+  },
+  {
+   "section": "Prime Rib Dinners",
+   "item": "Children's Prime Rib Dinner",
+   "price": null,
+   "description": "for children 8 and under, with ice cream"
+  },
+  {
+   "section": "Prime Rib Dinners",
+   "item": "Fresh Fish",
+   "price": null,
+   "description": "daily catch, market price"
+  },
+  {
+   "section": "Included Accompaniments",
+   "item": "The Salad Bowl",
+   "price": null,
+   "description": "seasonal greens tossed tableside, house dressing"
+  },
+  {
+   "section": "Included Accompaniments",
+   "item": "Mashed Potatoes or Baked Potato",
+   "price": null,
+   "description": "with brown gravy, or butter, sour cream, chives"
+  },
+  {
+   "section": "Included Accompaniments",
+   "item": "Yorkshire Pudding",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Included Accompaniments",
+   "item": "Creamed Spinach",
+   "price": null,
+   "description": "with bacon"
+  }
+ ],
+ "notes": "Dinner Mon-Fri 5-10pm, Sat-Sun 4-10pm. Website lists the cuts and included accompaniments (salad bowl, mashed or baked potato, Yorkshire pudding, creamed spinach, horseradish cream) but publishes no prices. Wine list and cocktails omitted.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

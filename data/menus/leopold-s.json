@@ -1,0 +1,139 @@
+{
+ "name": "Leopold's",
+ "addr": "2400 Polk Street",
+ "menu_url": "https://www.gasthausleopolds.com/menu",
+ "source": "restaurant website (Wix menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Chicken Soup",
+   "price": 12.0,
+   "description": "herbed semolina dumpling"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Beet Salad",
+   "price": 16.0,
+   "description": "watercress, radishes, candied walnuts, horseradish creme fraiche"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Arugula Salad",
+   "price": 16.0,
+   "description": "pumpkin seeds, honeycrisp apples, aged white cheddar"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Flammkuchen (Alsatian Flatbread)",
+   "price": 18.0,
+   "description": "caramelized onions, bacon, gruyere, chives"
+  },
+  {
+   "section": "Appetizers",
+   "item": "House Smoked Trout Salad",
+   "price": 18.0,
+   "description": "potato pancakes, kohlrabi-apple slaw"
+  },
+  {
+   "section": "Appetizers",
+   "item": "House Made Bratwurst",
+   "price": 17.0,
+   "description": "caraway potatoes, sauerkraut, jus"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Giant Bavarian Pretzel",
+   "price": 16.0,
+   "description": "schwarzbier cheese sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Marinated Lentil Salad",
+   "price": 14.0,
+   "description": "charred radicchio, summer squash, ricotta salata"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Grilled Pork Ribs",
+   "price": 20.0,
+   "description": "German-style bbq sauce, krautsalat, onion rings"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Kasespatzle",
+   "price": 23.0,
+   "description": "crisp onions, house salad"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Roasted Chicken Breast",
+   "price": 29.0,
+   "description": "Jager sauce, bread dumpling, red cabbage"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Bacon Wrapped Trout",
+   "price": 32.0,
+   "description": "melted leeks, pickled peppers, fingerling potatoes"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Wiener Schnitzel",
+   "price": 31.0,
+   "description": "potato cucumber salad, lingonberry sauce"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Beef Goulash",
+   "price": 30.0,
+   "description": "paprika beef stew, butter spatzle, house salad"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Red Wine Braised Beef Short Rib",
+   "price": 35.0,
+   "description": "gruyere mashed potatoes, red cabbage, horseradish"
+  },
+  {
+   "section": "Main Dishes",
+   "item": "Leopold's \"Hamburg\"er",
+   "price": 23.0,
+   "description": "8 oz Angus, aged cheddar, pickled peppers, fries"
+  },
+  {
+   "section": "Specials",
+   "item": "Wednesday Sour Cream Brined Fried Chicken",
+   "price": null,
+   "description": "potato salad, lingonberry sauce"
+  },
+  {
+   "section": "Specials",
+   "item": "Sunday Schweinshaxe",
+   "price": null,
+   "description": "crispy braised pork knuckle, sauerkraut, mashed potatoes"
+  },
+  {
+   "section": "Desserts",
+   "item": "Apple Strudel",
+   "price": 11.0,
+   "description": "rum raisins, walnuts, creme anglaise"
+  },
+  {
+   "section": "Desserts",
+   "item": "Linzer Torte",
+   "price": 11.0,
+   "description": "hazelnut almond shortbread, raspberry preserves"
+  },
+  {
+   "section": "Desserts",
+   "item": "Vanilla Pot de Creme",
+   "price": 10.0,
+   "description": "whipped cream, berries"
+  }
+ ],
+ "notes": "Listed website leopoldssf.com now redirects to an unrelated site; current official site is gasthausleopolds.com. Austrian gasthaus, dinner only. Weekly specials (Wed fried chicken, Sun schweinshaxe) listed without prices; drinks not on menu page.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $30.00 of 7 prices in sections ['Main Dishes']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,235 @@
+{
+ "name": "Capurro's",
+ "addr": "498 Jefferson Street",
+ "menu_url": "https://capurros.com/menu/",
+ "source": "restaurant website (WordPress menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Oysters Raw (each)",
+   "price": 2.79,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Oysters Roasted (each)",
+   "price": 3.29,
+   "description": "spinach, garlic, green onion, parmesan"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Arancine (each)",
+   "price": 6.49,
+   "description": "crispy risotto ball with Dungeness crab"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Calamari",
+   "price": 16.49,
+   "description": "fried, house made cocktail sauce"
+  },
+  {
+   "section": "Soup / Salad",
+   "item": "Clam Chowder (cup)",
+   "price": 8.99,
+   "description": "white, made daily; bowl $12.99, bread bowl $14.99"
+  },
+  {
+   "section": "Soup / Salad",
+   "item": "Italian Green Salad (small)",
+   "price": 9.99,
+   "description": "mixed greens, mozzarella, roasted chickpeas, tomato, bell pepper; large $13.99"
+  },
+  {
+   "section": "Soup / Salad",
+   "item": "Caesar Salad (small)",
+   "price": 9.99,
+   "description": "romaine, parmesan, croutons; large $13.99"
+  },
+  {
+   "section": "Soup / Salad",
+   "item": "Louie (small)",
+   "price": 13.99,
+   "description": "romaine, iceberg, avocado, tomato, spring onion, egg; large $16.99"
+  },
+  {
+   "section": "Soup / Salad",
+   "item": "Add to salad: Jumbo Shrimp",
+   "price": 10.99,
+   "description": "chicken $8.99; crab market price"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Chicken Parmesan Panini",
+   "price": 14.99,
+   "description": "breadcrumb, marinara, mozzarella, sourdough roll"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Meatball Panini",
+   "price": 14.99,
+   "description": "beef meatballs, marinara, mozzarella, sourdough roll"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Crab Sandwich",
+   "price": null,
+   "description": "crab, mayo, celery, chives, lettuce, tomato, brioche; market price"
+  },
+  {
+   "section": "Crab / Fish",
+   "item": "Woodstone Oven Roasted Crab",
+   "price": null,
+   "description": "garlic, shallots, chili flakes, white wine sauce; whole or half, market price"
+  },
+  {
+   "section": "Crab / Fish",
+   "item": "Classic Cioppino",
+   "price": 44.99,
+   "description": "crab, clams, mussels, jumbo shrimp, cod, calamari, tomato broth"
+  },
+  {
+   "section": "Crab / Fish",
+   "item": "Fish & Chips (2 pc)",
+   "price": 18.99,
+   "description": "beer battered wild cod; 3 pc $21.99"
+  },
+  {
+   "section": "Crab / Fish",
+   "item": "Shrimp & Chips",
+   "price": 21.99,
+   "description": "beer battered"
+  },
+  {
+   "section": "Crab / Fish",
+   "item": "Crispy Fish Tacos (2)",
+   "price": 14.99,
+   "description": "battered cod, corn, salsa, guacamole, picante sauce"
+  },
+  {
+   "section": "Crab / Fish",
+   "item": "Fish of the Day",
+   "price": null,
+   "description": "see specials board"
+  },
+  {
+   "section": "House-Made Pasta",
+   "item": "Gnocchi Della Casa",
+   "price": 19.99,
+   "description": "potato dumplings with pesto, alfredo or marinara"
+  },
+  {
+   "section": "House-Made Pasta",
+   "item": "Fettuccine Chicken Alfredo",
+   "price": 24.99,
+   "description": "breaded chicken, alfredo sauce"
+  },
+  {
+   "section": "House-Made Pasta",
+   "item": "Spaghetti & Meatballs",
+   "price": 21.99,
+   "description": "beef meatballs, marinara"
+  },
+  {
+   "section": "House-Made Pasta",
+   "item": "Spaghetti with Clams",
+   "price": 27.99,
+   "description": "tomato, chili flakes, garlic, white wine"
+  },
+  {
+   "section": "House-Made Pasta",
+   "item": "Angel Hair with Crab",
+   "price": 29.99,
+   "description": "Dungeness crab, garlic, Sicilian olive oil"
+  },
+  {
+   "section": "Flatbread Pizza",
+   "item": "Cheese",
+   "price": 19.99,
+   "description": ""
+  },
+  {
+   "section": "Flatbread Pizza",
+   "item": "Pepperoni",
+   "price": 20.99,
+   "description": ""
+  },
+  {
+   "section": "Flatbread Pizza",
+   "item": "Veggie",
+   "price": 21.99,
+   "description": "zucchini, mushroom, tomato, onion, olives, garlic, pesto"
+  },
+  {
+   "section": "Flatbread Pizza",
+   "item": "Combo",
+   "price": 21.99,
+   "description": "Italian sausage, pepperoni, zucchini, mushrooms, tomato, onion"
+  },
+  {
+   "section": "Flatbread Pizza",
+   "item": "Clam & Garlic",
+   "price": 21.99,
+   "description": "clams, garlic, pecorino romano, olive oil"
+  },
+  {
+   "section": "Sides",
+   "item": "Warm Sourdough Bread",
+   "price": 3.49,
+   "description": "starting price; garlic butter $5.49; with cheese $6.99"
+  },
+  {
+   "section": "Sides",
+   "item": "Crispy Fries",
+   "price": 6.99,
+   "description": "garlic truffle $7.99"
+  },
+  {
+   "section": "Sides",
+   "item": "Coleslaw",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Vegetable and Cannellini Bean Medley",
+   "price": 7.99,
+   "description": "zucchini, cannellini beans, tomato, onion, garlic"
+  },
+  {
+   "section": "Kids",
+   "item": "Spaghetti & Meatballs",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Fettuccine",
+   "price": 7.99,
+   "description": "marinara or butter and cheese"
+  },
+  {
+   "section": "Kids",
+   "item": "Fish & Chips",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Chicken & Chips",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Grilled Cheese & Fries",
+   "price": 8.99,
+   "description": ""
+  }
+ ],
+ "notes": "Hours on site: Thu-Mon 11:30am-8:30pm, closed Tue-Wed. Crab items at market price. Page also embeds a summer-2024 menu image; text menu used.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $21.99 of 16 prices in sections ['Crab / Fish', 'House-Made Pasta', 'Flatbread Pizza', 'Sandwiches']; rule L1<10, L2<18, L3<30, L4>=30"
+}

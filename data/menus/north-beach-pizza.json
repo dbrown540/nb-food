@@ -2,11 +2,612 @@
  "name": "North Beach Pizza",
  "addr": "1462 Grant Avenue",
  "menu_url": "https://northbeachpizza.com/menu",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "site returns 403 to fetch; WebFetch content truncated before items. Homepage names Golden Gate pizza, lemon chicken, meatball sub (no prices).",
- "price_level_estimate": null,
- "price_level_basis": null
+ "source": "restaurant website online-ordering menu (northbeachpizza.com/menu, Owner.com platform; rendered in a real browser session, page text read). Online prices; in-store may differ. Catering trays, corporate packages, condiments/tableware, and day-specific deals omitted.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Lunch Specials (Mon-Fri 11am-3pm)",
+   "item": "Create Your Own Pasta Special",
+   "price": 17.5,
+   "description": "starting price; side of garlic bread and a soda"
+  },
+  {
+   "section": "Lunch Specials (Mon-Fri 11am-3pm)",
+   "item": "Soup & Salad Combo",
+   "price": 16.8,
+   "description": "minestrone with Caesar, Garden, or Caprese salad and a soda"
+  },
+  {
+   "section": "Lunch Specials (Mon-Fri 11am-3pm)",
+   "item": "Personal Pizza Special",
+   "price": 17.5,
+   "description": "10\" pizza with two regular toppings and a soda"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Spinach & Artichoke Dip",
+   "price": 14.7,
+   "description": "served warm with house bread"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Sampler Platter",
+   "price": 26.25,
+   "description": "3 chicken strips, 4 wings, calamari, fries"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Prawns & Fries",
+   "price": 18.0,
+   "description": "lemon and tartar sauce"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Fries",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Jojo Potato Wedges",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Mozzarella Cheese Sticks",
+   "price": 16.0,
+   "description": "house marinara"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Toasted Cheese Ravioli",
+   "price": 17.0,
+   "description": "house marinara"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Fried Calamari",
+   "price": 17.85,
+   "description": "lemon and tartar sauce"
+  },
+  {
+   "section": "Shareable Appetizers",
+   "item": "Garlic Bread",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Small Starters",
+   "item": "House Garlic Bread",
+   "price": 13.0,
+   "description": "basil pesto, mozzarella, tomato slices"
+  },
+  {
+   "section": "Small Starters",
+   "item": "Bruschetta",
+   "price": 11.55,
+   "description": "tomatoes, basil, garlic, olive oil"
+  },
+  {
+   "section": "Small Starters",
+   "item": "Jalapeño Poppers",
+   "price": 10.5,
+   "description": "cream cheese, breaded; ranch"
+  },
+  {
+   "section": "Small Starters",
+   "item": "Zesty Chili Garlic Broccoli",
+   "price": 10.0,
+   "description": "garlic, lemon, chili flakes"
+  },
+  {
+   "section": "Small Starters",
+   "item": "Side Bread",
+   "price": 1.58,
+   "description": ""
+  },
+  {
+   "section": "Small Starters",
+   "item": "Fresh Vegetables",
+   "price": 10.0,
+   "description": "steamed or sautéed in garlic sauce"
+  },
+  {
+   "section": "Small Starters",
+   "item": "Minestrone Soup",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Small Starters",
+   "item": "Meatballs Marinara",
+   "price": 10.5,
+   "description": "side of bread and butter"
+  },
+  {
+   "section": "Wings & Tenders",
+   "item": "Chicken Wings",
+   "price": 15.75,
+   "description": "starting price; BBQ, Buffalo, hot & spicy BBQ, lemon pepper, or garlic parmesan"
+  },
+  {
+   "section": "Wings & Tenders",
+   "item": "Veggie Sticks",
+   "price": 4.2,
+   "description": "celery and carrot"
+  },
+  {
+   "section": "Wings & Tenders",
+   "item": "Hand-Breaded Tenders",
+   "price": 14.7,
+   "description": "starting price; house marinara"
+  },
+  {
+   "section": "Build Your Own Pizza",
+   "item": "10\" Personal Pizza",
+   "price": 15.0,
+   "description": "starting price; red sauce and mozzarella base"
+  },
+  {
+   "section": "Build Your Own Pizza",
+   "item": "12\" Small Pizza",
+   "price": 20.0,
+   "description": "starting price; half & half same price"
+  },
+  {
+   "section": "Build Your Own Pizza",
+   "item": "Gluten-Free Pizza",
+   "price": 25.51,
+   "description": "starting price"
+  },
+  {
+   "section": "Build Your Own Pizza",
+   "item": "14\" Medium Pizza",
+   "price": 26.0,
+   "description": "starting price; half & half same price"
+  },
+  {
+   "section": "Build Your Own Pizza",
+   "item": "16\" Large Pizza",
+   "price": 30.0,
+   "description": "starting price; half & half same price"
+  },
+  {
+   "section": "Build Your Own Pizza",
+   "item": "18\" Extra Large Pizza",
+   "price": 36.3,
+   "description": "starting price; half & half same price"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Classic Cheese Pizza",
+   "price": 15.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Classic Pepperoni Pizza",
+   "price": 17.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Alcatraz Pizza",
+   "price": 21.0,
+   "description": "starting price; ranch base, chicken, green onions, gorgonzola, red onions, buffalo sauce"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Aloha Pizza",
+   "price": 19.0,
+   "description": "starting price; Canadian bacon and pineapple"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Amigo Pizza",
+   "price": 21.0,
+   "description": "starting price; ground beef, onions, tomatoes, black olives, jalapeños"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Barbary Coast Pizza",
+   "price": 21.0,
+   "description": "starting price; BBQ sauce, chicken, bacon, green and red onions"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Cable Car Pizza",
+   "price": 21.0,
+   "description": "starting price; creamy garlic sauce, chicken, bacon, tomatoes, green onions"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Coit Tower Pizza",
+   "price": 21.0,
+   "description": "starting price; mushrooms, pepperoni, salami, Italian sausage"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Dolores Park Pizza",
+   "price": 21.0,
+   "description": "starting price; creamy garlic sauce, ricotta, arugula, bacon, hot honey"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Fisherman's Pizza",
+   "price": 23.1,
+   "description": "starting price; prawns in white wine, tomatoes, bell peppers, onions, spinach, artichoke, creamy garlic sauce, thin crust"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Golden Gate Pizza",
+   "price": 21.0,
+   "description": "starting price; chicken, pesto and red sauce, mushrooms, garlic, onions"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Authentic Margherita Pizza",
+   "price": 19.0,
+   "description": "starting price; basil, tomatoes, olive oil, thin crust"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Meat Supreme Pizza",
+   "price": 21.0,
+   "description": "starting price; pepperoni, ham, Italian sausage, beef"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Meatball Specialty Pizza",
+   "price": 20.0,
+   "description": "starting price; meatballs, parmesan and provolone, green onions, roasted red peppers"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "North Beach Pizza",
+   "price": 21.0,
+   "description": "starting price; pepperoni, sausage, green peppers, onions, mushrooms"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Quattro Formaggi Pizza",
+   "price": 21.0,
+   "description": "starting price; creamy garlic sauce, basil, mozzarella, ricotta, parmesan, provolone"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Roma Garden Pizza",
+   "price": 22.0,
+   "description": "starting price; mushrooms, tomatoes, green peppers, black olives, red onions, zucchini, artichoke"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "San Francisco Pizza",
+   "price": 21.0,
+   "description": "starting price; clams and garlic"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Twin Peaks Hawaiian Pizza",
+   "price": 21.0,
+   "description": "starting price; Canadian bacon, pineapple, roasted red peppers, jalapeños, bacon"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Vegan Pizza",
+   "price": 22.5,
+   "description": "starting price; vegan cheese, mushrooms, tomatoes, green peppers, black olives, onions, artichoke"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Vegetarian Pizza",
+   "price": 21.0,
+   "description": "starting price; mushrooms, tomatoes, green peppers, black olives, onions"
+  },
+  {
+   "section": "Specialty Pizzas",
+   "item": "Verdi Pizza",
+   "price": 21.0,
+   "description": "starting price; pesto, spinach, onions, feta"
+  },
+  {
+   "section": "Calzones",
+   "item": "Chicken Pesto Calzone",
+   "price": 19.0,
+   "description": "starting price; pesto, mozzarella, ricotta, spinach, sun-dried tomatoes, garlic, chicken"
+  },
+  {
+   "section": "Calzones",
+   "item": "Hawaiian BBQ Chicken Calzone",
+   "price": 17.0,
+   "description": "starting price; BBQ sauce, mozzarella, ricotta, chicken, ham, pineapple, red onion"
+  },
+  {
+   "section": "Calzones",
+   "item": "Creamy Garlic Veggie Calzone",
+   "price": 18.0,
+   "description": "starting price; creamy garlic sauce, mozzarella, ricotta, feta, spinach, mushrooms, artichoke"
+  },
+  {
+   "section": "Calzones",
+   "item": "Meatball Calzone",
+   "price": 17.0,
+   "description": "starting price; marinara, mozzarella, ricotta, green onions, meatballs"
+  },
+  {
+   "section": "Calzones",
+   "item": "The Classic Calzone",
+   "price": 18.0,
+   "description": "starting price; marinara, mozzarella, ricotta, mushrooms, salami, black olives"
+  },
+  {
+   "section": "Entrees",
+   "item": "Chicken Parmigiana",
+   "price": 23.0,
+   "description": "starting price; breaded chicken, marinara, mozzarella; 2 sides"
+  },
+  {
+   "section": "Entrees",
+   "item": "Chicken Marsala",
+   "price": 23.0,
+   "description": "starting price; Marsala wine, mushrooms, red onions; 2 sides"
+  },
+  {
+   "section": "Entrees",
+   "item": "Grilled Salmon",
+   "price": 26.5,
+   "description": "starting price; Atlantic fillet; 2 sides"
+  },
+  {
+   "section": "Entrees",
+   "item": "Lemon Chicken",
+   "price": 23.0,
+   "description": "starting price; lemon butter sauce; 2 sides"
+  },
+  {
+   "section": "Pasta",
+   "item": "Create Your Own Pasta",
+   "price": 18.0,
+   "description": "starting price; choice of pasta and sauce"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti Aglio E Olio",
+   "price": 18.0,
+   "description": "olive oil, garlic, parmesan"
+  },
+  {
+   "section": "Pasta",
+   "item": "Ravioli Rosetta",
+   "price": 21.5,
+   "description": "meat or cheese ravioli, spinach, red peppers, pink sauce"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Chicken Alfredo",
+   "price": 23.1,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Chicken Carbonara",
+   "price": 23.5,
+   "description": "starting price; chicken, bacon, alfredo; penne or tortellini"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Frutti De Mare",
+   "price": 26.5,
+   "description": "shrimp, clams, basil, marinara"
+  },
+  {
+   "section": "Pasta",
+   "item": "Meat Lasagna",
+   "price": 23.5,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Penne Primavera",
+   "price": 21.5,
+   "description": "sautéed vegetables, garlic, marinara"
+  },
+  {
+   "section": "Pasta",
+   "item": "Baked Penne Ai Quattro Formaggi",
+   "price": 23.5,
+   "description": "alfredo, ricotta, parmesan, mozzarella, gorgonzola, bacon"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti & Meatballs",
+   "price": 21.5,
+   "description": "all-beef meatballs, marinara"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti & Clams",
+   "price": 23.5,
+   "description": "alfredo or marinara"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Prawns",
+   "price": 24.5,
+   "description": "onions, tomatoes, bell peppers, pink sauce"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spicy Shrimp Diablo",
+   "price": 24.5,
+   "description": "shrimp, onions, mushrooms, spicy marinara, fettuccine"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Chicken Parmigiana Sub",
+   "price": 18.0,
+   "description": "breaded chicken, mozzarella, romaine, tomatoes, marinara"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Classic Meatball Sub",
+   "price": 18.0,
+   "description": "meatballs, marinara, mozzarella"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Philly Cheesesteak Sub",
+   "price": 18.0,
+   "description": "steak, onions, green peppers, mushrooms, mozzarella"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Vegetarian Zesty Melt Sandwich",
+   "price": 17.0,
+   "description": "grilled onions, bell peppers, mozzarella, lettuce, tomatoes, sriracha aioli, sourdough"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "North Beach Chicken Club Sandwich",
+   "price": 18.0,
+   "description": "grilled chicken, bacon, avocado, lettuce, tomatoes, pesto aioli, sourdough"
+  },
+  {
+   "section": "Salads",
+   "item": "Caprese Salad",
+   "price": 11.0,
+   "description": "starting price; mixed greens, basil, tomatoes, fresh mozzarella, balsamic"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 11.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Salads",
+   "item": "Greek Salad",
+   "price": 11.0,
+   "description": "starting price; romaine, carrots, red cabbage, cucumber, kalamata, red onions, feta, pepperoncini, artichoke"
+  },
+  {
+   "section": "Salads",
+   "item": "Italian Chopped Salad",
+   "price": 11.0,
+   "description": "starting price; chicken, bacon, gorgonzola, artichoke, kalamata, red onions, Italian vinaigrette"
+  },
+  {
+   "section": "Salads",
+   "item": "Garden Salad",
+   "price": 11.0,
+   "description": "starting price; romaine, carrots, tomatoes, red cabbage, cucumber"
+  },
+  {
+   "section": "Salads",
+   "item": "Cobb Salad",
+   "price": 11.0,
+   "description": "starting price; grilled chicken, bacon, avocado, tomatoes, gorgonzola, blue cheese vinaigrette"
+  },
+  {
+   "section": "Desserts",
+   "item": "Sweet Cinnamon Banana Dessert Pizza",
+   "price": 23.5,
+   "description": "starting price; banana, cinnamon sugar, condensed milk, dulce de leche"
+  },
+  {
+   "section": "Desserts",
+   "item": "Nutella & Strawberry Delight Dessert Pizza",
+   "price": 25.5,
+   "description": "starting price"
+  },
+  {
+   "section": "Desserts",
+   "item": "Cannoli",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Flourless Gluten Free Chocolate Cake",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Tiramisu",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Chocolate Cake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Cheesecake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Carrot Cake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Ice Cream",
+   "price": 4.2,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Mexican Coca-Cola",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Soda (Coke, Coke Zero, Sprite, Root Beer, Orange, Ginger Ale, Dr Pepper)",
+   "price": 3.15,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Bottled Water",
+   "price": 3.15,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Apple Juice",
+   "price": 3.15,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "San Pellegrino Limonata / Aranciata / Aranciata Rossa",
+   "price": 3.94,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "San Pellegrino Mineral Water",
+   "price": 6.04,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Unsweetened Iced Tea",
+   "price": 4.2,
+   "description": ""
+  }
+ ],
+ "notes": "Prices marked \"starting price\" vary by size/toppings (pizzas 10\"/12\"/14\"/16\"/18\"). Lunch specials Mon-Fri 11-3. Pastas come with garlic + scallions; entrees include 2 sides. Sandwiches served with fries or house salad.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $21.00 of 49 prices in sections ['Specialty Pizzas', 'Pasta', 'Entrees', 'Sandwiches', 'Calzones']; rule L1<10, L2<18, L3<30, L4>=30"
 }

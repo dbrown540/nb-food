@@ -1,0 +1,12 @@
+{
+ "name": "Latte Express (434 Beach Street)",
+ "addr": "434 Beach Street",
+ "menu_url": "https://www.doordash.com/store/latte-express-san-francisco-175674/",
+ "source": "web search only; no official site found; aggregator (DoorDash) refused automation",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Independent coffee shop; listings give hours 6am-4pm daily and mention espresso drinks, Vietnamese coffee, banh mi, breakfast sandwiches and donuts, but no first-party menu. DoorDash store page returned 403 (bot-gated).",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

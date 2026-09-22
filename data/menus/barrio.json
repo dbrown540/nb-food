@@ -1,0 +1,235 @@
+{
+ "name": "Barrio",
+ "addr": "900 North Point Street",
+ "menu_url": "https://barriosf.com/food-menu",
+ "source": "restaurant website (food and drink menu pages)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Roasted Salsa",
+   "price": 7.0,
+   "description": "with house chips"
+  },
+  {
+   "section": "Starters",
+   "item": "Guacamole",
+   "price": 14.0,
+   "description": "pico de gallo, house chips"
+  },
+  {
+   "section": "Starters",
+   "item": "Queso Dip",
+   "price": 13.0,
+   "description": "pico de gallo, chips; add protein"
+  },
+  {
+   "section": "Starters",
+   "item": "The Barrio Trinity",
+   "price": 23.0,
+   "description": "salsa, guacamole, queso dip, chips"
+  },
+  {
+   "section": "Starters",
+   "item": "Esquite",
+   "price": 12.0,
+   "description": "street corn off the cob, chipotle mayo, queso fresco, guajillo, lime"
+  },
+  {
+   "section": "Starters",
+   "item": "Fried Plantains",
+   "price": 12.0,
+   "description": "crema, queso fresco, pickled fresno peppers, cilantro"
+  },
+  {
+   "section": "Starters",
+   "item": "Pickled Veggies",
+   "price": 12.0,
+   "description": "carrots, chiles, onions, radish, tomatillos, EVOO, lime"
+  },
+  {
+   "section": "Starters",
+   "item": "Barrio Ceviche",
+   "price": 21.0,
+   "description": "halibut, shrimp, red onion, avocado, corn, sweet potato, leche de tigre"
+  },
+  {
+   "section": "Tacos",
+   "item": "Spicy Vegan Chorizo Tacos",
+   "price": 21.0,
+   "description": "2 tacos with rice and beans; chiles, pinto beans, avocado, chimichurri"
+  },
+  {
+   "section": "Tacos",
+   "item": "Halibut Tacos",
+   "price": 25.0,
+   "description": "2 tacos with rice and beans; fried halibut, latin tartar, spicy cabbage salad"
+  },
+  {
+   "section": "Tacos",
+   "item": "Fried Shrimp Tacos",
+   "price": 23.0,
+   "description": "2 tacos with rice and beans; chipotle mayo, spicy mango cabbage salad"
+  },
+  {
+   "section": "Tacos",
+   "item": "Chicken Tinga Tacos",
+   "price": 22.0,
+   "description": "2 tacos with rice and beans; smoky chili chicken, cilantro crema, queso fresco"
+  },
+  {
+   "section": "Tacos",
+   "item": "Yucatan Roasted Pork Tacos",
+   "price": 20.0,
+   "description": "2 tacos with rice and beans; banana-leaf roasted pork, pickled onions"
+  },
+  {
+   "section": "Tacos",
+   "item": "Beef Birria Tacos",
+   "price": 22.0,
+   "description": "2 tacos with rice and beans; Oaxaca cheese, crispy tortillas, consomme"
+  },
+  {
+   "section": "Classics",
+   "item": "Nachos",
+   "price": 21.0,
+   "description": "pinto beans, oaxaca cheese, pico, guacamole, queso, salsa, choice of protein"
+  },
+  {
+   "section": "Classics",
+   "item": "Salad",
+   "price": 21.0,
+   "description": "romaine, beets, avocado, tomatoes, corn, beans, queso fresco, pepitas, protein"
+  },
+  {
+   "section": "Classics",
+   "item": "Burrito",
+   "price": 18.0,
+   "description": "rice, beans, Oaxaca cheese, pico, salsa, flour tortilla; add protein"
+  },
+  {
+   "section": "Classics",
+   "item": "Shrimp Baja Burrito",
+   "price": 25.0,
+   "description": "fried shrimp, romaine, corn, avocado, mango, queso fresco, chipotle tartar"
+  },
+  {
+   "section": "Classics",
+   "item": "Carne Asada Plate",
+   "price": 32.0,
+   "description": "8oz skirt steak, poblanos, chimichurri, guacamole, rice, beans, tortillas"
+  },
+  {
+   "section": "Sides",
+   "item": "Pinto Beans",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Rice",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Blue Corn Tortillas (4)",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "House Chips",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Pickled Jalapeños",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Proteins (add-on)",
+   "item": "Chicken Tinga / Veggie Chorizo / Roast Pork / Beef Birria",
+   "price": 2.0,
+   "description": "add to queso, nachos, salad or burrito"
+  },
+  {
+   "section": "Proteins (add-on)",
+   "item": "Fried Shrimp",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Proteins (add-on)",
+   "item": "Fried Halibut",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Draft Beer",
+   "price": 9.0,
+   "description": "Pacifico, Modelo, local kolsch/lager/IPA; pitcher $30"
+  },
+  {
+   "section": "Drinks",
+   "item": "Barrio Michelada",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Non-Alcoholic Beer",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the glass",
+   "price": 14.0,
+   "description": "sparkling, rosé, white, red; bottle $40"
+  },
+  {
+   "section": "Drinks",
+   "item": "Barrio Margarita",
+   "price": 18.0,
+   "description": "blanco tequila, lime, orange-infused agave, red chile salt"
+  },
+  {
+   "section": "Drinks",
+   "item": "Corona-Arita",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Piña Colada",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Paloma",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Margarita Pitcher",
+   "price": 60.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "House-made Frescas",
+   "price": 8.0,
+   "description": "lemonade, strawberry lemonade, hibiscus"
+  }
+ ],
+ "notes": "Ghirardelli Square, Unit J101. Hours seen: Mon-Thu 12-9pm, Fri 12-10pm, Sat 11:30am-10pm, Sun 11:30am-9pm. Group/event family-style and taco-bar menus omitted; drinks abbreviated. Online ordering via Toast.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $22.00 of 11 prices in sections ['Tacos', 'Classics']; rule L1<10, L2<18, L3<30, L4>=30"
+}

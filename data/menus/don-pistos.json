@@ -2,11 +2,11 @@
  "name": "Don Pistos",
  "addr": "510 Union Street",
  "menu_url": "https://www.donpistos.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
+ "source": "official site + Yelp (checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
  "items": [],
- "notes": "site is a JS redirect to /lander with no content",
+ "notes": "Appears CLOSED. donpistos.com is now a registrar parking page (GoDaddy \"parked free\"); Yelp lists Don Pisto's Burrito Bar (its listing gives 570 Green St; OSM has 510 Union St, the two addresses were swapped between this and sister restaurant Chubby Noodle over the years) as closed (\"Yelpers report this location has closed\"). Verify on the next OSM refresh; drop from places.json if confirmed.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

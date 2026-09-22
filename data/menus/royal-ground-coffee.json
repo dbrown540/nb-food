@@ -1,0 +1,12 @@
+{
+ "name": "Royal Ground Coffee",
+ "addr": "2216 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/royal-ground-coffee-san-francisco-7",
+ "source": "web search only (Yelp listing titled CLOSED); official domain royalgroundcoffee.net is parked",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Likely closed: Yelp lists the 2216 Polk St cafe as CLOSED (updated June 2026) and the official domain now shows a parking page. Not independently confirmed on site.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

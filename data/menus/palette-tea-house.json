@@ -1,0 +1,427 @@
+{
+ "name": "Palette Tea House",
+ "addr": "900 North Point Street",
+ "menu_url": "https://paletteteahouse.com/san-francisco-palette-tea-house-food-menu",
+ "source": "restaurant website (food and beverage menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Dumplings & Bao",
+   "item": "Palette Soup Dumpling \"XLB\" Sampler (5)",
+   "price": 16.0,
+   "description": "original, black truffle, beef pho, crab & pork, tom yum pork"
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Original Pork Soup Dumpling \"XLB\" (3)",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Chicken Mala Soup Dumpling \"XLB\" (3)",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Classic \"Ha Gow\" Shrimp Dumpling (3)",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Typhoon Crispy Ha Gow (4)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Pan Seared Sticky Rice Dumpling (3)",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Lobster Dumpling with Butter Sauce (3)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Crystal Jade Vegetable Dumpling (3)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Abalone Siu Mai (3)",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Pork & Shrimp Siu Mai (4)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Jumbo Scallop Siu Mai (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Chicken and Mushroom Siu Mai (4)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "XO & Shrimp Dumpling (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Sichuan Seafood Dumpling (5)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Peking Pork and Chives Dumpling (5)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Wagyu Beef Pot Stickers (3)",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Steamed BBQ Pork Bao (Cha Siu Bao) (3)",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Dumplings & Bao",
+   "item": "Pan Seared Black Pepper Beef Bao (3)",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Black Swan Taro Puff (2)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Spring Rolls (3)",
+   "price": 10.0,
+   "description": "vegetable"
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Black Bean Pork Ribs with Taro",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Chicken Claw with Kabocha Squash",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Lotus Wrap Abalone Sticky Rice",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Radish Cakes with XO Sauce (4)",
+   "price": 10.0,
+   "description": "pork and shrimp"
+  },
+  {
+   "section": "Palette Classics",
+   "item": "Salt & Pepper Calamari",
+   "price": 20.0,
+   "description": "Sichuan spices, garlic, jalapeno"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Crab",
+   "price": null,
+   "description": "market price; garlic butter, Palette style, ginger scallion, or others +$8"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Lobster",
+   "price": null,
+   "description": "market price; same preparations"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Peking Duck Set",
+   "price": 45.0,
+   "description": "half duck, momo crepes (10), condiments"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Sugar Snap Peas Chili Prawns",
+   "price": 25.0,
+   "description": "Thai basil, chili"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Roasted Iberico Pork \"Cha Siu\"",
+   "price": 32.0,
+   "description": "house pickles, cognac glaze"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Wok Fried Wagyu Steak",
+   "price": 34.0,
+   "description": "garlic, seasonal vegetables"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Palette Chicken Wings",
+   "price": 19.0,
+   "description": "typhoon chili or sriracha buffalo"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Honey Walnut Prawns",
+   "price": 27.0,
+   "description": "caramelized walnut, yuzu aioli, makrut lime"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Sichuan Style Chili Fish",
+   "price": 26.0,
+   "description": "chili broth, swai fillet, bean sprout"
+  },
+  {
+   "section": "Palette Signature Entrees",
+   "item": "Sweet & Sour Chicken",
+   "price": 20.0,
+   "description": "LiHing plum & hawthorn sauce, pineapple; shrimp $26"
+  },
+  {
+   "section": "Vegetables",
+   "item": "Chilled Cucumber Salad",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Wok Fried Gai Lan & Shiitake Mushroom",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Garlic Pea Tendrils",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Sichuan String Beans",
+   "price": 22.0,
+   "description": "garlic, chili, pickled turnip"
+  },
+  {
+   "section": "Vegetables",
+   "item": "Impossible Mapo Tofu",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Black Garlic Stir-Fry Palette Florets",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Braised Eggplant with Tofu",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Squid Ink Sakura Shrimp Fried Rice",
+   "price": 22.0,
+   "description": "cuttlefish, prawn, sakura shrimp, egg white"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "XO Wagyu Beef Fried Rice",
+   "price": 27.0,
+   "description": "wagyu, egg, XO sauce, scallion"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Chinese Olive Fried Rice",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Black Truffle Duck Fried Rice",
+   "price": 34.0,
+   "description": "shaved Perigord truffle, shiitake, taro"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Seafood Crispy Egg Noodle",
+   "price": 28.0,
+   "description": "scallop, shrimp, cuttlefish"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Olive Oil Supreme Soy Stir-fried Noodle",
+   "price": 18.0,
+   "description": "add pork/chicken +$5, shrimp +$8"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "XO Pan Seared Rice Crepe Roll",
+   "price": 18.0,
+   "description": "XO sauce, dried shrimp, chives"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Black Truffle Morel Mushroom Chow Fun",
+   "price": 36.0,
+   "description": ""
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Cumin Spicy Lamb \"Longevity\" Noodle",
+   "price": 28.0,
+   "description": "bean sprouts, garlic chives, onions"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Wagyu Beef Chow Fun",
+   "price": 27.0,
+   "description": ""
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Wonton Dumpling Soup",
+   "price": 19.0,
+   "description": "prawns, chicken broth, vegetable"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Hot & Sour Soup",
+   "price": 18.0,
+   "description": "pork, tofu, wood ear, bamboo shoots, egg"
+  },
+  {
+   "section": "Rice, Noodle & Soup",
+   "item": "Supreme Seafood Soup",
+   "price": 25.0,
+   "description": "crab meat, seafood, dried scallops, egg white"
+  },
+  {
+   "section": "Family Meal",
+   "item": "\"Roaring Dragon\" (for 2)",
+   "price": 88.0,
+   "description": "7-course set"
+  },
+  {
+   "section": "Family Meal",
+   "item": "\"Rise of The Phoenix\" (for 5)",
+   "price": 228.0,
+   "description": "9-course set"
+  },
+  {
+   "section": "Dessert",
+   "item": "Mango Pudding Supreme",
+   "price": 8.0,
+   "description": "coconut sauce, popping boba, mango, berries"
+  },
+  {
+   "section": "Dessert",
+   "item": "Portuguese Egg Tart (2)",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Steamed Custard Dumpling (4)",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Salted Egg Lava Bao (3)",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Durian Custard Bao (2)",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Fine Tea (per person)",
+   "price": 3.5,
+   "description": "starting price; oolong, chrysanthemum, puerh; premium teas $4.50"
+  },
+  {
+   "section": "Drinks",
+   "item": "HK Boba Milk Tea",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "House Made Ice Tea / Lemonade / Sodas",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Fresh Squeeze Orange Juice",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Draft Beer (pint)",
+   "price": 9.0,
+   "description": "pitcher $35"
+  },
+  {
+   "section": "Drinks",
+   "item": "Signature Cocktails",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Mocktails",
+   "price": 11.0,
+   "description": ""
+  }
+ ],
+ "notes": "Ghirardelli Square. Crab/lobster entrees are market-priced (no price listed). Service charge 18-22% for parties of 4+ and a 5% surcharge on all parties per the menu page. Condiments, family-meal sets and most sake/beer lines omitted. Online ordering via order.online.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $23.50 of 28 prices in sections ['Palette Signature Entrees', 'Vegetables', 'Rice, Noodle & Soup']; rule L1<10, L2<18, L3<30, L4>=30"
+}

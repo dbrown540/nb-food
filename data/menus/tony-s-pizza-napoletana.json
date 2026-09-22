@@ -1,12 +1,793 @@
 {
  "name": "Tony's Pizza Napoletana",
  "addr": "1570 Stockton Street",
- "menu_url": "https://tonyspizzanapoletana.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "site is bot-gated (captcha redirect)",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://tonyspizzanapoletana.com/wp-content/uploads/2026/09/TPN-Dinner-Menu-090126.pdf",
+ "source": "restaurant website dinner-menu PDF (tonyspizzanapoletana.com/currentmenu -> TPN-Dinner-Menu-090126.pdf, dated 2026-09-01; 4 pages rendered with pdftoppm and read visually). Cocktail/wine and banquet PDFs not extracted.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Antipasti",
+   "item": "Tony's House-Made Sourdough Garlic Bread",
+   "price": 12.0,
+   "description": "with cheese 13.50; marinara and agave/garlic"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Salumi & Cheese Board",
+   "price": 22.75,
+   "description": "prosciutto di Parma, Toscano salami, soppressata, Italian cheeses, nduja, peperonata"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Coccoli - Peperonata, Sorrentina Provola, Arugula",
+   "price": 19.5,
+   "description": "house special sea-salted fried dough"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Coccoli - Prosciutto di Parma, Burrata",
+   "price": 19.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Coccoli - Artichoke Cream, Arugula",
+   "price": 18.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Coccoli - Nduja, Arugula",
+   "price": 18.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Coccoli - Italian Beef, Horseradish, Giardiniera",
+   "price": 19.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Coccoli - Olive, Tomato, Garlic, Artichoke",
+   "price": 18.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Deep Fried Green Beans",
+   "price": 13.25,
+   "description": "garlic and olive oil"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Calamari Fritti",
+   "price": 26.0,
+   "description": "traditional, calabrese, or salt & spicy"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Meatballs",
+   "price": 11.5,
+   "description": "3 for 11.50, 6 for 18; pecorino, parsley; add 3 quail eggs 5 / 6 for 10"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Fried Ricotta-Stuffed Squash Blossoms",
+   "price": 20.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Meatball Gigante - Marinara, Pecorino, Parsley",
+   "price": 19.5,
+   "description": "limit 25/day; veal, pork and beef blend (gluten free)"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Meatball Gigante - Sea Salted Burrata, Basil",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Meatball Gigante - Wild Mushroom, Pancetta, Cream Sauce",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Meatball Gigante - Farm Egg, Calabrese Peppers",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Meatball Gigante - White Truffle Oil, Alfredo, Caramelized Onions, Maldon Salt",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Antipasti",
+   "item": "Burrata Bruschettone",
+   "price": 18.5,
+   "description": "black olive & rosemary bread, arugula, balsamic glaze, pizzuti tomatoes, parmigiano"
+  },
+  {
+   "section": "Insalate",
+   "item": "Little Italy",
+   "price": 19.5,
+   "description": "mixed greens, Castelvetrano olives, walnuts, gorgonzola, balsamic glaze, cherry tomatoes, parmigiano"
+  },
+  {
+   "section": "Insalate",
+   "item": "Caesar",
+   "price": 17.5,
+   "description": "romaine, house crouton, parmigiano, white anchovies"
+  },
+  {
+   "section": "Insalate",
+   "item": "Caprese Pizzuta",
+   "price": 18.5,
+   "description": "fresh mozzarella, pizzuti tomato, basil"
+  },
+  {
+   "section": "Insalate",
+   "item": "Blue Gem",
+   "price": 21.5,
+   "description": "little gem, medjool dates, Point Reyes blue dressing, candied walnuts, red onions, sweety drop peppers, bacon"
+  },
+  {
+   "section": "Insalate",
+   "item": "Italian Chop Salad",
+   "price": 21.5,
+   "description": "romaine, olives, red onion, salami, peperonata, parmigiano, provolone, fresh mozzarella"
+  },
+  {
+   "section": "Insalate",
+   "item": "Add chicken breast to any salad",
+   "price": 7.75,
+   "description": "gluten-free breaded chicken available; add tuna 5.75"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Jersey's Trenton Tomato Pie",
+   "price": 29.0,
+   "description": "sliced mozzarella, hand crushed tomato, garlic; De Lorenzo style with sausage +4.25"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Uncle Vito",
+   "price": 34.0,
+   "description": "thin crust white pizza, mozzarella, caramelized onion, bacon, pesto, ricotta; add chicken 3.25"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Classic Cheese",
+   "price": 28.5,
+   "description": "rustic medium or thin crust"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Classic Pepperoni",
+   "price": 30.0,
+   "description": "rustic medium or thin crust"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Vodka Pie",
+   "price": 34.25,
+   "description": "vodka sauce, mozzarella, bacon, thick & thin pepperoni, sweet and spicy sausage, ricotta, basil, hot honey"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Lemon Chicken Pesto",
+   "price": 34.5,
+   "description": "pesto, mozzarella, ricotta, grilled chicken, sundried tomato, garlic, pinenuts, limoncello glaze"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Piccante",
+   "price": 34.5,
+   "description": "mozzarella, garlic, pepperoni, linguica, calabrese peppers, serrano & banana peppers, pork chorizo, green onions, cholula, ricotta"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Combo Americano",
+   "price": 38.5,
+   "description": "mozzarella, pepperoni, salami, mushrooms, onions, bell peppers, black olives, sausage, linguica, bacon, cherry tomatoes, scallions"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "Tony's Tandoori Masala",
+   "price": 32.0,
+   "description": "tandoori masala tomato sauce, smoked provola, mozzarella, red onion, garlic, serrano, cilantro, peppadew, tandoori cream; add chicken 3.25"
+  },
+  {
+   "section": "Classic American Pizza",
+   "item": "The Little Kahuna",
+   "price": 34.25,
+   "description": "pineapple rings, bacon, mozzarella, ham, honey; add serrano or BBQ sauce 3.25"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Cal Italia",
+   "price": 35.5,
+   "description": "asiago, mozzarella, gorgonzola, Croatian fig preserve, prosciutto di Parma, parmigiano, balsamic glaze, no sauce"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Prosciutto e Pomodorini",
+   "price": 34.25,
+   "description": "mozzarella, prosciutto di Parma, arugula, cherry tomatoes, parmigiano"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Mortadella e Burrata",
+   "price": 35.5,
+   "description": "sesame-seed thin crust; pistachio mortadella, Sorrentina provola, burrata, pizzuti tomato, smoked provolone, volcano salt, lemon"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Veggie",
+   "price": 34.25,
+   "description": "mushrooms, red onions, mozzarella, bell pepper, black olives, feta, peppadew, green onions"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Royal Margherita (Canotto Americano)",
+   "price": 35.5,
+   "description": "11 in, limit 13/day; San Marzano pizzuti sauce, Sorrentina fior di latte, black volcano salt, Antinori EVOO, living basil"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Artichoke Joe",
+   "price": 35.5,
+   "description": "11 in; mozzarella, artichoke, smoked provolone, spinach, garlic, lemon, no sauce"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "The Cortopassi",
+   "price": 37.5,
+   "description": "11 in; burrata, mozzarella, tomato sauce, basil, sea salt"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Diavola",
+   "price": 35.5,
+   "description": "11 in; hot red pepper oil, soppressata picante, arugula, mozzarella, parmigiano"
+  },
+  {
+   "section": "Classic Italian Pizza",
+   "item": "Flower Child",
+   "price": 35.5,
+   "description": "11 in; Sorrentina provola, ricotta-stuffed squash blossom, speck, chili oil, maldon salt"
+  },
+  {
+   "section": "Napoletana Pizza",
+   "item": "Marinara",
+   "price": 18.5,
+   "description": "San Marzano D.O.P. tomatoes, sea salt, oregano, garlic, EVOO"
+  },
+  {
+   "section": "Napoletana Pizza",
+   "item": "Margherita",
+   "price": 30.0,
+   "description": "limit 73/day; World Pizza Cup winner; San Marzano D.O.P., fior di latte, basil, EVOO"
+  },
+  {
+   "section": "Napoletana Pizza",
+   "item": "Capodimonte",
+   "price": 27.0,
+   "description": "dried dorati tomatoes, basil, sea salt, olive oil"
+  },
+  {
+   "section": "California Pizza",
+   "item": "El Jefe",
+   "price": 33.0,
+   "description": "apricot habanero jam, carnitas, mozzarella, white onion, fried plantains, orange juice mist, cilantro"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Honey Pie",
+   "price": 34.25,
+   "description": "honey, calabrese peppers, scallions, mozzarella, piave, fried onions, serrano; add bacon 4.50"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Quail Eggs & Speck",
+   "price": 34.0,
+   "description": "vodka tomato cream, Sorrentina provola, mozzarella, 2 quail eggs, speck, fromage blanc, micro arugula"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Paulie P (Pennino)",
+   "price": 34.0,
+   "description": "tomato sauce, mozzarella, pepperoni, red onion, asiago, basil, sorghum, nduja"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Pizza Porto",
+   "price": 34.25,
+   "description": "imported chorizo, nduja, micro greens, mozzarella, São Jorge cheese, port reduction, crema di port, smoked sea salt"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Tartufo",
+   "price": 35.5,
+   "description": "mozzarella, burrata, peppered goat cheese, wild mushrooms, white truffle oil, prosciutto di Parma, piave, arugula"
+  },
+  {
+   "section": "California Pizza",
+   "item": "The Stinger",
+   "price": 33.0,
+   "description": "tomato sauce, mozzarella, pepperoni, sweet and spicy sausage, agave garlic, serrano, ricotta, chili threads, hot pepper oils"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Upside Down Anchovy",
+   "price": 31.0,
+   "description": "Sorrentina provola, tomato sauce, white and brown anchovies, pesto, Calabrian oregano, chili thread"
+  },
+  {
+   "section": "California Pizza",
+   "item": "Eddie Muenster",
+   "price": 33.25,
+   "description": "fried kale, bacon, calabrese peppers, muenster, honey, lemon"
+  },
+  {
+   "section": "Detroit Pizza",
+   "item": "Red Top",
+   "price": 35.25,
+   "description": "Wisconsin brick mozzarella, white cheddar, tomato sauce, garlic-butter corners; Green Top (pesto) +4.25"
+  },
+  {
+   "section": "Detroit Pizza",
+   "item": "Detroit Rosa",
+   "price": 38.5,
+   "description": "double hand-cut rosa grande pepperoni, tomato sauce"
+  },
+  {
+   "section": "Detroit Pizza",
+   "item": "Deville",
+   "price": 43.5,
+   "description": "hot red pepper oil, soppressata piccante, nduja, arugula, mozzarella, parmigiano, hot honey"
+  },
+  {
+   "section": "Detroit Pizza",
+   "item": "Motorhead",
+   "price": 43.5,
+   "description": "red top with pepperoni, salami, mushroom, bacon, sausage, ricotta, basil"
+  },
+  {
+   "section": "Coal Fired Pizza",
+   "item": "New Yorker",
+   "price": 41.5,
+   "description": "sliced mozzarella, hand crushed tomato, cup & char pepperoni, sweet & spicy sausage, ricotta, garlic, oregano"
+  },
+  {
+   "section": "Coal Fired Pizza",
+   "item": "Clam & Garlic",
+   "price": 40.5,
+   "description": "bacon, white wine, sliced mozzarella, parsley"
+  },
+  {
+   "section": "Coal Fired Pizza",
+   "item": "Original Tomato Pie with Cheese",
+   "price": 31.0,
+   "description": "with pepperoni 34, with sausage 34.25"
+  },
+  {
+   "section": "Coal Fired Pizza",
+   "item": "New Haven Lou",
+   "price": 39.5,
+   "description": "sliced mozzarella, ricotta, spinach, garlic, crushed red pepper; add meatballs 6.25"
+  },
+  {
+   "section": "Coal Fired Pizza",
+   "item": "Don Giovanni",
+   "price": 37.5,
+   "description": "vodka tomato cream, garlic, white onion, sliced mozzarella, parsley; add chicken parm 7.25"
+  },
+  {
+   "section": "Coal Fired Pizza",
+   "item": "Gotham",
+   "price": 40.5,
+   "description": "sliced mozzarella, hand crushed tomato, cup and char pepperoni, roasted peppers, sausage, bacon, agave garlic, basil"
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Sweet Grandma",
+   "price": 39.5,
+   "description": "extra sweet tomato sauce, sliced mozzarella, basil"
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Spicy Grandma",
+   "price": 39.5,
+   "description": "spicy tomato cream sauce, sliced mozzarella, basil; add serrano 3.25"
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Grandma the Butcher",
+   "price": 43.5,
+   "description": "garlic, oregano, pecorino, basil, pepperoni, salami, sausage, bacon, hot coppa, arugula, peppadews"
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Grandma the Hippie",
+   "price": 41.5,
+   "description": "sliced mozzarella, agave pesto, peppadews, goat cheese"
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Garlic Grandma",
+   "price": 43.5,
+   "description": "black garlic, sweet & spicy sausage, green onions, hot pepper oil, local honey, mozzarella, ricotta"
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Pepperoni Grandma",
+   "price": 36.5,
+   "description": ""
+  },
+  {
+   "section": "Grandma Pizza",
+   "item": "Cheese Grandma",
+   "price": 34.5,
+   "description": ""
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "La Regina",
+   "price": 43.5,
+   "description": "soppressata picante, prosciutto di Parma, parmigiano, provolone, arugula"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "The Bay Area",
+   "price": 41.0,
+   "description": "no sauce; American-style Kobe beef, fried onions, green onions, hot honey, bacon, BBQ sauce"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "Il Padrino",
+   "price": 43.5,
+   "description": "bacon, vodka cream bolognese, burrata, basil, black volcanic salt, EVOO"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "Burratina di Margherita",
+   "price": 43.5,
+   "description": "burrata, cherry tomatoes, basil, balsamic glaze"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "Fratellanza",
+   "price": 41.5,
+   "description": "pepperoni, salami, mushrooms, sausage"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "NY All Star",
+   "price": 41.5,
+   "description": "thick and thin pepperoni, basil"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "Upside Down Cheese",
+   "price": 37.25,
+   "description": ""
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "Drunken Sicilian",
+   "price": 42.5,
+   "description": "vodka tomato cream, garlic, white onion, parsley"
+  },
+  {
+   "section": "Sicilian Pizza",
+   "item": "Burrata Queen",
+   "price": 42.5,
+   "description": "no sauce; ricotta, pesto artichoke cream, burrata, agave, garlic, hot pepper oil"
+  },
+  {
+   "section": "Romana Pizza",
+   "item": "Romana #1",
+   "price": 48.0,
+   "description": "long thin pizza in three sections: cherry tomato/olive/basil/garlic; soppressata picante/arugula/parmigiano; sweet fig/prosciutto/gorgonzola/balsamic"
+  },
+  {
+   "section": "NY High Five Pizza",
+   "item": "Tony's Classic",
+   "price": 35.5,
+   "description": "mozzarella, basil, tomato sauce, nduja, agave garlic, grana padano"
+  },
+  {
+   "section": "NY High Five Pizza",
+   "item": "Blossom & Hatch",
+   "price": 35.0,
+   "description": "mozzarella, Sierra Jack hatch chili, gold parmesan, micro cilantro, smoked maldon salt"
+  },
+  {
+   "section": "NY High Five Pizza",
+   "item": "Cheese",
+   "price": 32.5,
+   "description": ""
+  },
+  {
+   "section": "NY High Five Pizza",
+   "item": "Pepperoni or Italian Sausage & Peperonata",
+   "price": 36.5,
+   "description": ""
+  },
+  {
+   "section": "NY High Five Pizza",
+   "item": "Black Betty",
+   "price": 38.0,
+   "description": "black garlic, 5 tomato sauce, basil, Sorrentina mozzarella; add anchovies 5"
+  },
+  {
+   "section": "NY High Five Pizza",
+   "item": "Prosciutto, Arugula, Peppadew & Goat Cheese",
+   "price": 36.0,
+   "description": ""
+  },
+  {
+   "section": "Gluten-Free Pizza",
+   "item": "Gluten-Free Pizza",
+   "price": 20.5,
+   "description": "11 in cauliflower crust (contains egg) or 7 in square; toppings 4.25-6.75 each"
+  },
+  {
+   "section": "Gluten-Free Pizza",
+   "item": "Gluten Free Breadsticks",
+   "price": 5.5,
+   "description": "rosemary, garlic, side of honey"
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Cheese",
+   "price": 36.25,
+   "description": ""
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Pepperoni",
+   "price": 41.5,
+   "description": ""
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Meatball, Ricotta, Garlic",
+   "price": 43.5,
+   "description": ""
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Franco",
+   "price": 43.5,
+   "description": "salami, pepperoni, mushrooms, sausage"
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Hot Tony",
+   "price": 43.5,
+   "description": "chorizo, garlic, green onions, cholula, ricotta, linguica, serrano, banana peppers, pepperoni"
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Triple Sausage",
+   "price": 43.5,
+   "description": "double Italian sausage, sweet & spicy sausage, hot & sweet peppers, parmigiano"
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "Old Smokey",
+   "price": 42.5,
+   "description": "BBQ sauce, mozzarella, ground beef, red onions, cilantro; add bacon 5.25"
+  },
+  {
+   "section": "New York 20 inch Pizza",
+   "item": "The Big Kahuna",
+   "price": 43.5,
+   "description": "pineapple, bacon, ham, honey"
+  },
+  {
+   "section": "St. Louis Pizza",
+   "item": "Cracker Thin",
+   "price": 30.0,
+   "description": "provel, extra sweet tomato sauce, cut into squares; additions 3-4 each"
+  },
+  {
+   "section": "Plant-Based Pizza",
+   "item": "Pepper Plant",
+   "price": 29.0,
+   "description": "tomato sauce, plant-based pepperoni, vegan mozzarella"
+  },
+  {
+   "section": "Plant-Based Pizza",
+   "item": "Selfish Cow",
+   "price": 29.0,
+   "description": "mushrooms, red onion, peppadew, green onion, tomato sauce, balsamic glaze"
+  },
+  {
+   "section": "Plant-Based Pizza",
+   "item": "Mission Impossible",
+   "price": 33.0,
+   "description": "wood fired; Impossible taco meat, kidney beans, tomato, onions, serrano, bell peppers, vegan mayo, sriracha, lime, cilantro"
+  },
+  {
+   "section": "Housemade Pasta",
+   "item": "Pasta Genovese",
+   "price": 27.0,
+   "description": "rigatoni, pesto cream, goat cheese, sun-dried tomatoes, artichoke, pinenuts"
+  },
+  {
+   "section": "Housemade Pasta",
+   "item": "Spaghetti & Meatballs",
+   "price": 27.0,
+   "description": "pecorino, parsley"
+  },
+  {
+   "section": "Housemade Pasta",
+   "item": "Lasagna",
+   "price": 22.5,
+   "description": "pomodoro, ricotta, sausage, mozzarella, parmigiano"
+  },
+  {
+   "section": "Housemade Pasta",
+   "item": "Carbonara",
+   "price": 27.0,
+   "description": "rigatoni, egg yolk, pancetta, onion, parmigiano, romano, cream"
+  },
+  {
+   "section": "Housemade Pasta",
+   "item": "Bucatini",
+   "price": 27.0,
+   "description": "pork ragu cream, calabrese peppers, ground beef, calabrese sausage link (very spicy)"
+  },
+  {
+   "section": "Housemade Pasta",
+   "item": "Penne alla Vodka",
+   "price": 27.0,
+   "description": "onion, garlic, vodka tomato cream; add chicken to any pasta 6.50"
+  },
+  {
+   "section": "Chicken Parmigiana",
+   "item": "Chicken Parmigiana - Classic",
+   "price": 19.5,
+   "description": "gluten-free breaded; tomato sauce, mozzarella, garlic, oregano; add pasta 11.50"
+  },
+  {
+   "section": "Chicken Parmigiana",
+   "item": "Chicken Parmigiana - Vodka Cream",
+   "price": 20.5,
+   "description": "vodka cream tomato sauce, garlic, onion, mozzarella"
+  },
+  {
+   "section": "Chicken Parmigiana",
+   "item": "Chicken Parmigiana - Pesto Cream",
+   "price": 20.5,
+   "description": "pesto light cream sauce, mozzarella, garlic"
+  },
+  {
+   "section": "Chicken Parmigiana",
+   "item": "Mozzarella Parmigiana",
+   "price": 15.25,
+   "description": "tomato, vodka cream or pesto sauce"
+  },
+  {
+   "section": "Nonna's Famous Wings",
+   "item": "6 Chicken Wings",
+   "price": 17.5,
+   "description": "blue cheese; BBQ, sweet limoncello, Frank's Red Hot, salt & spicy, or Firenectar hot honey"
+  },
+  {
+   "section": "Nonna's Famous Wings",
+   "item": "12 Chicken Wings",
+   "price": 27.0,
+   "description": ""
+  },
+  {
+   "section": "Nonna's Famous Wings",
+   "item": "24 Chicken Wings",
+   "price": 45.5,
+   "description": ""
+  },
+  {
+   "section": "Burgers",
+   "item": "Burrata Burger",
+   "price": 18.5,
+   "description": "beef, smoked pancetta, caramelized onions, burrata, arugula, balsamic glaze; rosemary garlic fries"
+  },
+  {
+   "section": "Burgers",
+   "item": "Smoked BBQ Bacon Burger",
+   "price": 17.5,
+   "description": "beef, bacon, mozzarella, provolone, BBQ sauce; rosemary garlic fries"
+  },
+  {
+   "section": "Sandwiches & Subs",
+   "item": "Meatball Sub",
+   "price": 17.5,
+   "description": "marinara, mozzarella, garlic, parmigiano; purple potato chips"
+  },
+  {
+   "section": "Sandwiches & Subs",
+   "item": "Italian Beef Sandwich",
+   "price": 19.0,
+   "description": "au jus bread, spicy giardiniera"
+  },
+  {
+   "section": "Sandwiches & Subs",
+   "item": "Sausage & Pepper Sub",
+   "price": 17.5,
+   "description": "peperonata, house sausage, mozzarella, garlic, oregano, parmigiano"
+  },
+  {
+   "section": "Sandwiches & Subs",
+   "item": "Honey Fried Chicken Sandwich",
+   "price": 18.0,
+   "description": "hot & sweet peppers, peppadew, horseradish aioli, mozzarella, honey; add bacon 4"
+  },
+  {
+   "section": "Sandwiches & Subs",
+   "item": "Chicken Parm Wedge",
+   "price": 19.0,
+   "description": "limit 10/day; sesame sourdough, fried chicken cutlet, fresh mozzarella, basil, marinara"
+  },
+  {
+   "section": "Calzone",
+   "item": "Manhattan",
+   "price": 17.0,
+   "description": "mozzarella, garlic, sliced meatballs, ricotta; marinara"
+  },
+  {
+   "section": "Calzone",
+   "item": "Brooklyn",
+   "price": 14.5,
+   "description": "mozzarella, garlic, spinach, ricotta"
+  },
+  {
+   "section": "Calzone",
+   "item": "Queens",
+   "price": 17.5,
+   "description": "broccoli rabe, Sorrentina provola, pancetta, ricotta, crushed red pepper, romano"
+  },
+  {
+   "section": "Sides",
+   "item": "Detroit Style Cheesy Breadsticks",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Lillet Blanc Fries",
+   "price": 12.0,
+   "description": "smoked pancetta, honey, romano"
+  },
+  {
+   "section": "Sides",
+   "item": "Salsiccie & Broccoli Rabe",
+   "price": 17.5,
+   "description": "small 11.50"
+  },
+  {
+   "section": "Sides",
+   "item": "Spinach",
+   "price": 7.0,
+   "description": "olive oil and garlic"
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Ranch",
+   "price": 1.5,
+   "description": ""
+  }
+ ],
+ "notes": "The site's bot wall blocks plain fetches but a real browser session loads it; the PDF itself downloads directly. Pizza styles by oven: Classic American (12-13 in, 535F), Classic Italian (535F/575F), Napoletana (900F wood-fired, 12 in; Margherita limited to 73/day), California (900F), Detroit (serves 2-4, 25 min), Coal Fired (1000F, 19-20 in, serves 2-4), Grandma (limit 20/day), Sicilian (serves 2-6), Romana (long thin, serves 2-4), NY High Five (18-19 in thin 5-grain), New York 20 in, St. Louis, Gluten-Free (11 in cauliflower or 7 in square, 500F), plant-based. Gluten-free crust +6.25 on classic pizzas. Menu notes: only complete parties seated; max 3 credit cards per transaction; fountain soda includes one refill (extra 1.25); water by request.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $34.00 of 37 prices in sections ['Classic American Pizza', 'Classic Italian Pizza', 'Napoletana Pizza', 'California Pizza', 'Housemade Pasta']; rule L1<10, L2<18, L3<30, L4>=30"
 }

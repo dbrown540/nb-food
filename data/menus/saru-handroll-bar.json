@@ -1,0 +1,163 @@
+{
+ "name": "Saru Handroll Bar",
+ "addr": "2206 Polk Street",
+ "menu_url": "https://docs.google.com/document/d/e/2PACX-1vTltIwhfnKIWKH8MNnA-mzmS6B1ZZ9V5ag84KcclQ7Lj60EHK347vdN0-dmusL5gC6UQNfPA_gI0qHj/pub?embedded=true",
+ "source": "restaurant website (menu embedded from a published Google Doc on saruhandroll.com)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Small Dishes",
+   "item": "Miso Soup",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Small Dishes",
+   "item": "Seaweed Salad",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Small Dishes",
+   "item": "Edamame",
+   "price": 5.0,
+   "description": "lightly salted"
+  },
+  {
+   "section": "Small Dishes",
+   "item": "Mozuku",
+   "price": 5.0,
+   "description": "seaweed in rice vinegar"
+  },
+  {
+   "section": "Small Dishes",
+   "item": "Kegani Cucumber Salad",
+   "price": 7.0,
+   "description": "japanese cucumber, seasonal hairy crab"
+  },
+  {
+   "section": "Small Dishes",
+   "item": "Daikon Shishito Salad",
+   "price": 10.0,
+   "description": "radish, shishito, garlic ponzu"
+  },
+  {
+   "section": "Small Dishes",
+   "item": "Kegani",
+   "price": 35.0,
+   "description": "deshelled seasonal hairy crab, tosazu jelly; limited availability"
+  },
+  {
+   "section": "Set Menus",
+   "item": "3-Hand Roll Set",
+   "price": 24.0,
+   "description": "fatty tuna, red crab, yellowtail"
+  },
+  {
+   "section": "Set Menus",
+   "item": "4-Hand Roll Set",
+   "price": 34.0,
+   "description": "fatty tuna, salmon, shrimp tempura, cucumber & plum"
+  },
+  {
+   "section": "Set Menus",
+   "item": "5-Hand Roll Set",
+   "price": 44.0,
+   "description": "fatty tuna, spicy tuna, spicy scallop, roe & mountain yam, eel"
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Fatty Tuna",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Red Crab",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Hairy Crab (seasonal, Hokkaido)",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Spicy Tuna",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Salmon",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Yellowtail",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Spicy Scallop",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Roe & Mountain Yam",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Shrimp Tempura",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Sea Urchin (Santa Barbara)",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Sea Urchin (Japan)",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Eel",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "A La Carte Handrolls",
+   "item": "Japanese Cucumber & Plum",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Hot Green Tea / Iced Tea",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Sodas",
+   "price": 4.0,
+   "description": "starting price; can $4, bottle $6; sparkling water / San Pellegrino $5"
+  }
+ ],
+ "notes": "Handroll bar; walk-in only. Hours on site: Tue-Thu and Sun 12-9:30pm, Fri-Sat 12-10pm. Beverage list (sake/beer spreadsheet) not recorded beyond soft drinks.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $9.00 of 16 prices in sections ['Set Menus', 'A La Carte Handrolls']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,319 @@
+{
+ "name": "Thai Spice",
+ "addr": "1730 Polk Street",
+ "menu_url": "https://www.thaispicesanfrancisco.com/menu",
+ "source": "restaurant website (Wix Restaurants menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Chef's Special",
+   "item": "Mama Oho",
+   "price": 30.0,
+   "description": "signature tom yum with instant noodle, shrimp, squid, fried fish, crispy pork belly, egg"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Khao Soi",
+   "price": 21.5,
+   "description": "starting price; northern curry broth, egg noodles; fried chicken $27.50, braised short rib $29.50"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Mhoo Palo",
+   "price": 23.0,
+   "description": "pork belly and egg slow-cooked palo style, Chinese broccoli, pickled cabbage, rice"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Massamun Beef Roti",
+   "price": 28.5,
+   "description": "braised bone-in short rib, massamun curry, potato, peanut, roti"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Koong Karee",
+   "price": 27.0,
+   "description": "sautéed shrimp in creamy egg curry sauce, bell pepper, celery, onion, rice"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Kao Pad Gra Prow - Mun Nuer",
+   "price": 28.0,
+   "description": "basil fried rice, fried egg, 8 oz E-san marinated ribeye"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Knock Out Wings (5 pcs)",
+   "price": 13.95,
+   "description": "fried jumbo wings, house Thai spice hot sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Samosa (3 pcs)",
+   "price": 12.5,
+   "description": "minced chicken, potato, onion, yellow curry, cucumber salad"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Roti Dip",
+   "price": 12.5,
+   "description": "crispy roti, yellow curry sauce, crispy shallot"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Rangoon (5 pcs)",
+   "price": 13.95,
+   "description": "imitation crab, cream cheese, green onion, water chestnut"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fresh Rolls Shrimp",
+   "price": 13.95,
+   "description": "shrimp, lettuce, mint, cucumber, carrot, vermicelli, peanut sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fresh Rolls Tofu",
+   "price": 12.95,
+   "description": "tofu, lettuce, mint, cucumber, carrot, vermicelli, peanut sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crispy Rolls",
+   "price": 13.0,
+   "description": "silver noodles, mushroom, cabbage, carrot, taro, sweet and sour sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Satay (4 pcs)",
+   "price": 13.5,
+   "description": "coconut-marinated grilled chicken, cucumber salad, peanut sauce"
+  },
+  {
+   "section": "Salad",
+   "item": "Som-Tum (Papaya Salad)",
+   "price": 14.5,
+   "description": "green papaya, garlic, chili, tomato, green bean, lime, peanuts; add shrimp $4"
+  },
+  {
+   "section": "Salad",
+   "item": "Larb Salad",
+   "price": 14.95,
+   "description": "minced chicken or crispy tofu, shallot, herbs, roasted chili, lime"
+  },
+  {
+   "section": "Salad",
+   "item": "Num Tok",
+   "price": 24.0,
+   "description": "grilled 8 oz ribeye, herbs, roasted chili, toasted rice, lime, spring mix"
+  },
+  {
+   "section": "Soup",
+   "item": "Tom Yum",
+   "price": 14.5,
+   "description": "starting price; hot and sour lemongrass broth; shrimp $18.50, seafood $21.50"
+  },
+  {
+   "section": "Soup",
+   "item": "Tom Kha",
+   "price": 15.0,
+   "description": "starting price; coconut milk lemongrass broth; shrimp $19, seafood $22"
+  },
+  {
+   "section": "Curry",
+   "item": "Red Curry",
+   "price": 19.5,
+   "description": "starting price; bamboo, zucchini, bell pepper, basil, rice; shrimp $23.50, seafood $26.50, duck $28.50"
+  },
+  {
+   "section": "Curry",
+   "item": "Yellow Curry",
+   "price": 19.5,
+   "description": "starting price; potato, carrot, onion, rice; shrimp $23.50, seafood $26.50, duck $28.50"
+  },
+  {
+   "section": "Curry",
+   "item": "Green Curry",
+   "price": 19.5,
+   "description": "starting price; eggplant, zucchini, bell pepper, basil, rice; shrimp $23.50, seafood $26.50, duck $28.50"
+  },
+  {
+   "section": "Curry",
+   "item": "Roasted Duck Curry",
+   "price": 24.75,
+   "description": "red curry, pineapple, lychee, tomato, broccoli, zucchini, basil, rice"
+  },
+  {
+   "section": "Curry",
+   "item": "Panang Curry",
+   "price": 19.5,
+   "description": "starting price; panang curry, bell pepper, zucchini, peanut, lime leaf, rice; shrimp $23.50, duck $28.50"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Pad See Ew",
+   "price": 17.5,
+   "description": "starting price; flat rice noodles, egg, Chinese broccoli, sweet soy; shrimp $21.50, duck/crab $26.50"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Pad Thai",
+   "price": 17.5,
+   "description": "starting price; rice noodles, tofu, egg, bean sprouts, chives, peanuts, tamarind; shrimp $21.50"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Drunken Noodle",
+   "price": 17.5,
+   "description": "starting price; flat rice noodles, green beans, bell pepper, tomato, chili, onion; shrimp $21.50"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Thai Fried Rice",
+   "price": 17.5,
+   "description": "starting price; egg, garlic, onion, tomato; shrimp $21.50, pork belly $23.50"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Gra-Pow Fried Rice",
+   "price": 17.5,
+   "description": "starting price; spicy fried rice, chili, garlic, bell pepper, basil; shrimp $21.50"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Crispy Chicken Fried Rice",
+   "price": 21.0,
+   "description": "battered chicken breast, egg, onion, tomato, sweet chili sauce"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Pineapple Fried Rice",
+   "price": 23.5,
+   "description": "curry powder, shrimp, calamari, scallop, basa, egg, pineapple, cashews, raisins"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Crab Fried Rice",
+   "price": 26.0,
+   "description": "Bangkok style, egg, tomato, onion, omelet, lump crab"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Thai Boat Noodle Soup",
+   "price": 19.0,
+   "description": "egg noodles, sliced beef, beef meatballs, Chinese broccoli, beef broth"
+  },
+  {
+   "section": "Wok & Noodles",
+   "item": "Ba Mhee Ped-Yang",
+   "price": 23.0,
+   "description": "egg noodles, Chinese broccoli, Chinese-style duck, fried garlic, duck broth"
+  },
+  {
+   "section": "Sautéed",
+   "item": "Pra Ram",
+   "price": 17.0,
+   "description": "starting price; steamed vegetables, peanut sauce; shrimp $21"
+  },
+  {
+   "section": "Sautéed",
+   "item": "Eggplant Basil",
+   "price": 17.0,
+   "description": "starting price; Japanese eggplant, garlic, bell pepper, basil; shrimp $21, duck $26"
+  },
+  {
+   "section": "Sautéed",
+   "item": "Kana Moo Krob",
+   "price": 19.75,
+   "description": "Chinese broccoli, crispy pork belly, garlic, oyster sauce, chili"
+  },
+  {
+   "section": "Sautéed",
+   "item": "Spicy Basil",
+   "price": 17.0,
+   "description": "starting price; chili, garlic, green bean, bell pepper, basil; shrimp $21, duck $26"
+  },
+  {
+   "section": "Sautéed",
+   "item": "Pik Khing",
+   "price": 17.0,
+   "description": "starting price; pik-khing chili paste, green bean, bell pepper, lime leaf; shrimp $21, duck $26"
+  },
+  {
+   "section": "Sautéed",
+   "item": "Cashew Nut Crispy Chicken",
+   "price": 18.5,
+   "description": "crispy lemongrass chicken, cashews, bell pepper, onion, roasted chili sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "Angry Basa",
+   "price": 23.0,
+   "description": "crispy basa, pik khing paste, string bean, peppercorn, fingerroot, basil"
+  },
+  {
+   "section": "Seafood",
+   "item": "Cha Cha Chaa",
+   "price": 23.95,
+   "description": "sizzling shrimp, calamari, scallop, basa, house chili sauce, peppercorn"
+  },
+  {
+   "section": "Seafood",
+   "item": "Choo Chee Salmon",
+   "price": 23.95,
+   "description": "grilled salmon, broccoli, bell pepper, red choo chee sauce"
+  },
+  {
+   "section": "Sides",
+   "item": "Jasmine Rice",
+   "price": 3.0,
+   "description": "brown $3.50, sticky $4"
+  },
+  {
+   "section": "Sides",
+   "item": "Fried Egg",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Steamed Veggies",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Cucumber Salad",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Coconut Ice Cream",
+   "price": 6.0,
+   "description": "two scoops"
+  },
+  {
+   "section": "Desserts",
+   "item": "Sweet Sticky Rice with Mango",
+   "price": 12.0,
+   "description": "black sticky rice, mango, coconut cream, sesame"
+  },
+  {
+   "section": "Desserts",
+   "item": "Sweet Sticky Rice with Ice Cream",
+   "price": 12.0,
+   "description": "black sticky rice, coconut ice cream, sesame"
+  },
+  {
+   "section": "Desserts",
+   "item": "FBI (Fried Banana with Ice Cream)",
+   "price": 12.0,
+   "description": "fried banana, coconut ice cream, chocolate syrup"
+  }
+ ],
+ "notes": "Batch website (thaispiceonpolkstreet.com) is now a parked domain; the current official site thaispicesanfrancisco.com was used. Food menu recorded; items with a choice of protein list the starting price with the protein ladder in the description; rice/noodle substitutions and drinks menu omitted. Dish tags on the source page not recorded.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $19.62 of 30 prices in sections [\"Chef's Special\", 'Curry', 'Wok & Noodles', 'Sautéed', 'Seafood']; rule L1<10, L2<18, L3<30, L4>=30"
+}

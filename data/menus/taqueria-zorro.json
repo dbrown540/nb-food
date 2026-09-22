@@ -1,12 +1,379 @@
 {
  "name": "Taqueria Zorro",
- "addr": "",
- "menu_url": "https://www.taqueriazorro.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "single-page JS app with no server-rendered menu",
- "price_level_estimate": null,
- "price_level_basis": null
+ "addr": "308 Columbus Avenue",
+ "menu_url": "https://order.tryotter.com/s/taqueria-zorro/308-columbus-ave%2C-san-francisco%2C-ca-94133%2C-usa-san-francisco/d9689088-27c7-4f0b-9742-7d39a22e96cb",
+ "source": "restaurant's own online-ordering menu (Otter \"Direct Orders\" page linked from taqueriazorro.com, rendered in a real browser session, page text read). Online prices; in-store may differ.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Plates",
+   "item": "Alambres",
+   "price": 23.95,
+   "description": "carne asada, bacon, bell peppers, onions, melted jack cheese"
+  },
+  {
+   "section": "Plates",
+   "item": "Camarones",
+   "price": 23.95,
+   "description": "shrimp, diabla sauce or a la plancha with bacon, onions, peppers"
+  },
+  {
+   "section": "Plates",
+   "item": "Fajitas",
+   "price": 23.95,
+   "description": "choice of meat, onions, mushrooms, bell peppers"
+  },
+  {
+   "section": "Plates",
+   "item": "Carne Asada Plate",
+   "price": 23.95,
+   "description": "grilled arrachera, cebollitas, choice of beans"
+  },
+  {
+   "section": "Plates",
+   "item": "Quesabirria",
+   "price": 18.95,
+   "description": "crispy beef birria tacos, jack, cotija, pickled red onion, consommé"
+  },
+  {
+   "section": "Plates",
+   "item": "Flautas",
+   "price": 17.98,
+   "description": "rolled chicken tortillas, lettuce, cotija, sour cream, pico, guacamole"
+  },
+  {
+   "section": "Plates",
+   "item": "Milanesa",
+   "price": 21.95,
+   "description": "breaded steak, rice, beans, lettuce, pico, sour cream, guacamole"
+  },
+  {
+   "section": "Plates",
+   "item": "Grilled Fish",
+   "price": 23.95,
+   "description": "fish fillet, rice, beans, lettuce, pico, sour cream, guacamole"
+  },
+  {
+   "section": "Plates",
+   "item": "Chile Rellenos",
+   "price": 21.95,
+   "description": "stuffed poblano, rice, beans, lettuce, pico, sour cream, guacamole"
+  },
+  {
+   "section": "Tacos",
+   "item": "Regular Taco",
+   "price": 4.59,
+   "description": "corn tortilla, choice of meat, onions, sauce"
+  },
+  {
+   "section": "Tacos",
+   "item": "Veggie Taco",
+   "price": 7.1,
+   "description": "cheese, beans, rice, guacamole, lettuce, sour cream, pico"
+  },
+  {
+   "section": "Tacos",
+   "item": "Super Taco",
+   "price": 7.45,
+   "description": "meat, beans, rice, guacamole, pico, sour cream, lettuce, onions, cilantro"
+  },
+  {
+   "section": "Tacos",
+   "item": "Fish Taco",
+   "price": 6.95,
+   "description": "grilled or fried fish, cabbage, red onions, cayenne lime sauce"
+  },
+  {
+   "section": "Tacos",
+   "item": "Prawn Taco",
+   "price": 6.95,
+   "description": "grilled or fried prawn, cabbage, cayenne lime sauce, red onions"
+  },
+  {
+   "section": "Burritos",
+   "item": "Zorro Burrito",
+   "price": 11.94,
+   "description": "fries instead of rice and beans, meat or veggies, sour cream, guacamole, spicy sauce"
+  },
+  {
+   "section": "Burritos",
+   "item": "Crazy Burrito",
+   "price": 11.94,
+   "description": "meat, cheese, fries, guacamole, sour cream, spicy sauce, Flamin' Hot Cheetos"
+  },
+  {
+   "section": "Burritos",
+   "item": "Regular Burrito",
+   "price": 11.61,
+   "description": "meat, rice, beans, onions, cilantro, pico"
+  },
+  {
+   "section": "Burritos",
+   "item": "Super Burrito",
+   "price": 14.01,
+   "description": "meat, rice, beans, lettuce, sour cream, guacamole, cheese, pico"
+  },
+  {
+   "section": "Burritos",
+   "item": "Fish Burrito",
+   "price": 14.97,
+   "description": "grilled or fried fish, beans, rice, pico"
+  },
+  {
+   "section": "Burritos",
+   "item": "Prawn Burrito",
+   "price": 14.97,
+   "description": "garlic prawns, beans, rice, pico"
+  },
+  {
+   "section": "Burritos",
+   "item": "Mojado Burrito",
+   "price": 14.35,
+   "description": "smothered in sauce, melted cheese, guacamole, sour cream, lettuce"
+  },
+  {
+   "section": "Burritos",
+   "item": "Veggie Burrito",
+   "price": 10.22,
+   "description": "rice, beans, lettuce, pico"
+  },
+  {
+   "section": "Burritos",
+   "item": "Chile Relleno Burrito",
+   "price": 11.75,
+   "description": "chile relleno, rice, beans, pico, cilantro, onion"
+  },
+  {
+   "section": "Burritos",
+   "item": "Grilled Veggies Burrito",
+   "price": 11.75,
+   "description": "mushrooms, zucchini, pasilla and bell peppers, red onions, rice, beans"
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Cheese Quesadilla",
+   "price": 7.77,
+   "description": ""
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Regular Quesadilla",
+   "price": 12.37,
+   "description": "cheese and choice of meat"
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Mushroom Quesadilla",
+   "price": 14.12,
+   "description": "mushrooms, peppers, onions"
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Super Quesadilla",
+   "price": 14.12,
+   "description": "meat, guacamole, sour cream"
+  },
+  {
+   "section": "Quesadillas",
+   "item": "Prawn Quesadilla",
+   "price": 17.26,
+   "description": "tiger prawns, red onions, bell peppers, guacamole, sour cream"
+  },
+  {
+   "section": "Nachos",
+   "item": "Regular Nachos",
+   "price": 11.89,
+   "description": "beans, cheese, sour cream, guacamole"
+  },
+  {
+   "section": "Nachos",
+   "item": "Zorro Nachos",
+   "price": 11.48,
+   "description": "fries with beans, cheese, sour cream, guacamole, pico"
+  },
+  {
+   "section": "Nachos",
+   "item": "Super Nachos",
+   "price": 13.44,
+   "description": "meat, beans, cheese, sour cream, guacamole, pico"
+  },
+  {
+   "section": "Tortas / Salads",
+   "item": "Toasted Mexican Sandwich",
+   "price": 11.61,
+   "description": "ciabatta, refried beans, jalapeños, cheese, sour cream, tomatoes, lettuce, guacamole, meat or milanesa"
+  },
+  {
+   "section": "Tortas / Salads",
+   "item": "Taco Salad",
+   "price": 11.64,
+   "description": "tortilla bowl, romaine, beans, rice, cotija, jalapeños, pickled onions, sour cream, guacamole, pico"
+  },
+  {
+   "section": "Mexican Breakfast",
+   "item": "Breakfast Burrito",
+   "price": 12.17,
+   "description": "eggs, rice, fries, beans, salsa, choice of meat"
+  },
+  {
+   "section": "Mexican Breakfast",
+   "item": "Breakfast Plates",
+   "price": 12.17,
+   "description": "huevos con jamon / chorizo / rancheros / a la mexicana; rice, beans, fries, tortillas"
+  },
+  {
+   "section": "Soup / Caldo",
+   "item": "Soup / Caldo",
+   "price": 15.85,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Meat",
+   "price": 2.38,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Cheese",
+   "price": 0.77,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Guacamole",
+   "price": 0.93,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Avocado",
+   "price": 2.21,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Sour Cream",
+   "price": 0.93,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Pico de Gallo",
+   "price": 1.2,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Rice",
+   "price": 1.07,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Extra Lettuce",
+   "price": 0.71,
+   "description": ""
+  },
+  {
+   "section": "Extras",
+   "item": "Side of Prawns",
+   "price": 1.96,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Rice",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Beans",
+   "price": 3.5,
+   "description": "pinto, black or refried"
+  },
+  {
+   "section": "Sides",
+   "item": "Side of Rice & Beans",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Salsa",
+   "price": 4.61,
+   "description": "roja, verde, habanero, pico de gallo or mango pico; small/medium/large"
+  },
+  {
+   "section": "Sides",
+   "item": "Cebollitas",
+   "price": 2.04,
+   "description": "grilled spring onions"
+  },
+  {
+   "section": "Sides",
+   "item": "Basket of Fries",
+   "price": 3.84,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Chips",
+   "price": 1.96,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Chips & Salsa",
+   "price": 4.54,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Guacamole",
+   "price": 5.57,
+   "description": "small/medium/large"
+  },
+  {
+   "section": "Beverages",
+   "item": "Homemade Juices",
+   "price": 3.44,
+   "description": "horchata, cantaloupe, strawberry, tamarindo"
+  },
+  {
+   "section": "Beverages",
+   "item": "Sodas",
+   "price": 3.6,
+   "description": "Mexican or Coke products"
+  },
+  {
+   "section": "Beverages",
+   "item": "Bottled Water",
+   "price": 2.16,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Beer",
+   "price": 4.66,
+   "description": "Mexican/import or domestic"
+  },
+  {
+   "section": "Dessert",
+   "item": "Churros",
+   "price": 7.76,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Fried Plantains",
+   "price": 7.76,
+   "description": ""
+  }
+ ],
+ "notes": "Site hours: Mon-Thu 11am-midnight, Fri-Sat 11am-2am, Sun 11am-11pm. Meat choices include carne asada, al pastor, carnitas, pollo asado, birria, lengua, chorizo. Sides priced $0 online (size/protein chosen at checkout) omitted. Long marketing descriptions shortened.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $14.12 of 29 prices in sections ['Plates', 'Burritos', 'Tacos', 'Quesadillas']; rule L1<10, L2<18, L3<30, L4>=30"
 }

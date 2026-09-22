@@ -1,0 +1,361 @@
+{
+ "name": "Fueling Station",
+ "addr": "2436 Polk Street",
+ "menu_url": "https://fueling-station-cafe.square.site/",
+ "source": "restaurant online-ordering page (Square Online)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Veg Out",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Egg & Avocado",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Meat & Cheese",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Egg & Cheese",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Egg, Meat & Cheese",
+   "price": 9.75,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Egg & Meat",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Breakfast Sandwiches",
+   "item": "Egg & Tomato",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Banh Mi Sandwich",
+   "price": 11.75,
+   "description": ""
+  },
+  {
+   "section": "Bowls",
+   "item": "Banh Mi Rice Bowl",
+   "price": 13.25,
+   "description": ""
+  },
+  {
+   "section": "Bowls",
+   "item": "Coconut Chia Pudding Bowl",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Bowls",
+   "item": "Granola Bowl",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Bowls",
+   "item": "Hot Oatmeal Bowl",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Banh Mi Salad",
+   "price": 13.25,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Quinoa, Feta, Poached Egg & Avocado Salad",
+   "price": 12.75,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Chef's Salad",
+   "price": 13.25,
+   "description": ""
+  },
+  {
+   "section": "Quiche",
+   "item": "Veggie Quiche",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Quiche",
+   "item": "Quiche Lorraine",
+   "price": 9.5,
+   "description": "bacon, chives, Swiss"
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Toast with Butter",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Avocado Toast",
+   "price": 7.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Banana & Nuts Toast",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Salmon Toast",
+   "price": 13.5,
+   "description": ""
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Bagel & Spread",
+   "price": 3.75,
+   "description": "starting price"
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Bagel & Lox",
+   "price": 12.25,
+   "description": ""
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Strawberry & Cream Waffle",
+   "price": 8.75,
+   "description": ""
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Smoked Salmon (side)",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Bacon (side)",
+   "price": 2.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Toast & Bagels",
+   "item": "Egg (side)",
+   "price": 2.0,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Bread Loaf",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Muffin",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Fresh-baked Cookie",
+   "price": 3.75,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Croissant",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Almond Croissant",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Danish",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Baked Goods",
+   "item": "Scone",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Hot Drip Coffee",
+   "price": 3.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Cold Brew Coffee",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Java Mint",
+   "price": 5.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Espresso",
+   "price": 4.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Americano",
+   "price": 4.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Cortado",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Flat White",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Cappuccino",
+   "price": 5.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Latte",
+   "price": 5.75,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Vietnamese Coffee",
+   "price": 5.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Mocha",
+   "price": 6.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Belgium Mocha",
+   "price": 6.75,
+   "description": "starting price"
+  },
+  {
+   "section": "Coffee",
+   "item": "Chagaccino",
+   "price": 7.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee",
+   "item": "Chaga Latte",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Matcha Latte",
+   "price": 7.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Hojicha Latte",
+   "price": 7.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Chaga Matcha",
+   "price": 8.25,
+   "description": ""
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "House-brewed Chai Tea Latte",
+   "price": 6.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Hot Tea",
+   "price": 4.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Iced Tea",
+   "price": 4.75,
+   "description": ""
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Amish Lemonade / Amish Palmer",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Hot Chocolate",
+   "price": 4.25,
+   "description": "starting price"
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Vanilla Steamer",
+   "price": 3.5,
+   "description": "starting price"
+  },
+  {
+   "section": "Matcha & Tea",
+   "item": "Bottled & canned drinks",
+   "price": 1.75,
+   "description": "starting price; sparkling water, juices, soda"
+  }
+ ],
+ "notes": "Official site fuelingstationsf.com links to this Square ordering page. Coffee is Contraband. Retail beans, bag fee and seasonal specials omitted; bottled drinks collapsed.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $9.50 of 17 prices in sections ['Breakfast Sandwiches', 'Sandwiches', 'Bowls', 'Salads', 'Quiche', 'Toast']; rule L1<10, L2<18, L3<30, L4>=30"
+}

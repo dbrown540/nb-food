@@ -1,12 +1,139 @@
 {
  "name": "Dim Sum Bistro",
  "addr": "675 Broadway",
- "menu_url": "https://dim-sum-bistro.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "site returns empty body",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://www.yelp.com/menu/dim-sum-bistro-san-francisco",
+ "source": "Yelp menu page (aggregator; official site dim-sum-bistro.com returns an empty 200 response, so no first-party source). Read in a real browser session.",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Dim Sum",
+   "item": "12. Steamed Custard Bun",
+   "price": 5.25,
+   "description": "3 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "15a. Deep-Fried Sesame Ball",
+   "price": 5.25,
+   "description": "3 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "15b. Deep-Fried Pork Puff",
+   "price": 5.25,
+   "description": "3 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "16. Deep-Fried Spring Roll",
+   "price": 5.25,
+   "description": "3 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "19. Pan-Fried Corn Cake",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "20. Steamed Shrimp Dumpling with Pork (har gow)",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "21. Steamed Shrimp and Pork Siu Mai",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "22. Steamed Chicken Siu Mai",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "23. Steamed Beef Siu Mai",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "25. Shark's Fin Dumpling with Shrimp and Pork",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "26. Steamed Shrimp and Chives Dumpling",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "27. Pan-Fried Turnip Cake with Pork",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "28. Pan-Fried Shrimp and Chives Dumpling",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "29. Pan-Fried Pot Sticker with Pork",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Dim Sum",
+   "item": "30. Pan-Fried Shrimp Cutlet",
+   "price": 7.25,
+   "description": "4 pieces"
+  },
+  {
+   "section": "Rice and Soup",
+   "item": "Steamed Pork Ribs in Black Bean Sauce",
+   "price": 14.25,
+   "description": "one pound"
+  },
+  {
+   "section": "Rice and Soup",
+   "item": "31. Bok Choy Shrimp Dumpling Soup",
+   "price": 10.5,
+   "description": "8 pieces"
+  },
+  {
+   "section": "Rice and Soup",
+   "item": "18. Wonton with Chili Sauce",
+   "price": 10.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Rice and Soup",
+   "item": "32. HK Style Shrimp Wonton Soup",
+   "price": 10.5,
+   "description": "10 pieces"
+  },
+  {
+   "section": "Rice and Soup",
+   "item": "33. HK Style Shrimp Wonton Noodle Soup",
+   "price": 10.5,
+   "description": "6 pieces"
+  },
+  {
+   "section": "Beverage",
+   "item": "Coke, Sprite and other sodas",
+   "price": 2.75,
+   "description": ""
+  }
+ ],
+ "notes": "Yelp's listing is numbered 12-33 with gaps, so it is a subset of the in-store menu; Yelp flags \"menu may not be up to date\". Counter-service dim sum with kiosk ordering per reviews. Party-tray section listed with no items.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $7.25 of 20 prices in sections ['Dim Sum', 'Rice and Soup']; rule L1<10, L2<18, L3<30, L4>=30"
 }

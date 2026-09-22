@@ -1,0 +1,127 @@
+{
+ "name": "Bob's Donuts",
+ "addr": "1720 Polk Street",
+ "menu_url": "https://order.online/store/bob's-donuts-san-francisco-26037641/",
+ "source": "restaurant online-ordering page (DoorDash order.online storefront, linked from the shop's own site; pickup menu)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Assorted Donuts",
+   "item": "Dozen Assorted Donuts",
+   "price": 29.0,
+   "description": ""
+  },
+  {
+   "section": "Assorted Donuts",
+   "item": "1/2 Dozen Assorted Donuts",
+   "price": 14.5,
+   "description": ""
+  },
+  {
+   "section": "Raised Donuts",
+   "item": "Classic Raised Donut",
+   "price": 2.65,
+   "description": "glaze, chocolate, maple, or sugar coated"
+  },
+  {
+   "section": "Specialties",
+   "item": "Apple Fritter",
+   "price": 4.95,
+   "description": "raised dough with apples and cinnamon"
+  },
+  {
+   "section": "Specialties",
+   "item": "Cinnamon Roll",
+   "price": 3.75,
+   "description": "spiral raised roll, cinnamon sugar, light glaze"
+  },
+  {
+   "section": "Cake Donuts",
+   "item": "Cake Donut",
+   "price": 2.35,
+   "description": "chocolate or maple (with or without sprinkles), cinnamon sugar, or crumb"
+  },
+  {
+   "section": "Buttermilk Donuts",
+   "item": "Buttermilk Bar",
+   "price": 2.75,
+   "description": "glaze, chocolate, or maple"
+  },
+  {
+   "section": "Old Fashioned Donuts",
+   "item": "Old Fashioned Donut",
+   "price": 2.35,
+   "description": "glaze, chocolate, or maple"
+  },
+  {
+   "section": "Donut Twists",
+   "item": "Twist - Cinnamon Sugar",
+   "price": 3.45,
+   "description": ""
+  },
+  {
+   "section": "Donut Twists",
+   "item": "Twist - Glaze",
+   "price": 3.45,
+   "description": ""
+  },
+  {
+   "section": "Donut Bars",
+   "item": "Custard Filled Bar - Chocolate",
+   "price": 4.25,
+   "description": "chocolate-glazed bar filled with custard"
+  },
+  {
+   "section": "Donut Bars",
+   "item": "Bar - Maple",
+   "price": 3.45,
+   "description": ""
+  },
+  {
+   "section": "Donut Bars",
+   "item": "Bar - Chocolate",
+   "price": 3.45,
+   "description": ""
+  },
+  {
+   "section": "Jelly-Filled Donuts",
+   "item": "Raspberry Jelly Filled - Powdered Sugar",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Giant Donuts",
+   "item": "Giant Donut",
+   "price": 15.5,
+   "description": "giant glazed donut"
+  },
+  {
+   "section": "Malasada",
+   "item": "Malasada",
+   "price": 4.95,
+   "description": "rolled in sugar; guava, mango, pineapple, strawberry, or custard filling"
+  },
+  {
+   "section": "Drinks",
+   "item": "Milk",
+   "price": 3.85,
+   "description": "whole milk"
+  },
+  {
+   "section": "Drinks",
+   "item": "Drip Coffee - Large",
+   "price": 3.95,
+   "description": "small, medium, and large sizes offered"
+  },
+  {
+   "section": "Drinks",
+   "item": "Water Bottle",
+   "price": 2.5,
+   "description": ""
+  }
+ ],
+ "notes": "Polk St storefront lists the shop at 1720 Polk St; online ordering hours 6:00am-6:00pm. Pickup prices from the shop's own ordering channel; the \"Most Ordered\" repeat section is omitted.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $3.45 of 13 prices in sections ['Raised Donuts', 'Specialties', 'Cake Donuts', 'Buttermilk Donuts', 'Old Fashioned Donuts', 'Donut Twists', 'Donut Bars', 'Jelly-Filled Donuts', 'Malasada']; rule L1<10, L2<18, L3<30, L4>=30"
+}

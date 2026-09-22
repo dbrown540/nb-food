@@ -1,0 +1,133 @@
+{
+ "name": "The Third Floor",
+ "addr": "433 Clay Street",
+ "menu_url": "https://www.thethirdfloorsf.com/dinner",
+ "source": "restaurant website (Squarespace dinner menu page), found via web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Half Dozen Oysters",
+   "price": 26.0,
+   "description": "marinated cucumber, melon"
+  },
+  {
+   "section": "Starters",
+   "item": "Deviled Hen Eggs",
+   "price": 12.0,
+   "description": "crispy shallot, pickled onion, garden herbs"
+  },
+  {
+   "section": "Starters",
+   "item": "Potato & Leek Croquettes",
+   "price": 14.0,
+   "description": "crème fraîche, chives"
+  },
+  {
+   "section": "Starters",
+   "item": "Steak Tartare",
+   "price": 25.0,
+   "description": "hen egg, fines herb salad, levain"
+  },
+  {
+   "section": "Starters",
+   "item": "Mussels",
+   "price": 24.0,
+   "description": "wax beans, fingerling potatoes, tomato, fennel"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Corn Velouté",
+   "price": 15.0,
+   "description": "truffle crème fraîche, pickled fresno chile"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Onion Soup Gratinée",
+   "price": 16.0,
+   "description": "gruyère, levain"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Little Gems",
+   "price": 19.0,
+   "description": "sardines, black garlic & pine nut streusel, crème fraîche dressing"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Tomato & Melon",
+   "price": 18.0,
+   "description": "cucumber, fromage blanc, hazelnut"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Frisée",
+   "price": 22.0,
+   "description": "torn croutons, poached egg, warm bacon vinaigrette"
+  },
+  {
+   "section": "Mains",
+   "item": "Le Burger",
+   "price": 26.0,
+   "description": "caramelized onion, raclette, bordelaise, frites"
+  },
+  {
+   "section": "Mains",
+   "item": "Eggplant Agnolotti",
+   "price": 27.0,
+   "description": "confit tomato, maitake mushroom, parmigiano mousse"
+  },
+  {
+   "section": "Mains",
+   "item": "Wild King Salmon",
+   "price": 42.0,
+   "description": "grilled romano beans, potato pavé, meunière"
+  },
+  {
+   "section": "Mains",
+   "item": "Roasted Half Chicken",
+   "price": 38.0,
+   "description": "peach & levain salad, jimmy nardello peppers"
+  },
+  {
+   "section": "Mains",
+   "item": "Duck Confit Cassoulet",
+   "price": 44.0,
+   "description": "chanterelle mushrooms, sunburst squash"
+  },
+  {
+   "section": "Mains",
+   "item": "Dry-Aged Ribeye",
+   "price": 65.0,
+   "description": "blue cheese butter, frites"
+  },
+  {
+   "section": "Sides",
+   "item": "Pommes Frites",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Thumbelina Carrots & Sugar Snap Peas",
+   "price": 14.0,
+   "description": "sea lettuce, beurre monté"
+  },
+  {
+   "section": "Sides",
+   "item": "Corn on the Cob",
+   "price": 14.0,
+   "description": "sauce gribiche, espelette"
+  },
+  {
+   "section": "Sides",
+   "item": "Levain Dinner Roll",
+   "price": 3.0,
+   "description": "cultured butter"
+  }
+ ],
+ "notes": "Brasserie-style restaurant in The Jay hotel. Dinner Mon-Sun 5:30-10pm recorded; breakfast, brunch, lunch and wine/spirits menus exist on separate pages and were not recorded.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $40.00 of 6 prices in sections ['Mains']; rule L1<10, L2<18, L3<30, L4>=30"
+}

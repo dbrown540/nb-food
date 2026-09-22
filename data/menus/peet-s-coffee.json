@@ -1,0 +1,475 @@
+{
+ "name": "Peet's Coffee",
+ "addr": "2139 C Polk Street",
+ "menu_url": "https://www.peets.com/pages/menu",
+ "source": "chain corporate website (coffeebar menu category pages, rendered in browser)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Hot Coffee",
+   "item": "Caffe Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Vanilla Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Pumpkin Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Caramel Macchiato",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Caffe Mocha",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "White Chocolate Mocha",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Cappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Havana Cappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Traditional Cappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Espresso",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Americano",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Coffee of the Day",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Caffe Macchiato",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Pumpkin Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Coffee",
+   "item": "Lavender Vanilla Matcha Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Tea",
+   "item": "Mighty Leaf Tea Pouch",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Tea",
+   "item": "Mighty Leaf Loose Leaf Teas",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Hot Tea",
+   "item": "Matcha Green Tea Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Cold Brew Oat Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "The Black Tie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Cappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Cold Brew Iced Coffee",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Espresso",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Pumpkin Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Havana Cappuccino",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Horchata Cold Brew Oat Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Vanilla Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Caramel Macchiato",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Caffè Mocha",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced White Chocolate Mocha",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Caramel Frappé",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Mocha Frappé",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Baridi Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Sparkling Grapefruit Cold Brew",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Lavender Vanilla Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Pumpkin Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Sparkling Watermelon Matcha Spritz",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Pumpkin Latte with Vanilla Dream Top",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Cold Coffee",
+   "item": "Iced Pumpkin Chai Latte with Vanilla Dream Top",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Yuzu Citrus Black Tea Shaker",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Citrus Hibiscus Tea Shaker",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Tropical Berry Green Tea Shaker",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Pineapple Citrus Tea Shaker",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Wild Berry Hibiscus Tea",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Green Tea Tropical",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Black Tea",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Matcha Green Tea Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Golden Chai Latte",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Matcha Frappé",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Brown Sugar Matcha Oat Latte with Jelly",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Tea Shakers with Brown Sugar Jelly (citrus green, strawberry lemon, yuzu citrus black, tropical berry green, berry hibiscus, citrus hibiscus)",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Black Tea Lemonade",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Iced Green Tea Lemonade",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Sparkling Passion Fruit Tea",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Sparkling Strawberry Energy",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Sparkling Watermelon Energy",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Iced Tea",
+   "item": "Sparkling Green Apple Energy",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Home Harvest Pretzwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Mini Bacon Biscuit Bite",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Elote Taco",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Cheesy Sausage Slider",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Roasted Tomato Focaccia",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Bacon & Cheddar Brioche",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Crispy Ham & Swiss",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Egg & Cheese",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Chicken Chorizo Wrap",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Simply Oatmeal",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Egg White, Tomato & Feta Frittata",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Bacon Gouda Frittata",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Turkey Bacon & Egg White Sandwich",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Roasted Turkey Parmesan Ciabatta",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Croissant Grilled Cheese",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Bacon Sausage Cheddar Crispy",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Food",
+   "item": "Mediterranean Frittata Sandwich",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "chain menu; prices not location-specific (the coffeebar category pages list items with no prices; ordering is in the app). Items from the hot coffee, hot tea, cold coffee, iced tea and food categories; a few specialty drink variants and one sandwich omitted.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

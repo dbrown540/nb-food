@@ -1,12 +1,583 @@
 {
  "name": "Osmanthus Dim Sum Lounge",
  "addr": "504 Broadway",
- "menu_url": "https://osmanthusdimsum.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "site links only to a JS ordering platform (bestfoodtodayus) with no server-rendered items",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=6922497f-86eb-4b75-94fe-f1d8bc3d059a",
+ "source": "restaurant's own online-ordering menu (Best Food Today ordering page linked from osmanthusdimsum.com \"View Menu & Order\", rendered in a real browser session, page text read). Online prices; in-store may differ.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed BBQ Pork Bun (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Shanghai Pork Dumpling / XLB (6)",
+   "price": 14.0,
+   "description": "pork, ginger, onion soup dumpling"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Buddha Dumpling (4)",
+   "price": 11.0,
+   "description": "vegetarian; carrot, mushroom, vermicelli"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Shanghai Crab & Pork Dumpling / XLB (4)",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Spinach Dumpling (4)",
+   "price": 12.0,
+   "description": "carrot, mixed mushroom"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Spicy Wonton (8)",
+   "price": 15.0,
+   "description": "pork and shrimp, house chili oil"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Chaozhou Dumplings (4)",
+   "price": 11.0,
+   "description": "pork, celery, mushroom, peanut"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Chicken Feet",
+   "price": 11.0,
+   "description": "black bean and BBQ sauce"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Pork Shrimp Siu Mai (4)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Pork Spareribs",
+   "price": 11.0,
+   "description": "black bean sauce"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Spicy Pork & Shrimp Siu Mai (4)",
+   "price": 12.0,
+   "description": "mala spice"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Sticky Rice in Lotus Leaf (2)",
+   "price": 11.0,
+   "description": "chicken, Chinese sausage, duck egg yolk, mushroom"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Shrimp Dumpling / Har Gow (4)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Bean Curd Skin Rolls (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Shrimp & Chive Dumpling (4)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Beef Balls (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Scallop & Shrimp Dumpling (3)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Egg Yolk Lava Bun (3)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Chicken Dumpling (4)",
+   "price": 11.0,
+   "description": "chicken, jicama"
+  },
+  {
+   "section": "Steamed Dim Sum",
+   "item": "Steamed Custard Bun (3)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Baked BBQ Pork Bun (3)",
+   "price": 11.0,
+   "description": "limited; replaced by steamed if sold out"
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Crispy Onion Pancakes (4)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Crispy Spring Roll (Veg) (4)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Curry Fish Samosa (4)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Pan Seared Mushroom Bun (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Pan Seared Pork Pot Sticker (6)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Pan Fried Turnip Cake (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "XO Turnip Cake",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Stuffed Eggplant with Shrimp (3)",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Fried Pork Puff (3)",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Fried Fish & Shrimp Ball (4)",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Fried Wonton (8)",
+   "price": 15.0,
+   "description": "pork and shrimp, sweet chili sauce"
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Fried Crab Claw (2)",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Salt & Pepper Chicken Wings (6)",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Sweet & Spicy Chicken Wings (6)",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Crispy Salt and Pepper Calamari",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Fried Sesame Ball (4)",
+   "price": 10.0,
+   "description": "lotus paste"
+  },
+  {
+   "section": "Fried & Baked Dim Sum",
+   "item": "Fried Beef Pastry (3)",
+   "price": 11.0,
+   "description": "black pepper beef"
+  },
+  {
+   "section": "Soup",
+   "item": "Hot & Sour Soup",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Soup",
+   "item": "Sweet Corn with Shredded Chicken Soup",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Soup",
+   "item": "Westlake Minced Beef Soup",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Soup",
+   "item": "Hot & Sour Wonton Soup",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Soup",
+   "item": "Shrimp Wonton Soup",
+   "price": 13.0,
+   "description": "shrimp and pork wontons, yau choy"
+  },
+  {
+   "section": "Soup",
+   "item": "Combo Noodle Soup",
+   "price": 19.0,
+   "description": "egg noodles, BBQ pork, chicken, shrimp"
+  },
+  {
+   "section": "Entree Specials",
+   "item": "General Tso's Chicken",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Szechuan Fire Cracker Chicken",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Kung Pao Chicken",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Osmanthus Sweet Chicken",
+   "price": 22.0,
+   "description": "sweet and sour, bell peppers, pineapple, osmanthus flowers"
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Black Pepper Beef",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Chinese Broccoli with Beef",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Chinese Broccoli Chicken",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Mongolian Beef",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Sizzling Beef Short Ribs",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Szechuan Boiled Beef in Flaming Chili Oil",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Szechuan Boiled Fish in Flaming Chili Oil",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Salt & Pepper Lobster",
+   "price": 38.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Kung Pao Lobster",
+   "price": 38.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Peking Duck",
+   "price": 34.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Lychee Pork",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Salt & Pepper Spare Ribs",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Sweet & Sour Spareribs",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Volcano Ribs",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Honey Walnut Prawns",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Kung Pao Shrimp",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Salt & Pepper Shrimp",
+   "price": 23.0,
+   "description": "shell on"
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Salt & Pepper Fish",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Sweet & Sour Fish",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Spicy Coconut Broth Fish",
+   "price": 25.0,
+   "description": "eggplant, string beans"
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Seafood Clay Pot",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Entree Specials",
+   "item": "Steamed Royal Clam with Vermicelli in Garlic",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "House Cucumber",
+   "price": 15.0,
+   "description": "black vinegar"
+  },
+  {
+   "section": "Vegetables",
+   "item": "Garlic Broccoli",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Mixed Vegetable Stir Fry",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Spicy Asparagus",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Spicy Eggplant",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Eggplant with String Beans",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "String Beans with XO Sauce",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Okra with XO Sauce",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Gold Sand Egg Yolk Pumpkin",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Chinese Broccoli in Oyster Sauce",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Pea Sprouts with Garlic",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Salt & Pepper Tofu",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Ma Po Tofu with Pork",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Vegetables",
+   "item": "Sizzling Tofu",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Garlic Noodles",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "House Noodles with Minced Pork",
+   "price": 20.0,
+   "description": "dan dan style, chili oil"
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Soy Sauce Chow Mein",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Chow Mein",
+   "price": 22.0,
+   "description": "beef, chicken, BBQ pork, shrimp or veg"
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Pan Fried Egg Noodles",
+   "price": 22.0,
+   "description": "beef, chicken, BBQ pork, shrimp or veg"
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Pan Fried Rice Noodles",
+   "price": 23.0,
+   "description": "beef, chicken, BBQ pork, shrimp or veg"
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Sizzling Beef Pan Fried Noodle",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Singapore Style Stir Fried Rice Noodles",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Fried Rice",
+   "price": 22.0,
+   "description": "beef, chicken, BBQ pork, shrimp or veg"
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Dried Scallop Egg White Fried Rice",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Noodles & Rice",
+   "item": "Steamed Jasmine Rice",
+   "price": 4.5,
+   "description": ""
+  }
+ ],
+ "notes": "Site hours: daily 10:30am-8pm. Dim sum counts in parentheses are pieces per order. Chinese names dropped from item names; descriptions shortened.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $22.00 of 51 prices in sections ['Entree Specials', 'Noodles & Rice', 'Vegetables']; rule L1<10, L2<18, L3<30, L4>=30"
 }

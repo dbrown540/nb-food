@@ -8,7 +8,8 @@ Inputs (produced by scripts/fetch_inspections.py; CSVs are committed):
   data/places.json                                      the POI set (built)
 
 Output:
-  data/inspections/poi_inspections.json  keyed by POI name (+ a "_meta" key)
+  data/inspections/poi_inspections.json  keyed by POI `key` (== name unless
+  several places share a name; see build.py) (+ a "_meta" key)
 
 Matching, per POI:
   name kinds   exact    normalized token sets equal
@@ -429,6 +430,7 @@ def main() -> None:
             "2024+ dataset is two feeds (typed rows loaded 2025-07; untyped rows loaded monthly since); an untyped row is dropped when a typed row for the same permit/date/status/violation_count exists (218 such duplicates).",
             "When several DPH registrations of one POI were inspected on the same day, last_score/last_status/violation_count_last take the worst of that day (last_day_inspections says how many); worst_score_all_time and *_all_time counts span all matched registrations.",
             "2024+ open data is known to lag/miss inspections versus the DPH lookup tool (inspections.myhealthdepartment.com), whose robots.txt forbids automated access; it was not fetched.",
+            "Keyed by the POI key from data/places.json (== name unless several places share a name).",
             "match_confidence: name+address = normalized name relates (exact/compact/subset/overlap/fuzzy) AND street number+street agree; name-only = exact/compact name with coordinates or zip corroboration, subset/strong-fuzzy name within SAME_M, or exact name at a differing street number within SAME_M (see address_note); none = no defensible match.",
             f"Thresholds: SAME_M={SAME_M} NEAR_M={NEAR_M} CONFLICT_M={CONFLICT_M} DF_DISTINCT={DF_DISTINCT} DF_UNIQUE={DF_UNIQUE} FUZZY_RATIO={FUZZY_RATIO} FUZZY_STRONG={FUZZY_STRONG}; NB_ZIPS={sorted(NB_ZIPS)}",
         ],
@@ -460,7 +462,7 @@ def main() -> None:
             if diag.get("multi_address"):
                 entry["multiple_addresses_merged"] = True
             entry.update(summarize(matched))
-        result[poi["name"]] = entry
+        result[poi.get("key", poi["name"])] = entry
         if verbose and conf != "name+address":
             print(f'{conf:12s} {poi["name"]!r} addr={poi.get("addr")!r} '
                   f'-> {[(b["name"], b["address"]) for b in matched][:3]} '

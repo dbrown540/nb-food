@@ -1,12 +1,715 @@
 {
  "name": "China Live",
  "addr": "644 Broadway",
- "menu_url": "https://chinalivesf.com/menu/china-live-restaurant/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "menu page renders no item text (JS/popup); SpotOn ordering is JS-only",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://places.singleplatform.com/china-live/menu",
+ "source": "restaurant website menu (chinalivesf.com/menu/china-live-restaurant embeds its SinglePlatform menu; the SinglePlatform public page's JSON-LD offer catalog parsed). Dinner + lunch menus; wine, cocktail, sake/beer, liquor and 'China Live for Home' sections omitted.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Chrysanthemum Ten Ingredient Salad, Plum Vinaigrette (vg, gf)",
+   "price": 18.0,
+   "description": "什锦茼蒿沙拉"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Shrimp & Green Papaya, Herb Salad (sf)",
+   "price": 21.0,
+   "description": "虾青木瓜沙拉"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Bang Bang Spicy Cold Noodle Salad with Chicken",
+   "price": 20.0,
+   "description": "棒棒怪味鸡沙拉"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Winter Peking Duck Salad, Asian Pears, Pomelo, Wonton Chips, Jujube Dressing (sf)",
+   "price": 21.0,
+   "description": "剁鸭沙拉"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "\"Betelnut\" Minced Chicken Lettuce Cup (gf, sf) (6) / or Tofu (vg, gf)",
+   "price": 24.0,
+   "description": "\"啤酒屋\"生菜鸡松/豆腐"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Singapore Chicken Wings with Chef Chen's Famous Chili Crisp (sf)",
+   "price": 18.0,
+   "description": "新加坡风味虾酱鸡翅"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Basket of Fried Scallion Bread (5) with Handcrafted Lemongrass Sichuan Peppercorn Jelly (vg)",
+   "price": 15.0,
+   "description": "金黄葱花卷"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Candlenut Malay Chicken Satay (gf)",
+   "price": 18.0,
+   "description": "石栗鸡肉串"
+  },
+  {
+   "section": "Dinner - Salads & Starters",
+   "item": "Dungeness Crab & Shrimp Spring Handrolls, Dual Dipping Sauce (8) (sf)",
+   "price": 24.0,
+   "description": "手工鲜蟹春卷,双味蘸酱"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "Our #1 Seller Famous Sheng Jian Bao 'SJB' Daily Made Pan-Fried Pork Dumplings (5). Hot & Juicy Inside!",
+   "price": 20.0,
+   "description": "招牌上海生煎包"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "Dongbei Vegetarian Long Pot Stickers (4) (vg)",
+   "price": 17.0,
+   "description": "东北素锅贴"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "Shanghai Xiao Long Bao 'XLB' Soup Dumplings, 18 Folds Open Chimney Kurobuta Pork with Ginger Vinegar (6)",
+   "price": 17.0,
+   "description": "上海手工小笼汤包"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "Shrimp & Scallop Shumai Dumpling (4) (sf)",
+   "price": 21.0,
+   "description": "鲜虾带子烧麦"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "Sichuan \"Working Hands\" Pork Dumplings, Sesame Butter, Peppercorn-Chili Broth (10)",
+   "price": 18.0,
+   "description": "四川红油抄手"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "\"Impossible\" Sichuan Working Hands Dumplings (10) (vt)",
+   "price": 24.0,
+   "description": "全素抄手"
+  },
+  {
+   "section": "Dinner - Dim Sum",
+   "item": "Shandong Chicken 'Shui Jiao' Dumplings with Chili Broth (sf)",
+   "price": 20.0,
+   "description": "清鸡汤辣油手工鸡肉水饺"
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "\"Peking Duck\" with Kumquat Glaze, Traditional Condiments in 5 Sesame Pockets (sf)",
+   "price": 32.0,
+   "description": "芝麻烧饼北京脆皮鸭"
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "Side of \"Peking Duck\", Traditional Condiments, with 3 Sesame Pockets (sf)",
+   "price": 35.0,
+   "description": "烤鸭盘"
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "Kurobuta Pork Char Siu, Hot Mustard (sf)",
+   "price": 21.0,
+   "description": "蜜汁叉烧"
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "Crispy-Skin Roasted Pork Belly Cubes, 'Siu Yuk\"",
+   "price": 21.0,
+   "description": "脆皮烧肉"
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "Taiwan Braised Pork Belly \"Gua Bao\" Lotus Bun (3)",
+   "price": 17.0,
+   "description": "陈老板特色五花肉刈包"
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "1/2 Crackling-Skin Cantonese Fragrant Garlic Chicken (gf)",
+   "price": 26.0,
+   "description": "蒜香脆皮鸡."
+  },
+  {
+   "section": "Dinner - Barbecue",
+   "item": "Char Siu BBQ Pork \" Dutch Crunch\" Baked Buns (3) (sf)",
+   "price": 14.0,
+   "description": "酥皮叉烧包"
+  },
+  {
+   "section": "Dinner - Cold Plates & Side Dishes",
+   "item": "Crushed Cucumber Skins, Chili Garlic Vinaigrette (vg,gf)",
+   "price": 11.0,
+   "description": "脆皮黄瓜"
+  },
+  {
+   "section": "Dinner - Cold Plates & Side Dishes",
+   "item": "Century Egg with Roasted Peppers (vt)",
+   "price": 10.0,
+   "description": "燒椒皮蛋"
+  },
+  {
+   "section": "Dinner - Cold Plates & Side Dishes",
+   "item": "Crispy, Spicy Brussel Sprouts (vg, gf)",
+   "price": 15.0,
+   "description": "脆辣球芽甘蓝"
+  },
+  {
+   "section": "Dinner - Cold Plates & Side Dishes",
+   "item": "Butter Garlic Noodles (sf)",
+   "price": 13.0,
+   "description": "黄油蒜蓉小面"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "House Famous Kung Pao \"Firecracker\"",
+   "price": 26.0,
+   "description": "招牌宫保"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Ayam Spiced Grilled Half Chicken (gf)",
+   "price": 28.0,
+   "description": "马来香料烤鸡"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Tamarind Laced Sweet & Sour Basil Glazed Baby Back Ribs (sf)",
+   "price": 28.0,
+   "description": "九层塔糖醋排骨"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Chengdu Pock Mark Ma's Mapo Tofu Claypot",
+   "price": 24.0,
+   "description": "四川麻婆豆腐"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Singapore Nonya Style Spicy Chicken Curry with Crispy Brussel Sprouts",
+   "price": 25.0,
+   "description": "新加坡风味咖喱鸡"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Wok Seared Filet Mignon 'Steak Kow,\" Snow Peas (sf)",
+   "price": 40.0,
+   "description": "锅煎黑椒牛球"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Mongolian Char-Grilled Short 'Kalbi' Ribs, Smoky Gailan",
+   "price": 34.0,
+   "description": "蒙古烤排骨,西兰花"
+  },
+  {
+   "section": "Dinner - Poultry & Pork & Beef",
+   "item": "Indochine Lamb Shank in Claypot, Fried Lentils (gf)",
+   "price": 38.0,
+   "description": "印尼羊腿"
+  },
+  {
+   "section": "Dinner - Seafood",
+   "item": "Live Local Dungeness Crab: Salt & Pepper (sf) OR Spiced Chili JiuNiang Sauce (gf, sf) OR Ginger Scallion (sf)",
+   "price": null,
+   "description": "游水新鲜蟹 :可椒盐 或 酒酿五香辣椒 或 姜 葱)."
+  },
+  {
+   "section": "Dinner - Seafood",
+   "item": "Whole Steamed Fish",
+   "price": null,
+   "description": "清蒸鱼."
+  },
+  {
+   "section": "Dinner - Seafood",
+   "item": "Sichuan Red Chili Prawns, Rice Lees, Bloomsdale Spinach (sf)",
+   "price": 36.0,
+   "description": "川酱爆虾球"
+  },
+  {
+   "section": "Dinner - Seafood",
+   "item": "Miso-Glazed Pan-Roasted Smoked Chilean Sea Bass (SCS Certified), Sweet/Sour Cucumber Namasu (gf)",
+   "price": 36.0,
+   "description": "锅烤味噌智利海鲈鱼"
+  },
+  {
+   "section": "Dinner - Seafood",
+   "item": "Sea Scallops, Lily Bulbs, Chinese Black Bean, Rice Wine Sauce (sf)",
+   "price": 36.0,
+   "description": "米酒豆豉鲜带子."
+  },
+  {
+   "section": "Dinner - Vegetable",
+   "item": "Roasted Eggplant Claypot, Basil & Shallots (vg, gf)",
+   "price": 22.0,
+   "description": "九层塔茄子"
+  },
+  {
+   "section": "Dinner - Vegetable",
+   "item": "Three Styles Spicy Tofu Medley with Seasonal Veg - Family Style (vg)",
+   "price": 23.0,
+   "description": "家常豆腐"
+  },
+  {
+   "section": "Dinner - Vegetable",
+   "item": "Yu Choi, Roasted Black Garlic (vg,gf)",
+   "price": 21.0,
+   "description": "黑蒜子菜心"
+  },
+  {
+   "section": "Dinner - Vegetable",
+   "item": "Sichuan Blistered Green Beans, Yunnan Olive, Pickled Radish, Salted Plum, Mushroom & Toon Paste (vg, gf)",
+   "price": 22.0,
+   "description": "四川干煸四季豆"
+  },
+  {
+   "section": "Dinner - Vegetable",
+   "item": "Charred Chinese Broccoli, Oyster Mushroom, Roasted Sesame Seeds (vg, gf)",
+   "price": 22.0,
+   "description": "焦烤鲜菇中式芥兰"
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "Hong Kong Wok-Fried Egg Noodles with Mushroom & Bok Choy",
+   "price": 24.0,
+   "description": "香港锅煎炒面"
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "Shanghai 'Fat' Chow Mein Pork, Shrimp, Chicken & Seasonal Vegetables",
+   "price": 23.0,
+   "description": "上海粗炒面"
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "'Dan Dan' Style Hot Dry Noodles 'ReGanMian'",
+   "price": 17.0,
+   "description": "汉口担担热干面(素)."
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "Taiwan \"Most Loved\" Lu Rou Fan Braised Minced Pork Rice Bowl, Bok Choy (sf)",
+   "price": 17.0,
+   "description": "台湾卤肉饭"
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "Yangzhou Fried Rice",
+   "price": 22.0,
+   "description": "扬州炒饭"
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "Taiwan Best Braised Beef Noodle Soup",
+   "price": 21.0,
+   "description": "台湾牛肉汤面"
+  },
+  {
+   "section": "Dinner - Rice & Noodle & Soup",
+   "item": "Steamed Jasmine Rice (vg,gf)",
+   "price": 4.0,
+   "description": "白饭"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Sesame Soft Serve, Mango Shaved Ice (vt, gf)",
+   "price": 14.0,
+   "description": "双味冰霜."
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Macha Lava Cake with Matcha Ice Cream (vt)",
+   "price": 12.0,
+   "description": "抹茶熔岩蛋糕."
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Amaretto Bread Pudding with Torched Trader Vic's Rum, Rice Lees Ice Cream (vt)",
+   "price": 15.0,
+   "description": "面包布丁"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Peking Duck Fat Popcorn (sf)",
+   "price": 14.95,
+   "description": "北京鸭口味爆米花"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Cindy's Pineapple Walnut Spice Carrot Cake (vt)",
+   "price": 13.0,
+   "description": "Cindy菠萝胡萝卜糕."
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Mandarin Chocolate Brownie with Lychee Ice Cream (vt)",
+   "price": 13.0,
+   "description": "柑橘布朗尼配荔枝冰淇淋"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Broken Fortune Cookies & Dark Chocolate (vt)",
+   "price": 12.95,
+   "description": "黑巧克力幸运角."
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Ice Cream : Lychee, Sesame or Mixed (vt, gf)",
+   "price": 12.0,
+   "description": "自选口味冰淇淋:荔枝或黑芝麻."
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Peking Duck Fat Popcorn Over Soft Serve Ice Cream (sf)",
+   "price": 12.0,
+   "description": "冰淇淋配明店爆米花."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Iron Buddha 'Tie Guan Yin' Tea",
+   "price": 5.0,
+   "description": "The finest light-oxidized Oolong tea with complex golden floral Orchid like hints. Origin - Anxi, Fujian China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Big Red Robe 'Da Hong Pao' Tea",
+   "price": 5.0,
+   "description": "Legendary mountainous Oolong tea with roasted notes and hints of fine red Burgundy. Origin - Wuyi Mountains, Fujian China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Oriental Beauty 'Dongfang Meiren Tea",
+   "price": 7.0,
+   "description": "A famous Oolong tea that is bitten by the Aphid tea bug creates a discolored beauty with honey notes. Origin - Fujian China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Dragonwell 'Long Jing' Tea",
+   "price": 5.0,
+   "description": "Nutty bittersweet with scent of hops, fresh green tea pan-roasted, flat leaves. The Queen of Green teas. Origin - Hangzhou, China (organically produced)."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Jasmine Dragon Pearls Tea",
+   "price": 5.5,
+   "description": "Smooth green tea with a rich Jasmine bouquet and natural sweetness. Hand rolled and scented multiple times with Jasmine blossoms. Origin - Fijian Province China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Spring 'Bi Luo Chun' Tea",
+   "price": 10.0,
+   "description": "Smooth green tea with a rich Jasmine bouquet and natural sweetness. Hand rolled and scented multiple times with Jasmine blossoms. Origin - Fijian Province China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "2017 Fine Aged Pu'erh Tea",
+   "price": 5.0,
+   "description": "Aged since 2017, a heavily oxidized aging tea that has an earthy roasted rice scents, soft tannins, smooth rich tea. One of Chef Chen's favorites. Origin - Yunnan China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Lapshang Souchang Tea",
+   "price": 6.0,
+   "description": "Smoky full-body smoked over pine wood and dried on bamboo. Origin - Fujian Province, China."
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "8 Treasure Tea",
+   "price": 6.0,
+   "description": "Lotus seed, longan, Jasmine Pearl Tea Blend, hawthorne, goji, jujubee date, rosebuds & rock sugar"
+  },
+  {
+   "section": "Dinner - Fine Teas",
+   "item": "Silk Road Blossom Herbal Tea",
+   "price": 6.0,
+   "description": "Silk Road Blossom Herbal Tea is a delicious dark red brew, with hints of caramel and dark honey. A rejuvenating tea high in antioxidants, it's curated with snow chyrsanthemum, baby chamomile, hawthorn, jujube (Chinese date), longan, goji berry, lotus seed and rose."
+  },
+  {
+   "section": "Dinner - Non-Alcoholic Beverages",
+   "item": "San Pellegrino Sodas",
+   "price": 3.5,
+   "description": "11.15 Fl Oz."
+  },
+  {
+   "section": "Dinner - Non-Alcoholic Beverages",
+   "item": "San Pellegrino Water",
+   "price": 3.5,
+   "description": "8.45 Fl Oz."
+  },
+  {
+   "section": "Dinner - Non-Alcoholic Beverages",
+   "item": "Kimino",
+   "price": 3.95,
+   "description": "8.45 Fl Oz."
+  },
+  {
+   "section": "Lunch - BOWLS",
+   "item": "Spicy Orange Chicken, Bok Choy, Slaw & Jasmine Rice",
+   "price": 19.0,
+   "description": "香辣橙子鸡,白菜 配 沙拉和米饭."
+  },
+  {
+   "section": "Lunch - BOWLS",
+   "item": "Char Siu BBQ Pork, Bok Choy, Slaw & Jasmine Rice",
+   "price": 19.0,
+   "description": "叉烧,白菜 配 沙拉和米饭"
+  },
+  {
+   "section": "Lunch - BIG SALADS",
+   "item": "Chrysanthemum Ten Ingredient Salad, Plum Vinaigrette (vg, gf)",
+   "price": 17.0,
+   "description": "什锦茼蒿沙拉"
+  },
+  {
+   "section": "Lunch - BIG SALADS",
+   "item": "Shrimp & Green Papaya, Herb Salad (sf)",
+   "price": 20.0,
+   "description": "虾青木瓜沙拉"
+  },
+  {
+   "section": "Lunch - BIG SALADS",
+   "item": "Bang Bang Spicy Cold Noodle Salad with Chicken",
+   "price": 18.0,
+   "description": "棒棒怪味鸡沙拉"
+  },
+  {
+   "section": "Lunch - BIG SALADS",
+   "item": "Winter Peking Duck Salad, Grapefruit & Roasted Beets,, Wonton Chips, Jujube Dressing (sf)",
+   "price": 22.0,
+   "description": "剁鸭沙拉"
+  },
+  {
+   "section": "Lunch - NOODLES & SOUP & RICE",
+   "item": "Niangao New Year Cake, Lap Cheong, House XO Sauce",
+   "price": 23.0,
+   "description": "腊肠年糕."
+  },
+  {
+   "section": "Lunch - NOODLES & SOUP & RICE",
+   "item": "Hong Kong Wok-Fried Egg Noodles with Mushroom & Bok Choy",
+   "price": 15.0,
+   "description": "香港锅煎炒面"
+  },
+  {
+   "section": "Lunch - NOODLES & SOUP & RICE",
+   "item": "Shanghai 'Fat' Chow Mein with Seasonal Vegetables",
+   "price": 15.0,
+   "description": "上海粗炒面"
+  },
+  {
+   "section": "Lunch - NOODLES & SOUP & RICE",
+   "item": "Taiwan Best Braised Beef Noodle Soup",
+   "price": 16.0,
+   "description": "台湾牛肉汤面"
+  },
+  {
+   "section": "Lunch - NOODLES & SOUP & RICE",
+   "item": "Taiwan \"Most Loved\" Lu Rou Fan Braised Minced Pork Rice Bowl, Bok Choy (sf)",
+   "price": 16.0,
+   "description": "台湾卤肉饭"
+  },
+  {
+   "section": "Lunch - NOODLES & SOUP & RICE",
+   "item": "Yangzhou Fried Rice",
+   "price": 14.0,
+   "description": "扬州炒饭"
+  },
+  {
+   "section": "Lunch - MAIN PLATES Served with Jasmine Rice",
+   "item": "House Famous Kung Pao \"Firecracker\" served with Jasmine Rice",
+   "price": 25.0,
+   "description": "招牌宫保"
+  },
+  {
+   "section": "Lunch - MAIN PLATES Served with Jasmine Rice",
+   "item": "Tamarind Laced Sweet & Sour Basil Glazed Baby Back Ribs served with Jasmine Rice (sf)",
+   "price": 25.0,
+   "description": "九层塔糖醋排骨"
+  },
+  {
+   "section": "Lunch - MAIN PLATES Served with Jasmine Rice",
+   "item": "Chengdu Pock Mark Ma's Mapo Tofu Claypot served with Jasmine Rice",
+   "price": 22.0,
+   "description": "四川麻婆豆腐"
+  },
+  {
+   "section": "Lunch - MAIN PLATES Served with Jasmine Rice",
+   "item": "Singapore Nonya Style Spicy Chicken Curry with Crispy Brussel Sprouts served with Jasmine Rice (gf)",
+   "price": 24.0,
+   "description": "新加坡风味咖喱鸡."
+  },
+  {
+   "section": "Lunch - MAIN PLATES Served with Jasmine Rice",
+   "item": "BIAN DANG LUNCH \"BOX\" 便当",
+   "price": 22.0,
+   "description": "Select a MAIN PLATE and additionally includes: Dongbei Vegetarian Long Pot Sticker (vg)  /  Crushed Cucumber Skins (vg, gf)  /  Sichuan Blistered Green Beans (vg)  /  Jasmine Rice (vg, gf)  /  Mandarin Chocolate Brownie (vt)"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Double Happiness 'Shui Jiao' Seafood Dumplings with Chili Broth",
+   "price": 23.0,
+   "description": "\"红\"双喜海鲜水饺"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Our #1 Seller Famous Sheng Jian Bao 'SJB' Daily Made Pan-Fried Pork Dumplings (5). Hot & Juicy Inside!",
+   "price": 19.0,
+   "description": "招牌上海生煎包."
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Dongbei Vegetarian Long Pot Stickers (4) (vg)",
+   "price": 16.0,
+   "description": "东北素锅贴"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Shanghai Xiao Long Bao 'XLB' Soup Dumplings, 18 Folds Open Chimney Kurobuta Pork with Ginger Vinegar (6)",
+   "price": 16.0,
+   "description": "上海手工小笼汤包."
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Shrimp & Scallop Shumai Dumpling (4) (sf)",
+   "price": 20.0,
+   "description": "鲜虾带子烧麦"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Sichuan \"Working Hands\" Pork Dumplings, Sesame Butter, Peppercorn-Chili Broth (10)",
+   "price": 17.0,
+   "description": "四川红油抄手"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "\"Impossible\" Sichuan Working Hands Dumplings (10)",
+   "price": 22.0,
+   "description": "全素抄手"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Shandong Chicken 'Shui Jiao' Dumplings with Chili Broth (sf)",
+   "price": 19.0,
+   "description": "清鸡汤辣油手工鸡肉水饺"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Betelnut\" Minced Chicken Lettuce Cup (6) (gf, sf) / or Tofu (vg, gf)",
+   "price": 22.0,
+   "description": "啤酒屋\"生菜鸡松/豆腐."
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Singapore Chicken Wings with Chef Chen's Famous Chili Crisp (sf)",
+   "price": 18.0,
+   "description": "新加坡风味虾酱鸡翅"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Basket of Fried Scallion Bread (5) (vg)",
+   "price": 12.0,
+   "description": "金黄葱花卷"
+  },
+  {
+   "section": "Lunch - DIM SUM",
+   "item": "Dungeness Crab & Shrimp Spring Handrolls, Dual Dipping Sauce (8) (sf)",
+   "price": 23.0,
+   "description": "手工鲜蟹春卷,双味蘸酱"
+  },
+  {
+   "section": "Lunch - BARBECUE",
+   "item": "\"Peking Duck\" with Kumquat Glaze, Traditional Condiments, 5 Sesame Pockets (sf)",
+   "price": 29.0,
+   "description": "芝麻烧饼北京脆皮鸭"
+  },
+  {
+   "section": "Lunch - BARBECUE",
+   "item": "Kurobuta Pork Char Siu, Hot Mustard (sf)",
+   "price": 20.0,
+   "description": "蜜汁叉烧"
+  },
+  {
+   "section": "Lunch - BARBECUE",
+   "item": "Char Siu BBQ Pork \" Dutch Crunch\" Baked Buns (3) (sf)",
+   "price": 13.0,
+   "description": "酥皮叉烧包"
+  },
+  {
+   "section": "Lunch - VEGETABLES",
+   "item": "Yu Choi, Roasted Black Garlic (vg, gf)",
+   "price": 20.0,
+   "description": "黑蒜子菜心"
+  },
+  {
+   "section": "Lunch - VEGETABLES",
+   "item": "Sichuan Blistered Green Beans, Yunnan Olive, Pickled Radish, Salted Plum, Mushroom & Toon Paste (vg, gf)",
+   "price": 21.0,
+   "description": "四川干煸四季豆"
+  },
+  {
+   "section": "Lunch - DESSERT",
+   "item": "Dessert Bao with Chocolate Ganache",
+   "price": 15.0,
+   "description": "巧克力包子"
+  },
+  {
+   "section": "Lunch - DESSERT",
+   "item": "Peking Duck Fat Popcorn (sf)",
+   "price": 14.95,
+   "description": "北京鸭口味爆米花"
+  },
+  {
+   "section": "Lunch - DESSERT",
+   "item": "Cindy's Pineapple Walnut Spice Carrot Cake (vt)",
+   "price": 12.0,
+   "description": "Cindy菠萝胡萝卜糕"
+  },
+  {
+   "section": "Lunch - DESSERT",
+   "item": "Mandarin Chocolate Brownie (vt)",
+   "price": 12.0,
+   "description": "柑橘布朗尼配荔枝冰淇淋"
+  },
+  {
+   "section": "Lunch - DESSERT",
+   "item": "Broken Fortune Cookies & Dark Chocolate (vt)",
+   "price": 12.95,
+   "description": "黑巧克力幸运角"
+  },
+  {
+   "section": "Lunch - SIDE DISHES",
+   "item": "Crushed Cucumber Skins, Chili Garlic Vinaigrette (vg, gf)",
+   "price": 10.0,
+   "description": "脆皮黄瓜"
+  },
+  {
+   "section": "Lunch - SIDE DISHES",
+   "item": "Crispy, Spicy Brussel Sprouts (vg, gf)",
+   "price": 14.0,
+   "description": "脆辣球芽甘蓝"
+  },
+  {
+   "section": "Lunch - SIDE DISHES",
+   "item": "Butter Garlic Noodles (sf)",
+   "price": 14.0,
+   "description": "黄油蒜蓉小面"
+  },
+  {
+   "section": "Lunch - SIDE DISHES",
+   "item": "Steamed Jasmine Rice (vg, gf)",
+   "price": 4.0,
+   "description": "白饭"
+  }
+ ],
+ "notes": "Two menus (dinner, lunch) kept as 'Dinner - ' / 'Lunch - ' sections; Chinese names kept as descriptions. Market-price items (live crab, whole fish) have no price. Menu text states a 20% service fee plus a 5% surcharge on food and beverage. SinglePlatform hours: Mon-Thu 12-9pm, Fri 12-9:30pm, Sat 4-9:30pm, Sun 4-9pm.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $23.50 of 30 prices in sections ['Dinner - Barbecue', 'Dinner - Poultry & Pork & Beef', 'Dinner - Seafood', 'Dinner - Vegetable', 'Dinner - Rice & Noodle & Soup']; rule L1<10, L2<18, L3<30, L4>=30"
 }

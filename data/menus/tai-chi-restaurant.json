@@ -1,0 +1,757 @@
+{
+ "name": "Tai Chi Restaurant",
+ "addr": "2031 Polk Street",
+ "menu_url": "https://menupages.com/tai-chi-chinese-restaurant/2031-polk-st-san-francisco",
+ "source": "aggregator: MenuPages (Grubhub-powered) menu page",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Home Made Pot Stickers",
+   "price": 12.7,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Egg Rolls",
+   "price": 12.7,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Meat Cheese Puffs",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fried Wontons",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Homemade Dumplings",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Green Onion Pancake",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Drumsticks",
+   "price": 15.0,
+   "description": "7 pieces."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fried Prawns",
+   "price": 14.7,
+   "description": "10 pieces."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Eggplant",
+   "price": 12.7,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Salad",
+   "price": 14.7,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Seaweed Salad",
+   "price": 13.35,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "BBQ Pork",
+   "price": 14.7,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Edamame",
+   "price": 11.25,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Spicy Wing",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "BBQ Pork Ribs",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Hot and sour soup",
+   "price": 13.75,
+   "description": "spicy"
+  },
+  {
+   "section": "Soups",
+   "item": "Wonton Soup",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Shrimp Wonton Soup",
+   "price": 16.5,
+   "description": "spicy wonton made with pork. large."
+  },
+  {
+   "section": "Soups",
+   "item": "Hunan Wor Wonton Soup",
+   "price": 16.5,
+   "description": "spicy large."
+  },
+  {
+   "section": "Soups",
+   "item": "Sizzling Rice Soup",
+   "price": 16.5,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Chinese Green with Tofu Soup",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Chicken Corn Soup",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Seaweed Egg Flower Soup",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Mushroom Chicken Noodle Soup",
+   "price": 13.75,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Seafood Soup",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Soups",
+   "item": "Hunan Wor Noodle Soup",
+   "price": 16.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Soups",
+   "item": "Spicy Beef Noodle Soup",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Sui Mai",
+   "price": 11.75,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Cilantro Shrimp Dumpling",
+   "price": 11.75,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Shrimp Dumpling",
+   "price": 11.75,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "BBQ Pork Bun",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Chicken Bun",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Pork & Vegetable Bun",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Shanghai Baby Bun",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Sesame Seed Bun",
+   "price": 11.0,
+   "description": "Steamed buns with sesame paste."
+  },
+  {
+   "section": "Dim Sum",
+   "item": "Special Choice of 3 Dim Sum",
+   "price": 31.5,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Asparagus with Shrimp",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Green Bean Shrimp",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Prawn with Broccoli",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Mu-Shu Shrimp",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Prawn with Hunan Spicy Sauce",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Salt and Pepper Prawn",
+   "price": 21.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Hunan Three Delight",
+   "price": 16.95,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Hunan Fish",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Prawn with Triple Mushroom",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Prawn with Black Bean Sauce",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Kung Pao Prawn",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Walnut Prawn",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Sweet and Sour Prawn",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Sesame Prawn",
+   "price": 21.5,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Prawns in Szechuan Sauce",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Chinese Green with Prawn",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Snow Peas with Prawns",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Curry Seafood Bowl",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Seafood",
+   "item": "Kung Pao Calamari",
+   "price": 16.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Seafood",
+   "item": "Calamari Black Bean Sauce",
+   "price": 13.25,
+   "description": ""
+  },
+  {
+   "section": "Pork",
+   "item": "Sweet and Sour Pork",
+   "price": 17.5,
+   "description": ""
+  },
+  {
+   "section": "Pork",
+   "item": "Shredded Pork with Mandarin Spicy Sauce",
+   "price": 17.5,
+   "description": ""
+  },
+  {
+   "section": "Pork",
+   "item": "Shredded Pork with Szechuan Sauce",
+   "price": 17.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Pork",
+   "item": "Mu Shu Pork",
+   "price": 17.5,
+   "description": "Includes 4 crepes."
+  },
+  {
+   "section": "Pork",
+   "item": "Twice Cooked Pork",
+   "price": 17.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Pork",
+   "item": "Shredded Pork with Green Beans",
+   "price": 18.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Pork",
+   "item": "Sauteed Shredded Pork with Press Bean Cake",
+   "price": 17.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Pork",
+   "item": "Sauteed BBQ Pork with Chinese Veggie",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Pork",
+   "item": "Salt and Pepper Rib",
+   "price": 18.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Beef with Asparagus",
+   "price": 19.5,
+   "description": "Cooked with black bean sauce."
+  },
+  {
+   "section": "Beef",
+   "item": "Mongolian Beef",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Beef with Broccoli",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Snow Peas Beef",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Beef with Black Bean Sauce",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Green Bean with Beef",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Szechuan Beef",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Mu Shu Beef",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Beef with Tender Greens",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Hunan Spicy Sauce with Beef",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Ginger Beef with Fresh Vegetables",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Sesame Beef",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Orange Beef",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Spicy Shang Tung Beef",
+   "price": 19.25,
+   "description": ""
+  },
+  {
+   "section": "Beef",
+   "item": "Curry Beef",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Beef",
+   "item": "Beef with Bean Curd",
+   "price": 19.25,
+   "description": "spicy"
+  },
+  {
+   "section": "Poultry",
+   "item": "Chicken with Asparagus",
+   "price": 18.25,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Chicken with Bean Black Sauce",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Chicken with Broccoli",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Hunan Tun-an Chicken",
+   "price": 17.75,
+   "description": "spicy"
+  },
+  {
+   "section": "Poultry",
+   "item": "Kung Pao Chicken",
+   "price": 17.75,
+   "description": "spicy"
+  },
+  {
+   "section": "Poultry",
+   "item": "Chicken with Green Bean",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Mu Shu Chicken",
+   "price": 17.75,
+   "description": "Includes four crepes."
+  },
+  {
+   "section": "Poultry",
+   "item": "Mixed Vegetables with chicken",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Szechuan Chicken",
+   "price": 17.75,
+   "description": "spicy"
+  },
+  {
+   "section": "Poultry",
+   "item": "Cashew Chicken",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "General Tsao's Chicken",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Poultry",
+   "item": "Sweet and Sour Chicken",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Lemon Chicken",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Half Peking Duck",
+   "price": 19.5,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Curry Chicken",
+   "price": 17.75,
+   "description": "spicy"
+  },
+  {
+   "section": "Poultry",
+   "item": "Chicken with Black Mushroom and Bamboo Shoots",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Poultry",
+   "item": "Mandarin Velvet Chicken",
+   "price": 17.75,
+   "description": ""
+  },
+  {
+   "section": "Rice Plate",
+   "item": "Tai Chi Rice Plate",
+   "price": 16.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Rice Plate",
+   "item": "Fried Rice",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Rice Plate",
+   "item": "Shrimp Fried Rice",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Rice Plate",
+   "item": "House Special Fried Rice",
+   "price": 16.5,
+   "description": ""
+  },
+  {
+   "section": "Rice Plate",
+   "item": "Curry Chicken and Shrimp Fried Rice",
+   "price": 16.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Chow Mein",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Chow Fun",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Prawn and Snow Pea Chow Mein",
+   "price": 16.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "House Special Chow Mein",
+   "price": 16.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Tomato Beef Chow Mein",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Hong Kong Style Noodle",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "House Special Hong Kong Style Noodle",
+   "price": 16.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Singapore Style Noodle",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Noodle",
+   "item": "Curry Beef Chow Mein",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Garlic Chicken",
+   "price": 18.5,
+   "description": "Chicken sauteed with slow toast garlic."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Mango Chicken",
+   "price": 18.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Mango Prawns",
+   "price": 19.5,
+   "description": "spicy"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Spicy Chicken with Fresh Basil",
+   "price": 18.5,
+   "description": "Green bean basil spicy plum sauce."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Garlic Prawns",
+   "price": 20.0,
+   "description": "Shrimp sauteed with slow toast garlic."
+  },
+  {
+   "section": "Chef's Special",
+   "item": "House Special Salmon Fish",
+   "price": 23.5,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Salmon with Asparagus in Black Bean Sauce",
+   "price": 21.95,
+   "description": ""
+  },
+  {
+   "section": "Chef's Special",
+   "item": "House Special Eggplant",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Minced Chicken in Lettuce Cups",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Hunan Country Chicken",
+   "price": 18.75,
+   "description": "spicy"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "Sesame Chicken",
+   "price": 19.0,
+   "description": "spicy"
+  },
+  {
+   "section": "Chef's Special",
+   "item": "General Tso's Tofu",
+   "price": 18.5,
+   "description": "spicy"
+  }
+ ],
+ "notes": "Listed website taichi-sf.com does not respond; no other official site found. Delivery-platform prices may exceed in-house prices. Capped at ~120 items: vegetable dishes, iron plates, lunch specials, desserts and drinks omitted. Hours per listings: Tue-Sat 11am-9pm, Sun noon-9pm, closed Mon.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $18.62 of 88 prices in sections ['Seafood', 'Pork', 'Beef', 'Poultry', \"Chef's Special\", 'Noodle', 'Rice Plate']; rule L1<10, L2<18, L3<30, L4>=30"
+}

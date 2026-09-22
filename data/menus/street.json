@@ -1,0 +1,12 @@
+{
+ "name": "Street",
+ "addr": "",
+ "menu_url": "https://www.streetsf.com/",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Search mentions \"Street Restaurant and Bar\" on Polk St (Russian Hill) but surfaced no official site; its former domain streetsf.com now redirects to a parked \"/lander\" page, suggesting the restaurant may have closed (not confirmed).",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

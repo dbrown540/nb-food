@@ -1,0 +1,487 @@
+{
+ "name": "Hon's Wun-Tun House (648 Kearny Street)",
+ "addr": "648 Kearny Street",
+ "menu_url": "https://www.honswuntunsf.com/_files/ugd/0302fc_948e9e0ce044414a8c0f912346d86f11.pdf",
+ "source": "restaurant website PDF (Kearny St menu, image-based; read from rendered pages)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Five Spice Tea Eggs (3 pcs)",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Curry Fish Ball (6 pcs)",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Rice Noodle Roll",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Cucumber Salad with Peanuts",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Marinated Chinese Seaweed",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Spiced Spicy Beef Tripe",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Green Onion Pancake",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Pan Fried Potsticker (6 pcs)",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Wun-tun Soup with Shrimp & Pork (10 pcs)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Dumpling Soup (8 pcs)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Seaweed and Shrimp Wun-tun Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "BBQ Pork Wun-tun Soup (8 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Beef Tendon Wun-tun Soup (8 pcs)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Beef Brisket Wun-tun Soup (8 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Wun-tun Dumpling Soup (8 pcs)",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Pig's Feet Wun-tun Soup (8 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Wun-tun & Dumpling Soup",
+   "item": "Fish Ball Wun-tun Soup (8 pcs)",
+   "price": 14.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Signature Wun-tun Noodle Soup",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Fish Ball Noodle Soup",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Dumpling Noodle Soup",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Organ Wun-tun Noodle Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Brisket & Curry Sauce Noodle Soup",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Pig's Feet Noodle Soup",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tendon Noodle Soup",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Spicy Beef Rice Noodle",
+   "price": 17.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Snow Cabbage & Shredded Pork Noodle Soup",
+   "price": 12.95,
+   "description": "Shanghai noodles"
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Stewed Beef Brisket & Wun-tun Noodle Soup",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Pickled String Bean & Minced Pork Rice Noodle",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "BBQ Pork Wun-tun Noodle Soup",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tendon Wun-tun Noodle Soup",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Curry Beef Brisket Wun-tun Noodle Soup",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Wun-tun & Dumpling Noodle Soup",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tendon & Fish Ball Noodle Soup",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Fish Ball & Stewed Beef Brisket Noodle Soup",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tendon & Stewed Beef Brisket Noodle Soup",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tendon & Beef Brisket Wun-tun Noodle Soup",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "BBQ Pork & Beef Brisket Wun-tun Noodle Soup",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Pig's Feet & Beef Tendon Wun-tun Noodle Soup",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Fish Ball & Beef Tendon Wun-tun Noodle Soup",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Beef Tripe & Beef Tendon Wun-tun Noodle Soup",
+   "price": 20.95,
+   "description": ""
+  },
+  {
+   "section": "Noodle Soup",
+   "item": "Plain Noodle Soup",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Lo Mein",
+   "item": "Stewed Beef Brisket over Noodle",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Lo Mein",
+   "item": "Beef Tendon over Noodle",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Lo Mein",
+   "item": "Beef Offal over Noodle",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Lo Mein",
+   "item": "Oyster Sauce over Noodle",
+   "price": 11.95,
+   "description": ""
+  },
+  {
+   "section": "Lo Mein",
+   "item": "Szechuan Sauce over Noodle",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Lo Mein",
+   "item": "Stewed Beef Brisket with Rice Roll",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Sichuan Spicy Wun-tun (10 pcs)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Sichuan Spicy Dumplings (8 pcs)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Green Chives & Pork Dumplings (12 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Corn & Mushroom with Chicken Dumplings (12 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Cabbage & Pork Dumplings (12 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Green Chives, Pork & Shrimp Dumplings (12 pcs)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Shepherd's Purse & Pork Dumplings (12 pcs)",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Westlake Beef Dumplings (12 pcs)",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Handmade Dumplings",
+   "item": "Veggie Dumplings (8 pcs)",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef Brisket with Rice",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "BBQ Pork with Rice",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Pig Feet with Rice",
+   "price": 13.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Curry Beef with Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef Tendon with Rice",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Boiled Chinese Flowering Cabbage",
+   "price": 14.5,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Chinese Broccoli with Oyster Sauce",
+   "price": 14.5,
+   "description": ""
+  },
+  {
+   "section": "Vegetable",
+   "item": "Lettuce in Oyster Sauce",
+   "price": 12.95,
+   "description": ""
+  },
+  {
+   "section": "Meat",
+   "item": "BBQ Pork",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Meat",
+   "item": "Beef Offal with Sauce",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Meat",
+   "item": "Stewed Beef Brisket with Special Sauce",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "Meat",
+   "item": "Pig's Feet",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "Meat",
+   "item": "Curry Beef",
+   "price": 18.95,
+   "description": ""
+  },
+  {
+   "section": "Meat",
+   "item": "Tendon with Special Sauce",
+   "price": 19.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Red Bean Sweet Soup",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Almond Pudding",
+   "price": 5.95,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Mango Pudding",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "House Special Milk Tea",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Thai Tea",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Fresh Soy Milk",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Sprite with Preserved Lemon",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Sparkling Water",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Sodas",
+   "price": 2.75,
+   "description": "Coke, Sprite, Sunkist, Ginger Ale and others"
+  }
+ ],
+ "notes": "Kearny Street branch of Hon's (separate from the Washington St location). Hours on menu: Mon-Sat 11:00-7:30pm (site says Mon-Sun 11-7:30). Noodle soups offered with egg noodle or rice noodle where marked. To-go container 30c for dine-in; 16% service charge for parties of 6+.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $15.95 of 44 prices in sections ['Noodle Soup', 'Wun-tun & Dumpling Soup', 'Lo Mein', 'Rice Plates']; rule L1<10, L2<18, L3<30, L4>=30"
+}

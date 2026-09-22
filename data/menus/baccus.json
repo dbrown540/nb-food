@@ -1,0 +1,12 @@
+{
+ "name": "Baccus",
+ "addr": "1954 Hyde Street",
+ "menu_url": "https://www.bacchussf.com/",
+ "source": "web search; official site (Bacchus wine bar) has no menu",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Likely Bacchus Wine Bar, 1954 Hyde St (small wine bar with cheese and charcuterie per listings). Official site is a placeholder blog with About/Contact pages only; no menu or prices. Match to this POI inferred from name and Hyde St location.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

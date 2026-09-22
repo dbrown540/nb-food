@@ -1,7 +1,7 @@
 {
  "source": "https://data.sf.gov/resource/pyih-qa8i.json",
  "dataset_id": "pyih-qa8i",
- "as_of": "2026-09-09",
+ "as_of": "2026-09-22",
  "rows": 53973,
  "date_min": "2016-10-04",
  "date_max": "2019-11-28",

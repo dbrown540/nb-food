@@ -1,0 +1,481 @@
+{
+ "name": "Fin Thai Eatery",
+ "addr": "2327 Polk Street",
+ "menu_url": "https://finthaisf.com/san-francisco-fin-thai-sf-food-menu",
+ "source": "restaurant website (SpotHopper food menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Seafood Salad Roll Set",
+   "price": 18.0,
+   "description": "Rice pepper wrapped, shrimp, crab sticks, carrot, lettuce, mint"
+  },
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Crispy Pork Belly Green Bean",
+   "price": 19.0,
+   "description": "Crispy pork belly, Green bean, Red curry paste, Thai shrimp paste"
+  },
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Salmon Coconut Curry",
+   "price": 28.0,
+   "description": "Salmon, Thai red curry paste, coconut milk, fish sauce served with Jasmine rice"
+  },
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Seabass Clay Pot",
+   "price": 38.0,
+   "description": "Steamed Chilean sea bass fillet, ginger, white onion, green onion, mushroom, garlic"
+  },
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Garlic Shrimp",
+   "price": 38.0,
+   "description": "White shrimps, Fried garlic, Soy sauce, Oysters sauce, Black pepper"
+  },
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Steamed Fish with Lime and Chili",
+   "price": 58.0,
+   "description": "Consists of a steamed black bass fish served with a bright"
+  },
+  {
+   "section": "HOUSE FAVORITES",
+   "item": "Roasted Duck Curry",
+   "price": 30.0,
+   "description": "Roasted duck, Red chili paste, Tomato, Pineapple, Lychee"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Fresh Rolls (V)",
+   "price": 12.0,
+   "description": "Tofu, iceberg lettuce, cucumber, carrot, vermicelli, mint"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Spring Rolls (V)",
+   "price": 12.0,
+   "description": "Deep - fried rice paper wrapped with carrot, cabbage"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Samosa (V)",
+   "price": 14.0,
+   "description": "Deep - fried pastry filled with potato, carrot"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Wing Sap",
+   "price": 14.0,
+   "description": "Deep-fried chicken wings with spicy and sour powder"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Thai Rice Sausage",
+   "price": 14.95,
+   "description": "Fermented rice pork sausage, serve with fresh ginger, chili, lime, and roasted peanut"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Crispy Prawn Rolls",
+   "price": 15.0,
+   "description": "Deep - fried rice paper wrapped with marinated tail prawn served with sweet chili sauce"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Naked Shrimp",
+   "price": 16.0,
+   "description": "Fresh raw shrimp, garlic, chili, lime served with house spicy seafood sauce"
+  },
+  {
+   "section": "STARTERS",
+   "item": "Chicken Satay",
+   "price": 16.0,
+   "description": "Marinated grilled chicken served with Peanut sauce, Cucumber salad and white bread"
+  },
+  {
+   "section": "SALADS",
+   "item": "Larb Tofu",
+   "price": 16.0,
+   "description": "Fried tofu, with Thai chili-lime dressing, Chili flakes, Shallots, Green Onions"
+  },
+  {
+   "section": "SALADS",
+   "item": "Larb Chicken",
+   "price": 18.0,
+   "description": "Ground chicken with Thai chili-lime dressing, Thai chili flakes, Roasted rice powder"
+  },
+  {
+   "section": "SALADS",
+   "item": "Papaya Salad",
+   "price": 17.95,
+   "description": "Shredded green papaya, Peanuts, Tomatoes, Thai chili, Garlic, Lime Juice"
+  },
+  {
+   "section": "SALADS",
+   "item": "Grilled Pork Shoulder Salad",
+   "price": 19.0,
+   "description": "Grilled pork shoulder with spicy Lime-based dressing, Thai chili, Roasted rice powder"
+  },
+  {
+   "section": "SALADS",
+   "item": "Crispy Duck Salad",
+   "price": 28.0,
+   "description": "Minced duck with Spicy lime dressing Red onion, Roasted rice powder, Green onions"
+  },
+  {
+   "section": "SALADS",
+   "item": "Grilled Rib Eye Salad",
+   "price": 35.0,
+   "description": "Grilled rib eye steak, with Spicy lime dressing, Red onion, Roasted rice powder"
+  },
+  {
+   "section": "GRILLED",
+   "item": "Grilled Pork Shouder",
+   "price": 17.95,
+   "description": "Marinated grilled pork shoulder served with Thai spicy sauce"
+  },
+  {
+   "section": "GRILLED",
+   "item": "Thai Skewers BBQ Pork",
+   "price": 18.95,
+   "description": "Grilled marinated pork in skewers served with sticky rice"
+  },
+  {
+   "section": "GRILLED",
+   "item": "Crying Tiger",
+   "price": 35.0,
+   "description": "Grilled marinated premium rib eye steak, served with Thai spicy sauce"
+  },
+  {
+   "section": "SOUPS",
+   "item": "Tom Yum Chicken",
+   "price": 20.0,
+   "description": "Sliced chicken, mushroom, tomato, lemongrass, kaffir lime leaf"
+  },
+  {
+   "section": "SOUPS",
+   "item": "Tom Kha Chicken",
+   "price": 20.0,
+   "description": "Sliced white meat chicken, coconut milk, mushroom, lemongrass, galangal"
+  },
+  {
+   "section": "SOUPS",
+   "item": "River Prawn Tom Yum",
+   "price": 35.0,
+   "description": "Sour and spicy creamy tom yum soup with a variety of fragrant herbs, lemongrass, galangal"
+  },
+  {
+   "section": "SOUPS",
+   "item": "Thai Stewed Beef",
+   "price": 28.0,
+   "description": "Thai stewed beef soup tender slow braised beef in a fragrant herbal broth with star anise"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Cashew Nut Chicken",
+   "price": 18.0,
+   "description": "Stir-fried chicken with cashew nut, white onion, and green onion"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Spicy Basil Chicken",
+   "price": 18.0,
+   "description": "Stir fried chicken with Thai basil, bell pepper, Thai chili, garlic"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Sweet & Sour Catfish",
+   "price": 19.0,
+   "description": "Stir fried catfish, cucumber, pineapple, green onion"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Scallop Pad Cha",
+   "price": 25.0,
+   "description": "Scallop, galangal, young peppercorn, finger root, basil and spicy Thai sauce"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Sizzling Seafood",
+   "price": 28.0,
+   "description": "Mussel, shrimp, scallop, squid, galangal, young peppercorn, finger root, basil"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Spicy Red Chili Catfish",
+   "price": 19.95,
+   "description": "Fried catfish, Bell pepper, Finger root, Young peppercorn, Thai Basil and Red chili paste"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Squid with Salted egg yolk stir fried",
+   "price": 23.0,
+   "description": "Squid, Salted egg yolk, Bell pepper, Carrot, Green onion, celery"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Spicy Pork Belly Sweet Basil",
+   "price": 19.0,
+   "description": "Crispy pork belly, Thai basil, Bell pepper, Thai Chili, Garlic"
+  },
+  {
+   "section": "A LA CARTE ENTREES",
+   "item": "Spicy Red Chili Beef",
+   "price": 19.0,
+   "description": "Sliced beef, Bell pepper, Finger root, Young peppercorn, Thai Basil and Red chili paste"
+  },
+  {
+   "section": "FRIED RICE",
+   "item": "Thai Fried Rice Chicken",
+   "price": 18.0,
+   "description": "Slice white meat chicken, egg, white onion, green onion, garlic and soy sauce"
+  },
+  {
+   "section": "FRIED RICE",
+   "item": "Pineapple Fried Rice Shrimp",
+   "price": 22.0,
+   "description": "White shrimp, pineapple, cashew nut, white onion, green onion, yellow curry powder"
+  },
+  {
+   "section": "FRIED RICE",
+   "item": "Crab Meat Fried Rice",
+   "price": 28.0,
+   "description": "Crab meat, eggs, onion, salt, and minced garlic"
+  },
+  {
+   "section": "FRIED RICE",
+   "item": "Seafood Tom Yum Fried Rice",
+   "price": 25.0,
+   "description": "Shrimp, squid, mussel, clam, galangal, lemongrass, red onion, tomatoes"
+  },
+  {
+   "section": "FRIED RICE",
+   "item": "Crispy Chicken Fried Rice",
+   "price": 19.95,
+   "description": "Fried chicken breast, Egg, Tomato, Onion, Cilantro served with sweet chili sauce"
+  },
+  {
+   "section": "FRIED RICE",
+   "item": "Grilled Pork Fried Rice",
+   "price": 22.0,
+   "description": "Grilled pork shoulder, Egg, Tomato, Onion, Cilantro served with Thai spicy sauce"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Pad See Ew",
+   "price": 18.0,
+   "description": "Stir fried flat rice noodle, Chinese broccoli, garlic, black soy sauce, egg"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Pad Thai",
+   "price": 18.0,
+   "description": "Stir fried small rice noodle, fried tofu, egg, ground peanut, bean sprout"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Crispy Noodle with Gravy Sauce",
+   "price": 25.0,
+   "description": "Fried flat noodle, shrimp, squid, chinese broccoli"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Pad Kee Mow",
+   "price": 18.0,
+   "description": "Flat rice noodle, garlic, bell pepper, Thai basil and lime leaves"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Pad Woon Sen",
+   "price": 18.0,
+   "description": "Stir fried glass noodles, Napa cabbage, White onion, Green onion, Carrot, Bell pepper"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Chicken Noodle Soup",
+   "price": 18.0,
+   "description": "Rice noodle, Sliced chicken, Bean sprouts, Chinese broccoli, Cilantro"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Khao Soi",
+   "price": 22.0,
+   "description": "Braised chicken leg quarters, Crispy thick egg noodle, Curried broth, Coconut milk"
+  },
+  {
+   "section": "NOODLES",
+   "item": "Thai Beef Noodle Soup",
+   "price": 19.95,
+   "description": "Braised beef soup, Small rice noodles, Beef stewed, Beef balls, Bean sprouts, Cilantro"
+  },
+  {
+   "section": "CURRIES",
+   "item": "Yellow Curry",
+   "price": 22.0,
+   "description": "Yellow curry powder, red chili paste, potato, onion"
+  },
+  {
+   "section": "CURRIES",
+   "item": "Roasted Duck Curry",
+   "price": 30.0,
+   "description": "Roast duck, red chili paste, tomato, pineapple"
+  },
+  {
+   "section": "CURRIES",
+   "item": "Green Curry",
+   "price": 22.0,
+   "description": "Thai green curry with creamy coconut milk flavor, cooked Eggplant, basil, carrot"
+  },
+  {
+   "section": "CURRIES",
+   "item": "Red Curry",
+   "price": 22.0,
+   "description": "Red curry paste, Eggplant, Basil, Carrot"
+  },
+  {
+   "section": "VEGETABLES",
+   "item": "Cabbage Wok Fried",
+   "price": 18.0,
+   "description": "Green cabbage, garlic, dried shrimp and fish sauce"
+  },
+  {
+   "section": "VEGETABLES",
+   "item": "Morning Glory Stir Fried",
+   "price": 18.0,
+   "description": "Water spinach, garlic, red chili, fish sauce and soy sauce, Fermented bean paste"
+  },
+  {
+   "section": "VEGETABLES",
+   "item": "Chinese Broccoli with Oyster Sauce",
+   "price": 18.0,
+   "description": "Chinese broccoli, garlic, chili and oyster sauce"
+  },
+  {
+   "section": "VEGETABLES",
+   "item": "Mixed Vegetables Stir Fried",
+   "price": 18.0,
+   "description": "Assorted vegetable, garlic, chilli"
+  },
+  {
+   "section": "VEGETABLES",
+   "item": "Green Bean Tofu",
+   "price": 18.0,
+   "description": "Fried tofu, Green Bean, Red curry paste, Thai shrimp paste"
+  },
+  {
+   "section": "VEGETABLES",
+   "item": "Egg Plant Basil Tofu",
+   "price": 18.0,
+   "description": "Fried tofu, Egg plant, Basil, Bell pepper, Chili, Garlic, Black soy sauce"
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Seafood Dipping Sauce",
+   "price": 1.5,
+   "description": "Green chili, garlic, fresh lime, sugar, vinegar, salt"
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Jasmine Rice",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Fried Egg",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Cucumber Salad",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Peanut Sauce (small)",
+   "price": 1.0,
+   "description": "large $5.00"
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Steamed Noodle",
+   "price": 5.0,
+   "description": "Steamed rice noodle"
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Steamed mixed vegetables",
+   "price": 5.0,
+   "description": "Broccoli, Carrot, Cabbage, Red bell pepper"
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Sticky Rice",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDERS",
+   "item": "Roti Bread",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "DESSERTS",
+   "item": "Ice Cream",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "DESSERTS",
+   "item": "Fried Ice Cream",
+   "price": 13.0,
+   "description": "White bread, Vanilla ice cream, Chocolate, Strawberry, Whipped cream"
+  },
+  {
+   "section": "DESSERTS",
+   "item": "Mango Sticky Rice",
+   "price": 15.0,
+   "description": "Fresh ripe mango, Sweet Thai sticky rice, Sweet coconut cream"
+  },
+  {
+   "section": "RICE PLATES",
+   "item": "Five Spices Pork Leg Over Rice (Khao Kha Moo)",
+   "price": 21.0,
+   "description": "Black peppercorns, Soy sauce, Chinese five spice powder served with Jasmine rice"
+  },
+  {
+   "section": "RICE PLATES",
+   "item": "Chicken Ginger Rice (Khao Mun Gai)",
+   "price": 21.0,
+   "description": "Steamed chicken on top ginger rice served with ginger-garlic soy sauce and chicken broth"
+  },
+  {
+   "section": "RICE PLATES",
+   "item": "BBQ Pork & Crispy Pork Belly Over Rice (Khao Moo Dang)",
+   "price": 21.0,
+   "description": "Marinated roasted pork & Crispy pork belly over rice"
+  },
+  {
+   "section": "RICE PLATES",
+   "item": "Pad Kra Prow (Spicy Basil Chicken or Beef)",
+   "price": 23.0,
+   "description": "Thai style stir fried spicy basil served with Jasmine rice and Fried egg"
+  },
+  {
+   "section": "RICE PLATES",
+   "item": "Roasted Duck Over Rice",
+   "price": 28.0,
+   "description": "Roasted duck served with Chinese broccoli and pickle jalapeño soy sauce"
+  }
+ ],
+ "notes": "Food menu only; drink and happy-hour menus on separate pages not transcribed. Online ordering via Toast.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $21.00 of 32 prices in sections ['A LA CARTE ENTREES', 'FRIED RICE', 'NOODLES', 'CURRIES', 'RICE PLATES']; rule L1<10, L2<18, L3<30, L4>=30"
+}

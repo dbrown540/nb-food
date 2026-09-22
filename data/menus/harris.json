@@ -1,0 +1,289 @@
+{
+ "name": "Harris'",
+ "addr": "2100 Van Ness Avenue",
+ "menu_url": "https://www.harrisrestaurant.com/harris-menu",
+ "source": "restaurant website (Squarespace menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Beginnings",
+   "item": "Half Dozen Oysters on the Half Shell",
+   "price": 30.0,
+   "description": "two sauces"
+  },
+  {
+   "section": "Beginnings",
+   "item": "Smoked Salmon",
+   "price": 29.0,
+   "description": "dill cream cheese, toast points"
+  },
+  {
+   "section": "Beginnings",
+   "item": "Prawn Cocktail",
+   "price": 31.0,
+   "description": ""
+  },
+  {
+   "section": "Beginnings",
+   "item": "Steamed Clams Marinière",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Beginnings",
+   "item": "Dungeness Crab Cakes",
+   "price": 32.0,
+   "description": "beurre blanc"
+  },
+  {
+   "section": "Beginnings",
+   "item": "Harris' Steak Tartare",
+   "price": 34.0,
+   "description": ""
+  },
+  {
+   "section": "Beginnings",
+   "item": "Veal Sweetbreads",
+   "price": 31.0,
+   "description": "shiitake-sherry cream sauce"
+  },
+  {
+   "section": "Beginnings",
+   "item": "Deep Fried Onion Rings or Fried Mushrooms",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Beginnings",
+   "item": "Seared & Sliced Japanese A5 Wagyu Ribeye 6oz",
+   "price": 139.0,
+   "description": ""
+  },
+  {
+   "section": "Soups and Salads",
+   "item": "Traditional Onion Soup",
+   "price": 17.0,
+   "description": "crispy fried onions"
+  },
+  {
+   "section": "Soups and Salads",
+   "item": "Soup of the Day",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Soups and Salads",
+   "item": "Harris' Caesar Salad",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Soups and Salads",
+   "item": "Iceberg Wedge Salad",
+   "price": 18.0,
+   "description": "blue cheese or ranch; add bacon $3"
+  },
+  {
+   "section": "Soups and Salads",
+   "item": "Baby Spinach Salad",
+   "price": 19.0,
+   "description": "bacon, candied pecans, apples, soy vinaigrette"
+  },
+  {
+   "section": "Soups and Salads",
+   "item": "Mixed Field Greens",
+   "price": 17.0,
+   "description": "balsamic vinaigrette; add blue cheese $3"
+  },
+  {
+   "section": "On the Side",
+   "item": "Creamed Spinach",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Spinach, steamed or sautéed",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Broccoli, steamed or sautéed",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Sautéed Asparagus",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Caramelized Onions",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Sautéed Button Mushrooms",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "On the Side",
+   "item": "Sauces (bearnaise, brandy, truffle madeira)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "Filet Mignon 12oz",
+   "price": 83.0,
+   "description": ""
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "Petite Filet Mignon 8oz",
+   "price": 69.0,
+   "description": ""
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "The Porterhouse Steak 24oz",
+   "price": 105.0,
+   "description": ""
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "The Harris Steak 16oz",
+   "price": 91.0,
+   "description": "thick bone-in New York"
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "The 49er Cut 16oz",
+   "price": 91.0,
+   "description": "boneless New York"
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "Petite Filet 8oz with Whole Maine Lobster",
+   "price": null,
+   "description": "market price; 2.5 lb lobster"
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "Petite Boneless New York 12oz",
+   "price": 76.0,
+   "description": ""
+  },
+  {
+   "section": "Aged Beef & Entrees",
+   "item": "Bone-In Ribeye Steak 20oz",
+   "price": 87.0,
+   "description": ""
+  },
+  {
+   "section": "Wagyu",
+   "item": "A5 Japanese Miyazaki Wagyu Ribeye 13oz",
+   "price": 289.0,
+   "description": ""
+  },
+  {
+   "section": "Wagyu",
+   "item": "American Wagyu Ribeye 16oz",
+   "price": 143.0,
+   "description": ""
+  },
+  {
+   "section": "Wagyu",
+   "item": "American Wagyu New York 13oz",
+   "price": 139.0,
+   "description": ""
+  },
+  {
+   "section": "Roast Prime Rib",
+   "item": "Prime Rib, Regular Cut 14oz",
+   "price": 71.0,
+   "description": "creamed spinach, baked or evening potato"
+  },
+  {
+   "section": "Roast Prime Rib",
+   "item": "Prime Rib, Executive Cut on the Bone 22oz",
+   "price": 83.0,
+   "description": "creamed spinach, baked or evening potato"
+  },
+  {
+   "section": "The Classics",
+   "item": "Steak Diane",
+   "price": 69.0,
+   "description": "filet mignon paillard, cognac-shallot demi glace"
+  },
+  {
+   "section": "The Classics",
+   "item": "Pepper Steak",
+   "price": 79.0,
+   "description": "boneless New York, cracked pepper, brandy peppercorn cream sauce"
+  },
+  {
+   "section": "The Classics",
+   "item": "American Lamb Chops",
+   "price": 82.0,
+   "description": "three grilled Colorado chops"
+  },
+  {
+   "section": "The Classics",
+   "item": "Pan Roasted Breast of Chicken",
+   "price": 45.0,
+   "description": "sherry glaze"
+  },
+  {
+   "section": "Seafood",
+   "item": "Fresh Salmon Fillet",
+   "price": 49.0,
+   "description": "rice, champagne sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "Steamed Whole Maine Lobster",
+   "price": null,
+   "description": "market price; with steamed clams"
+  },
+  {
+   "section": "Sweet Endings",
+   "item": "Baked Alaska",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Sweet Endings",
+   "item": "Carrot Cake",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Sweet Endings",
+   "item": "Vanilla Crème Brûlée",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Sweet Endings",
+   "item": "Harris' Cheesecake",
+   "price": 15.0,
+   "description": "seasonal topping"
+  },
+  {
+   "section": "Sweet Endings",
+   "item": "Trio of Sorbet or Ice Cream",
+   "price": 13.0,
+   "description": ""
+  }
+ ],
+ "notes": "Steakhouse dinner menu. Hours on site: Tue-Thu 5-9pm, Fri-Sat 5-10pm, Sun 5-9pm, closed Mon. Entrees include seasonal vegetables and a baked or evening potato. Lobster items are market price (A.Q.). Wine list and butcher shop not recorded.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $83.00 of 17 prices in sections ['Aged Beef & Entrees', 'Wagyu', 'Roast Prime Rib', 'The Classics', 'Seafood']; rule L1<10, L2<18, L3<30, L4>=30"
+}

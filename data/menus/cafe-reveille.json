@@ -1,0 +1,199 @@
+{
+ "name": "Cafe Réveille",
+ "addr": "1998 Polk Street",
+ "menu_url": "https://www.cafereveille.com/russian-hill-menu",
+ "source": "restaurant website PDFs (Squarespace; breakfast, lunch, brunch; pdftotext)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Breakfast",
+   "item": "Breakfast Sandwich",
+   "price": 11.0,
+   "description": "scrambled eggs, cheddar, bacon, poppy seed kaiser; \"the works\" +$2.75"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Homestyle Breakfast",
+   "price": 17.0,
+   "description": "two eggs, smashed golden potato, toast, bacon/merguez/avocado"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Breakfast Burrito",
+   "price": 13.0,
+   "description": "black beans, avocado, salsa roja, potato, egg, cheddar; w/ meat $15"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Breakfast Bowl",
+   "price": 16.0,
+   "description": "two eggs, avocado, vegetables, green tahini, over rice, quinoa, lentils"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Shakshuka",
+   "price": 16.0,
+   "description": "two poached eggs, spicy tomato sauce, yogurt sauce, levain"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Chilaquiles (weekend brunch)",
+   "price": 18.0,
+   "description": "salsa roja, crema, fried eggs, queso fresco, avocado, black beans"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Mushroom Hash (weekend brunch)",
+   "price": 18.0,
+   "description": "fingerling potato, mushrooms, sunny eggs, mustard butter"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Yogurt",
+   "price": 10.0,
+   "description": "cacao granola, Straus yogurt, seasonal fruit"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Coconut Chia Pudding",
+   "price": 8.0,
+   "description": "almond milk, apricot compote, date crumble"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Levain Toast",
+   "price": 6.5,
+   "description": "avocado, olive oil; fried egg +$2.50"
+  },
+  {
+   "section": "Acai & Pitaya Bowls",
+   "item": "Acai Bowl",
+   "price": 16.0,
+   "description": "granola, berries, kiwi, banana, cacao nibs, bee pollen, coconut"
+  },
+  {
+   "section": "Acai & Pitaya Bowls",
+   "item": "Pitaya Bowl",
+   "price": 16.0,
+   "description": "granola, berries, banana, kiwi, cacao nibs, bee pollen, coconut"
+  },
+  {
+   "section": "Acai & Pitaya Bowls",
+   "item": "Coconut Bowl",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Acai & Pitaya Bowls",
+   "item": "Spirulina Bowl",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Crunchy Bowl",
+   "price": 17.0,
+   "description": "sweet potato, shiitake, kale, avocado, crunchy rice, peanut"
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Tahini Squash Bowl",
+   "price": 17.0,
+   "description": "squash, poached egg, lentils, rice, quinoa, green tahini"
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Falafel Bowl",
+   "price": 17.0,
+   "description": "falafel, avocado, poached egg, lentils, rice, quinoa"
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Plantain Bowl",
+   "price": 17.0,
+   "description": "fried plantain, black bean, avocado, cabbage, smoky sauce"
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Kale Salad",
+   "price": 16.0,
+   "description": "quinoa, avocado, cucumber, currants, almonds, sumac-lemon"
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Halloumi Salad",
+   "price": 17.0,
+   "description": "seared halloumi, tomato, cucumber, pepitas, crispy chickpeas"
+  },
+  {
+   "section": "Bowls and Salads",
+   "item": "Psychedelic Psalad",
+   "price": 17.0,
+   "description": "arugula, cabbage, white bean, bacon, pickled onions, pecorino"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spicy Rigatoni",
+   "price": 18.0,
+   "description": "vodka sauce, basil, parmesan"
+  },
+  {
+   "section": "Pasta",
+   "item": "Funguy Pasta",
+   "price": 18.0,
+   "description": "crimini, bechamel, orecchiette, parmesan, Sichuan chili crisp"
+  },
+  {
+   "section": "Sandwiches and Burgers",
+   "item": "BBAA",
+   "price": 18.0,
+   "description": "bacon, beet, avocado, arugula, creme fraiche, focaccia, side salad"
+  },
+  {
+   "section": "Sandwiches and Burgers",
+   "item": "Levantine Sandwich",
+   "price": 18.0,
+   "description": "green tahini, yogurt, cabbage, schoog, chicken or falafel, fries"
+  },
+  {
+   "section": "Sandwiches and Burgers",
+   "item": "Reveille Burger",
+   "price": 18.0,
+   "description": "two patties, cheddar, grilled & raw onion, special sauce, fries"
+  },
+  {
+   "section": "Sandwiches and Burgers",
+   "item": "Classic Burger",
+   "price": 18.0,
+   "description": "two patties, American cheese, house mayo, fries"
+  },
+  {
+   "section": "Sandwiches and Burgers",
+   "item": "Grilled Chicken Sandwich",
+   "price": 18.0,
+   "description": "brioche, white cheddar, grilled onion, sriracha aioli, fries"
+  },
+  {
+   "section": "Sandwiches and Burgers",
+   "item": "Fish Sandwich",
+   "price": 18.0,
+   "description": "beer-battered rock cod, slaw, jalapenos, Russian dressing, fries"
+  },
+  {
+   "section": "Sides",
+   "item": "Falafel / Fries / Golden Potato / Merguez / Bacon",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Chicken Breast",
+   "price": 6.0,
+   "description": ""
+  }
+ ],
+ "notes": "Site lists hours daily 7:30am-5pm, walk-ins only. Breakfast Mon-Fri 7:30-11:15am, lunch Mon-Fri 11:15am-4pm, brunch Sat-Sun 7:30am-4pm. Menus state a 3% surcharge per bill. Coffee and juice/smoothie menu not extracted. Order-ahead via Square.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $17.00 of 25 prices in sections ['Breakfast', 'Bowls and Salads', 'Sandwiches and Burgers', 'Pasta']; rule L1<10, L2<18, L3<30, L4>=30"
+}

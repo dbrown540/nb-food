@@ -1,0 +1,367 @@
+{
+ "name": "Cioppino's",
+ "addr": "400 Jefferson Street",
+ "menu_url": "https://www.cioppinosf.com/menu",
+ "source": "restaurant website (Squarespace menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Garlic Bread",
+   "price": 9.0,
+   "description": "oven-toasted sourdough, herb butter, fresh garlic"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Red Chili Shrimp & Calamari",
+   "price": 21.0,
+   "description": "spicy garlic-chili sauce, white wine, peppers, onions, Gorgonzola crostini"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Calamari",
+   "price": 21.0,
+   "description": "deep-fried, cocktail sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Seafood Dip",
+   "price": 19.0,
+   "description": "warm cheese and spinach dip with shrimp and crabmeat"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Prawn Cocktail",
+   "price": 21.0,
+   "description": "chilled prawns, cocktail sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mozzarella Cakes",
+   "price": 13.0,
+   "description": "breaded mozzarella, pomodoro sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Fries",
+   "price": 10.0,
+   "description": "roasted garlic, Romano"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fresh Mussels",
+   "price": 19.0,
+   "description": "tomato basil or garlic cream"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Local Dungeness Crab Cakes",
+   "price": 28.0,
+   "description": "pesto and chili aiolis"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Fish Tacos",
+   "price": 17.0,
+   "description": "two fried snapper tacos, coleslaw, avocado, chili aioli"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Popcorn Shrimp",
+   "price": 20.0,
+   "description": "cocktail sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Steamed Clams",
+   "price": 21.0,
+   "description": "butter, fennel, tomatoes, garlic, basil, white wine"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Insalata Caprese",
+   "price": 16.0,
+   "description": "mozzarella, tomatoes, basil"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Bruschetta",
+   "price": 10.0,
+   "description": "grilled sourdough, tomatoes, garlic, basil"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Clam Chowder (cup)",
+   "price": 9.0,
+   "description": "bowl $14; sourdough bread bowl $17"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Classic Minestrone (cup)",
+   "price": 8.0,
+   "description": "bowl $12"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Soup & Salad Combo",
+   "price": 22.0,
+   "description": "chowder in bread bowl with mixed green salad"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Classic Caesar Salad (small)",
+   "price": 13.0,
+   "description": "large $15"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Blackened Salmon Caesar",
+   "price": 29.0,
+   "description": ""
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Italian Cobb Salad",
+   "price": 24.0,
+   "description": "grilled chicken, bacon, egg, tomatoes, blue cheese"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Fisherman's Wharf Louie Salad",
+   "price": 38.0,
+   "description": "shrimp and 3 oz Dungeness crabmeat, Louie dressing"
+  },
+  {
+   "section": "Soups & Salad",
+   "item": "Mixed Green Salad (small)",
+   "price": 14.0,
+   "description": "large $16; candied walnuts, Gorgonzola"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "1/2 lb. Hamburger",
+   "price": 19.0,
+   "description": "Angus beef, with fries or coleslaw"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Salmon BLT",
+   "price": 27.0,
+   "description": "grilled salmon on sourdough, pesto aioli"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Chicken Club",
+   "price": 23.0,
+   "description": "grilled chicken, bacon, provolone, pesto aioli"
+  },
+  {
+   "section": "Pizzas",
+   "item": "Margherita",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Pepperoni & Mushroom",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Combination",
+   "price": 25.0,
+   "description": "sausage, pepperoni, peppers, mushrooms"
+  },
+  {
+   "section": "Pizzas",
+   "item": "Four Cheese",
+   "price": 24.0,
+   "description": "Romano, mozzarella, Parmesan, fontina"
+  },
+  {
+   "section": "Pizzas",
+   "item": "Vegetarian",
+   "price": 23.0,
+   "description": "caramelized onions, mushrooms, olives, feta"
+  },
+  {
+   "section": "Pastas",
+   "item": "Fettuccine Alfredo",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Pastas",
+   "item": "Seafood Fettuccine",
+   "price": 33.0,
+   "description": "salmon, shrimp, clams, mussels, marinara"
+  },
+  {
+   "section": "Pastas",
+   "item": "Linguini & Meatballs",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Pastas",
+   "item": "Lasagna",
+   "price": 25.0,
+   "description": "Bolognese, ricotta, Parmesan, mozzarella, Romano"
+  },
+  {
+   "section": "Pastas",
+   "item": "Shrimp Aurora",
+   "price": 30.0,
+   "description": "garlic, zucchini, tomatoes, creamy pomodoro, linguini"
+  },
+  {
+   "section": "Pastas",
+   "item": "Chicken Penne",
+   "price": 28.0,
+   "description": "pancetta, mushrooms, peas, white wine cream"
+  },
+  {
+   "section": "Pastas",
+   "item": "Linguini Carbonara",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Pastas",
+   "item": "Scampi Linguini",
+   "price": 29.0,
+   "description": "jumbo shrimp, garlic, white wine lemon butter"
+  },
+  {
+   "section": "Pastas",
+   "item": "Penne Bolognese",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Pastas",
+   "item": "Linguini with Clams",
+   "price": 31.0,
+   "description": "tomato basil or white wine lemon butter"
+  },
+  {
+   "section": "Pastas",
+   "item": "Pesto Tortellini",
+   "price": 24.0,
+   "description": "cheese tortellini, creamy pesto"
+  },
+  {
+   "section": "Pastas",
+   "item": "Penne Pomodoro",
+   "price": 19.0,
+   "description": ""
+  },
+  {
+   "section": "Signature Dishes",
+   "item": "Cioppino",
+   "price": 55.0,
+   "description": "Dungeness crab legs, clams, mussels, snapper, calamari, shrimp, tomato broth"
+  },
+  {
+   "section": "Signature Dishes",
+   "item": "Garlic-Roasted Dungeness Crab",
+   "price": 65.0,
+   "description": "whole crab, olive oil, lemon, garlic (or steamed)"
+  },
+  {
+   "section": "Fresh Fish",
+   "item": "Blackened Pacific Snapper",
+   "price": 31.0,
+   "description": "wild rice, vegetables, sun-dried tomato basil butter"
+  },
+  {
+   "section": "Fresh Fish",
+   "item": "Grilled Salmon",
+   "price": 35.0,
+   "description": "lemon butter caper sauce, mashed potatoes"
+  },
+  {
+   "section": "Fresh Fish",
+   "item": "White Sea Bass",
+   "price": 37.0,
+   "description": "pan-seared, Puttanesca sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Fried Prawns",
+   "price": 27.0,
+   "description": "coleslaw, fries"
+  },
+  {
+   "section": "Entrees",
+   "item": "Fish and Chips",
+   "price": 26.0,
+   "description": "Pacific snapper"
+  },
+  {
+   "section": "Entrees",
+   "item": "Fisherman's Platter",
+   "price": 32.0,
+   "description": "fried shrimp, calamari, snapper, fries"
+  },
+  {
+   "section": "Entrees",
+   "item": "Seafood Risotto",
+   "price": 30.0,
+   "description": "shrimp, baby scallops, mussels"
+  },
+  {
+   "section": "Entrees",
+   "item": "Angus Ribeye Steak",
+   "price": 52.0,
+   "description": "14 oz, Gorgonzola butter"
+  },
+  {
+   "section": "Entrees",
+   "item": "Bacon-Wrapped Prawns",
+   "price": 32.0,
+   "description": "lemon butter caper sauce, wild rice"
+  },
+  {
+   "section": "Entrees",
+   "item": "Roasted Shellfish Medley",
+   "price": 57.0,
+   "description": "crab legs, jumbo shrimp, clams, mussels, garlic pasta"
+  },
+  {
+   "section": "Entrees",
+   "item": "Creamy Tuscan Chicken",
+   "price": 25.0,
+   "description": "brandy mushroom cream sauce"
+  },
+  {
+   "section": "Desserts",
+   "item": "Baked Apple Tart",
+   "price": 11.0,
+   "description": "a la mode"
+  },
+  {
+   "section": "Desserts",
+   "item": "Creme Brulee",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Tiramisu",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Molten Chocolate Cake",
+   "price": 11.0,
+   "description": "a la mode"
+  }
+ ],
+ "notes": "Hours Sun-Thu 11am-9:30pm, Fri-Sat 11am-10pm. Salad/pasta add-ons, kids menu and drinks omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $27.50 of 30 prices in sections ['Pizzas', 'Pastas', 'Signature Dishes', 'Fresh Fish', 'Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

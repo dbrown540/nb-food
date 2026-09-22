@@ -1,0 +1,175 @@
+{
+ "name": "Square Pie Guys",
+ "addr": "845 Beach Street",
+ "menu_url": "https://www.squarepieguys.com/menu",
+ "source": "restaurant website (Squarespace menu page, brand-wide)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Pizza",
+   "item": "Da Grubby Pie",
+   "price": 24.0,
+   "description": "white sauce, pickled jalapeños, gochujang bbq chicken, alabama white sauce, green onions"
+  },
+  {
+   "section": "Pizza",
+   "item": "Lemon Pepper Pie",
+   "price": 23.5,
+   "description": "white sauce, crispy fried chicken, lemon pepper, ranch, green onions"
+  },
+  {
+   "section": "Pizza",
+   "item": "The Pepperoni",
+   "price": 23.5,
+   "description": "red sauce, 48 pepperonis"
+  },
+  {
+   "section": "Pizza",
+   "item": "The Big Von",
+   "price": 24.5,
+   "description": "white sauce, italian sausage, pepperoni, mike's hot honey"
+  },
+  {
+   "section": "Pizza",
+   "item": "Mush-O-Roni",
+   "price": 24.0,
+   "description": "red sauce, mushrooms, pepperoni, hot honey, grana"
+  },
+  {
+   "section": "Pizza",
+   "item": "Plant Supreme",
+   "price": 23.5,
+   "description": "mushrooms, kalamata olives, red peppers, grilled red onions, grana, red sauce"
+  },
+  {
+   "section": "Pizza",
+   "item": "Ellen Supreme",
+   "price": 24.5,
+   "description": "vodka sauce, pepperoni, italian sausage, red onions, red peppers, mushrooms"
+  },
+  {
+   "section": "Pizza",
+   "item": "How Mush-Room",
+   "price": 23.0,
+   "description": "white sauce, mushrooms, grana"
+  },
+  {
+   "section": "Pizza",
+   "item": "Regular Square",
+   "price": 20.0,
+   "description": "red sauce, fresh mozzarella, grana, basil"
+  },
+  {
+   "section": "Pizza",
+   "item": "The Hawaiian",
+   "price": 24.5,
+   "description": "vodka sauce, pineapple, pickled jalapeños, cupping pepperonis, grana, green onions"
+  },
+  {
+   "section": "Pizza",
+   "item": "Spicy Pepperoni",
+   "price": 24.5,
+   "description": "vodka sauce, 48 cupping pepperonis, pickled jalapeños, spicy ranch"
+  },
+  {
+   "section": "Pizza",
+   "item": "Buffalo Chicken",
+   "price": 23.5,
+   "description": "buffalo parm sauce, crispy buffalo chicken, ranch, buffalo drizzle, green onions"
+  },
+  {
+   "section": "Pizza",
+   "item": "Create Your Own",
+   "price": 19.5,
+   "description": "starting price; 1 sauce, up to 4 toppings (meats $2, veggies $1), up to 2 finishes ($1)"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "House Salad",
+   "price": 11.5,
+   "description": "romaine, carrots, tomatoes, brioche croutons, green onions, grana, red wine vinaigrette"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Chilled Bowl Salad",
+   "price": 14.0,
+   "description": "kale & romaine, brussels sprouts, cherry tomato, sunflower seeds, garbanzo, tomato garlic vin."
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Kale Caesar",
+   "price": 13.0,
+   "description": "kale & romaine, cherry tomato, brioche crouton, grana, green goddess"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Hot Honey Buffalo Wings",
+   "price": 15.0,
+   "description": "six jumbo wings, carrot sticks, blue cheese or ranch"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Szechuan Wings",
+   "price": 15.0,
+   "description": "six jumbo wings, szechuan dry fry, green onions, cilantro lime crema"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Buffalo Wings",
+   "price": 15.0,
+   "description": "six jumbo wings, carrot sticks, blue cheese or ranch"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Lemon Pepper Wings",
+   "price": 15.0,
+   "description": "six jumbo wings, lemon pepper, green onions, carrot sticks, ranch"
+  },
+  {
+   "section": "Greens + Wings",
+   "item": "Plain Wings",
+   "price": 15.0,
+   "description": "six jumbo wings, extra crispy, green onions, carrot sticks, ranch"
+  },
+  {
+   "section": "Sides",
+   "item": "Crispy Brussels",
+   "price": 13.0,
+   "description": "brussels sprouts, szechuan dry rub, cilantro lime crema"
+  },
+  {
+   "section": "Sides",
+   "item": "Fries",
+   "price": 6.5,
+   "description": "garlic fries +$1"
+  },
+  {
+   "section": "Sides",
+   "item": "Cheesy Bread",
+   "price": 9.0,
+   "description": "side of red sauce"
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic Cheesy Bread",
+   "price": 11.0,
+   "description": "side of red sauce"
+  },
+  {
+   "section": "Sweets",
+   "item": "Square Cookie",
+   "price": 9.0,
+   "description": "chocolate chip cookie, white chocolate sauce, sprinkles, maldon salt"
+  },
+  {
+   "section": "Sweets",
+   "item": "Square Brownie",
+   "price": 12.0,
+   "description": "brownie, white chocolate sauce, sprinkles, maldon salt"
+  }
+ ],
+ "notes": "Detroit-style pizza; one brand-wide menu for all Bay Area locations (beer, wine and soft drinks vary by location, unpriced). Pizzas come with a cheddar edge and mozzarella, 6- or 8-cut. Dipping sauces omitted. Da Grubby Pie listed as in-store and Uber Eats exclusive.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $23.50 of 13 prices in sections ['Pizza']; rule L1<10, L2<18, L3<30, L4>=30"
+}

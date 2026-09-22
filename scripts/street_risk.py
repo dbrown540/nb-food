@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
-"""Street risk per North Beach POI: SFPD incidents within 150 m, trailing 365 days.
+"""Street risk per POI: SFPD incidents within 150 m, trailing 365 days.
 
 ONE bulk DataSF query (police incidents, dataset wg3w-h783, on the data.sf.gov
-domain -- data.sfgov.org now 403s) for every incident in the North Beach bbox
-(padded by 200 m so edge POIs keep their full 150 m circle) in the window,
-paged at $limit=50000, saved to data/crime/nb_incidents_365d.json.
-Distances are then computed locally (haversine) for every POI in
-data/places.json (lat/lon for curated `extras` come from data/curated.json,
-since build.py strips them). Output: data/crime/poi_street_risk.json keyed by
-POI name.
+domain -- data.sfgov.org now 403s) for every incident in the bbox of the POI
+set in data/places.json (padded by 200 m so edge POIs keep their full 150 m
+circle) in the window, paged at $limit=50000, saved to
+data/crime/nb_incidents_365d.json. Distances are then computed locally
+(haversine) for every POI (lat/lon for curated `extras` come from
+data/curated.json, since build.py strips them). Output:
+data/crime/poi_street_risk.json keyed by the POI `key` (== name unless the
+name is shared by several places; see build.py). The percentile is ranked
+within the whole set, i.e. every neighborhood in the index.
 
 Counting rule: the dataset has one ROW per incident code, so one incident can
 carry several rows (e.g. Assault + Other Miscellaneous). We count DISTINCT
@@ -31,11 +33,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://data.sf.gov/resource/wg3w-h783.json"
 UA = "nb-food/0.2 (personal research; danny@therenthacker.com)"
-NB_BBOX = (37.7925, -122.4180, 37.8085, -122.4020)  # south, west, north, east (the POI bbox)
 RADIUS_M = 150
-PULL_PAD_M = 200  # pull bbox = NB bbox grown by this, so a POI on the edge still gets its full circle
-PULL_BBOX = (NB_BBOX[0] - PULL_PAD_M / 111320, NB_BBOX[1] - PULL_PAD_M / (111320 * 0.79),
-             NB_BBOX[2] + PULL_PAD_M / 111320, NB_BBOX[3] + PULL_PAD_M / (111320 * 0.79))
+PULL_PAD_M = 200  # pull bbox = POI bbox grown by this, so a POI on the edge still gets its full circle
 WINDOW_DAYS = 365
 PAGE = 50000
 FIELDS = ["row_id", "incident_id", "incident_number", "incident_datetime", "incident_code",
@@ -76,8 +75,21 @@ def get(params, timeout=120):
     raise SystemExit("DataSF query failed")
 
 
-def fetch_incidents(since_iso):
-    s, w, n, e = (round(v, 5) for v in PULL_BBOX)
+def poi_bbox(pois):
+    """(south, west, north, east) of the POI set, rounded outward to 1e-4 deg."""
+    lats = [p[3] for p in pois]
+    lons = [p[4] for p in pois]
+    return (math.floor(min(lats) * 1e4) / 1e4, math.floor(min(lons) * 1e4) / 1e4,
+            math.ceil(max(lats) * 1e4) / 1e4, math.ceil(max(lons) * 1e4) / 1e4)
+
+
+def pull_bbox(bbox):
+    return (bbox[0] - PULL_PAD_M / 111320, bbox[1] - PULL_PAD_M / (111320 * 0.79),
+            bbox[2] + PULL_PAD_M / 111320, bbox[3] + PULL_PAD_M / (111320 * 0.79))
+
+
+def fetch_incidents(since_iso, box):
+    s, w, n, e = (round(v, 5) for v in box)
     where = (f"within_box(point, {n}, {w}, {s}, {e}) AND incident_datetime >= '{since_iso}'")
     rows, offset, t0 = [], 0, time.time()
     while True:
@@ -102,7 +114,7 @@ def load_pois():
         if lat is None:
             missing.append(p["name"])
             continue
-        pois.append((p["name"], p["category"], p.get("subtype"), lat, lon))
+        pois.append((p.get("key", p["name"]), p["category"], p.get("subtype"), lat, lon))
     return pois, missing
 
 
@@ -161,15 +173,21 @@ def compute(rows, pois, meta):
 
 def main():
     now = datetime.now(timezone.utc)
+    pois, missing = load_pois()
+    log(f"POIs: {len(pois)} with coordinates, {len(missing)} without: {missing}")
+    box = poi_bbox(pois)
     if "--cached" in sys.argv and RAW.exists():
         raw = json.loads(RAW.read_text())
         log(f"cached: {len(raw['rows'])} rows fetched {raw['fetched_at']}")
+        if any(a < b for a, b in zip(raw["poi_bbox"][:2], box[:2])) or \
+                any(a > b for a, b in zip(raw["poi_bbox"][2:], box[2:])):
+            raise SystemExit(f"cached pull bbox {raw['poi_bbox']} does not cover the POI set {box}; re-run without --cached")
     else:
         since = (now - timedelta(days=WINDOW_DAYS)).strftime("%Y-%m-%dT00:00:00")
-        rows, where, secs = fetch_incidents(since)
+        rows, where, secs = fetch_incidents(since, pull_bbox(box))
         log(f"fetched {len(rows)} rows in {secs}s")
         raw = {"source": "DataSF Police Department Incident Reports 2018-present (wg3w-h783)",
-               "endpoint": BASE, "nb_bbox": NB_BBOX, "pull_bbox": [round(v, 5) for v in PULL_BBOX],
+               "endpoint": BASE, "poi_bbox": box, "pull_bbox": [round(v, 5) for v in pull_bbox(box)],
                "pull_pad_m": PULL_PAD_M, "where": where,
                "fetched_at": now.isoformat(timespec="seconds"), "window_start": since,
                "fetch_seconds": secs, "rows": rows}
@@ -179,20 +197,19 @@ def main():
     latest = max((r.get("incident_datetime") or "" for r in rows), default=None)
     meta = {
         "source": f"{raw['source']} via {BASE}; pull bbox {','.join(str(v) for v in raw['pull_bbox'])} "
-                  f"(NB bbox {','.join(str(v) for v in NB_BBOX)} + {raw['pull_pad_m']} m pad)",
+                  f"(POI bbox {','.join(str(v) for v in raw['poi_bbox'])} + {raw['pull_pad_m']} m pad)",
         "as_of": raw["fetched_at"],
         "window": {"days": WINDOW_DAYS, "start": raw["window_start"], "end": raw["fetched_at"],
                    "latest_incident_in_pull": latest},
     }
-    pois, missing = load_pois()
-    log(f"POIs: {len(pois)} with coordinates, {len(missing)} without: {missing}")
     result, n_incidents = compute(rows, pois, meta)
     doc = {"_meta": {**meta, "radius_m": RADIUS_M, "pois": len(pois), "pois_missing_coords": missing,
                      "bbox_rows": len(rows), "bbox_distinct_incidents": n_incidents,
                      "buckets": {k: sorted(v) for k, v in BUCKETS.items()},
                      "counting": "distinct incident_id per bucket; total = distinct incidents in any bucket; "
                                  "all_incidents = distinct incidents of any category within radius",
-                     "percentile": "% of the POI set with a strictly lower total (0 = calmest); rank 1 = highest",
+                     "percentile": "% of the whole POI set (all neighborhoods in data/places.json) with a strictly lower total (0 = calmest); rank 1 = highest",
+                     "keyed_by": "POI key from data/places.json (== name unless several places share a name)",
                      "caveat": "incidents are geocoded to intersections/block points (~390 distinct points in this "
                                "pull), so counts are lumpy at 150 m; total=0 with nearest_incident_m>150 is a "
                                "geocoding gap, not a calm block. Reports without a location are excluded upstream.",

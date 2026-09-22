@@ -1,0 +1,12 @@
+{
+ "name": "House Rules",
+ "addr": "2227 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/house-rules-san-francisco",
+ "source": "web search only (listings); old site houserules-sf.com not used",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp marks House Rules (sports bar, 2227 Polk St) as CLOSED and Foursquare lists it as now closed. The POI's \"mexican\" cuisine tag may reflect a successor business at the address; not verified.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

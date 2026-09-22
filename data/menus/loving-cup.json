@@ -1,0 +1,12 @@
+{
+ "name": "Loving Cup",
+ "addr": "2356 Polk Street",
+ "menu_url": "https://www.lovingcup.com/swirl-shops",
+ "source": "restaurant website (lovingcup.com locations page) plus web search",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "The Polk St shop appears closed: the brand's current locations page lists only Divisadero (NOPA) and Greenbrae, Yelp marks 2356 Polk St as closed, and lovingcupsf.com is an old archived placeholder. Address from listings.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

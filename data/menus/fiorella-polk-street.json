@@ -1,0 +1,193 @@
+{
+ "name": "Fiorella Polk Street",
+ "addr": "2238;2240 Polk Street",
+ "menu_url": "http://www.fiorella-sf.com/s/POLK-DINNER-MENU92126GOLD.pdf",
+ "source": "restaurant website PDF (pdftotext), Polk dinner menu",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Antipasti",
+   "item": "Marinated Italian Olives",
+   "price": 11.0,
+   "description": "rosemary, coriander, orange"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Warm Fig Crostino",
+   "price": 18.0,
+   "description": "whipped ricotta, aged Lambrusco balsamic, pistachios"
+  },
+  {
+   "section": "Antipasti",
+   "item": "OG Baby Lettuce Salad",
+   "price": 20.0,
+   "description": "little gems, cucumbers, fennel, radishes, creamy avocado Italian dressing"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Early Summer Farro Salad",
+   "price": 18.0,
+   "description": "sweet 100 tomatoes, cucumbers, corn, tomato vinaigrette"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Burrata & Heirloom Tomatoes",
+   "price": 24.0,
+   "description": "basil oil, sea salt"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Stone Fruit & Stracciatella",
+   "price": 20.0,
+   "description": "apricot, peaches, warm spices, hazelnuts"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Brentwood Corn Arancini",
+   "price": 16.0,
+   "description": "mozzarella, fontina, tarragon ricotta"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Asparagus Fritti",
+   "price": 15.0,
+   "description": "lemon, Parmigiano"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Wood-Roasted Shishito Peppers",
+   "price": 14.0,
+   "description": "anchovy dressing, lemon, Parmigiano, breadcrumbs"
+  },
+  {
+   "section": "Carne & Pesce",
+   "item": "Herbed Chicken Wings",
+   "price": 20.0,
+   "description": "garlic, lemon, Fiorella ranch"
+  },
+  {
+   "section": "Carne & Pesce",
+   "item": "Nonna's Meatballs",
+   "price": 22.0,
+   "description": "marinara, Parmigiano, parsley"
+  },
+  {
+   "section": "Carne & Pesce",
+   "item": "Wood-Roasted Octopus",
+   "price": 24.0,
+   "description": "ceci puree, pistachio olive salsa"
+  },
+  {
+   "section": "Carne & Pesce",
+   "item": "Chicken Cacciatore",
+   "price": 24.0,
+   "description": "chicken thigh, mushrooms, peppers, olives, fried polenta; larger $30"
+  },
+  {
+   "section": "Pizza",
+   "item": "Neapolitan Pie",
+   "price": 20.0,
+   "description": "tomato, garlic, chilies, oregano, capers, olives"
+  },
+  {
+   "section": "Pizza",
+   "item": "Margherita Pie",
+   "price": 23.0,
+   "description": "tomato, basil, fiore di latte"
+  },
+  {
+   "section": "Pizza",
+   "item": "Burrata Pie",
+   "price": 26.0,
+   "description": "cherry tomato, basil, whole burrata"
+  },
+  {
+   "section": "Pizza",
+   "item": "New Haven Pie",
+   "price": 21.0,
+   "description": "San Marzano sauce, Parmigiano, Pecorino"
+  },
+  {
+   "section": "Pizza",
+   "item": "Funghi Pie",
+   "price": 26.0,
+   "description": "cremini and oyster mushrooms, crescenza, fontina"
+  },
+  {
+   "section": "Pizza",
+   "item": "Sweet Corn Pie",
+   "price": 25.0,
+   "description": "mozzarella di bufala, Asiago, marjoram, pickled onions"
+  },
+  {
+   "section": "Pizza",
+   "item": "Tuscan Kale Pie",
+   "price": 25.0,
+   "description": "potato garlic cream, lemon zest, chili, fontina"
+  },
+  {
+   "section": "Pizza",
+   "item": "Spicy Salami Pie",
+   "price": 26.0,
+   "description": "tomato, salami, chilis, marinated onions, provolone picante"
+  },
+  {
+   "section": "Pizza",
+   "item": "NYC Style Pepperoni Pie",
+   "price": 28.0,
+   "description": "Ezzo pepperoni, mozzarella, Grana Padano"
+  },
+  {
+   "section": "Pizza",
+   "item": "Salsiccia Pie",
+   "price": 28.0,
+   "description": "house sausage, ricotta, bufala, Calabrian chili salsa verde"
+  },
+  {
+   "section": "Pasta",
+   "item": "Chitarra alla Cacio e Pepe",
+   "price": 25.0,
+   "description": "house chitarra, black pepper, pecorino, butter"
+  },
+  {
+   "section": "Pasta",
+   "item": "Radiatore alla Vodka Diavolo",
+   "price": 26.0,
+   "description": "pomodoro, cream, chili, ricotta"
+  },
+  {
+   "section": "Pasta",
+   "item": "Bucatini Pomodoro",
+   "price": 22.0,
+   "description": "tomato sauce, basil, butter, Parmigiano"
+  },
+  {
+   "section": "Pasta",
+   "item": "Squid Ink Reginette with Gulf Shrimp",
+   "price": 32.0,
+   "description": "tomato, fennel, shrimp butter"
+  },
+  {
+   "section": "Pasta",
+   "item": "Rigatoncini al Bolognese Classico",
+   "price": 30.0,
+   "description": "pork and beef Bolognese"
+  },
+  {
+   "section": "Happy Hour Drinks",
+   "item": "Spritz (happy hour)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Happy Hour Drinks",
+   "item": "Glass Fiorella House Wine (happy hour)",
+   "price": 9.0,
+   "description": "white or red; orange $10"
+  }
+ ],
+ "notes": "Dinner Sun-Thu 5-9pm, Fri-Sat 5-10pm; happy hour Mon-Thu 5-6:30pm. 6% surcharge added to all sales. Pie add-ons, pasta substitutions, brunch, dessert and drink menus omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $25.00 of 19 prices in sections ['Pizza', 'Pasta', 'Carne & Pesce']; rule L1<10, L2<18, L3<30, L4>=30"
+}

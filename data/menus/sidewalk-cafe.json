@@ -1,0 +1,397 @@
+{
+ "name": "Sidewalk Café",
+ "addr": "2001 Polk Street",
+ "menu_url": "https://ordering.chownow.com/order/5322/locations/6978",
+ "source": "restaurant online-ordering page (ChowNow menu data for Cheese Plus); sandwich list also at cheeseplus.com/sandwiches",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Grilled Breakfast Sandwiches",
+   "item": "Stuffed Toast Plus",
+   "price": 15.0,
+   "description": "Niman Ranch smoked ham, creamy brie cheese and fig confit grilled on thick-sliced"
+  },
+  {
+   "section": "Grilled Breakfast Sandwiches",
+   "item": "Cheese Pluffin",
+   "price": 10.0,
+   "description": "Baked eggs with cream and chives, melted cheddar cheese on a buttery grilled sourdough"
+  },
+  {
+   "section": "Grilled Breakfast Sandwiches",
+   "item": "French Canadian",
+   "price": 15.0,
+   "description": "Grilled breakfast sandwich on an English muffin, with maple syrup, chicken sausage"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Crissy Field",
+   "price": 17.25,
+   "description": "Zoe's oven roasted turkey and bacon with provolone, roasted tomato aioli"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Happy Thanksgiving",
+   "price": 16.5,
+   "description": "Oven-roasted Zoe's turkey, creamy brie cheese, cranberry sauce"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Cole Valley (Vegetarian)",
+   "price": 15.5,
+   "description": "Tangy olive spread, creamy Brie cheese, fresh tomatoes"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "North Beach",
+   "price": 17.25,
+   "description": "Smoked ham, Genoa salami, pistachio mortadella, provolone cheese, peppadew sweet peppers"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Monterey Bay",
+   "price": 15.5,
+   "description": "Mediterranean tuna salad (with olives, roast peppers, cornichon pickles, and capers)"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Build Your Own Cold Sandwich",
+   "price": 16.75,
+   "description": "Choose your meat, cheese, bread, veggies, and dressings"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Parma",
+   "price": 16.5,
+   "description": "Imported Prosciutto diu Parma air-cured ham, fresh mozzarella"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Caprese (Vegetarian)",
+   "price": 15.0,
+   "description": "Fresh mozzarella, oven roasted tomatoes, fresh basil leaves and extra virgin olive oil on"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Tony's Vegan Cousin",
+   "price": 17.25,
+   "description": "Prime Roots plant-based smoked turkey and pepperoni, Yellow Mustard, Miso Tahini Sauce, Avocado"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "3 Pepper Roast Beef",
+   "price": 17.5,
+   "description": "Roast Beef, Creamy Brie Cheese. Housemade Spicy Bomba Sauce, Pickled Jalapenos"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Club Delux",
+   "price": 18.75,
+   "description": "Turkey, Smoked Ham, Avocado, Bacon, Jarlsberg Swiss Cheese, Tomato Aioli"
+  },
+  {
+   "section": "Cold Sandwiches",
+   "item": "Triple Play",
+   "price": 18.25,
+   "description": "Smoky Pastrami, Roast Turkey, Genoa Salami, Cheddar, Pepper Jack"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Willie Brown Bird",
+   "price": 19.25,
+   "description": "Smoked duck breast, provolone cheese, pickled onions, fig & ginger chutney"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Cubano",
+   "price": 17.0,
+   "description": "Smoked black forest ham, fire roasted pork loin, Jarlsberg swiss cheese"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Potrero Hill",
+   "price": 16.75,
+   "description": "Smoky pastrami, cheddar cheese, Manhattan pickles and pickled onions with spicy chipotle"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Cheese Plus Grilled Cheese (Vegetarian)",
+   "price": 12.0,
+   "description": "Our house cheese blend with fresh tomatoes and dijon mustard on sliced Starter Bakery"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Chicken Little",
+   "price": 17.25,
+   "description": "Zoe's Meditteranean chicken breast and bacon, house made blue cheese spread"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Burrata Rocket (Vegetarian)",
+   "price": 16.0,
+   "description": "Fresh Burrata cheese, house made arugula pesto, fresh tomatoes"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Build Your Own Grilled Sandwich",
+   "price": 16.75,
+   "description": "Choose your meat, cheese, bread, veggies, and dressings"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "The Funky Chicken",
+   "price": 17.25,
+   "description": "Zoe's Mediterranean Chicken, truffle aioli, creamy brie, bacon, crispy onion and tomato"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Vegan Curry Bomb",
+   "price": 16.75,
+   "description": "Coconut curry tofu salad with spicy Bomba Sauce, crunchy cabbage, pickled jalapeños"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "THE FIRECRACKER",
+   "price": 17.75,
+   "description": "Zoe's Roast Chicken Breast, Bacon, Cheddar Cheese, Calabrian Spicy Pesto"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Flat Tony",
+   "price": 17.5,
+   "description": "Beef and Pork Meatballs, Pizza Sauce, Provolone, Basil"
+  },
+  {
+   "section": "Grilled Sandwiches",
+   "item": "Mee-Gan the Vegan Bahn Mi",
+   "price": 17.25,
+   "description": "Savory Baked Tofu Cutlets, Tahini Miso Dressing, Avocado, Carrots, Cucumbers"
+  },
+  {
+   "section": "Today's Sandwich Specials",
+   "item": "Paris Lights",
+   "price": 15.5,
+   "description": "Cold sandwich on a Ciabatta Roll with Butter, Grain Mustard, Gruyere, French Ham"
+  },
+  {
+   "section": "Today's Sandwich Specials",
+   "item": "Paulie Walnuts Jersey Sangweech",
+   "price": 18.5,
+   "description": "Pork loin, spicy coppa, provolone, giardiniera, peppadew peppers, shredded lettuce"
+  },
+  {
+   "section": "Fresh Garden Salads",
+   "item": "Nob Hill Salad",
+   "price": 12.0,
+   "description": "Mixed Greens, Oven Roast Tomatoes (with garlic, herbs, canola/olive oil)"
+  },
+  {
+   "section": "Fresh Garden Salads",
+   "item": "Ft. Point Salad",
+   "price": 13.0,
+   "description": "Mixed Greens, Mediterranean Roast Chicken (Garlic, Lemon, Herbs), Fresh Mozzarella"
+  },
+  {
+   "section": "Fresh Garden Salads",
+   "item": "Wedge Salad",
+   "price": 12.0,
+   "description": "Fresh Lettuce, Crumbled Blue Cheese, Bacon"
+  },
+  {
+   "section": "Fresh Garden Salads",
+   "item": "Sardinian Pasta Salad",
+   "price": 12.0,
+   "description": "Baby Kale, Toasted Fregola Sarda Pasta, Green and Red Cabbage"
+  },
+  {
+   "section": "Fresh Garden Salads",
+   "item": "Caesar Salad",
+   "price": 11.0,
+   "description": "Classic Caesar, lettuce, croutons and shaved parmesan"
+  },
+  {
+   "section": "Chili",
+   "item": "Beef & Bean Chili",
+   "price": 6.5,
+   "description": "starting price; Topped with cheddar cheese and red onions, oyster crackers on the side; larger $8.50"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Hot Coffee",
+   "price": 3.5,
+   "description": "starting price; larger $4.50"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Americano",
+   "price": 4.25,
+   "description": "starting price; Double shot of espresso poured over hot water.; larger $5.10"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Espresso",
+   "price": 4.0,
+   "description": "2oz espresso"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Macchiato",
+   "price": 4.5,
+   "description": "Double shot of Equator Coffees Tigerwalk espresso with a \"stain\" of foamed milk. Served"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Cortado",
+   "price": 4.75,
+   "description": "A 2oz double shot of Equator Coffees Tigerwalk Espresso with equal parts steamed milk."
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Cappuccino",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Caffe Latte",
+   "price": 5.5,
+   "description": "starting price; larger $6.35"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Vanilla Spice Latte",
+   "price": 7.0,
+   "description": "starting price; A 2oz double shot of Equator Coffees Tigerwalk espresso poured over our house made; larger $7.85"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Orange Zest Latte",
+   "price": 7.0,
+   "description": "starting price; A 2oz double shot of Equator Coffees Tiger walk espresso poured over a shot of vanilla; larger $7.85"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Rose Cardamom Latte",
+   "price": 7.0,
+   "description": "starting price; A 2oz double shot of Equator Coffees Tigerwalk espresso served over a shot of rose syrup; larger $7.75"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Maple Spice Latte",
+   "price": 7.0,
+   "description": "starting price; 2oz Shot of espresso over maple spice and vanilla syrup. With steamed milk in a 10 or; larger $7.85"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Caffe Mocha",
+   "price": 5.75,
+   "description": "starting price; With whipped cream upon request; larger $6.60"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Matcha Latte",
+   "price": 7.0,
+   "description": "starting price; larger $7.85"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Chai Latte",
+   "price": 5.0,
+   "description": "starting price; Not too sweet and just a bit spicy, this is not your average Chai; larger $5.85"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Iced Cold Brew Coffee",
+   "price": 5.0,
+   "description": "starting price; 16 oz iced cup brewed in house; larger $6.00"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Iced Ceylon Black Tea",
+   "price": 3.25,
+   "description": "16 oz iced cup brewed in house"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Iced Hibiscus Citrus Tea",
+   "price": 3.25,
+   "description": "16 oz iced cup brewed in house."
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Fresh Squeezed Lavender Lemonade",
+   "price": 4.5,
+   "description": "16 oz iced cup"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Arnold Palmer",
+   "price": 4.5,
+   "description": "Half Ceylon Black Tea, half fresh squeezed lemonade"
+  },
+  {
+   "section": "Dessert",
+   "item": "Chocolate Chip Cookie",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "3pk Peanut Butter Sandwich Cookies",
+   "price": 7.0,
+   "description": "Sweet and creamy peanut butter, smooshed between two peanut butter cookies!"
+  },
+  {
+   "section": "Dessert",
+   "item": "Black & White Cookie",
+   "price": 2.25,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Ginger Snap Cookie",
+   "price": 1.75,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Peanut Butter Cookie Flowerless",
+   "price": 1.89,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Big Chewy Oatmeal Cookie",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Peanut Butter Sandwich Cookie Single",
+   "price": 2.5,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "3pk Big Chewie Oatmeal Cookie",
+   "price": 11.5,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "3pk Ginger Snap Cookie",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "3pk Peanut Butter Cookie Flourless",
+   "price": 5.25,
+   "description": ""
+  }
+ ],
+ "notes": "The sidewalk sandwich cafe of Cheese Plus (cheese shop), 2001 Polk St at Pacific; site says the cafe opens daily 9am (store Mon-Fri 10am-7:30pm, Sat 9am-7:30pm, Sun 9am-7pm). Catering platters, boxed lunches, bottled drinks and packaged chips omitted. Sized drinks show the small price with larger sizes in the description.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $17.12 of 24 prices in sections ['Cold Sandwiches', 'Grilled Sandwiches']; rule L1<10, L2<18, L3<30, L4>=30"
+}

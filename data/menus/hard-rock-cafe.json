@@ -1,0 +1,211 @@
+{
+ "name": "Hard Rock Cafe",
+ "addr": "Pier 39, Building Q-1, Beach Street and The Embarcadero",
+ "menu_url": "https://cafe.hardrock.com/menu.aspx",
+ "source": "chain corporate website (standard brand menu); location page https://cafe.hardrock.com/san-francisco/",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Legendary Steak Burgers",
+   "item": "Original Legendary Burger",
+   "price": null,
+   "description": "steak burger, applewood bacon, cheddar, onion ring, lettuce, tomato"
+  },
+  {
+   "section": "Legendary Steak Burgers",
+   "item": "BBQ Bacon Cheeseburger",
+   "price": null,
+   "description": "steak burger, barbecue sauce, shoestring onions, cheddar, bacon"
+  },
+  {
+   "section": "Legendary Steak Burgers",
+   "item": "The Classic Smashed Burger",
+   "price": null,
+   "description": "2 smashed patties, onions, American cheese, legendary sauce, pickles"
+  },
+  {
+   "section": "Legendary Steak Burgers",
+   "item": "Legendary Smashed Burger",
+   "price": null,
+   "description": "2 smashed patties, cheddar, bacon onion jam, cheese sauce, bacon"
+  },
+  {
+   "section": "Legendary Steak Burgers",
+   "item": "Spicy Diablo Smashed Burger",
+   "price": null,
+   "description": "2 smashed patties, pepper jack, pickled jalapenos, spicy mayo"
+  },
+  {
+   "section": "Starters & Shareables",
+   "item": "Legendary Nachos",
+   "price": null,
+   "description": "tortilla chips, black beans, queso, pico de gallo, jalapenos, cheeses, lime crema"
+  },
+  {
+   "section": "Starters & Shareables",
+   "item": "One Night in Bangkok Spicy Shrimp",
+   "price": null,
+   "description": "crispy shrimp, creamy spicy sauce, coleslaw, green onions"
+  },
+  {
+   "section": "Starters & Shareables",
+   "item": "Margherita Flatbread",
+   "price": null,
+   "description": "mozzarella, provolone, romano, basil, roma tomatoes, cilantro pesto"
+  },
+  {
+   "section": "Starters & Shareables",
+   "item": "Pepperoni Flatbread",
+   "price": null,
+   "description": "mozzarella, provolone, romano, pepperoni, pomodoro"
+  },
+  {
+   "section": "Starters & Shareables",
+   "item": "Wings",
+   "price": null,
+   "description": "slow-roasted wings, celery, blue cheese dressing, choice of sauce"
+  },
+  {
+   "section": "Starters & Shareables",
+   "item": "House-Made Crispy Chicken Dippers",
+   "price": null,
+   "description": "breaded chicken tenders, two dipping sauces"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "BBQ Pulled Pork Sandwich",
+   "price": null,
+   "description": "smoked pork, barbecue sauce, coleslaw, pickles, shoestring onions"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Grilled Chicken Sandwich",
+   "price": null,
+   "description": "chicken breast, honey mustard, Monterey Jack, bacon, lettuce, tomato"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Messi's Golden Chicken Sandwich",
+   "price": null,
+   "description": "Milanese-style crispy chicken, provolone, herb aioli, tomato, arugula"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Cobb Salad",
+   "price": null,
+   "description": "mixed greens, ranch, tomatoes, avocado, egg, blue cheese, bacon, corn"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Caesar Salad",
+   "price": null,
+   "description": "romaine, Caesar dressing, parmesan crisps, croutons"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Asian Noodle Bowl",
+   "price": null,
+   "description": "ramen noodles, sesame-soy dressing, greens, edamame, carrots, peppers"
+  },
+  {
+   "section": "Salads & Bowls",
+   "item": "Southwestern Bowl",
+   "price": null,
+   "description": "quinoa corn salad, pico de gallo, black beans, red cabbage, greens, ranch"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "Baby Back Ribs",
+   "price": null,
+   "description": "spice blend, barbecue sauce, seasoned fries, coleslaw"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "Cowboy Ribeye",
+   "price": null,
+   "description": "14oz boneless ribeye, herb butter, mashed potatoes, vegetables"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "New York Strip Steak",
+   "price": null,
+   "description": "12oz strip, herb butter, mashed potatoes, vegetables"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "Famous Fajitas",
+   "price": null,
+   "description": "chicken, steak, duo or veggie; pico, queso fresco, guacamole, tortillas"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "Mac, Chicken & Cheese",
+   "price": null,
+   "description": "grilled chicken, cavatappi, cheese sauce, red peppers, breadcrumbs"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "Grilled Salmon",
+   "price": null,
+   "description": "sweet and spicy mustard glaze, mashed potatoes, vegetables"
+  },
+  {
+   "section": "Specialty Entrees",
+   "item": "House-Made Crispy Chicken Tender Plate",
+   "price": null,
+   "description": "chicken tenders, fries, honey mustard, barbecue sauce"
+  },
+  {
+   "section": "Desserts",
+   "item": "Hot Fudge Brownie",
+   "price": null,
+   "description": "warm brownie, vanilla ice cream, hot fudge, whipped cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "New York Cheesecake",
+   "price": null,
+   "description": "strawberry sauce, whipped cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "Homemade Apple Cobbler",
+   "price": null,
+   "description": "seasonal fruit cobbler, vanilla ice cream, caramel sauce"
+  },
+  {
+   "section": "Desserts",
+   "item": "Ice Cream",
+   "price": null,
+   "description": "vanilla bean or chocolate"
+  },
+  {
+   "section": "Beverages",
+   "item": "Hurricane",
+   "price": null,
+   "description": "signature rum cocktail, fruit juices, grenadine, amaretto"
+  },
+  {
+   "section": "Beverages",
+   "item": "Crafted Cocktails (mojitos, margaritas, mai tai, old fashioned, martinis, etc.)",
+   "price": null,
+   "description": "about 17 listed"
+  },
+  {
+   "section": "Beverages",
+   "item": "Zero Proof Cocktails",
+   "price": null,
+   "description": "strawberry basil lemonade, mango tango, mango-berry cooler"
+  },
+  {
+   "section": "Beverages",
+   "item": "Soft Drinks",
+   "price": null,
+   "description": "Coca-Cola fountain range"
+  }
+ ],
+ "notes": "chain menu; prices not location-specific. Brand site says items and availability vary by location; the San Francisco page shows no menu or prices. Cocktails collapsed to a few lines; kids menu omitted.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

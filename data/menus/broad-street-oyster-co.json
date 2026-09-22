@@ -1,0 +1,121 @@
+{
+ "name": "Broad Street Oyster Co.",
+ "addr": "900 North Point Street",
+ "menu_url": "https://www.broadstreetoyster.com/san-francisco",
+ "source": "restaurant website (San Francisco location menu, loaded from the site's own public menu data)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Raw Bar",
+   "item": "Oysters",
+   "price": 4.0,
+   "description": "per piece; Beau Soleil, Miyagi"
+  },
+  {
+   "section": "Raw Bar",
+   "item": "Tuna Tartare",
+   "price": 25.0,
+   "description": "chili, lime, crostini"
+  },
+  {
+   "section": "Raw Bar",
+   "item": "Crudo",
+   "price": 21.0,
+   "description": "changes daily"
+  },
+  {
+   "section": "Raw Bar",
+   "item": "Carpaccio",
+   "price": 25.0,
+   "description": "yellowfin, tomato, lemon"
+  },
+  {
+   "section": "Raw Bar",
+   "item": "Prawn Cocktail",
+   "price": 29.0,
+   "description": "New Caledonian prawns"
+  },
+  {
+   "section": "The Hits",
+   "item": "Hot Dog",
+   "price": 14.0,
+   "description": "french fries, choice of toppings"
+  },
+  {
+   "section": "The Hits",
+   "item": "Lobster Roll",
+   "price": 27.0,
+   "description": "warm or chilled"
+  },
+  {
+   "section": "The Hits",
+   "item": "Cheeseburger",
+   "price": 15.0,
+   "description": "cheddar, pickles, sauce"
+  },
+  {
+   "section": "The Hits",
+   "item": "Anchovy Toast",
+   "price": 16.0,
+   "description": "butter, boquerones"
+  },
+  {
+   "section": "The Hits",
+   "item": "Calamari",
+   "price": 25.0,
+   "description": "fennel, sage, lemon"
+  },
+  {
+   "section": "The Hits",
+   "item": "Fish & Chips",
+   "price": 23.0,
+   "description": "cod, fries, tartar"
+  },
+  {
+   "section": "The Hits",
+   "item": "French Fries",
+   "price": 8.0,
+   "description": "hand cut, old bay aioli"
+  },
+  {
+   "section": "Salads & Sides",
+   "item": "Caesar",
+   "price": 18.0,
+   "description": "anchovy, pan grana"
+  },
+  {
+   "section": "Salads & Sides",
+   "item": "Halibut Chowder",
+   "price": 22.0,
+   "description": "potato, bacon, cream"
+  },
+  {
+   "section": "Salads & Sides",
+   "item": "Endive Wedge",
+   "price": 15.0,
+   "description": "bacon, blue cheese"
+  },
+  {
+   "section": "Mains",
+   "item": "Manila Clams",
+   "price": 30.0,
+   "description": ""
+  },
+  {
+   "section": "Mains",
+   "item": "Halibut Milanese",
+   "price": 40.0,
+   "description": ""
+  },
+  {
+   "section": "Mains",
+   "item": "Crispy Branzino",
+   "price": 35.0,
+   "description": ""
+  }
+ ],
+ "notes": "Ghirardelli Square location (address from the Fisherman's Wharf Association and Yelp listings). Menu is short; oysters priced per piece. Drinks not listed on the location menu.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $24.00 of 10 prices in sections ['The Hits', 'Mains']; rule L1<10, L2<18, L3<30, L4>=30"
+}

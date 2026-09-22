@@ -1,0 +1,12 @@
+{
+ "name": "Taco Rouge",
+ "addr": "1500 Broadway",
+ "menu_url": "https://www.toasttab.com/local/po-bro-2100-polk-street/r-057f8964-eb88-432a-a861-c5cb42b25526",
+ "source": "web search; official domain tacorouge.com now serves an unrelated spam page; Toast ordering page bot-gated",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Mexican restaurant at 1500 Broadway (Polk Gulch). tacorouge.com no longer belongs to the restaurant. The Toast online-ordering page returned a Cloudflare challenge (bot-gated) to both curl and WebFetch; a real browser may load it.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

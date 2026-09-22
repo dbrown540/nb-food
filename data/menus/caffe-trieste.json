@@ -1,12 +1,12 @@
 {
  "name": "Caffe Trieste",
  "addr": "601 Vallejo Street",
- "menu_url": "https://caffetrieste.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
+ "menu_url": "https://caffetrieste.com/nbeach",
+ "source": "no reliable menu source (restaurant website and Yelp menu page checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
  "status": "not_found",
  "items": [],
- "notes": "official site is coffee-bean retail + blog; no menu published",
+ "notes": "Official site (caffetrieste.com/nbeach) describes the offering only in prose (pastries, cookies, muffins, bagels, sandwiches, salads, pizza by the slice, desserts, wine and beer) with no items or prices; the rest of the site is a whole-bean web shop. The Yelp menu page for the Vallejo St cafe lists only retail coffee-bean bags ($11.35-$14.30 per 12 oz / lb), not cafe drinks or food. Hours posted as temporary: Sun-Wed 7am-3pm, Thu-Sat 7am-8pm; cash and cards; ATM on site.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

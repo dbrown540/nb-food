@@ -1,0 +1,193 @@
+{
+ "name": "Amarena",
+ "addr": "2162 Larkin Street",
+ "menu_url": "https://order.online/store/amarena-san-francisco-5013",
+ "source": "restaurant online-ordering page (DoorDash order.online storefront run for the restaurant; pickup view rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Salads",
+   "item": "Insalata Di Lipari",
+   "price": 14.0,
+   "description": "spicy cucumber salad, tomatoes, red onion, basil, balsamic"
+  },
+  {
+   "section": "Salads",
+   "item": "Insalata Di Rucola Con Pere E Pecorino",
+   "price": 15.0,
+   "description": "arugula, pecorino romano, pears, cherry tomatoes, balsamic"
+  },
+  {
+   "section": "Salads",
+   "item": "Insalata Di Cesare",
+   "price": 17.0,
+   "description": "romaine, olive oil dressing, coddled egg, garlic, parmigiano, croutons"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Polpette Di Carne",
+   "price": 19.0,
+   "description": "meatballs in fresh tomato sauce"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Polpo Alla Griglia",
+   "price": 23.0,
+   "description": "grilled marinated octopus, arugula, cherry tomatoes"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Frittura Mista",
+   "price": 24.0,
+   "description": "fried calamari, prawns, zucchini, spicy sauce"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Arancini",
+   "price": 18.0,
+   "description": "rice balls with spinach and ricotta, tomato sauce"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Bruschetta Della Casa",
+   "price": 16.0,
+   "description": "heirloom tomato, red onion, balsamic, olive oil on garlic bread"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Carpaccio Di Manzo All'antica",
+   "price": 18.0,
+   "description": "beef carpaccio, parmigiano, capers, arugula, lemon dressing"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Shuffle Di Polenta Consada",
+   "price": 19.0,
+   "description": "polenta souffle with mushroom, cream, sage, parmigiano"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Burrata Caprese",
+   "price": 18.0,
+   "description": "burrata with tomatoes, basil olive oil"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Tortino Di Melanzane Alla Parmigiana",
+   "price": 18.0,
+   "description": "baked eggplant, tomato sauce, basil, smoked mozzarella, parmigiano"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Gnocco Fritto Con Affettati",
+   "price": 24.0,
+   "description": "fried bread dough with prosciutto, speck, mortadella, soppressata"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Bread",
+   "price": 3.5,
+   "description": "house bread with dipping sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Bucatini All' Amatriciana",
+   "price": 28.0,
+   "description": "bucatini with bacon and onion"
+  },
+  {
+   "section": "Primi",
+   "item": "Linguine Alle Vongole",
+   "price": 30.0,
+   "description": "manila clams, parsley, bread crumbs, garlic"
+  },
+  {
+   "section": "Primi",
+   "item": "Lasagna Di Carne",
+   "price": 28.0,
+   "description": "house beef lasagna"
+  },
+  {
+   "section": "Primi",
+   "item": "Ravioli Di Zucca",
+   "price": 28.0,
+   "description": "butternut squash ravioli with salted ricotta"
+  },
+  {
+   "section": "Primi",
+   "item": "Pappardelle al Cinghiale",
+   "price": 29.0,
+   "description": "house pappardelle with wild boar"
+  },
+  {
+   "section": "Primi",
+   "item": "Paccheri Dell' Alpino",
+   "price": 29.0,
+   "description": "large tube pasta, smoked prosciutto, sundried tomatoes"
+  },
+  {
+   "section": "Primi",
+   "item": "Orecchiette con Salsiccia e Cime di Rapa",
+   "price": 27.0,
+   "description": "house orecchiette, broccoli rabe, Italian sausage, spicy white wine sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Tagliolini Ai Funghi e Tartufo",
+   "price": 28.0,
+   "description": "house tagliolini, shiitake, truffle"
+  },
+  {
+   "section": "Primi",
+   "item": "Gnocchi Sorrentina",
+   "price": 27.0,
+   "description": "potato gnocchi, tomato sauce, fresh mozzarella"
+  },
+  {
+   "section": "Primi",
+   "item": "Rigatoni Golosi",
+   "price": 29.0,
+   "description": "porcini, prosciutto, truffle, creamy pink sauce"
+  },
+  {
+   "section": "Primi",
+   "item": "Rigatoni Arrabbiata con Salsiccia",
+   "price": 28.0,
+   "description": "Italian sausage, spicy tomato sauce"
+  },
+  {
+   "section": "Secondi Piatti",
+   "item": "Salmone Alla Capocaccia",
+   "price": 36.0,
+   "description": "roasted wild salmon, cherry tomatoes, olives, capers, red onion"
+  },
+  {
+   "section": "Secondi Piatti",
+   "item": "Osso Buco",
+   "price": 44.0,
+   "description": "braised veal shank over soft polenta"
+  },
+  {
+   "section": "Secondi Piatti",
+   "item": "Pollo Arrosto",
+   "price": 32.0,
+   "description": "half chicken with herbs, spinach, roasted potatoes"
+  },
+  {
+   "section": "Secondi Piatti",
+   "item": "Agnello Ai Mirtilli",
+   "price": 45.0,
+   "description": "grilled lamb rack, blueberry sauce, spinach, roasted potatoes"
+  },
+  {
+   "section": "Secondi Piatti",
+   "item": "Scaloppine Di Vitello Piccata",
+   "price": 36.0,
+   "description": "veal scaloppine, white wine, lemon"
+  }
+ ],
+ "notes": "Northern Italian restaurant. Full pickup menu from the restaurant's order.online storefront (the official site amarenarestaurant.com no longer resolves); online ordering hours 5-8:40pm. Hours per search: Sun-Thu 5-9pm, Fri-Sat 5-9:30pm. No drinks or desserts listed online.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $29.00 of 16 prices in sections ['Primi', 'Secondi Piatti']; rule L1<10, L2<18, L3<30, L4>=30"
+}

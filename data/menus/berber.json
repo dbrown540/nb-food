@@ -1,0 +1,12 @@
+{
+ "name": "Berber",
+ "addr": "1516 Broadway",
+ "menu_url": "https://www.yelp.com/biz/berber-san-francisco-7",
+ "source": "web search; official site berbersf.com appears stale",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp lists Berber (1516 Broadway) as CLOSED (updated August 2026); the official site berbersf.com is stale (navigation still promotes \"NYE 2023\") and shows no current menu text.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

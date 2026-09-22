@@ -1,0 +1,12 @@
+{
+ "name": "Sun Kwong Restaurant",
+ "addr": "1400 Jackson Street",
+ "menu_url": "https://order.online/store/sun-kwong-restaurant-san-francisco-1053815",
+ "source": "web search; own order.online storefront (bot-gated)",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Chinese-American; open per Yelp (updated September 2026); hours listed 11am-7:45pm. No official website beyond a Facebook page. Its order.online storefront returned 403 to automated fetch; DoorDash/Grubhub listings not attempted further.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

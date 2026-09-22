@@ -1,0 +1,31 @@
+{
+ "name": "Subway (350 Bay Street)",
+ "addr": "350 Bay Street",
+ "menu_url": "https://restaurants.subway.com/united-states/ca/san-francisco/350-bay-street",
+ "source": "chain store page (featured items only)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Featured Subs",
+   "item": "Ham & Turkey Stacker",
+   "price": null,
+   "description": "turkey, ham, lettuce, spinach, tomatoes, cucumbers, onions, mustard, multigrain"
+  },
+  {
+   "section": "Featured Subs",
+   "item": "Sweet Onion Teriyaki",
+   "price": null,
+   "description": "grilled chicken, American cheese, sweet onion teriyaki sauce"
+  },
+  {
+   "section": "Featured Subs",
+   "item": "Steak Philly",
+   "price": null,
+   "description": "steak, American cheese, mayo, peppers, onions, artisan bread"
+  }
+ ],
+ "notes": "chain menu; prices not location-specific. Northpoint Shopping Center, open daily 8am-9pm. Store page lists only three featured subs; the full corporate menu and ordering pages refused automated requests.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

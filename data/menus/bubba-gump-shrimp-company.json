@@ -1,0 +1,331 @@
+{
+ "name": "Bubba Gump Shrimp Company",
+ "addr": "Pier 39",
+ "menu_url": "https://www.bubbagump.com/location/bubba-gump-san-francisco-ca/",
+ "source": "chain website location page (BentoBox menu for the San Francisco restaurant)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Cajun Shrimp",
+   "price": 19.99,
+   "description": "Garlic Bread"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Shrimper's Net Catch",
+   "price": 20.49,
+   "description": "Peel ‘n' Eat Shrimp steamed in Beer."
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mama Gump's Garlic Bread Basket",
+   "price": 8.49,
+   "description": "Fresh Baguette"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Shrimp Shack Mac & Cheese",
+   "price": 17.49,
+   "description": "Shrimp, Cheddar, Colby Jack, Mozzarella Cheese"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Bang Bang Shrimp",
+   "price": 18.49,
+   "description": "Beer Battered Shrimp, Spicy Sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Dixie Fried Chicken & Pickles",
+   "price": 16.99,
+   "description": "Ranch"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Calamari",
+   "price": 18.49,
+   "description": "Fried Calamari, Roasted Red Bell Peppers, Pepperoncini, Marinara Sauce, Chili Ancho Aioli"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Jumbo Shrimp Cocktail",
+   "price": 16.49,
+   "description": "Cocktail Sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Queso Dip",
+   "price": 15.49,
+   "description": "Queso, Onions, Tomatoes, Jalapenos, Tortilla Chips"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Run Across America Sampler",
+   "price": 27.49,
+   "description": "Fried Shrimp, Seafood Hush Pups, Chicken Tenders, Queso Dip, Tortilla Chips"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Dippin Broth",
+   "price": 24.99,
+   "description": "Shrimp, Butter, Steamed Rice, Garlic Bread"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "New England Clam Chowder",
+   "price": 7.99,
+   "description": "Clams, Potatoes"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Mama Blue's Shrimp Gumbo",
+   "price": 7.99,
+   "description": "Fish, Andouille Sausage, Poached Shrimp, Okra, Steamed Rice"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Classic Caesar Salad",
+   "price": 17.99,
+   "description": "Parmesan Cheese, Baked Croutons"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Strawberry Salad",
+   "price": 21.99,
+   "description": "Mixed Greens, Grilled Chicken, Strawberries, Apples, Raspberry Vinaigrette, Feta Cheese"
+  },
+  {
+   "section": "From the Sea",
+   "item": "\"I'm Stuffed!\" Shrimp",
+   "price": 30.49,
+   "description": "Crab Stuffing, Lobster Butter Sauce, Monterey Jack Cheese, Steamed Rice"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Shrimper's Heaven",
+   "price": 29.99,
+   "description": "Fried Shrimp, Coconut Shrimp, Tempura Shrimp, Fries, Cocktail Sauce, Cajun Marmalade"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Maker's Mark Salmon",
+   "price": 30.49,
+   "description": "Flame-Grilled Salmon, Maker's Mark Bourbon Sauce, Broccoli, Steamed Rice"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Dumb Luck Coconut Shrimp",
+   "price": 26.49,
+   "description": "Fries, Coleslaw, Cajun Marmalade"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Forrest's Seafood Feast",
+   "price": 29.99,
+   "description": "Fish & Chips, Fried Shrimp, Seafood Hush Pups, Fries, Coleslaw, Tartar Sauce"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Captain's Fish & Chips",
+   "price": 24.99,
+   "description": "Fries, Coleslaw, Tartar Sauce"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Shrimp New Orleans",
+   "price": 27.49,
+   "description": "Grilled Shrimp, Savory and Spiced Butter Garlic Sauce, Green Onions, Tomatoes"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Shrimp Scampi Pasta",
+   "price": 25.49,
+   "description": "Tomatoes, Lobster Butter Sauce, Parmesan Cheese, Garlic Bread"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Mama Blue's Fried Shrimp",
+   "price": 25.49,
+   "description": "Fries, Coleslaw, Cocktail Sauce"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Jambalaya",
+   "price": 25.49,
+   "description": "Shrimp, Chicken, Andouille Sausage, Tasso Ham, Bell Peppers, Onions, Steamed Rice"
+  },
+  {
+   "section": "From the Sea",
+   "item": "Southern Seafood Boil",
+   "price": 39.99,
+   "description": "Snow Crab, Shrimp, Andouille Sausage, Corn on the Cob, Red Potatoes"
+  },
+  {
+   "section": "From the Farm",
+   "item": "Dixie Style Baby Back Ribs",
+   "price": 33.99,
+   "description": "Baby Back Ribs, Coleslaw, Fries, BBQ Sauce"
+  },
+  {
+   "section": "From the Farm",
+   "item": "Mama's Fried Chicken",
+   "price": 23.49,
+   "description": "Boneless Chicken Breast, Cajun Buttered Corn on the Cob, Coleslaw"
+  },
+  {
+   "section": "From the Farm",
+   "item": "12oz Boneless Ribeye",
+   "price": 37.49,
+   "description": "Mashed Potatoes, Broccoli"
+  },
+  {
+   "section": "From the Farm",
+   "item": "Alabama Chicken Pasta",
+   "price": 24.49,
+   "description": "Grilled Chicken Breast, Cream Sauce, Tomatoes, Parmesan Cheese, Garlic Bread"
+  },
+  {
+   "section": "Combos",
+   "item": "Ribeye & Stuffed Shrimp",
+   "price": 42.99,
+   "description": "12oz Boneless Ribeye, Crab Stuffed Shrimp, Mashed Potatoes, Broccoli"
+  },
+  {
+   "section": "Combos",
+   "item": "Jenny's Salmon And Shrimp",
+   "price": 31.99,
+   "description": "Flame-Grilled Salmon, Grilled Shrimp, Herb Butter, Lobster Butter Sauce, Steamed Rice"
+  },
+  {
+   "section": "Combos",
+   "item": "Bourbon St. Mahi Mahi & Shrimp",
+   "price": 29.99,
+   "description": "Charbroiled Cajun Spiced Mahi Mahi, Grilled Shrimp, Bourbon Sauce, Frizzled Onions"
+  },
+  {
+   "section": "Combos",
+   "item": "Lt. Dan's Pork Ribs & Shrimp",
+   "price": 36.99,
+   "description": "Grilled Shrimp, Fries, BBQ sauce"
+  },
+  {
+   "section": "Combos",
+   "item": "Forrest's Ribeye & Shrimp",
+   "price": 41.99,
+   "description": "12oz Boneless Ribeye, Grilled Shrimp, Mashed Potatoes, Broccoli"
+  },
+  {
+   "section": "HANDHELDS",
+   "item": "Bang Bang Po Boy",
+   "price": 22.99,
+   "description": "Bang Bang Shrimp, Coleslaw, Tomato, Pickle, Mayonnaise, Fries"
+  },
+  {
+   "section": "HANDHELDS",
+   "item": "Shrimp Po Boy",
+   "price": 21.99,
+   "description": "Shrimp, Lettuce, Tomato, Pickle, Mayo, Fries"
+  },
+  {
+   "section": "HANDHELDS",
+   "item": "Crab & Shrimp Rolls",
+   "price": 25.99,
+   "description": "Shrimp, Lump Crab, Creme Fraiche, Onions, Celery, Fries"
+  },
+  {
+   "section": "HANDHELDS",
+   "item": "All-American Cheeseburger",
+   "price": 19.99,
+   "description": "Lettuce, Tomato, Red Onion, Pickles, Secret Sauce, Fries"
+  },
+  {
+   "section": "HANDHELDS",
+   "item": "BBQ Cheeseburger",
+   "price": 21.99,
+   "description": "Fried Pickles, Frizzled Onions, Lettuce, Tomato, BBQ Burger Sauce, Fries"
+  },
+  {
+   "section": "HANDHELDS",
+   "item": "Texas Chicken Sandwich",
+   "price": 19.49,
+   "description": "Cajun Chicken Breast, Bacon, Pepper Jack Cheese, Chili Ancho Aioli, Lettuce, Tomato"
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 5.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Steamed Rice",
+   "price": 5.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Onion Rings",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Seafood Hush Pups",
+   "price": 7.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Shrimp Skewer",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Mashed Potatoes",
+   "price": 5.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Steamed Broccoli",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Ooey Gooey Box of Chocolate",
+   "price": 11.99,
+   "description": "Chocolate Lava Cake, Vanilla Ice Cream, Fudge, Chocolate Sauce"
+  },
+  {
+   "section": "Desserts",
+   "item": "Strawberry Shortcake",
+   "price": 11.99,
+   "description": "Rich Shortcake, Vanilla Ice Cream, Strawberries and Cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "Key Lime Pie",
+   "price": 10.99,
+   "description": "American Classic, Graham Cracker Crust"
+  },
+  {
+   "section": "Desserts",
+   "item": "Cheesecake",
+   "price": 11.99,
+   "description": "New York Style Cheesecake with fresh Strawberry Sauce"
+  },
+  {
+   "section": "Desserts",
+   "item": "Chocolate Chip Cookie Sundae",
+   "price": 13.99,
+   "description": "Vanilla Ice Cream, Chocolate Chips, Whipped Cream"
+  }
+ ],
+ "notes": "Chain; prices are from the San Francisco location page. Food menu transcribed; cocktail, wine and spirits lists omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $26.99 of 26 prices in sections ['From the Sea', 'From the Farm', 'Combos', 'HANDHELDS']; rule L1<10, L2<18, L3<30, L4>=30"
+}

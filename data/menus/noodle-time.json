@@ -1,0 +1,12 @@
+{
+ "name": "Noodle Time",
+ "addr": "605 Battery Street",
+ "menu_url": "https://www.yelp.com/biz/noodle-time-san-francisco-2",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Yelp listing (updated September 2026) marks the business CLOSED. No official website found in search; only delivery/aggregator listings (Uber Eats, ezCater, allmenus) remain. Vietnamese noodles, banh mi and vermicelli per those listings.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

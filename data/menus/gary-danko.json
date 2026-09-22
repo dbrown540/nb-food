@@ -1,0 +1,241 @@
+{
+ "name": "Gary Danko",
+ "addr": "800 North Point Street",
+ "menu_url": "https://garydanko.com/wp-content/uploads/garydanko/main-menu-9.3.26.pdf",
+ "source": "restaurant website PDF (pdftotext; menu dated 9/3/26 and tasting menu dated 9/13/26, links found by rendering garydanko.com in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Prix Fixe",
+   "item": "3 Courses",
+   "price": 130.0,
+   "description": "choose from the dishes below"
+  },
+  {
+   "section": "Prix Fixe",
+   "item": "4 Courses",
+   "price": 165.0,
+   "description": ""
+  },
+  {
+   "section": "Prix Fixe",
+   "item": "5 Courses",
+   "price": 185.0,
+   "description": ""
+  },
+  {
+   "section": "Prix Fixe",
+   "item": "5 Course Tasting Menu",
+   "price": 185.0,
+   "description": "glazed oysters, salmon medallion, filet of beef, cheeses, chocolate souffle"
+  },
+  {
+   "section": "Prix Fixe",
+   "item": "Wine Pairing (3 courses)",
+   "price": 99.0,
+   "description": ""
+  },
+  {
+   "section": "Prix Fixe",
+   "item": "Wine Pairing (4 courses)",
+   "price": 137.0,
+   "description": ""
+  },
+  {
+   "section": "Prix Fixe",
+   "item": "Wine Pairing (5 courses or tasting)",
+   "price": 149.0,
+   "description": ""
+  },
+  {
+   "section": "Caviar Service",
+   "item": "GD Select Caviar Service - White Sturgeon",
+   "price": 105.0,
+   "description": "1 ounce with buckwheat blini, creme fraiche"
+  },
+  {
+   "section": "Caviar Service",
+   "item": "GD Select Caviar Service - Black Sea Osetra",
+   "price": 148.0,
+   "description": "1 ounce with buckwheat blini, creme fraiche"
+  },
+  {
+   "section": "Caviar Service",
+   "item": "GD Select Caviar Service - Imperial Golden Osetra",
+   "price": 165.0,
+   "description": "1 ounce with buckwheat blini, creme fraiche"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Glazed Oysters with Osetra Caviar",
+   "price": null,
+   "description": "leek fondue, zucchini pearls, lettuce cream"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Steak Tartare",
+   "price": null,
+   "description": "tomato-pepper puree, avocado mousse, quail egg, capers, cornichons"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Sweet Corn Soup",
+   "price": null,
+   "description": "red pepper flan, summer vegetables, pickled shallots, rice cracker"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crispy Farm Egg",
+   "price": null,
+   "description": "braised mushrooms, bacon lardons, potato puree, shallot-thyme vinaigrette"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Beet Salad",
+   "price": null,
+   "description": "orange-champagne vinaigrette, ricotta, stone fruit, pickled red onion"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Lobster Risotto",
+   "price": null,
+   "description": "rock shrimp, shimeji mushrooms, yellow squash, asparagus"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Salad",
+   "price": null,
+   "description": "avocado, fennel, citrus, quinoa, mustard tarragon vinaigrette"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Seared Ahi Tuna",
+   "price": null,
+   "description": "avocado, nori, enoki mushrooms, lemon soy dressing"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Wild Mushroom Tart",
+   "price": null,
+   "description": "goat cheese mousse, pickled shallots"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Seared Scallops",
+   "price": null,
+   "description": "mussels, fondant potatoes, summer bean agrodolce"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Roast Lobster",
+   "price": null,
+   "description": "chanterelles, potato puree, edamame, asparagus"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Coriander, Black Pepper and Rosemary Crusted Tuna",
+   "price": null,
+   "description": "piperade, anchovy essence, Castelvetrano olives"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Horseradish Crusted Salmon Medallion",
+   "price": null,
+   "description": "dilled cucumbers, grain mustard sauce"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Branzini",
+   "price": null,
+   "description": "fennel puree, saffron-orange emulsion, caper raisin relish"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Coconut Thai Shellfish Curry",
+   "price": null,
+   "description": "shiitake mushrooms, mint, cilantro"
+  },
+  {
+   "section": "Fish and Seafood",
+   "item": "Roasted Italian Eggplant",
+   "price": null,
+   "description": "sauce vierge, basil oil, ricotta, parmesan"
+  },
+  {
+   "section": "Meat and Game Birds",
+   "item": "Roast Quail",
+   "price": null,
+   "description": "tagliatelle, spigarello, chanterelles"
+  },
+  {
+   "section": "Meat and Game Birds",
+   "item": "Roasted Pork Chop and Peaches",
+   "price": null,
+   "description": "farro verde, pickled rhubarb, celery, huckleberry puree"
+  },
+  {
+   "section": "Meat and Game Birds",
+   "item": "Lemon Pepper Duck Breast",
+   "price": null,
+   "description": "duck hash, celery root puree, bacon braised endive, apple ginger chutney"
+  },
+  {
+   "section": "Meat and Game Birds",
+   "item": "Herb Crusted Lamb Loin",
+   "price": null,
+   "description": "creamy polenta, roasted red peppers, turnips, Thumbelina carrots"
+  },
+  {
+   "section": "Meat and Game Birds",
+   "item": "Filet of Beef",
+   "price": null,
+   "description": "potato gratin, king trumpet mushrooms, bone marrow bearnaise"
+  },
+  {
+   "section": "Cheese",
+   "item": "A Selection of Farmhouse and Artisanal Cheeses",
+   "price": null,
+   "description": "presented tableside"
+  },
+  {
+   "section": "Dessert",
+   "item": "Seasonal Sorbet Sampler with Cookies",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Profiteroles",
+   "price": null,
+   "description": "vanilla choux, vanilla ice cream, chocolate sauce"
+  },
+  {
+   "section": "Dessert",
+   "item": "Warm Louisiana Butter Cake",
+   "price": null,
+   "description": "apples, huckleberry compote, vanilla ice cream"
+  },
+  {
+   "section": "Dessert",
+   "item": "Creme Brulee",
+   "price": null,
+   "description": "vanilla sable, crystallized almonds, figs"
+  },
+  {
+   "section": "Dessert",
+   "item": "Baked Chocolate Souffle with Two Sauces",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Trio of Ice Cream with Cookies",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "Classic French prix fixe. Guests build a 3, 4 or 5 course menu from the dishes below (individual dishes are not priced), or order the 5-course tasting menu. A 7% surcharge is added for San Francisco employer mandates. Wine list and cheese cart PDFs not itemized.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $149.00 of 7 prices in sections ['Prix Fixe']; rule L1<10, L2<18, L3<30, L4>=30"
+}

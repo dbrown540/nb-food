@@ -1,0 +1,187 @@
+{
+ "name": "Frascati",
+ "addr": "1901 Hyde Street",
+ "menu_url": "https://www.frascatisf.com/menus/",
+ "source": "restaurant website (BentoBox menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "To Begin",
+   "item": "Di Steffano Burrata",
+   "price": 18.0,
+   "description": "prosciutto di Parma, toasted baguette, fig jam, balsamic"
+  },
+  {
+   "section": "To Begin",
+   "item": "Russet Potato Gnocchi",
+   "price": 17.0,
+   "description": "wild mushrooms, tomatoes, peas, parmesan, white truffle oil"
+  },
+  {
+   "section": "To Begin",
+   "item": "Sauteed Brussels Sprouts",
+   "price": 13.0,
+   "description": "crispy bacon, capers, parmesan"
+  },
+  {
+   "section": "To Begin",
+   "item": "Artisanal Cheese Plate",
+   "price": 19.0,
+   "description": "brie, goat, blue, house accoutrements"
+  },
+  {
+   "section": "To Begin",
+   "item": "Steak Tartare",
+   "price": 21.0,
+   "description": "pickled beets, cornichons, whole grain mustard, crostini"
+  },
+  {
+   "section": "To Begin",
+   "item": "Marinated Olives",
+   "price": 10.0,
+   "description": "roasted garlic, Calabria chilies, crostini"
+  },
+  {
+   "section": "Soup and Salads",
+   "item": "Tomato Bisque",
+   "price": 13.0,
+   "description": "creme fraiche"
+  },
+  {
+   "section": "Soup and Salads",
+   "item": "Grilled Bread Salad",
+   "price": 16.0,
+   "description": "romaine, cucumbers, white beans, olives, feta"
+  },
+  {
+   "section": "Soup and Salads",
+   "item": "Octopus Salad",
+   "price": 18.0,
+   "description": "arugula, orange, kalamata olives, chorizo vinaigrette"
+  },
+  {
+   "section": "Soup and Salads",
+   "item": "Peach-Blackberry Salad",
+   "price": 17.0,
+   "description": "greens, goat cheese, fennel, candied walnuts"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Fresh Fettuccini",
+   "price": 29.0,
+   "description": "beef bolognese, roasted tomato, scallions, parmesan"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Roasted Half Chicken",
+   "price": 37.0,
+   "description": "fingerling potatoes, cipollini, carrots, lemon-oregano jus"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Grilled Filet Mignon",
+   "price": 53.0,
+   "description": "garlic mashed potatoes, baby carrots, leeks, red wine demi"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Grilled Pork Chop",
+   "price": 42.0,
+   "description": "sweet potato puree, napa cabbage, apple salsa"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Maple Leaf Duck Breast",
+   "price": 44.0,
+   "description": "wild rice, braised cabbage, dried cherries, cherry jus"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Fresh Ravioli",
+   "price": 30.0,
+   "description": "spinach, ricotta, parmesan, lemon cream sauce"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Pan Alaskan Halibut",
+   "price": 43.0,
+   "description": "roasted corn, red peppers, fava beans, lemon herb butter"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Shrimp Scampi",
+   "price": 38.0,
+   "description": "fresh linguine, roasted tomatoes, garlic, chilies, gremolata"
+  },
+  {
+   "section": "Main Courses",
+   "item": "Salmon Risotto",
+   "price": 35.0,
+   "description": "leeks, English peas, baby spinach, white wine"
+  },
+  {
+   "section": "Desserts",
+   "item": "Almond Toffee Panna Cotta",
+   "price": 12.0,
+   "description": "caramelized bananas"
+  },
+  {
+   "section": "Desserts",
+   "item": "Blueberry Peach Cobbler",
+   "price": 12.0,
+   "description": "vanilla ice cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "Warm Black & White Chocolate Bread Pudding",
+   "price": 12.0,
+   "description": "hazelnut ice cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "Tiramisu",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Lemon Cheesecake",
+   "price": 12.0,
+   "description": "graham cracker crust"
+  },
+  {
+   "section": "Desserts",
+   "item": "House Made Ice Cream or Sorbet (pint)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Coffee",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Espresso",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Cappuccino / Cafe Latte",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Hot Tea",
+   "price": 6.0,
+   "description": ""
+  }
+ ],
+ "notes": "Dinner Tue-Sat 5-9:30pm per menu page; take-out available. Wine list (PDF) and dessert wines omitted.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $38.00 of 9 prices in sections ['Main Courses']; rule L1<10, L2<18, L3<30, L4>=30"
+}

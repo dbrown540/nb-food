@@ -1,0 +1,307 @@
+{
+ "name": "Delah Coffee",
+ "addr": "450 Sansome Street",
+ "menu_url": "https://delahcoffee.com/delah-menu/",
+ "source": "restaurant website (menu images; read visually)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Delah Specialties",
+   "item": "Yemeni Coffee (12oz)",
+   "price": 5.95,
+   "description": "Sana'ani, Mofawar, Qahwah, Jubani, Qishr, Arabian qahwah; 16oz $6.75"
+  },
+  {
+   "section": "Delah Specialties",
+   "item": "Delah Pot (small)",
+   "price": 18.95,
+   "description": "large $22.45; 96oz traveler $36.95"
+  },
+  {
+   "section": "Delah Specialties",
+   "item": "Queen Sheba",
+   "price": 5.95,
+   "description": "starting price; chilled iced qishr brewed with spices"
+  },
+  {
+   "section": "Tea",
+   "item": "Adeni Chai",
+   "price": 4.95,
+   "description": "Yemeni black tea boiled with cream and spices; 16oz $5.95"
+  },
+  {
+   "section": "Tea",
+   "item": "Yemeni Tea",
+   "price": 4.95,
+   "description": "black tea, cardamom, cloves; 16oz $5.95"
+  },
+  {
+   "section": "Tea",
+   "item": "Iced Delah Chai",
+   "price": 6.75,
+   "description": "Yemeni tea, cream, spices"
+  },
+  {
+   "section": "Tea",
+   "item": "Iced Tea",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Tea",
+   "item": "Tea Pot",
+   "price": 18.95,
+   "description": "large $22.45"
+  },
+  {
+   "section": "Coffee & More",
+   "item": "Coffee (12oz)",
+   "price": 3.95,
+   "description": "16oz $4.95"
+  },
+  {
+   "section": "Coffee & More",
+   "item": "Turkish Coffee",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Coffee & More",
+   "item": "Pour Over",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Coffee & More",
+   "item": "Hot Chocolate",
+   "price": 3.95,
+   "description": "16oz $4.65"
+  },
+  {
+   "section": "Coffee & More",
+   "item": "French Press",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Espresso",
+   "price": 2.25,
+   "description": "double $4.25"
+  },
+  {
+   "section": "Espresso",
+   "item": "Macchiato",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Cortado",
+   "price": 4.95,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Spanish Latte",
+   "price": 6.25,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Rose Delah Latte",
+   "price": 7.85,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Americano",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Latte",
+   "price": 5.25,
+   "description": "16oz $5.95"
+  },
+  {
+   "section": "Espresso",
+   "item": "Caramel Macchiato",
+   "price": 6.75,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Cappuccino",
+   "price": 5.45,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Yemeni Frappe",
+   "price": 7.85,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Mocha Latte",
+   "price": 6.75,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Yemeni Latte",
+   "price": 6.75,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Matcha Latte",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Pistachio Latte",
+   "price": 7.85,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Affogato Latte",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Delah Shaken Espresso",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Espresso",
+   "item": "Iced Mango Matcha",
+   "price": 7.45,
+   "description": ""
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Hibiscus",
+   "price": 5.45,
+   "description": ""
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Socotra Breeze",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Dubai Refresher",
+   "price": 6.95,
+   "description": "sweet with a minty touch"
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Pink Socotra",
+   "price": 6.95,
+   "description": "rose, lavender, mint"
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Strawberry Acai",
+   "price": 7.45,
+   "description": ""
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Pineapple",
+   "price": 7.45,
+   "description": ""
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Delah Dragon",
+   "price": 6.95,
+   "description": "dragon fruit, sparkling water, splash of Red Bull"
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Paradise Breeze",
+   "price": 6.95,
+   "description": "hibiscus, lavender, strawberry"
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Sahara Freeze",
+   "price": 6.95,
+   "description": "raspberry, coconut, lemon"
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Redbull Crush",
+   "price": 7.45,
+   "description": ""
+  },
+  {
+   "section": "Chillers & Smoothies",
+   "item": "Smoothies",
+   "price": 6.95,
+   "description": "Mangorabian, strawberry, blueberry dates"
+  },
+  {
+   "section": "Pastries",
+   "item": "Lotus Cheesecake",
+   "price": 8.45,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Pistachio Baklava",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Kunafa Cheesecake",
+   "price": 8.45,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Turkish Delights",
+   "price": 5.25,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Kunava",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Bee Bites",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Croissant",
+   "price": 4.75,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Rose Milk Cake",
+   "price": 6.45,
+   "description": ""
+  }
+ ],
+ "notes": "Address inferred: the batch had none; the brand's SF locations are 450 Sansome St (nearest Chinatown; Mon-Fri 6am-8pm, Sat-Sun 7am-8pm) and 370 4th St. Menu is brand-wide, one list for all locations. Two sizes shown where listed (12oz price, 16oz in description). Add-ons (drizzles, extra shot, alt creamer) omitted.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $6.95 of 49 prices in sections all; rule L1<10, L2<18, L3<30, L4>=30"
+}

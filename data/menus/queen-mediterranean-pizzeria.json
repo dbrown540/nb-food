@@ -1,0 +1,12 @@
+{
+ "name": "Queen Mediterranean Pizzeria",
+ "addr": "993 North Point Street",
+ "menu_url": "https://www.yelp.com/biz/queen-mediterranean-san-francisco-4",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Appears closed: Yelp marks Queen Mediterranean at 993 North Point St as CLOSED and a menu-guide listing says permanently closed. No official website found. Address from those listings.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

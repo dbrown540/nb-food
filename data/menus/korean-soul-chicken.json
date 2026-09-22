@@ -1,0 +1,247 @@
+{
+ "name": "Korean Soul Chicken",
+ "addr": "1710 Polk Street",
+ "menu_url": "https://koreansoulchicken.com/products/items/MTE4NA/NDg4",
+ "source": "restaurant online-ordering site (iOrderFoods, branded K Soul Chicken; menu rendered in browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "LUNCH SPECIAL",
+   "item": "#1 Lunch BBQ Chicken",
+   "price": 15.95,
+   "description": "with 2 shrimp tempura and 2 potstickers"
+  },
+  {
+   "section": "LUNCH SPECIAL",
+   "item": "#2 Lunch BBQ Pork",
+   "price": 16.95,
+   "description": "with 2 shrimp tempura and 2 potstickers"
+  },
+  {
+   "section": "LUNCH SPECIAL",
+   "item": "#3 Lunch BBQ Beef",
+   "price": 17.95,
+   "description": ""
+  },
+  {
+   "section": "LUNCH SPECIAL",
+   "item": "#4 Lunch Fried Wings",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "LUNCH SPECIAL",
+   "item": "#5 Lunch Fried Boneless",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#1 Galbi Chicken",
+   "price": 18.25,
+   "description": "starting price; wings in galbi sauce; regular 7-8 wings, large 15-16"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#2 Yang Nyum Chicken",
+   "price": 18.25,
+   "description": "starting price; wings in house yang nyum sauce"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#3 Garlic & Jalapeno Chicken",
+   "price": 18.25,
+   "description": "starting price; garlic sauce with jalapeno"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#4 Sweet Chicken",
+   "price": 18.25,
+   "description": "starting price; Korean bean paste sauce"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#5 Spicy Chicken",
+   "price": 18.25,
+   "description": "starting price; Korean chili powder sauce"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#6 Chee-Rinkle Chicken",
+   "price": 18.25,
+   "description": "starting price; cheddar cheese powder"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#7 Go Chu Jang Chicken",
+   "price": 18.25,
+   "description": "starting price; Korean chili paste sauce"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#8 Kimchi Chicken",
+   "price": 18.25,
+   "description": "starting price; sauteed kimchi sauce"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#9 Orange Chicken",
+   "price": 18.25,
+   "description": "starting price; tangy and sweet sauce"
+  },
+  {
+   "section": "MAIN MENU",
+   "item": "#10 Fried Chicken",
+   "price": 17.25,
+   "description": "starting price; crispy fried chicken, no sauce"
+  },
+  {
+   "section": "BBQ FAVORITES",
+   "item": "BBQ Chicken",
+   "price": 17.25,
+   "description": "house teriyaki sauce; with steamed rice and cabbage salad"
+  },
+  {
+   "section": "BBQ FAVORITES",
+   "item": "BBQ Beef",
+   "price": 19.25,
+   "description": "house teriyaki sauce; with steamed rice and cabbage salad"
+  },
+  {
+   "section": "BBQ FAVORITES",
+   "item": "BBQ Pork",
+   "price": 18.25,
+   "description": "house teriyaki sauce; with steamed rice and cabbage salad"
+  },
+  {
+   "section": "SANDWICH",
+   "item": "Fried Chicken Sandwich",
+   "price": 13.0,
+   "description": "brioche bun, coleslaw, onion rings, sweet sauce, pickle"
+  },
+  {
+   "section": "SANDWICH",
+   "item": "BBQ Chicken Sandwich",
+   "price": 14.95,
+   "description": "toasted bun, melted Jack cheese"
+  },
+  {
+   "section": "SANDWICH",
+   "item": "BBQ Pork Sandwich",
+   "price": 15.95,
+   "description": "toasted bun, melted Jack cheese"
+  },
+  {
+   "section": "SANDWICH",
+   "item": "BBQ Beef Sandwich",
+   "price": 16.95,
+   "description": "toasted bun, melted Jack cheese"
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Bibimbop",
+   "price": 16.95,
+   "description": "rice, assorted vegetables and meat, egg over-easy, gochujang"
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Ddeokbokki",
+   "price": 15.95,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Kimchi Fried Rice",
+   "price": 14.5,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Seaweed Roll",
+   "price": 9.95,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Mandoo Chicken Potsticker (9 pcs)",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Corn Cheese",
+   "price": 8.25,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Shrimp Tempura",
+   "price": 7.95,
+   "description": "full 8 pcs or half 4 pcs"
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Onion Ring",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "French Fries",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Kimchi (8 oz)",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Coleslaw",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Pickled Radish",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "SIDE ORDER",
+   "item": "Steam Rice",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "DRINK",
+   "item": "Soda Can",
+   "price": 2.5,
+   "description": ""
+  },
+  {
+   "section": "DRINK",
+   "item": "Water",
+   "price": 2.5,
+   "description": ""
+  },
+  {
+   "section": "DRINK",
+   "item": "Sparkling Water",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "DRINK",
+   "item": "Snapple / Apple Juice / Ginger Ale",
+   "price": 3.75,
+   "description": ""
+  }
+ ],
+ "notes": "Online ordering showed \"closed now\" but the menu rendered with prices. Wing dishes list regular size (7-8 wings) as the base price; large (15-16 wings) costs more (price not shown without selecting). Lunch specials and mains come with pickled radish; BBQ plates with steamed rice and cabbage salad. Extra sauces ($2.00 each) omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $18.25 of 18 prices in sections ['MAIN MENU', 'BBQ FAVORITES', 'LUNCH SPECIAL']; rule L1<10, L2<18, L3<30, L4>=30"
+}

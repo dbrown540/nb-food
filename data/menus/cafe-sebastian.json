@@ -1,0 +1,12 @@
+{
+ "name": "Cafe Sebastian",
+ "addr": "545 Sansome Street",
+ "menu_url": "https://www.cafesebastiansf.com/",
+ "source": "web search + restaurant website (maintenance page)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp lists the cafe at 545 Sansome St as CLOSED (updated July 2026) and the official site cafesebastiansf.com now shows only a \"site under maintenance\" page. Address found via web search (batch had none).",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

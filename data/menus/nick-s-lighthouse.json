@@ -1,0 +1,415 @@
+{
+ "name": "Nick's Lighthouse",
+ "addr": "2815 Taylor Street",
+ "menu_url": "https://nickslighthouseco.com/menu",
+ "source": "restaurant website (menu images, read visually)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Crispy Calamari",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crispy Langostino Lobster",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Oyster Rockefeller",
+   "price": 25.0,
+   "description": "6 baked oysters, cream sauce, spinach, Parmesan"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Butter Shrimp",
+   "price": 22.0,
+   "description": "garlic butter or spicy garlic butter"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Grilled Jumbo Prawns (7 pieces)",
+   "price": 22.0,
+   "description": "garlic butter or spicy garlic butter"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Steamed Clams or Mussels",
+   "price": 24.0,
+   "description": "garlic butter wine sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Crab Cakes",
+   "price": 25.0,
+   "description": "2 cakes with side salad"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mozzarella Cheese Sticks",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Chicken Wings (6 pieces)",
+   "price": 15.0,
+   "description": "12 pieces $23"
+  },
+  {
+   "section": "House-Made Clam Chowder",
+   "item": "Clam Chowder (cup)",
+   "price": 10.0,
+   "description": "bowl $12"
+  },
+  {
+   "section": "House-Made Clam Chowder",
+   "item": "Clam Chowder Bread Bowl",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Blue Point Oysters (6 pieces)",
+   "price": 23.0,
+   "description": "12 pieces $40"
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Bay Shrimp Cocktail",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Crab Cocktail",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Combination Crab & Shrimp Cocktail",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Jumbo Prawn Cocktail",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Ceviche",
+   "price": 20.0,
+   "description": "shrimp or fish, tortilla chips"
+  },
+  {
+   "section": "Shellfish & Seafood Cocktails",
+   "item": "Mexican Shrimp Cocktail",
+   "price": 20.0,
+   "description": "shrimp, tomato, onion, tomato-citrus sauce"
+  },
+  {
+   "section": "Seafood Entrees",
+   "item": "San Francisco Cioppino",
+   "price": 47.0,
+   "description": "Dungeness crab, prawns, clams, calamari, scallops, mussels, fish"
+  },
+  {
+   "section": "Seafood Entrees",
+   "item": "Saute Shellfish Platter",
+   "price": 37.0,
+   "description": "Dungeness crab, fish, prawns, scallops, calamari, bay shrimp, rice"
+  },
+  {
+   "section": "Seafood Entrees",
+   "item": "Grilled Salmon",
+   "price": 25.0,
+   "description": "rice and salad"
+  },
+  {
+   "section": "Seafood Entrees",
+   "item": "Grilled Snapper",
+   "price": 25.0,
+   "description": "rice and salad"
+  },
+  {
+   "section": "Seafood Entrees",
+   "item": "Deep Fried Whole Tilapia",
+   "price": 27.0,
+   "description": "rice and salad"
+  },
+  {
+   "section": "Seafood Entrees",
+   "item": "Whole Cracked Live Dungeness Crab",
+   "price": null,
+   "description": "market price"
+  },
+  {
+   "section": "Handhelds",
+   "item": "Crab Sandwich",
+   "price": 25.0,
+   "description": "fries or salad"
+  },
+  {
+   "section": "Handhelds",
+   "item": "Half Pound Cheeseburger",
+   "price": 17.0,
+   "description": "fries or salad"
+  },
+  {
+   "section": "Handhelds",
+   "item": "Fried Chicken Sandwich",
+   "price": 18.0,
+   "description": "fries or salad"
+  },
+  {
+   "section": "Handhelds",
+   "item": "Salmon Burger",
+   "price": 20.0,
+   "description": "fries or salad"
+  },
+  {
+   "section": "Handhelds",
+   "item": "Fish Tacos (3 pieces)",
+   "price": 20.0,
+   "description": "fried rockfish, pico de gallo, cabbage, corn tortillas"
+  },
+  {
+   "section": "Meat & Poultry Entrees",
+   "item": "Beef Bulgogi",
+   "price": 26.0,
+   "description": "soy-marinated ribeye, rice and salad"
+  },
+  {
+   "section": "Meat & Poultry Entrees",
+   "item": "Chicken Bulgogi Teriyaki",
+   "price": 24.0,
+   "description": "rice and salad"
+  },
+  {
+   "section": "Meat & Poultry Entrees",
+   "item": "Donkatsu",
+   "price": 25.0,
+   "description": "fried pork cutlet, rice and salad"
+  },
+  {
+   "section": "Meat & Poultry Entrees",
+   "item": "Chicken Katsu",
+   "price": 25.0,
+   "description": "fried chicken cutlet, rice and salad"
+  },
+  {
+   "section": "Seafood Boil",
+   "item": "Mini Boil (1 person)",
+   "price": 35.0,
+   "description": "jumbo shrimp, potato, corn"
+  },
+  {
+   "section": "Seafood Boil",
+   "item": "Classic Boil (1-2 persons)",
+   "price": 60.0,
+   "description": "2 cups chowder, shrimp, mussels, sausage, potato, corn"
+  },
+  {
+   "section": "Seafood Boil",
+   "item": "Combo A (2-3 persons)",
+   "price": 130.0,
+   "description": "3 cups chowder, whole Dungeness crab, shrimp, crawfish, mussels"
+  },
+  {
+   "section": "Seafood Boil",
+   "item": "Combo B (3-4 persons)",
+   "price": 250.0,
+   "description": "4 cups chowder, 2 Dungeness crabs, shrimp, crawfish, mussels, clams"
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Linguine Vongole",
+   "price": 26.0,
+   "description": "clams, white wine garlic sauce"
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Calamari Siciliano",
+   "price": 26.0,
+   "description": "mushrooms, herbs, tomato sauce"
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Alfredo Fettuccine with Crab",
+   "price": 29.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Alfredo Fettuccine with Jumbo Prawns",
+   "price": 29.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Alfredo Fettuccine with Bay Shrimp",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Alfredo Fettuccine with Chicken",
+   "price": 23.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Fettuccine Seafood",
+   "price": 34.0,
+   "description": "prawns, calamari, mussels, scallops"
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Shrimp Fried Rice",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Seafood & Crab Ramen",
+   "price": 25.0,
+   "description": "crab, shrimp, calamari, mussels"
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Beef Ramen",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta, Rice & Ramen",
+   "item": "Vegetable Ramen",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Fried Combos",
+   "item": "Fish & Chip",
+   "price": 20.0,
+   "description": "wild rockfish"
+  },
+  {
+   "section": "Fried Combos",
+   "item": "Shrimp & Chip",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Fried Combos",
+   "item": "Jumbo Prawns & Chip",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Fried Combos",
+   "item": "Deep Fried Platter",
+   "price": 37.0,
+   "description": "soft shell crab, fish, prawns, scallops, calamari, oysters, fries"
+  },
+  {
+   "section": "Salads",
+   "item": "House Salad",
+   "price": 15.0,
+   "description": "with chicken $23, bay shrimp $25"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 15.0,
+   "description": "with chicken $23, bay shrimp $25, crab $32"
+  },
+  {
+   "section": "Salads",
+   "item": "Dungeness Crab Louie",
+   "price": 35.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Combo Louie Salad",
+   "price": 40.0,
+   "description": "crab, bay shrimp, prawns"
+  },
+  {
+   "section": "Sides",
+   "item": "Steamed Rice",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic Rice",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic Noodles",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic Fries",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Onion Rings",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Garlic Bread",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Fried Ice Cream",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Cheesecake",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Soft Vanilla Ice Cream",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Tipsy Scoop",
+   "price": 12.0,
+   "description": "vanilla ice cream with liqueur shot"
+  }
+ ],
+ "notes": "The listed website nickslighthouse.com does not resolve; current site is nickslighthouseco.com. Menu artwork and Yelp (\"MOVED\", May 2026) indicate the restaurant relocated to 445 Jefferson Street. Menu prices shown are cash prices (4% card fee). Whole Dungeness crab market price. Kids menu, happy hour and cocktails (15-17) omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $25.00 of 29 prices in sections ['Seafood Entrees', 'Handhelds', 'Pasta, Rice & Ramen', 'Fried Combos', 'Meat & Poultry Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
+}

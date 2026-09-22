@@ -1,12 +1,109 @@
 {
  "name": "Tacorea",
  "addr": "620 Broadway",
- "menu_url": "https://tacorea.com/#menu-section",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "Squarespace page; menu section has no text (image/JS)",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://www.tacorea.com/#menu-section",
+ "source": "restaurant website menu-board image (Squarespace CDN PNG on the home page, downloaded at 2500w and read visually)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Burgers & Sandos",
+   "item": "McBangBang",
+   "price": 15.95,
+   "description": "beef patty and chicken fritters with cheese"
+  },
+  {
+   "section": "Burgers & Sandos",
+   "item": "Double Cheezburger",
+   "price": 15.95,
+   "description": "double meat, double cheese"
+  },
+  {
+   "section": "Burgers & Sandos",
+   "item": "Cheezburger",
+   "price": 10.95,
+   "description": "single patty, single cheese"
+  },
+  {
+   "section": "Burgers & Sandos",
+   "item": "Green Burger",
+   "price": 14.95,
+   "description": "plant-based veggie patty with cheese"
+  },
+  {
+   "section": "Burgers & Sandos",
+   "item": "Fried Chicken Sando",
+   "price": 10.95,
+   "description": "crispy fried chicken patty, cheese, 999 sauce"
+  },
+  {
+   "section": "Burgers & Sandos",
+   "item": "California Burrito",
+   "price": 14.95,
+   "description": "carne asada, tater tots, guac, sour cream, pico de gallo"
+  },
+  {
+   "section": "Burgers & Sandos",
+   "item": "Quesadilla Supreme",
+   "price": 14.95,
+   "description": "cheese, crispy tots; carne, chicken or bulgogi"
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Chicken Teriyaki",
+   "price": 19.95,
+   "description": "steamed rice, macaroni salad, side green salad"
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Chicken Katsu",
+   "price": 19.95,
+   "description": "steamed rice, macaroni salad, side green salad"
+  },
+  {
+   "section": "Rice Plates",
+   "item": "Beef Patty Yaki",
+   "price": 19.95,
+   "description": "steamed rice, macaroni salad, side green salad"
+  },
+  {
+   "section": "Sides",
+   "item": "French Fries",
+   "price": 5.5,
+   "description": "dusted with salt"
+  },
+  {
+   "section": "Sides",
+   "item": "Ol' School Tater Tots",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Onion Rings",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Jalapeño Poppers",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Chopped Cheese Fries",
+   "price": 15.95,
+   "description": "chopped beef patty with grilled onions"
+  },
+  {
+   "section": "Sides",
+   "item": "Chicken Nuggets",
+   "price": 6.5,
+   "description": "crispy chicken fritters"
+  }
+ ],
+ "notes": "Single menu board (burgers & sandos, rice plates, sides); no drinks listed. Burgers include grilled onions, lettuce, tomatoes, banana peppers and the house \"999 island spread\". Hours not on the site.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $15.45 of 10 prices in sections ['Burgers & Sandos', 'Rice Plates']; rule L1<10, L2<18, L3<30, L4>=30"
 }

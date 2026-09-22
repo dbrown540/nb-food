@@ -1,12 +1,12 @@
 {
  "name": "Caffè Greco",
  "addr": "423 Columbus Avenue",
- "menu_url": null,
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
+ "menu_url": "https://caffegreco.com/",
+ "source": "no reliable menu source (official site and Yelp checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
  "status": "not_found",
  "items": [],
- "notes": "no official site; Yelp menu page blocked (403/404); only unverified third-party listings. Cash only (curated).",
+ "notes": "Official site caffegreco.com (found this pass) is a three-page brochure (Home / About / Contact) with no menu; it names Illy espresso, tiramisu, cannoli and gelato in prose only. Yelp has no menu page for this location (the /menu URL redirects to the business page, which lists popular desserts by name without prices). Yelp hours: Mon-Thu 7am-10pm, Fri-Sat 7am-midnight, Sun 7am-11pm.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

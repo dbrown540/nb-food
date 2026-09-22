@@ -1,0 +1,343 @@
+{
+ "name": "Player's Sports Grill and Arcade",
+ "addr": "Pier 39",
+ "menu_url": "https://www.playerssf.com/food-menu",
+ "source": "restaurant website (Squarespace food menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starting Lineup",
+   "item": "Seafood Trio",
+   "price": 27.99,
+   "description": "calamari, coconut shrimp, crab cake, four sauces"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Fried Calamari",
+   "price": 15.99,
+   "description": ""
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Popcorn Shrimp",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Coconut Shrimp",
+   "price": 14.99,
+   "description": "mango salsa, mango-mustard sauce"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Ahi Poke",
+   "price": 18.99,
+   "description": "original or spicy, wonton chips"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Dungeness Crab Cakes",
+   "price": 22.99,
+   "description": "chipotle remoulade"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Grilled Jumbo Shrimp",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "French Fries",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Garlic Fries",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Chips & Guacamole",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Onion Rings",
+   "price": 11.99,
+   "description": "beer battered, ranch"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Nachos",
+   "price": 16.99,
+   "description": "beef chili, queso, pico, sour cream"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Players Hot Wings",
+   "price": 16.99,
+   "description": "original, smokin' hot, teriyaki or BBQ"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Pot Stickers",
+   "price": 11.99,
+   "description": "spicy vegetables, ginger-soy"
+  },
+  {
+   "section": "Starting Lineup",
+   "item": "Quesadilla",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Classic Caesar",
+   "price": 13.99,
+   "description": "add chicken $4.95, shrimp $5.95"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "San Francisco Clam Chowder Bread Bowl",
+   "price": 12.99,
+   "description": "regular bowl $9.99"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Shrimp Cobb",
+   "price": 18.99,
+   "description": "romaine, grilled shrimp, bacon, egg"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Soup & Salad Combo",
+   "price": 19.99,
+   "description": "chowder bread bowl with garden or Caesar salad"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Fried Chicken Salad",
+   "price": 17.99,
+   "description": "buffalo tenders, romaine, ranch, cheddar, avocado"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Home Run Chili",
+   "price": 11.99,
+   "description": "regular bowl $9.99"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Korean Short Ribs",
+   "price": 22.99,
+   "description": "sesame-soy ginger marinade, rice"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "BBQ Ribs",
+   "price": 27.99,
+   "description": "fries, coleslaw"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Fettuccine Alfredo",
+   "price": 18.99,
+   "description": ""
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Fried Chicken Strips",
+   "price": 17.99,
+   "description": "fries"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "15 oz New York Steak",
+   "price": 36.99,
+   "description": "Angus strip, one side"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Mix Seafood Plate",
+   "price": 34.99,
+   "description": "halibut, salmon, jumbo shrimp, rice, broccolini"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Grilled Halibut",
+   "price": 31.99,
+   "description": "rice, broccolini, lemon butter"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Dungeness Crab Roll",
+   "price": 24.99,
+   "description": "Old Bay fries"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Fresh Local Cod Fish & Chips",
+   "price": 21.99,
+   "description": "IPA batter, tartar, fries"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Baja Fish Tacos",
+   "price": 19.99,
+   "description": "beer-battered cod, avocado crema, corn, cotija"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Halibut Fish Sandwich",
+   "price": 24.99,
+   "description": "ciabatta, coleslaw, pesto aioli"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Grilled Salmon",
+   "price": 25.99,
+   "description": "rice, broccolini"
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Shrimp Scampi",
+   "price": 23.99,
+   "description": ""
+  },
+  {
+   "section": "Seafood & Entrees",
+   "item": "Ahi Poke Bowl",
+   "price": 20.99,
+   "description": "over rice, avocado"
+  },
+  {
+   "section": "Pizzas",
+   "item": "BBQ Chicken Pizza",
+   "price": 24.99,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Hawaiian Pizza",
+   "price": 24.99,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Vegetable Supreme Pizza",
+   "price": 23.99,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Pepperoni Pizza",
+   "price": 22.99,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Cheese Pizza",
+   "price": 20.99,
+   "description": ""
+  },
+  {
+   "section": "Pizzas",
+   "item": "Pesto Pizza",
+   "price": 23.99,
+   "description": "cherry tomatoes, parmesan"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "The Ultimate Kobe Cheeseburger",
+   "price": 22.99,
+   "description": "caramelized onions, blackberry chipotle sauce, bacon; with fries"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Philly Cheesesteak",
+   "price": 18.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "The Malibu Garden Burger",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Players Burger",
+   "price": 14.99,
+   "description": "Angus Wagyu blend, potato bun"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "The Club Burger",
+   "price": 17.99,
+   "description": "on toasted sourdough, cheddar"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Pulled Pork Sandwich",
+   "price": 16.99,
+   "description": "BBQ sauce, potato bun"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Grilled Chicken Sandwich",
+   "price": 18.99,
+   "description": "ciabatta, pesto aioli"
+  },
+  {
+   "section": "Burgers & Sandwiches",
+   "item": "Crab Sandwich",
+   "price": 24.99,
+   "description": "garlic butter crab, bolillo roll, garlic fries"
+  },
+  {
+   "section": "Sides",
+   "item": "Side Salad / Caesar / Rice / Broccolini / Garlic Bread",
+   "price": 7.99,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Mac N Cheese",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Kids entree",
+   "price": 11.99,
+   "description": "chicken tenders, mac 'n' cheese, hot dog"
+  },
+  {
+   "section": "Dessert",
+   "item": "Rocky Road Sundae",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Rockslide Brownie",
+   "price": 10.9,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Luau Pie",
+   "price": 11.99,
+   "description": "Oreo crust, vanilla ice cream, macadamia, hot fudge"
+  }
+ ],
+ "notes": "Open daily 11am-9pm per site. Menu notes a 4.5% charge for city mandates. Drink and Luau Lounge menus not extracted; arcade play-and-eat combo ($24.99 with $10 game card) omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $22.99 of 28 prices in sections ['Seafood & Entrees', 'Pizzas', 'Burgers & Sandwiches']; rule L1<10, L2<18, L3<30, L4>=30"
+}

@@ -1,0 +1,253 @@
+{
+ "name": "Pomegranate",
+ "addr": "2801 Leavenworth Street",
+ "menu_url": "https://www.pomegranatebythebay.com",
+ "source": "restaurant online-ordering page (Square Online catalog on own site)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Salami sandwich",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Turkey breast sandwich",
+   "price": 14.5,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Ham & cheese sandwich",
+   "price": 14.5,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Scrambled egg sandwich",
+   "price": 13.5,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Veggie sandwich",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Ham & cheese croissant sandwich",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Turkey croissant sandwich",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Veggie croissant sandwich",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Salmon, avocado & cream cheese on croissant",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Salmon avocado toast",
+   "price": 15.0,
+   "description": "salmon, avocado, cream cheese, lemon, dill, sourdough"
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Avocado toast",
+   "price": 12.5,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "English muffin ham & cheese",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Bagel with cream cheese",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Bagel turkey & cheese",
+   "price": 10.75,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Bagel ham & cheese",
+   "price": 10.75,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Bagel with salmon & cream cheese",
+   "price": 12.5,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Spinach mushroom quiche",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Spinach vegetable power bowl",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches & Savory",
+   "item": "Yogurt",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate croissant",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Danish (cheese or fruit)",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Danish raisin",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Bear claw",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Glazed donut",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Blueberry muffin",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Blueberry scone",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Banana nut bread",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Fruit square",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Brownie",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate chip cookie",
+   "price": 3.5,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Madeleine cookies",
+   "price": 1.5,
+   "description": ""
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Espresso",
+   "price": 4.0,
+   "description": "double $5"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Drip coffee",
+   "price": 4.0,
+   "description": "starting price; small $4 / medium $4.50 / large $5"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Americano",
+   "price": 4.5,
+   "description": "starting price; small $4.50 / medium $5 / large $5.75"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Cafe au lait",
+   "price": 4.25,
+   "description": "starting price; small $4.25 / medium $4.75 / large $5.50"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Latte",
+   "price": 5.0,
+   "description": "starting price; small $5 / medium $5.50 / large $6.25"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Cappuccino",
+   "price": 5.0,
+   "description": "starting price; small $5 / large $6.25"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Mocha",
+   "price": 5.0,
+   "description": "starting price; small $5 / medium $5.75 / large $6.50"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Macchiato (10oz)",
+   "price": 5.0,
+   "description": "espresso, milk foam"
+  },
+  {
+   "section": "Coffee & Tea",
+   "item": "Hot chocolate",
+   "price": 5.0,
+   "description": "starting price; medium $5 / large $5.75"
+  }
+ ],
+ "notes": "Cafe menu from the shop's Square Online catalog; coffee sizes collapsed to starting price with size prices in the description; syrups, add-ons and packaged snacks omitted.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $13.00 of 19 prices in sections ['Sandwiches & Savory']; rule L1<10, L2<18, L3<30, L4>=30"
+}

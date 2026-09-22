@@ -1,0 +1,12 @@
+{
+ "name": "Mac'd",
+ "addr": "2127 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/macd-san-francisco-3",
+ "source": "web search (Yelp listing titled CLOSED; DoorDash store deactivated); brand site location page bot-gated then 404",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed. Yelp lists the Polk St location as CLOSED (updated July 2026; search summary gives July 31, 2026), the DoorDash store is marked do-not-reactivate, and getmacd.com/sf-russian-hill returns 404 behind a bot wall.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

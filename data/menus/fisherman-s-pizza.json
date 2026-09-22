@@ -1,0 +1,12 @@
+{
+ "name": "Fisherman's Pizza",
+ "addr": "2800 Leavenworth Street",
+ "menu_url": "https://www.yelp.com/biz/fishermans-pizzeria-san-francisco",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Matched to Fisherman's Pizzeria, 2800 Leavenworth St; Yelp marks it CLOSED and a menu-archive site lists it as permanently closed. No official website found.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

@@ -1,0 +1,271 @@
+{
+ "name": "Philz Coffee",
+ "addr": "2230 Polk Street",
+ "menu_url": "https://philzcoffee.com/menu/russian-hill/coffee",
+ "source": "chain corporate website (location menu pages, no prices)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Featured Creations",
+   "item": "Apple Cinnamon Roll",
+   "price": null,
+   "description": "cold brew, caramel apple butter, vanilla, cinnamon"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Pecan Pie",
+   "price": null,
+   "description": "cold brew, pecan toffee, cinnamon, sea salt"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Tiramisu",
+   "price": null,
+   "description": "Philtered Soul, tiramisu swirl, cocoa; iced or hot"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Mint Mojito",
+   "price": null,
+   "description": "fresh mint, sweet, creamy"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Honey Haze",
+   "price": null,
+   "description": "Philtered Soul cold brew, honey, oat milk"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Iced Coffee Rosé",
+   "price": null,
+   "description": "rose, sweet, creamy"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Oatmeal Cookie Cold Brew",
+   "price": null,
+   "description": "Mission cold brew, cinnamon, oat milk"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Mocha Tesora",
+   "price": null,
+   "description": "dark chocolate, caramel, cocoa"
+  },
+  {
+   "section": "Featured Creations",
+   "item": "Gingersnap",
+   "price": null,
+   "description": "spices, sweet, creamy"
+  },
+  {
+   "section": "Cold Brew",
+   "item": "Philtered Soul Cold Brew",
+   "price": null,
+   "description": "hazelnut, maple, caramel; 32 oz available"
+  },
+  {
+   "section": "Cold Brew",
+   "item": "Mission Cold Brew",
+   "price": null,
+   "description": "milk chocolate, dried berry, almond; 32 oz available"
+  },
+  {
+   "section": "Coffee Blends (pour-over)",
+   "item": "Darker blends",
+   "price": null,
+   "description": "Jacob's Wonderbar, Aromatic Arabic, Ether, Tantalizing Turkish"
+  },
+  {
+   "section": "Coffee Blends (pour-over)",
+   "item": "Medium blends",
+   "price": null,
+   "description": "Tesora, Philtered Soul, Silken Splendor, Julie's Ultimate, Philharmonic"
+  },
+  {
+   "section": "Coffee Blends (pour-over)",
+   "item": "Lighter blends",
+   "price": null,
+   "description": "Dancing Water, Ambrosia Coffee of God, New Manhattan"
+  },
+  {
+   "section": "Coffee Blends (pour-over)",
+   "item": "Ecstatic",
+   "price": null,
+   "description": "butterscotch, dark chocolate, citrus"
+  },
+  {
+   "section": "Coffee Blends (pour-over)",
+   "item": "Luca's Unplugged Decaf",
+   "price": null,
+   "description": "chocolate, nuts, raisin"
+  },
+  {
+   "section": "Coffee Blends (pour-over)",
+   "item": "Hot Chocolate",
+   "price": null,
+   "description": "milk chocolate"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Bacon & Egg Burrito",
+   "price": null,
+   "description": "flour tortilla, eggs, potatoes, cheddar, bacon"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Green Chile Burrito",
+   "price": null,
+   "description": "eggs, potatoes, cheese, green chile"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Pork Sausage & Egg Burrito",
+   "price": null,
+   "description": "eggs, potatoes, cheddar, pork sausage"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Turkey Sausage Sandwich",
+   "price": null,
+   "description": "English muffin, egg patty, turkey sausage, pepper jack"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Plant Powered Sandwich",
+   "price": null,
+   "description": "Impossible sausage, JUST Egg, Daiya cheese"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Veggie Egg White Bites",
+   "price": null,
+   "description": "egg whites, bell peppers, onions, chives, three cheeses"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Bacon & Cheese Egg Bites",
+   "price": null,
+   "description": "eggs, bacon, three-cheese blend"
+  },
+  {
+   "section": "Breakfast",
+   "item": "Bagels (plain, everything, jalapeño cheese)",
+   "price": null,
+   "description": "toasted, cream cheese on the side"
+  },
+  {
+   "section": "Pastries",
+   "item": "Twice Baked Almond Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Chocolate Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Butter Croissant",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Bacon & Onion Pretzel Croissant",
+   "price": null,
+   "description": "bacon, caramelized onions, porcini, Swiss"
+  },
+  {
+   "section": "Pastries",
+   "item": "Citrus Kouign Amann",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Pecan Pie Kouign Amann",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Traditional Kouign Amann",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Vanilla Scone",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Mini Banana Bread",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Cinnamon Maple Morning Bun",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Cinnamon Roll",
+   "price": null,
+   "description": "croissant dough, cinnamon, raisins, vanilla glaze"
+  },
+  {
+   "section": "Pastries",
+   "item": "Pumpkin Slice",
+   "price": null,
+   "description": "pumpkin, nutmeg, cinnamon, molasses"
+  },
+  {
+   "section": "Pastries",
+   "item": "Salted Chocolate Chip Cookie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Pastries",
+   "item": "Blueberry Muffin",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Lunch",
+   "item": "Pesto Chicken Sandwich",
+   "price": null,
+   "description": "chicken, mozzarella, pesto, sundried tomato, telera roll"
+  },
+  {
+   "section": "Lunch",
+   "item": "Grilled Ham & Cheese",
+   "price": null,
+   "description": "Swiss, ham, honey dijon, parmesan crust"
+  },
+  {
+   "section": "Lunch",
+   "item": "Roasted Chicken & Golden Rice Burrito",
+   "price": null,
+   "description": "chicken, feta, red pepper, spiced rice"
+  },
+  {
+   "section": "Lunch",
+   "item": "Salami & Fontina Snack Pack",
+   "price": null,
+   "description": "salami, fontina, olive oil crackers"
+  }
+ ],
+ "notes": "chain menu; prices not location-specific. The Russian Hill location menu pages list drinks and food without prices; prices are only in the app/online-ordering storefront, which was not used. Seasonal featured drinks included as seen; matcha/tea tab and retail beans omitted.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

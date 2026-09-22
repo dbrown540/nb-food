@@ -1,0 +1,517 @@
+{
+ "name": "The Crepe House",
+ "addr": "1755 Polk Street",
+ "menu_url": "https://thecrepehouse.com/menu/",
+ "source": "restaurant website (menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Crepes",
+   "item": "Breakfast",
+   "price": 16.95,
+   "description": "cheddar, onions, eggs, ham, bell peppers"
+  },
+  {
+   "section": "Crepes",
+   "item": "Cannelloni",
+   "price": 16.95,
+   "description": "cheddar, eggplant, marinara, mushrooms, onions, parmesan, ricotta"
+  },
+  {
+   "section": "Crepes",
+   "item": "Chicken Pesto",
+   "price": 18.95,
+   "description": "swiss, chicken breast, basil, garlic, tomatoes, pesto"
+  },
+  {
+   "section": "Crepes",
+   "item": "Eggplant",
+   "price": 16.95,
+   "description": "cheddar, sun-dried tomatoes, basil, tomatoes, garlic, eggplant"
+  },
+  {
+   "section": "Crepes",
+   "item": "Florentine",
+   "price": 16.95,
+   "description": "cheddar, onions, spinach, cottage cheese"
+  },
+  {
+   "section": "Crepes",
+   "item": "Hawaiian",
+   "price": 16.95,
+   "description": "cheddar, ham, onions, pineapple, mushrooms, soy sauce, brown sugar"
+  },
+  {
+   "section": "Crepes",
+   "item": "Lox",
+   "price": 18.95,
+   "description": "lox, spinach, cream cheese, tomatoes, capers"
+  },
+  {
+   "section": "Crepes",
+   "item": "Mediterranean",
+   "price": 17.95,
+   "description": "cheddar, feta, onions, tomatoes, olives, avocado, artichokes"
+  },
+  {
+   "section": "Crepes",
+   "item": "Miami Heat",
+   "price": 18.95,
+   "description": "cheddar, chicken breast, avocado, scallions, house hot sauce"
+  },
+  {
+   "section": "Crepes",
+   "item": "New Orleans",
+   "price": 17.95,
+   "description": "swiss, chicken breast, mushrooms, sun-dried tomatoes, salsa"
+  },
+  {
+   "section": "Crepes",
+   "item": "Original",
+   "price": 13.95,
+   "description": "cheddar, onions"
+  },
+  {
+   "section": "Crepes",
+   "item": "Pesto",
+   "price": 17.95,
+   "description": "cheddar, feta, spinach, pine nuts, tomatoes, avocado, pesto"
+  },
+  {
+   "section": "Crepes",
+   "item": "Salsa",
+   "price": 17.95,
+   "description": "cheddar, onions, tomatoes, avocado, olives, sour cream, salsa"
+  },
+  {
+   "section": "Crepes",
+   "item": "Torino",
+   "price": 14.95,
+   "description": "feta, basil, tomatoes, mushrooms"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Basic Cheese Omelette",
+   "price": 13.95,
+   "description": "three eggs; add-ons $0.75-$3.50"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Atlantic",
+   "price": 18.95,
+   "description": "lox, tomatoes, spinach, capers, cream cheese"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Tofu Scramble",
+   "price": 16.95,
+   "description": "tofu, green peppers, onions, cilantro, eggs"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Polk",
+   "price": 17.95,
+   "description": "cheddar, ham, onions, bell peppers, mushrooms"
+  },
+  {
+   "section": "Omelettes",
+   "item": "2 Eggs",
+   "price": 12.95,
+   "description": "toast, rosemary potatoes"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Acapulco",
+   "price": 16.95,
+   "description": "cheddar, avocado, black bean chili, salsa, sour cream"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Athens",
+   "price": 16.95,
+   "description": "feta, spinach, olives, pine nuts"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Tuscany",
+   "price": 16.95,
+   "description": "provolone, eggplant, basil, garlic, tomatoes, marinara"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Chorizo Scramble",
+   "price": 16.95,
+   "description": "onions, cilantro, eggs, spicy sausage"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Lox Scramble",
+   "price": 18.95,
+   "description": "lox, chives"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Milano",
+   "price": 15.95,
+   "description": "mozzarella, tomatoes, garlic, basil"
+  },
+  {
+   "section": "Omelettes",
+   "item": "Pastrami",
+   "price": 18.95,
+   "description": "pastrami, spinach, parmesan"
+  },
+  {
+   "section": "Eggs Benedict",
+   "item": "Eggs Benedict",
+   "price": 17.95,
+   "description": "poached eggs, English muffin, hollandaise; served till 3pm"
+  },
+  {
+   "section": "Eggs Benedict",
+   "item": "The Shamrock Benedict",
+   "price": 19.95,
+   "description": "poached eggs, beef pastrami, hollandaise"
+  },
+  {
+   "section": "Eggs Benedict",
+   "item": "Eggs Florentine",
+   "price": 17.95,
+   "description": "poached eggs, spinach, tomatoes, hollandaise"
+  },
+  {
+   "section": "Eggs Benedict",
+   "item": "Salmon Benedict",
+   "price": 19.95,
+   "description": "poached eggs, smoked salmon, tomatoes, hollandaise, capers"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "California",
+   "price": 14.95,
+   "description": "smoked turkey, tomatoes, sprouts, pesto, lettuce, dijon"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Chorizo",
+   "price": 15.95,
+   "description": "chorizo, lettuce, tomatoes, grilled onions, pesto"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Breakfast",
+   "price": 15.95,
+   "description": "scrambled eggs, ham, cheddar, lettuce, tomatoes"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Florence",
+   "price": 14.95,
+   "description": "ham, swiss, tomatoes, pesto, lettuce, dijon"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "B.L.T.",
+   "price": 14.95,
+   "description": "bacon, lettuce, tomatoes, mayo"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Grilled Chicken",
+   "price": 16.95,
+   "description": "chicken breast, tomatoes, lettuce, grilled onions, pesto, dijon"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Roasted Eggplant",
+   "price": 14.95,
+   "description": "provolone, roasted red peppers, lettuce, tomatoes, pesto"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Reuben",
+   "price": 16.95,
+   "description": "pastrami, sauerkraut, swiss, thousand island, rye"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "The Clubhouse",
+   "price": 16.95,
+   "description": "smoked turkey, ham, bacon, lettuce, tomatoes, mayo"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Tofu",
+   "price": 14.95,
+   "description": "tofu, roasted red peppers, lettuce, tomatoes, pesto, dijon"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Tuna",
+   "price": 14.95,
+   "description": "tuna, lettuce, tomatoes, sprouts, dijon"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Vegetarian",
+   "price": 14.95,
+   "description": "avocado, tomatoes, cucumbers, sprouts, lettuce, pesto"
+  },
+  {
+   "section": "Half Pound Burgers",
+   "item": "The Classic Burger",
+   "price": 16.95,
+   "description": "house sauce, lettuce, tomato, pickles, onions"
+  },
+  {
+   "section": "Half Pound Burgers",
+   "item": "The Champs Burger",
+   "price": 17.95,
+   "description": "BBQ sauce, bacon, cheese, sauteed onions and mushrooms"
+  },
+  {
+   "section": "Half Pound Burgers",
+   "item": "Beyond Burger",
+   "price": 16.95,
+   "description": "Beyond patty, house sauce, lettuce, tomatoes, pickles, onions"
+  },
+  {
+   "section": "Half Pound Burgers",
+   "item": "The Chipotle Burger",
+   "price": 16.95,
+   "description": "chipotle aioli, American cheese, tomato, lettuce"
+  },
+  {
+   "section": "Half Pound Burgers",
+   "item": "The Cali Burger",
+   "price": 18.95,
+   "description": "house sauce, avocado, cheese, lettuce, tomatoes, pickles, onions"
+  },
+  {
+   "section": "Soups",
+   "item": "Soup of the Day (cup)",
+   "price": 4.95,
+   "description": "bowl $6.95"
+  },
+  {
+   "section": "Soups",
+   "item": "Soup & Salad Combo",
+   "price": 11.95,
+   "description": "garden or Caesar salad"
+  },
+  {
+   "section": "Salads",
+   "item": "Garden (small)",
+   "price": 7.95,
+   "description": "mixed lettuce, tomatoes, sprouts, sunflower seeds, red cabbage; large $11.95"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar (small)",
+   "price": 7.95,
+   "description": "romaine, croutons, parmesan; large $11.95"
+  },
+  {
+   "section": "Salads",
+   "item": "Greek",
+   "price": 14.95,
+   "description": "lettuce, tomatoes, cucumbers, red onions, feta, kalamata olives"
+  },
+  {
+   "section": "Salads",
+   "item": "Warm Chicken",
+   "price": 16.95,
+   "description": "chicken breast, romaine, scallions, red pepper, mushrooms, sun-dried tomatoes"
+  },
+  {
+   "section": "Salads",
+   "item": "Savannah",
+   "price": 14.95,
+   "description": "lettuce, spinach, artichoke, tomatoes, blue cheese, apples, pecans"
+  },
+  {
+   "section": "Salads",
+   "item": "Tuna",
+   "price": 14.95,
+   "description": "lettuce, onions, tomatoes, cucumbers, carrots, tuna"
+  },
+  {
+   "section": "Salads",
+   "item": "Chef",
+   "price": 15.95,
+   "description": "lettuce, tomatoes, ham, turkey, swiss, cheddar, hardboiled eggs"
+  },
+  {
+   "section": "Salads",
+   "item": "Cobb",
+   "price": 17.25,
+   "description": "lettuce, tomatoes, cucumbers, red onions, bacon, chicken, avocado"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti de Matteo",
+   "price": 16.95,
+   "description": "classic meat sauce"
+  },
+  {
+   "section": "Pasta",
+   "item": "Penne Pesto",
+   "price": 17.95,
+   "description": "chicken, mushrooms, basil, onions, garlic, parmesan, pesto cream"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Belgium Waffle",
+   "price": 14.95,
+   "description": "bananas, strawberries, kiwi, whipped cream"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Buttermilk Pancakes",
+   "price": 14.25,
+   "description": "stack of three"
+  },
+  {
+   "section": "House Specialties",
+   "item": "Cornflakes French Toast",
+   "price": 15.95,
+   "description": "cinnamon bread, cornflakes, bananas, strawberries, kiwi"
+  },
+  {
+   "section": "House Specialties",
+   "item": "2x2x2",
+   "price": 16.95,
+   "description": "2 pancakes, 2 eggs, bacon or chicken apple sausage"
+  },
+  {
+   "section": "Bagels",
+   "item": "Bagel with Butter and Jam",
+   "price": 3.25,
+   "description": ""
+  },
+  {
+   "section": "Bagels",
+   "item": "Bagel with Cream Cheese",
+   "price": 4.25,
+   "description": ""
+  },
+  {
+   "section": "Bagels",
+   "item": "Bagel with Lox",
+   "price": 12.25,
+   "description": "cream cheese, lox, tomatoes, capers, red onions"
+  },
+  {
+   "section": "Bagels",
+   "item": "Bagel with Ham, Egg, Tomato & Cheddar",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Banana",
+   "price": 10.95,
+   "description": "brown sugar, cinnamon"
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Banana Foster",
+   "price": 13.45,
+   "description": "Nutella, banana, walnuts"
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Fruity Nutella",
+   "price": 13.95,
+   "description": "strawberry, banana, Nutella"
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Nutella Chocolate",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "S.B.K",
+   "price": 13.95,
+   "description": "strawberry, banana, kiwi, cinnamon, brown sugar"
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Strawberry",
+   "price": 11.95,
+   "description": "brown sugar, cinnamon"
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Strawberry Nutella",
+   "price": 13.45,
+   "description": ""
+  },
+  {
+   "section": "Dessert Crepes",
+   "item": "Sweet Apple",
+   "price": 10.95,
+   "description": "apple, brown sugar, cinnamon"
+  },
+  {
+   "section": "Drinks",
+   "item": "House Coffee (small)",
+   "price": 3.0,
+   "description": "large $3.75"
+  },
+  {
+   "section": "Drinks",
+   "item": "Cafe Latte (small)",
+   "price": 4.5,
+   "description": "large $5.50"
+  },
+  {
+   "section": "Drinks",
+   "item": "Cafe Mocha (small)",
+   "price": 5.0,
+   "description": "large $6.00"
+  },
+  {
+   "section": "Drinks",
+   "item": "Chai Latte (small)",
+   "price": 4.75,
+   "description": "large $5.25"
+  },
+  {
+   "section": "Drinks",
+   "item": "Fresh Orange Juice",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Soda",
+   "price": 2.0,
+   "description": "bottled drinks $2.95"
+  },
+  {
+   "section": "Drinks",
+   "item": "Beer",
+   "price": 5.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Glass of Wine",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Mimosa",
+   "price": 7.95,
+   "description": ""
+  }
+ ],
+ "notes": "Hours on site: daily 8am-7:30pm; happy hour 4-6pm. Omelette add-ons, bread/dressing choices, sides and some drinks collapsed or omitted.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $16.95 of 49 prices in sections ['Crepes', 'Omelettes', 'Sandwiches', 'Half Pound Burgers', 'Pasta', 'House Specialties']; rule L1<10, L2<18, L3<30, L4>=30"
+}

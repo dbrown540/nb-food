@@ -1,0 +1,571 @@
+{
+ "name": "Elephant Sushi",
+ "addr": "1916 Hyde Street",
+ "menu_url": "https://www.toasttab.com/local/order/elephant-sushi-hyde",
+ "source": "restaurant online-ordering page (Toast, Hyde St location; rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "HOUSE PICKLES",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "CHIPS N DIP",
+   "price": 18.0,
+   "description": "shrimp chips topped with spicy tuna, scallion, masago, honey mustard, sweet soy glaze"
+  },
+  {
+   "section": "Starters",
+   "item": "HAMACHI KAMA",
+   "price": 15.0,
+   "description": "yellowtail cheek baked with unagi sauce, rice, avocado"
+  },
+  {
+   "section": "Starters",
+   "item": "SALMON KAMA",
+   "price": 15.0,
+   "description": "salmon cheek baked with garlic miso sauce, rice, avocado"
+  },
+  {
+   "section": "Starters",
+   "item": "SEABASS SASHIMI",
+   "price": 18.0,
+   "description": "thin-sliced seabass, olive oil, vinaigrette, jalapeno"
+  },
+  {
+   "section": "Starters",
+   "item": "HAMACHI TRUFFLE",
+   "price": 26.0,
+   "description": "seared yellowtail, ponzu, truffle oil, black truffle, garlic chips"
+  },
+  {
+   "section": "Starters",
+   "item": "COUPLE OF BABES",
+   "price": 18.0,
+   "description": "blue crab hand roll with crunchy garlic and ocean trout hand roll"
+  },
+  {
+   "section": "Starters",
+   "item": "WALU CARPACCIO",
+   "price": 18.0,
+   "description": "seared butterfish, garlic chips, truffle oil, ponzu"
+  },
+  {
+   "section": "Starters",
+   "item": "Fab 4",
+   "price": 38.0,
+   "description": "two blue crab and two ocean trout hand rolls"
+  },
+  {
+   "section": "Starters",
+   "item": "HIYAYAKO",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "SEAWEED SALAD",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "CUCUMBER SALAD",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "MISO SOUP",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "SALMON MISO SOUP",
+   "price": 9.0,
+   "description": "togarashi, salmon, avocado"
+  },
+  {
+   "section": "House Specialties",
+   "item": "ALBACORE TATAKI",
+   "price": 20.0,
+   "description": "white tuna seared on a salt slab, heirloom tomato, jalapeno, ponzu"
+  },
+  {
+   "section": "House Specialties",
+   "item": "HIMALYAN TROUT",
+   "price": 23.0,
+   "description": "king salmon cured on a salt slab, green onion, olive oil, house ponzu"
+  },
+  {
+   "section": "House Specialties",
+   "item": "HON MAGURO",
+   "price": 25.0,
+   "description": "sea-salted ahi sashimi, capers, olive oil, vinaigrette, mango"
+  },
+  {
+   "section": "House Specialties",
+   "item": "TORO SASHIMI",
+   "price": 24.0,
+   "description": "three slices of tuna belly with sea salt"
+  },
+  {
+   "section": "House Specialties",
+   "item": "YUMMY POCKETS",
+   "price": 16.0,
+   "description": "spicy bay scallops and scallions in sweet tofu pockets"
+  },
+  {
+   "section": "House Specialties",
+   "item": "MANY LOVES",
+   "price": 74.0,
+   "description": ""
+  },
+  {
+   "section": "House Specialties",
+   "item": "ASSORTED BLUEFIN TUNA NIGIRI",
+   "price": 32.0,
+   "description": ""
+  },
+  {
+   "section": "Rolls",
+   "item": "ALASKA ROLL",
+   "price": 15.0,
+   "description": "salmon and cucumber"
+  },
+  {
+   "section": "Rolls",
+   "item": "AVOCADO ROLL",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Rolls",
+   "item": "CALIFORNIA ROLL",
+   "price": 15.0,
+   "description": "with blue crab"
+  },
+  {
+   "section": "Rolls",
+   "item": "CHEF OCHKO ROLL",
+   "price": 20.0,
+   "description": "hamachi belly, blue crab, avocado, shiso, crunchy garlic ponzu"
+  },
+  {
+   "section": "Rolls",
+   "item": "DOUBLE ALBACORE",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Rolls",
+   "item": "GIANTS ROLL",
+   "price": 16.0,
+   "description": "king salmon, heirloom tomato, spicy mayo, sweet soy glaze"
+  },
+  {
+   "section": "Rolls",
+   "item": "GODZILLA",
+   "price": 16.0,
+   "description": "shrimp tempura wrapped in albacore, spicy sauce, no rice"
+  },
+  {
+   "section": "Rolls",
+   "item": "GREEN MACHINE",
+   "price": 14.0,
+   "description": "inari, tomato, cucumber, mango, avocado"
+  },
+  {
+   "section": "Rolls",
+   "item": "KAPPA",
+   "price": 7.0,
+   "description": "cucumber roll"
+  },
+  {
+   "section": "Rolls",
+   "item": "NAKED SCALLOP ROLL",
+   "price": 16.0,
+   "description": "spicy scallops, blue crab, avocado in soy wrapper"
+  },
+  {
+   "section": "Rolls",
+   "item": "NEGI HAMA ROLL",
+   "price": 11.0,
+   "description": "yellowtail with scallion"
+  },
+  {
+   "section": "Rolls",
+   "item": "NEGI-TORO",
+   "price": 22.0,
+   "description": "fatty tuna topped with uni and fresh wasabi"
+  },
+  {
+   "section": "Rolls",
+   "item": "RAINBOW ROLL",
+   "price": 17.0,
+   "description": "salmon and avocado topped with assorted fish"
+  },
+  {
+   "section": "Rolls",
+   "item": "RED DRAGON",
+   "price": 17.0,
+   "description": "shrimp tempura topped with spicy bluefin tuna"
+  },
+  {
+   "section": "Rolls",
+   "item": "RED & YELLOW ROLL",
+   "price": 17.0,
+   "description": "spicy scallop, cucumber, albacore, mango, sweet soy glaze"
+  },
+  {
+   "section": "Rolls",
+   "item": "SPICY HAMACHI",
+   "price": 17.0,
+   "description": "jalapeno, lime, cucumber, masago, shichimi aioli"
+  },
+  {
+   "section": "Rolls",
+   "item": "SPICY SALMON",
+   "price": 16.0,
+   "description": "cubed salmon, avocado, cucumber, red pepper, sesame oil, masago"
+  },
+  {
+   "section": "Rolls",
+   "item": "SPICY TUNA",
+   "price": 15.0,
+   "description": "spicy red tuna with avocado"
+  },
+  {
+   "section": "Rolls",
+   "item": "SHRIMP TEMPURA ROLL",
+   "price": 14.0,
+   "description": "shrimp tempura, avocado, cucumber, sweet soy glaze"
+  },
+  {
+   "section": "Rolls",
+   "item": "TEKKA ROLL",
+   "price": 12.0,
+   "description": "bluefin tuna roll"
+  },
+  {
+   "section": "Rolls",
+   "item": "WHITEOUT ROLL",
+   "price": 18.0,
+   "description": "hamachi and cucumber, seared butterfish, truffle oil, ponzu"
+  },
+  {
+   "section": "Rolls",
+   "item": "WHITE DRAGON",
+   "price": 17.0,
+   "description": "shrimp tempura, seared walu, white pepper, sweet soy glaze"
+  },
+  {
+   "section": "Rolls",
+   "item": "YA MAN ROLL",
+   "price": 19.0,
+   "description": "king salmon, avocado, scallion, fried onion chips, ponzu"
+  },
+  {
+   "section": "Rolls",
+   "item": "UNAGI ROLL",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Rolls",
+   "item": "BLACKBIRD ROLL",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Spicy tuna hand roll",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Salmon avocado hand roll",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Ocean trout hand roll",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Veggie hand roll",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Blue Crab hand roll",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Hamachi hand roll",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Hand Rolls",
+   "item": "Spicy scallop hand roll",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "ASSORTED",
+   "price": 32.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "HAMACHI SASHIMI",
+   "price": 24.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "OCEAN TROUT SASHIMI",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "OMAKASE SASHIMI",
+   "price": 54.0,
+   "description": "chef's choice, 14 pc"
+  },
+  {
+   "section": "Sashimi",
+   "item": "SAKE SASHIMI",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "WALU SASHIMI",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Sashimi",
+   "item": "BLUE FIN TUNA SASHIMI",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Nigiri",
+   "item": "ANKIMO NIGIRI",
+   "price": 9.0,
+   "description": "monkfish liver"
+  },
+  {
+   "section": "Nigiri",
+   "item": "BASIL SALMON",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Nigiri",
+   "item": "HAMACHI NIGIRI",
+   "price": 12.0,
+   "description": "yellowtail"
+  },
+  {
+   "section": "Nigiri",
+   "item": "HIRAME NIGIRI",
+   "price": 10.0,
+   "description": "halibut"
+  },
+  {
+   "section": "Nigiri",
+   "item": "HOKKAIDO SCALLOP",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Nigiri",
+   "item": "IKURA",
+   "price": 11.0,
+   "description": "marinated salmon roe"
+  },
+  {
+   "section": "Nigiri",
+   "item": "INARI NIGIRI",
+   "price": 6.0,
+   "description": "fried tofu pocket"
+  },
+  {
+   "section": "Nigiri",
+   "item": "MAGURO NIGIRI",
+   "price": 14.0,
+   "description": "bluefin tuna"
+  },
+  {
+   "section": "Nigiri",
+   "item": "OCEAN TROUT NIGIRI",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Nigiri",
+   "item": "OMAKASE MIX NIGIRI",
+   "price": 64.0,
+   "description": "chef's choice, 10 pc"
+  },
+  {
+   "section": "Nigiri",
+   "item": "SAKE NIGIRI",
+   "price": 12.0,
+   "description": "salmon"
+  },
+  {
+   "section": "Nigiri",
+   "item": "SEA BASS NIGIRI",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Nigiri",
+   "item": "UNI",
+   "price": 16.0,
+   "description": "sea urchin"
+  },
+  {
+   "section": "Nigiri",
+   "item": "WALU NIGIRI",
+   "price": 11.0,
+   "description": "escolar (butterfish)"
+  },
+  {
+   "section": "Nigiri",
+   "item": "ZUKE TORO NIGIRI",
+   "price": 18.0,
+   "description": "marinated bluefin tuna belly"
+  },
+  {
+   "section": "Nigiri",
+   "item": "O TORO NIGIRI",
+   "price": 18.0,
+   "description": "bluefin tuna belly"
+  },
+  {
+   "section": "Nigiri",
+   "item": "O TORO ANKIMO NIGIRI",
+   "price": 20.0,
+   "description": "tuna belly topped with monkfish liver"
+  },
+  {
+   "section": "Bowls",
+   "item": "#1",
+   "price": 22.0,
+   "description": "salmon, spicy scallop, avocado, walu"
+  },
+  {
+   "section": "Bowls",
+   "item": "#2",
+   "price": 22.0,
+   "description": "ahi tuna, hamachi, avocado"
+  },
+  {
+   "section": "Bowls",
+   "item": "#3",
+   "price": 22.0,
+   "description": "seared butterfish, albacore, wasabi vinaigrette, truffle oil, capers, avocado"
+  },
+  {
+   "section": "Bowls",
+   "item": "SPICY TRIO",
+   "price": 22.0,
+   "description": "spicy tuna, spicy scallop, spicy salmon, avocado"
+  },
+  {
+   "section": "Bowls",
+   "item": "SIDE RICE",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Matcha Cheesecake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dessert",
+   "item": "Hojicha Cheesecake",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Guava Spritzer",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "MOSHI",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Japanese Beers (Asahi, Echigo, Lucky Chicken/Dog/Cat, Hitachino)",
+   "price": 8.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Drinks",
+   "item": "ONIBI",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Sake (Nigori, Born, Oze, Kubota, Rei)",
+   "price": 23.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Drinks",
+   "item": "Premium Sake Bottles (Kikusui, Kuheiji, Kid, Chokaisan)",
+   "price": 66.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Drinks",
+   "item": "Umeshu Plum wine",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the Glass (Vermentino, My Favorite Neighbor, De Negoce Pinot Noir)",
+   "price": 14.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the Bottle",
+   "price": 48.0,
+   "description": "starting price"
+  }
+ ],
+ "notes": "Hyde St location's own Toast pickup menu; ordering hours shown 4:45-9pm. The Toast menu also has a separate delivery-priced section (higher prices), which is omitted, along with sauces/condiment add-ons, a 2025 restaurant-week listing, unpriced Senzai platter items and the corkage fee. Beer, sake and wine abbreviated.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $18.00 of 44 prices in sections ['Rolls', 'House Specialties', 'Bowls', 'Sashimi']; rule L1<10, L2<18, L3<30, L4>=30"
+}

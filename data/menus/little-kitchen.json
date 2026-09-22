@@ -1,0 +1,12 @@
+{
+ "name": "Little Kitchen",
+ "addr": "2401 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/little-kitchen-san-francisco",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Yelp listing (updated May 2026) marks the business CLOSED. No official website found; remaining listings are aggregator/ordering-directory pages.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

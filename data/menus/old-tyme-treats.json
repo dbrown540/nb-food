@@ -1,0 +1,12 @@
+{
+ "name": "Old Tyme Treats",
+ "addr": "1666 Embarcadero",
+ "menu_url": "https://www.yelp.com/biz/old-tyme-treats-san-francisco",
+ "source": "web search only; no official site found",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Snack stand/cart near PIER 39 (cotton candy, churros, popcorn, pretzels per search snippets). One web search found no official website or menu with prices; aggregator page not fetched. Address from the Yelp listing.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

@@ -1,0 +1,12 @@
+{
+ "name": "The Stinking Rose (37.80905,-122.41454)",
+ "addr": "",
+ "menu_url": "-",
+ "source": "web search only; no official page for a Fisherman's Wharf outlet found",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "This POI is a Fisherman's Wharf point tagged fast food/seafood. Search found no Stinking Rose outlet at the Wharf; the brand's only confirmed SF restaurant is 430 Columbus Ave (North Beach), which already has its own menu file (the-stinking-rose.json). Possibly a stale or mis-tagged map entry.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

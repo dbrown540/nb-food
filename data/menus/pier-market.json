@@ -1,0 +1,325 @@
+{
+ "name": "Pier Market",
+ "addr": "Pier 39",
+ "menu_url": "https://piermarket.com/menu/",
+ "source": "restaurant website (menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Sourdough Garlic Bread",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Garlic Fries",
+   "price": 9.5,
+   "description": "garlic, herbs, parmesan"
+  },
+  {
+   "section": "Starters",
+   "item": "Chowder Fries",
+   "price": 14.95,
+   "description": "fries topped with clam chowder, bacon, green onions"
+  },
+  {
+   "section": "Starters",
+   "item": "Fried Calamari (starter)",
+   "price": 15.95,
+   "description": "cocktail sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Popcorn Scallops",
+   "price": 16.95,
+   "description": "roasted jalapeno aioli"
+  },
+  {
+   "section": "Starters",
+   "item": "Crispy Cajun Salmon Nuggets",
+   "price": 16.95,
+   "description": "Cajun remoulade"
+  },
+  {
+   "section": "Starters",
+   "item": "Wild Mexican Shrimp & Pacific Cod Ceviche",
+   "price": 16.5,
+   "description": "mango, tomatoes, onions, cucumber, lime, cilantro"
+  },
+  {
+   "section": "Starters",
+   "item": "Honey BBQ Shrimp",
+   "price": 16.95,
+   "description": "garlic, onions, honey BBQ sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Sweet & Sour Calamari",
+   "price": 16.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Crab Cakes",
+   "price": 18.95,
+   "description": "Cajun remoulade"
+  },
+  {
+   "section": "Starters",
+   "item": "Steamed Clams (half)",
+   "price": 13.95,
+   "description": "garlic, butter, white wine; full $18.95"
+  },
+  {
+   "section": "Starters",
+   "item": "Steamed Mussels (half)",
+   "price": 13.95,
+   "description": "red curry coconut broth; full $18.95"
+  },
+  {
+   "section": "Starters",
+   "item": "1/2 Oven Roasted Garlic Crab",
+   "price": 30.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "1/2 Dozen Oysters",
+   "price": 22.95,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Ahi Tuna Poke",
+   "price": 18.5,
+   "description": "sesame oil, soy, garlic, mango, tortilla chips"
+  },
+  {
+   "section": "Clam Chowder",
+   "item": "New England Clam Chowder (cup)",
+   "price": 8.5,
+   "description": "bowl $10.50; contains bacon"
+  },
+  {
+   "section": "Clam Chowder",
+   "item": "Sourdough Bread Bowl Chowder",
+   "price": 13.5,
+   "description": ""
+  },
+  {
+   "section": "Clam Chowder",
+   "item": "Chowder Bread Bowl & Salad Combo",
+   "price": 19.5,
+   "description": "mixed green or Caesar salad"
+  },
+  {
+   "section": "Salads",
+   "item": "Mixed Green Salad",
+   "price": 9.5,
+   "description": "baby greens, sourdough croutons"
+  },
+  {
+   "section": "Salads",
+   "item": "Salmon Salad",
+   "price": 24.95,
+   "description": "mixed greens, tomatoes, onions, grilled salmon, herb dressing"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 10.95,
+   "description": "romaine, parmesan"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Salmon",
+   "price": 28.95,
+   "description": "herb butter"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Teriyaki Salmon",
+   "price": 29.95,
+   "description": ""
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Blackened Pacific Rock Cod",
+   "price": 26.95,
+   "description": "Cajun remoulade"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Trout",
+   "price": 25.95,
+   "description": "tartar sauce"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Grilled Swordfish",
+   "price": 29.95,
+   "description": "mango salsa"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Grilled Shrimp Skewers",
+   "price": 27.95,
+   "description": "drawn butter"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Pier Market Mixed Grill",
+   "price": 29.95,
+   "description": "salmon, Pacific cod, shrimp skewer"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Lobster Tails",
+   "price": 54.95,
+   "description": "two 4-5 oz Maine tails, drawn butter"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Grilled Chicken Breast",
+   "price": 24.95,
+   "description": "demi sauce, grilled vegetables, rice or potatoes"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "N.Y. Steak",
+   "price": 39.95,
+   "description": "10 oz Angus, mesquite grilled"
+  },
+  {
+   "section": "Mesquite Grilled Seafood",
+   "item": "Surf & Turf",
+   "price": 59.95,
+   "description": "10 oz NY steak, 4 oz lobster tail"
+  },
+  {
+   "section": "Pasta",
+   "item": "Linguini & Clams",
+   "price": 26.95,
+   "description": "garlic, clams, mushrooms, butter, parmesan"
+  },
+  {
+   "section": "Pasta",
+   "item": "Jambalaya Pasta",
+   "price": 29.95,
+   "description": "smoked pork, chicken, shrimp, mussels, clams, Cajun tomato cream, penne"
+  },
+  {
+   "section": "Pasta",
+   "item": "Seafood Penne",
+   "price": 30.95,
+   "description": "shrimp, mussels, clams, fish, vegetables, tomato cream"
+  },
+  {
+   "section": "Pasta",
+   "item": "Steak & Shrimp Chow Mein",
+   "price": 29.95,
+   "description": "filet mignon, shrimp, vegetables, garlic, ginger, soy, yakisoba"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Crab Cake Dinner",
+   "price": 28.95,
+   "description": "three crab cakes, remoulade, fries, cole slaw"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Shellfish Platter (single)",
+   "price": 55.95,
+   "description": "crab, shrimp, clams, mussels, corn, potatoes, sausage; double $96.95"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Shrimp Combo Fest",
+   "price": 29.95,
+   "description": "grilled, scampi and fried shrimp, fries, slaw"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Pan Fried Sole",
+   "price": 29.95,
+   "description": "caper butter sauce, vegetables, rice or potatoes"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Garlic Roasted Whole Dungeness Crab",
+   "price": 58.95,
+   "description": "rice or garlic buttered potatoes"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Whole Dungeness Crab",
+   "price": 58.95,
+   "description": "steamed, drawn butter"
+  },
+  {
+   "section": "Pier Market Specialties",
+   "item": "Cioppino",
+   "price": 36.95,
+   "description": "fish, mussels, clams, shrimp, crab in tomato stew over pasta"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Fried Calamari",
+   "price": 19.95,
+   "description": "cocktail sauce"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Fish & Chips",
+   "price": 21.95,
+   "description": "beer battered Pacific cod"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Fried Shrimp",
+   "price": 22.95,
+   "description": "house breaded, cocktail sauce"
+  },
+  {
+   "section": "Fried Seafood",
+   "item": "Fisherman's Platter",
+   "price": 26.95,
+   "description": "shrimp, calamari, fish and chips"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Grilled Salmon Burger",
+   "price": 17.95,
+   "description": "house salmon patty, onions, spices"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "BBQ Pork Sandwich",
+   "price": 17.95,
+   "description": "house smoked pork, BBQ sauce, egg bun"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Hamburger",
+   "price": 18.5,
+   "description": "Angus chuck patty"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Impossible Burger",
+   "price": 17.95,
+   "description": "plant-based patty, cheddar"
+  },
+  {
+   "section": "Wine",
+   "item": "Wine by the Glass (5oz)",
+   "price": 12.0,
+   "description": "starting price; house and featured wines $12-$15 per 5oz; bottles $44-$135"
+  }
+ ],
+ "notes": "Seafood restaurant on Pier 39 (Simmons family group). 5% SF surcharge added to checks. Main menu transcribed; wine, cocktail, dessert and kids menus omitted except a wine-by-the-glass line; add-ons omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $29.95 of 26 prices in sections ['Mesquite Grilled Seafood', 'Pasta', 'Pier Market Specialties', 'Fried Seafood']; rule L1<10, L2<18, L3<30, L4>=30"
+}

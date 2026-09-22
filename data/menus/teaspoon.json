@@ -1,0 +1,259 @@
+{
+ "name": "Teaspoon",
+ "addr": "2125 Polk Street",
+ "menu_url": "https://order.teaspoonlife.com/e10be9de-5d62-4/san-francisco-polk",
+ "source": "chain online-ordering page (order.teaspoonlife.com, San Francisco Polk store, pickup menu)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "New",
+   "item": "Summer Stardust",
+   "price": 9.0,
+   "description": "smoothie with coconut, vanilla, blue raspberry, strawberry foam"
+  },
+  {
+   "section": "New",
+   "item": "Tropical Breeze",
+   "price": 8.0,
+   "description": "mango and pineapple blended with hibiscus tea and cream"
+  },
+  {
+   "section": "New",
+   "item": "Cookie Butter Chai",
+   "price": 6.75,
+   "description": "chai with cookie butter and cream"
+  },
+  {
+   "section": "New",
+   "item": "Lavender Chai",
+   "price": 6.75,
+   "description": "chai with lavender"
+  },
+  {
+   "section": "Classics",
+   "item": "House Milk Tea",
+   "price": 6.25,
+   "description": "black tea blend with cream"
+  },
+  {
+   "section": "Classics",
+   "item": "Liquid Gold",
+   "price": 6.25,
+   "description": "honey oolong tea with cream"
+  },
+  {
+   "section": "Classics",
+   "item": "Classic Thai Tea",
+   "price": 6.25,
+   "description": "thai tea with cream and honey boba"
+  },
+  {
+   "section": "Classics",
+   "item": "Creamy Jasmine",
+   "price": 6.25,
+   "description": "jasmine green tea with cream"
+  },
+  {
+   "section": "Classics",
+   "item": "Black Sugar Assam",
+   "price": 6.25,
+   "description": "assam black tea with black sugar boba"
+  },
+  {
+   "section": "Signatures",
+   "item": "Double Matcha",
+   "price": 6.75,
+   "description": "matcha with milk and matcha foam; small only"
+  },
+  {
+   "section": "Signatures",
+   "item": "Custom-made Lemonade",
+   "price": 5.5,
+   "description": "lemonade with fruit, cucumber, or matcha add-ons"
+  },
+  {
+   "section": "Signatures",
+   "item": "Pineapple Shine",
+   "price": 6.75,
+   "description": "green tea, pineapple marmalade, lemon, osmanthus jelly"
+  },
+  {
+   "section": "Signatures",
+   "item": "Caramel Cream",
+   "price": 6.75,
+   "description": "roasted caramel, milk, honey boba"
+  },
+  {
+   "section": "Signatures",
+   "item": "Grasshopper",
+   "price": 6.75,
+   "description": "lychee green tea, cucumber juice"
+  },
+  {
+   "section": "Signatures",
+   "item": "Ladybug",
+   "price": 6.75,
+   "description": "passion fruit juice, green tea"
+  },
+  {
+   "section": "Signatures",
+   "item": "Guava Sunset",
+   "price": 6.75,
+   "description": "guava and pineapple marmalade, lemon"
+  },
+  {
+   "section": "Signatures",
+   "item": "Silky Mango",
+   "price": 6.75,
+   "description": "mango puree, milk, honey boba"
+  },
+  {
+   "section": "Signatures",
+   "item": "Silky Strawberry",
+   "price": 6.75,
+   "description": "strawberry marmalade, milk, honey boba"
+  },
+  {
+   "section": "Signatures",
+   "item": "Matcha Royale - Classic",
+   "price": 6.75,
+   "description": "matcha with milk"
+  },
+  {
+   "section": "Signatures",
+   "item": "Matcha Royale - Strawberry",
+   "price": 7.5,
+   "description": "matcha with milk and strawberry"
+  },
+  {
+   "section": "Signatures",
+   "item": "Mango Funtime Smoothie",
+   "price": 7.0,
+   "description": "mango puree smoothie"
+  },
+  {
+   "section": "Signatures",
+   "item": "Mango On Fire Smoothie",
+   "price": 7.75,
+   "description": "mango smoothie with chamoy and Tajin"
+  },
+  {
+   "section": "Signatures",
+   "item": "Strawberry Colada Smoothie",
+   "price": 7.0,
+   "description": "pineapple coconut smoothie with strawberry jam"
+  },
+  {
+   "section": "Signatures",
+   "item": "Lychee on Lychee",
+   "price": 6.75,
+   "description": "lychee black tea, lychee jelly"
+  },
+  {
+   "section": "Signatures",
+   "item": "Paradise Lime",
+   "price": 6.75,
+   "description": "lemon lime floral tea"
+  },
+  {
+   "section": "Coffee",
+   "item": "Vietnamese Coffee",
+   "price": 6.75,
+   "description": "with condensed milk"
+  },
+  {
+   "section": "Coffee",
+   "item": "Ube Vietnamese Coffee",
+   "price": 6.75,
+   "description": "with ube coconut foam"
+  },
+  {
+   "section": "Coffee",
+   "item": "Double Matcha Coffee",
+   "price": 7.5,
+   "description": "matcha foam over milk and coffee"
+  },
+  {
+   "section": "Coffee",
+   "item": "Creme Brulee Coffee",
+   "price": 6.75,
+   "description": "creme brulee foam, dalgona candy crumbles"
+  },
+  {
+   "section": "Coffee",
+   "item": "Coconut Coffee",
+   "price": 6.75,
+   "description": "coconut cream, toasted coconut flakes"
+  },
+  {
+   "section": "Coffee",
+   "item": "Vietnamese Frappe",
+   "price": 6.75,
+   "description": "blended Vietnamese coffee, hazelnut, sea salt foam"
+  },
+  {
+   "section": "Coffee",
+   "item": "Signature Latte",
+   "price": 6.75,
+   "description": "dark French roast latte"
+  },
+  {
+   "section": "Chai",
+   "item": "Royal Chai",
+   "price": 6.5,
+   "description": "house chai with cream"
+  },
+  {
+   "section": "Chai",
+   "item": "Brown Sugar Chai",
+   "price": 6.75,
+   "description": "chai with brown sugar and milk"
+  },
+  {
+   "section": "Chai",
+   "item": "Hot Royal Chai Latte",
+   "price": 5.25,
+   "description": "black tea chai with steamed milk; small only"
+  },
+  {
+   "section": "Create Your Own",
+   "item": "Build Your Tea (black, green, oolong, or herbal)",
+   "price": 6.0,
+   "description": "choice of flavors, sweetness, add-ons; hot or iced"
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Hot Golden Assam",
+   "price": 6.25,
+   "description": "Assam and Darjeeling blend with cream"
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Hot milk teas (House, Thai, Liquid Gold, Black Sugar Assam, Jasmine)",
+   "price": 6.25,
+   "description": ""
+  },
+  {
+   "section": "Hot Drinks",
+   "item": "Hot coffees, matcha, caramel cream, fruit teas",
+   "price": 6.75,
+   "description": ""
+  },
+  {
+   "section": "Snacks",
+   "item": "Marshmallow Bar",
+   "price": 3.0,
+   "description": "marshmallow cream, crispy rice puffs, browned butter, sea salt"
+  },
+  {
+   "section": "Snacks",
+   "item": "Lemon Cake",
+   "price": 4.0,
+   "description": "lemon zest icing"
+  }
+ ],
+ "notes": "Store-specific pickup prices for the San Francisco Polk store (2125 Polk St); open 11:00am-9:00pm. Omitted: duplicate \"Most Popular\" listings, hot versions of iced drinks (same price except where listed), large-order packs, Party Pour and Tea Traveler bottles, merchandise.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $6.75 of 36 prices in sections ['New', 'Classics', 'Signatures', 'Coffee', 'Chai', 'Create Your Own']; rule L1<10, L2<18, L3<30, L4>=30"
+}

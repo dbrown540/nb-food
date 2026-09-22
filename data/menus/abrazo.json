@@ -1,0 +1,205 @@
+{
+ "name": "Abrazo",
+ "addr": "2000 Hyde Street",
+ "menu_url": "https://www.abrazosf.com/menu/",
+ "source": "restaurant website (BentoBox menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Small Plates",
+   "item": "Myagi Oysters (each)",
+   "price": 3.75,
+   "description": "smoked saffron crema, espelette, pickled fresno, charred lime"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Seasonal House Bread",
+   "price": 9.0,
+   "description": "olive, shallot, fines herbes, smoked paprika olive oil"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Cured Meat & Cheese Board",
+   "price": 23.0,
+   "description": "Spanish meats and cheeses, olives, candied walnuts, pickles"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Charred Octopus",
+   "price": 21.0,
+   "description": "potatoes, kumquats, chorizo oil, shellfish jus"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Bacalhau",
+   "price": 18.0,
+   "description": "salt cod, mussels, clams, squid, quail egg, fregula, piquillo"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Gambas Al Ajillo",
+   "price": 18.0,
+   "description": "prawns, garbanzo puree, espelette, pickled fresno, crostini"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Brussels Sprouts",
+   "price": 15.0,
+   "description": "manchego, boquerone, Meyer lemon, currant-caper salsa, hazelnut"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Patatas Bravas",
+   "price": 14.0,
+   "description": "fingerling potato, aji amarillo aioli, piquillo"
+  },
+  {
+   "section": "Small Plates",
+   "item": "House Cured Salmon",
+   "price": 17.0,
+   "description": "flatbread, za'atar, beetroot, pine nut crema, fennel"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Chicken-Potato Soup",
+   "price": 13.0,
+   "description": "harissa, grilled focaccia, basil oil"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Croquetas",
+   "price": 16.0,
+   "description": "braised chicken, serrano ham, Calabrian chilies, truffle aioli"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Butter Lettuce",
+   "price": 16.0,
+   "description": "heirloom tomato, cucumber, avocado, almond, citrus vinaigrette, feta"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Roasted Carrots",
+   "price": 14.0,
+   "description": "garrotxa, tangerine panna cotta, frisee, sunflower seeds"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Steak Tartare",
+   "price": 22.0,
+   "description": "saffron aioli, pickled beech mushrooms, crispy shallots, rice chips"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Albondigas",
+   "price": 16.0,
+   "description": "beef meatballs, smoked paprika-tomato sauce, manchego mousse"
+  },
+  {
+   "section": "Small Plates",
+   "item": "Bone Marrow",
+   "price": 19.0,
+   "description": "crispy garlic, trout roe, lime crema, crostini"
+  },
+  {
+   "section": "Main Course",
+   "item": "Tagliatini",
+   "price": 31.0,
+   "description": "wild mushroom ragout, oven dried tomato, fino sherry, manchego"
+  },
+  {
+   "section": "Main Course",
+   "item": "Branzino",
+   "price": 38.0,
+   "description": "cous cous, chard, asparagus, fava, English pea crema"
+  },
+  {
+   "section": "Main Course",
+   "item": "Flat Iron Steak",
+   "price": 46.0,
+   "description": "yellow pepper crema, pearl onion, smashed potato, salsa verde"
+  },
+  {
+   "section": "Main Course",
+   "item": "Roasted Chicken",
+   "price": 35.0,
+   "description": "saffron rice, roasted peppers, wild mushrooms, olives"
+  },
+  {
+   "section": "Main Course",
+   "item": "Boneless Pork Chop",
+   "price": 36.0,
+   "description": "romano bean, ham hock, pea tendril, salsa roja"
+  },
+  {
+   "section": "Main Course",
+   "item": "Seafood Paella",
+   "price": 49.0,
+   "description": "bomba rice, saffron, chorizo, prawns, mussels, clams, squid"
+  },
+  {
+   "section": "Desserts",
+   "item": "Ricotta Bunuelos",
+   "price": 12.0,
+   "description": "vanilla ice cream, ganache, Meyer lemon curd"
+  },
+  {
+   "section": "Desserts",
+   "item": "Classic Flan",
+   "price": 12.0,
+   "description": "caramel, huckleberry compote, creme fraiche ice cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "Strawberry Empanada",
+   "price": 12.0,
+   "description": "cream cheese frosting, basil ice cream"
+  },
+  {
+   "section": "Desserts",
+   "item": "Chocolate Crema Catalana",
+   "price": 12.0,
+   "description": "orange, chocolate-hazelnut streusel, berries"
+  },
+  {
+   "section": "Desserts",
+   "item": "Housemade Ice Cream & Sorbet",
+   "price": 6.0,
+   "description": "with shortbread cookie"
+  },
+  {
+   "section": "Desserts",
+   "item": "Cheese Board",
+   "price": 18.0,
+   "description": "Spanish and regional cheeses, apple, candied walnuts"
+  },
+  {
+   "section": "Drinks",
+   "item": "Signature Cocktails",
+   "price": 17.0,
+   "description": "gin tonic, mezcal, bourbon, rye, and others"
+  },
+  {
+   "section": "Drinks",
+   "item": "Red Sangria",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the glass",
+   "price": 12.0,
+   "description": "starting price; cava, rose, white, red; $12-16"
+  },
+  {
+   "section": "Drinks",
+   "item": "Espresso / Coffee & Tea",
+   "price": 5.0,
+   "description": "starting price"
+  }
+ ],
+ "notes": "Dinner menu extracted in full; beverage list abbreviated (wine by the bottle omitted). Desserts listed at $12 each on the dessert tab (price shown once for the section).",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $37.00 of 6 prices in sections ['Main Course']; rule L1<10, L2<18, L3<30, L4>=30"
+}

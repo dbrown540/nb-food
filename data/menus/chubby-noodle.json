@@ -2,11 +2,11 @@
  "name": "Chubby Noodle",
  "addr": "570 Green Street",
  "menu_url": "https://www.chubbynoodle.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
+ "source": "web search + official site + Yelp (checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
  "items": [],
- "notes": "Wix site with no menu text; OSM /north-beach URL 404s",
+ "notes": "Appears CLOSED in San Francisco. Yelp lists the San Francisco Chubby Noodle (last at 510 Union St) as closed (\"Yelpers report this location has closed\"); the official site's navigation (sitemap lastmod 2026-08-13) offers only the Cabo San Lucas, MX location. An orphaned, unlinked \"Green Street lunch + dinner\" page (chubbynoodle.com/menus-3) still shows the old SF menu (appetizers $16-21, mains $15-26) but is not a live source. Verify on the next OSM refresh; drop from places.json if confirmed.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

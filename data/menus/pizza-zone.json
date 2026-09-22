@@ -1,0 +1,205 @@
+{
+ "name": "Pizza Zone",
+ "addr": "555 Beach Street",
+ "menu_url": "https://pizzazone.shop/menu",
+ "source": "aggregator: third-party templated listing site (pizzazone.shop; not verifiably operated by the restaurant)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Large Onion Rings",
+   "price": 8.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Mozzarella Sticks",
+   "price": 8.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Garlic Bread",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Buffalo Wings",
+   "price": 17.99,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Large Fries",
+   "price": 7.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Garden Salad",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "Chicken Tenders + Fries",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "Buffalo Wings + Fries",
+   "price": 22.99,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "Chicken Nuggets + Fries",
+   "price": 10.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Meatball",
+   "price": 16.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Roast Beef",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Vegetarian",
+   "price": 11.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Salami",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Ham",
+   "price": 12.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Pastrami",
+   "price": 14.99,
+   "description": ""
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Turkey",
+   "price": 13.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Pizza Slice",
+   "price": 5.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Small Pizza 12\"",
+   "price": 22.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Medium Pizza 14\"",
+   "price": 25.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Large Pizza 16\"",
+   "price": 29.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "X-Large Pizza 18\"",
+   "price": 33.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Buffalo Chicken Pizza",
+   "price": 27.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "House Combo Pizza",
+   "price": 28.96,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "BBQ Chicken Pizza",
+   "price": 27.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Pesto Cheese Pizza",
+   "price": 25.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Pesto Chicken Garlic Pizza",
+   "price": 28.99,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Vegetarian Combo Pizza",
+   "price": 28.96,
+   "description": ""
+  },
+  {
+   "section": "Pizza",
+   "item": "Meat Combo Pizza",
+   "price": 28.96,
+   "description": ""
+  },
+  {
+   "section": "Ice Cream",
+   "item": "Ice Cream (cup or cone)",
+   "price": 6.99,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Coffee or Hot Tea",
+   "price": 2.99,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Coke",
+   "price": 2.99,
+   "description": "bottled drinks $3.99"
+  }
+ ],
+ "notes": "No verifiably official site found; pizzazone.shop is a generated listing-style site built from public reviews, so prices are unverified. Hours shown: Sun-Thu 11am-11pm, Fri-Sat 11am-midnight. Address found via web search (batch had none).",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $25.99 of 19 prices in sections ['Pizza', 'Sandwiches']; rule L1<10, L2<18, L3<30, L4>=30"
+}

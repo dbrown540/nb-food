@@ -1,0 +1,571 @@
+{
+ "name": "Blue Mermaid",
+ "addr": "471 Jefferson Street",
+ "menu_url": "https://www.argonauthotel.com/menus/",
+ "source": "restaurant website (Argonaut Hotel menus page; SinglePlatform menu widget data)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Breakfast - Entrees",
+   "item": "American Breakfast",
+   "price": 26.0,
+   "description": "two eggs any-style, applewood-smoked bacon or chicken sausage, toast"
+  },
+  {
+   "section": "Breakfast - Entrees",
+   "item": "Eggs Benedict",
+   "price": 24.0,
+   "description": "grilled ham, poached egg, english muffin, cheese sauce"
+  },
+  {
+   "section": "Breakfast - Entrees",
+   "item": "Ham & Cheese Omelet",
+   "price": 21.0,
+   "description": "honey glazed ham, aged cheddar"
+  },
+  {
+   "section": "Breakfast - Entrees",
+   "item": "Frittata",
+   "price": 21.0,
+   "description": "spinach, mushroom, goat cheese"
+  },
+  {
+   "section": "Breakfast - Entrees",
+   "item": "French Toast",
+   "price": 23.0,
+   "description": "seasonal berries, maple syrup"
+  },
+  {
+   "section": "Breakfast - Fresh",
+   "item": "Seasonal Fresh Cut Fruit",
+   "price": 7.0,
+   "description": "honeydew, cantaloupe, pineapple"
+  },
+  {
+   "section": "Breakfast - Fresh",
+   "item": "Assorted Fresh Berries",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast - Proteins",
+   "item": "Bacon, Chicken Sausage or Ham",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast - Proteins",
+   "item": "Eggs Any-Style",
+   "price": 4.0,
+   "description": "starting price; One $4 / Two $7"
+  },
+  {
+   "section": "Breakfast - Vegetables",
+   "item": "Roasted Red Potatoes",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast - Vegetables",
+   "item": "Sautéed Spinach",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast - Oats & Yogurt",
+   "item": "Steel Cut Oats",
+   "price": 17.0,
+   "description": "brown sugar, candied walnuts, seasonal berries"
+  },
+  {
+   "section": "Breakfast - Oats & Yogurt",
+   "item": "Greek Yogurt Parfait",
+   "price": 17.0,
+   "description": "granola, seasonal berries"
+  },
+  {
+   "section": "Breakfast - Breads",
+   "item": "Breakfast Pastry",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast - Breads",
+   "item": "Toast",
+   "price": 4.0,
+   "description": "sourdough, nine-grain, english muffin, plain bagel; served with butter & marmalade or whipped..."
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Coffee",
+   "price": 6.0,
+   "description": "regular or decaf"
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Espresso",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Latte / Cappuccino",
+   "price": 6.0,
+   "description": "starting price; Single $6 / Double $9"
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Café Mocha",
+   "price": 6.0,
+   "description": "starting price; Single $6 / Double $9; ghirardelli chocolate"
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Americano",
+   "price": 6.0,
+   "description": "starting price; Single $6 / Double $9"
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Hot or Iced Tea",
+   "price": 5.0,
+   "description": "assorted selections"
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Hot Chocolate",
+   "price": 7.0,
+   "description": "ghirardelli chocolate syrup"
+  },
+  {
+   "section": "Breakfast - Coffee, Tea & Juice",
+   "item": "Assorted Juices",
+   "price": 5.0,
+   "description": "orange, grapefruit, cranberry, apple, tomato"
+  },
+  {
+   "section": "Lunch - Artisan Breads",
+   "item": "Artisan Breads",
+   "price": 5.0,
+   "description": "creamery butter"
+  },
+  {
+   "section": "Lunch - Homemade Chowders***",
+   "item": "Dungeness Crab & Corn",
+   "price": 10.0,
+   "description": "starting price; Cup $10 / Bowl $16 / Boudin's Sourdough Bread Bowl $19; bacon, roasted corn, cilantro pesto"
+  },
+  {
+   "section": "Lunch - Homemade Chowders***",
+   "item": "New England",
+   "price": 10.0,
+   "description": "starting price; Cup $10 / Bowl $16 / Boudin's Sourdough Bread Bowl $19; mirepoix & potatoes"
+  },
+  {
+   "section": "Lunch - Homemade Chowders***",
+   "item": "Manhattan",
+   "price": 10.0,
+   "description": "starting price; Cup $10 / Bowl $16 / Boudin's Sourdough Bread Bowl $19; tomato base, pepper, onion, herbs"
+  },
+  {
+   "section": "Lunch - Homemade Chowders***",
+   "item": "Chowder Sampler",
+   "price": 24.0,
+   "description": "house-made & award-winning crab & corn, manhattan, new england"
+  },
+  {
+   "section": "Lunch - Salads",
+   "item": "Crab Louis",
+   "price": 24.0,
+   "description": "romaine, dungeness crab, tomatoes, egg, cucumber, avocado, louis dressing"
+  },
+  {
+   "section": "Lunch - Salads",
+   "item": "Farmers Market Greens",
+   "price": 16.0,
+   "description": "root vegetables, goat cheese, capers, olives, balsamic croutons"
+  },
+  {
+   "section": "Lunch - Small Plates",
+   "item": "Market Oysters",
+   "price": 33.0,
+   "description": "1/2 Dozen; cocktail sauce, shallots mignonette, horseradish, lemon wedges"
+  },
+  {
+   "section": "Lunch - Small Plates",
+   "item": "Tuna Crudo",
+   "price": 19.0,
+   "description": "yuzu & white soy glace, avocado purée, chili aioli, micro cilantro, taco chips"
+  },
+  {
+   "section": "Lunch - Small Plates",
+   "item": "Calamari",
+   "price": 19.0,
+   "description": "honey mustard mayo, herbed mix tempura batter, lemon, dried mango, umami dust"
+  },
+  {
+   "section": "Lunch - Small Plates",
+   "item": "Popcorn Shrimp",
+   "price": 19.0,
+   "description": "parmesan, harissa aioli, lemon"
+  },
+  {
+   "section": "Lunch - Small Plates",
+   "item": "Crispy Chicken Bites",
+   "price": 19.0,
+   "description": "free range breast meat, cayenne & paprika marinade, pepper cheese fondue, chopped salad, ranch dressing"
+  },
+  {
+   "section": "Lunch - Classic Handhelds",
+   "item": "Blue Mermaid Burger",
+   "price": 29.0,
+   "description": "8oz wagyu, brioche bun, white cheddar, garlic & mustard aioli, pickles, fries or house salad; sub grilled..."
+  },
+  {
+   "section": "Lunch - Classic Handhelds",
+   "item": "Lentil & Veggie Burger",
+   "price": 27.0,
+   "description": "brioche bun, white cheddar, garlic & mustard aioli, fries or house salad"
+  },
+  {
+   "section": "Lunch - Classic Handhelds",
+   "item": "Fish & Chips",
+   "price": 32.0,
+   "description": "line caught white fish of the day, tartar sauce, lemon wedges, parsley, fries"
+  },
+  {
+   "section": "Lunch - Large Plates",
+   "item": "Tandoori Butter Chicken",
+   "price": 32.0,
+   "description": "bone-in chicken, tomato butter cream sauce, cardamom, basmati rice"
+  },
+  {
+   "section": "Lunch - Large Plates",
+   "item": "Coconut Shrimp Curry",
+   "price": 33.0,
+   "description": "coconut curry, steamed basmati rice; tofu option"
+  },
+  {
+   "section": "Lunch - Large Plates",
+   "item": "Roasted Chicken",
+   "price": 33.0,
+   "description": "mashed potatoes, veggies, saffron pepper sauce"
+  },
+  {
+   "section": "Lunch - Large Plates",
+   "item": "Fish of the Day",
+   "price": 36.0,
+   "description": "pan seared fish, grilled vegetables, meyer lemon glace"
+  },
+  {
+   "section": "Lunch - Large Plates",
+   "item": "New York Steak",
+   "price": 55.0,
+   "description": "grilled steak, veal jus, fries, sautéed seasonal vegetables"
+  },
+  {
+   "section": "Lunch - Large Plates",
+   "item": "Spaghetti Bolognese",
+   "price": 25.0,
+   "description": "6-hour beef bolognese, parmesan"
+  },
+  {
+   "section": "Lunch - Cauliflower & Tofu",
+   "item": "Crispy Cauliflower",
+   "price": 18.0,
+   "description": "garbanzo mix, chopped salad, pepper sauce"
+  },
+  {
+   "section": "Lunch - Cauliflower & Tofu",
+   "item": "Coconut Tofu",
+   "price": 29.0,
+   "description": "seasoned tofu, steamed basmati rice, bell peppers, scallions"
+  },
+  {
+   "section": "Lunch - Sides",
+   "item": "Potato Purée",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Lunch - Sides",
+   "item": "Seasonal Vegetables",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Lunch - Sides",
+   "item": "Bay Fries",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Lunch - Sides",
+   "item": "Basmati Rice",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Lunch - Desserts",
+   "item": "Key Lime Pie",
+   "price": 12.0,
+   "description": "raspberry coulis, whipped cream, seasonal berries"
+  },
+  {
+   "section": "Lunch - Desserts",
+   "item": "Chocolate Cake",
+   "price": 12.0,
+   "description": "vanilla ice cream, berry compote"
+  },
+  {
+   "section": "Dinner - Artisan Breads & Dips",
+   "item": "Artisan Breads & Dips",
+   "price": 9.0,
+   "description": "acme bread, creamery butter, hummus, olive tapenade, cilantro chutney"
+  },
+  {
+   "section": "Dinner - Homemade Chowders***",
+   "item": "Dungeness Crab & Corn",
+   "price": 16.0,
+   "description": "starting price; Bowl $16 / Boudin's Sourdough Bread Bowl $19; bacon, roasted corn, cilantro pesto"
+  },
+  {
+   "section": "Dinner - Homemade Chowders***",
+   "item": "New England",
+   "price": 16.0,
+   "description": "starting price; Bowl $16 / Boudin's Sourdough Bread Bowl $19; mirepoix, potatoes"
+  },
+  {
+   "section": "Dinner - Homemade Chowders***",
+   "item": "Manhattan",
+   "price": 16.0,
+   "description": "starting price; Bowl $16 / Boudin's Sourdough Bread Bowl $19; pepper, onion, herbs"
+  },
+  {
+   "section": "Dinner - Chilled",
+   "item": "Seafood Tower",
+   "price": 65.0,
+   "description": "dungeness crab, oysters, clams, mussels, shrimp cocktail & ahi tuna served with micro green salad, garlic..."
+  },
+  {
+   "section": "Dinner - Chilled",
+   "item": "Market Oysters",
+   "price": 33.0,
+   "description": "1/2 Dozen; shallot mignonette, cocktail sauce, fresh horseradish"
+  },
+  {
+   "section": "Dinner - Chilled",
+   "item": "Hamachi Ceviche",
+   "price": 19.0,
+   "description": "pickled shallots, capers, arugula & pine nut salad, chili & lime vinaigrette, toasted sliced baguette"
+  },
+  {
+   "section": "Dinner - Salads",
+   "item": "Farmer's Market Greens",
+   "price": 16.0,
+   "description": "root vegetables, goat cheese, capers, olives, balsamic, croutons"
+  },
+  {
+   "section": "Dinner - Salads",
+   "item": "Crab Louis",
+   "price": 25.0,
+   "description": "little gem, dungeness crab, tomatoes, egg, cucumber, avocado, louis dressing"
+  },
+  {
+   "section": "Dinner - Salads",
+   "item": "Beets & Burrata",
+   "price": 19.0,
+   "description": "roasted beets, melons, cherry tomatoes, pickles, basil, feta, crisps, sherry & maple vinaigrette"
+  },
+  {
+   "section": "Dinner - Small Plates",
+   "item": "Tuna & Kale 'Tacos'",
+   "price": 19.0,
+   "description": "sashimi grade ahi, chickpea battered kale, avocado purée, chili relish, goat cheese"
+  },
+  {
+   "section": "Dinner - Small Plates",
+   "item": "Dungeness Crab Cake",
+   "price": 22.0,
+   "description": "pickled coleslaw, jalapeño aioli, microgreens"
+  },
+  {
+   "section": "Dinner - Small Plates",
+   "item": "Wharf Basket",
+   "price": 29.0,
+   "description": "crispy cod, shrimp, calamari, golden fries, harissa aioli"
+  },
+  {
+   "section": "Dinner - Small Plates",
+   "item": "Crispy Chicken Bites",
+   "price": 19.0,
+   "description": "free range breast meat, cayenne & paprika marinade, pepper cheese fondue, chopped salad, ranch dressing"
+  },
+  {
+   "section": "Dinner - Small Plates",
+   "item": "The \"Flavor Bomb\"",
+   "price": 18.0,
+   "description": "chef's potato & sprout salad, wheat orbs, mint, tamarind emulsions"
+  },
+  {
+   "section": "Dinner - From the Hearth",
+   "item": "Freshly Baked Stuffed Chicken Naan",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner - From the Hearth",
+   "item": "Charred Chicken Kebab",
+   "price": 31.0,
+   "description": "roasted chickpea hummus, tzatziki and mint relish, lentil chip"
+  },
+  {
+   "section": "Dinner - From the Hearth",
+   "item": "Cauliflower Florets",
+   "price": 29.0,
+   "description": "lentil khichdi, pickled shallots, chickpea puffs & chips"
+  },
+  {
+   "section": "Dinner - From the Hearth",
+   "item": "Tandoori Butter Chicken",
+   "price": 32.0,
+   "description": "bone-in chicken, tomato butter cream sauce, cardamom, basmati rice; sub paneer"
+  },
+  {
+   "section": "Dinner - From the Hearth",
+   "item": "Za'atar Spiced Grilled Lamb Chops",
+   "price": 37.0,
+   "description": "saffron rice, whipped lemon yogurt, haricot beans"
+  },
+  {
+   "section": "Dinner - Large Plates",
+   "item": "Blue Mermaid Cioppino \"BMC\"",
+   "price": 49.0,
+   "description": "alioto crab, tomato broth, market seafood, crab, fennel pollen"
+  },
+  {
+   "section": "Dinner - Large Plates",
+   "item": "Lobster Ravioli",
+   "price": 34.0,
+   "description": "house-made shellfish-tomato concasse, truffle vinaigrette, onion crumble"
+  },
+  {
+   "section": "Dinner - Large Plates",
+   "item": "Seared Scallops",
+   "price": 36.0,
+   "description": "lemon & lentil rice, charred tomato salsa, citrus foam"
+  },
+  {
+   "section": "Dinner - Large Plates",
+   "item": "Fish & Chips",
+   "price": 32.0,
+   "description": "line caught white fish of the day, fries, tartar sauce, lemon wedges, parsley"
+  },
+  {
+   "section": "Dinner - Large Plates",
+   "item": "Coconut Shrimp Curry",
+   "price": 33.0,
+   "description": "scallions, spiced coconut sauce, basmati rice; tofu option"
+  },
+  {
+   "section": "Dinner - Large Plates",
+   "item": "Blue Mermaid Burger",
+   "price": 29.0,
+   "description": "wagyu custom grind, brioche bun, white cheddar, aioli, fries/house salad; sub grilled chicken or veggie burger"
+  },
+  {
+   "section": "Dinner - From the Grill",
+   "item": "Fish of the Day",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dinner - From the Grill",
+   "item": "Roasted Chicken Breast",
+   "price": 33.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner - From the Grill",
+   "item": "Allen Brothers 10oz NY Steak",
+   "price": 55.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner - From the Grill",
+   "item": "Allen Brothers 12oz Ribeye Steak",
+   "price": 65.0,
+   "description": ""
+  },
+  {
+   "section": "Dinner - Sides",
+   "item": "Bay Fries",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dinner - Sides",
+   "item": "Sauteed Seasonal Vegetable",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dinner - Sides",
+   "item": "Potato Puree",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dinner - Sides",
+   "item": "Basmati Rice",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Mango Variations",
+   "price": 12.0,
+   "description": "buttered filo, dry mango, mousse, cheese, gelato"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Brûléed Tres Leches",
+   "price": 12.0,
+   "description": "cardamom-infused sauce, liberty cream, persimmon compote"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Citrus-Kissed Chocolate",
+   "price": 12.0,
+   "description": "sponge cake, chocolate mousse, citrus, passion fruit sorbet"
+  },
+  {
+   "section": "Dinner - Desserts",
+   "item": "Key Lime Pie",
+   "price": 12.0,
+   "description": "whipped cream, almond crumbles"
+  },
+  {
+   "section": "Drinks (selection)",
+   "item": "Craft bottled beer",
+   "price": 9.0,
+   "description": "Lagunitas Maximus, Blue Moon, Sam Adams; Dump Truck of the Gods Mega IPA $12"
+  },
+  {
+   "section": "Drinks (selection)",
+   "item": "Seltzers",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks (selection)",
+   "item": "Wine by the glass (5oz)",
+   "price": 14.0,
+   "description": "starting price; sparkling, white, rosé and red; bottles $44-150"
+  }
+ ],
+ "notes": "Blue Mermaid Chowder House & Bar in the Argonaut Hotel. Breakfast, lunch and dinner menus recorded plus brief drinks; brunch, happy hour, holiday (Thanksgiving, Labor Day), full wine list and daily-special names omitted. Seafood tower, oysters and fish of the day market-priced items as listed. Draft beers and some sides listed without prices.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $33.00 of 23 prices in sections ['Lunch - Classic Handhelds', 'Lunch - Large Plates', 'Dinner - Large Plates', 'Dinner - From the Hearth', 'Dinner - From the Grill']; rule L1<10, L2<18, L3<30, L4>=30"
+}

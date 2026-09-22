@@ -1,0 +1,181 @@
+{
+ "name": "Taco Cantina",
+ "addr": "Pier 39 (Beach Street & The Embarcadero)",
+ "menu_url": "https://www.tacocantina.com/menu",
+ "source": "restaurant website (Squarespace menu page), found via web search",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Grilled Lobster Tail Taco",
+   "price": 13.95,
+   "description": "slaw, chipotle aioli, puffy tortilla"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Carnitas Guadalajara Taco",
+   "price": 7.5,
+   "description": "roast pork, salsa verde, puffy tortilla"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Chicken Taco",
+   "price": 7.25,
+   "description": "grilled chicken, peppers, onions, guacamole, flour tortilla"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Carne Asada Taco",
+   "price": 8.95,
+   "description": "Angus skirt steak, guacamole, pico, flour tortilla"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Grilled Shrimp Taco",
+   "price": 8.75,
+   "description": "slaw, chipotle aioli, avocado, puffy tortilla"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Pork Al Pastor Taco",
+   "price": 8.5,
+   "description": "pineapple, cilantro, onions, corn tortilla"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Baja Fish Taco",
+   "price": 8.5,
+   "description": "grilled mahi mahi, slaw, chipotle aioli"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Cactus y Hongos Taco",
+   "price": 7.75,
+   "description": "nopales, mushrooms, guacamole, pickled onions"
+  },
+  {
+   "section": "Tacos (a la carte)",
+   "item": "Impossible Beef Taco",
+   "price": 8.75,
+   "description": "fajita-seasoned plant-based beef, peppers, guacamole"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Chile Con Queso",
+   "price": 8.75,
+   "description": ""
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Chunky Guacamole and Chips",
+   "price": 10.5,
+   "description": ""
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Dip Combo",
+   "price": 15.75,
+   "description": "queso, guacamole, salsa; serves 2-3"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Quesadilla",
+   "price": 9.75,
+   "description": "Mexican cheeses, pico de gallo; add steak, chicken or shrimp $5-6"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Quesabirria",
+   "price": 9.75,
+   "description": "corn tortillas, cheese, stewed beef"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Nachos",
+   "price": 12.5,
+   "description": "black beans, queso, guacamole, crema, cotija, jalapenos"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Shrimp Ceviche",
+   "price": 10.5,
+   "description": "pico de gallo, mango"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Elote Corn on the Cob",
+   "price": 5.5,
+   "description": "mayo, tajin, cotija"
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Cheesy Fries",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Not Tacos",
+   "item": "Chips and Salsa",
+   "price": 3.95,
+   "description": ""
+  },
+  {
+   "section": "Big Plates",
+   "item": "Carnitas Guadalajara Plate",
+   "price": 22.75,
+   "description": "salsa verde; rice and beans"
+  },
+  {
+   "section": "Big Plates",
+   "item": "Enchiladas Verdes",
+   "price": 22.75,
+   "description": "chicken tinga, salsa verde, crema"
+  },
+  {
+   "section": "Big Plates",
+   "item": "Pollo Asado",
+   "price": 22.75,
+   "description": "half chicken, achiote chili paste"
+  },
+  {
+   "section": "Big Plates",
+   "item": "2 Taco Plate",
+   "price": 18.75,
+   "description": "rice and beans"
+  },
+  {
+   "section": "Fajitas",
+   "item": "Steak Fajitas (1/2 lb)",
+   "price": 26.95,
+   "description": "1 lb $46.95"
+  },
+  {
+   "section": "Fajitas",
+   "item": "Chicken Fajitas (1/2 lb)",
+   "price": 23.75,
+   "description": "1 lb $43.75"
+  },
+  {
+   "section": "Fajitas",
+   "item": "Shrimp Fajitas (1/2 lb)",
+   "price": 25.75,
+   "description": "1 lb $45.75"
+  },
+  {
+   "section": "Fajitas",
+   "item": "Veggie Fajitas (1/2 lb)",
+   "price": 22.75,
+   "description": "1 lb $40.75"
+  },
+  {
+   "section": "Drinks",
+   "item": "Cadillac Margarita",
+   "price": 14.0,
+   "description": "glass; larger pours up to $49 pitcher"
+  }
+ ],
+ "notes": "Puffy-taco cantina at PIER 39. Taco platters (any 5 $41.25 / any 10 $82.50), meat and seafood add-ons, kids plates ($7.95) and margaritas ($14 glass up to $49 pitcher) collapsed or omitted. Address found via web search (batch had none).",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $22.75 of 8 prices in sections ['Big Plates', 'Fajitas']; rule L1<10, L2<18, L3<30, L4>=30"
+}

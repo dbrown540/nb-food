@@ -1,0 +1,169 @@
+{
+ "name": "Crepe Cafe",
+ "addr": "PIER 39, Mid Pier, Level 1",
+ "menu_url": "https://crepecafe.website/menu",
+ "source": "aggregator: third-party menu site crepecafe.website (linked from the PIER 39 directory; not confirmed as the cafe's own)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Sweet Crepes",
+   "item": "Lemon",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Sugar",
+   "price": 6.5,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Jammin",
+   "price": 6.95,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Strawberry",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Mixed Fruit",
+   "price": 9.75,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Banana",
+   "price": 8.5,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Nutella",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Banana Nutella",
+   "price": 9.75,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Ghirardelli",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "Dulce de Leche",
+   "price": 7.95,
+   "description": ""
+  },
+  {
+   "section": "Sweet Crepes",
+   "item": "S'more",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Breakfast",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Veggie",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Hawaiian",
+   "price": 9.75,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Ham & Cheese",
+   "price": 8.75,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Turkey",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Florentine",
+   "price": 9.5,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Pesto",
+   "price": 9.25,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Turkey Pesto",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Crab",
+   "price": 10.95,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Shrimp",
+   "price": 10.25,
+   "description": ""
+  },
+  {
+   "section": "Savory Crepes",
+   "item": "Chicken",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Small French Fries",
+   "price": 5.75,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Large French Fries",
+   "price": 6.75,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Sweet Funnel Cake Fries",
+   "price": 8.75,
+   "description": ""
+  },
+  {
+   "section": "Bottled Drinks",
+   "item": "Bottled soda / iced tea / juice",
+   "price": 3.5,
+   "description": "starting price; bottled water $3.25"
+  }
+ ],
+ "notes": "Matched to the PIER 39 Crepe Cafe (Mid Pier, Level 1; PIER 39 directory lists hours 10am-8pm). Menu page layout is jumbled: savory/sweet grouping inferred, several side and coffee prices not attached to items, so drinks omitted except bottled.",
+ "price_level_estimate": 2,
+ "price_level_basis": "median $10.00 of 11 prices in sections ['Savory Crepes']; rule L1<10, L2<18, L3<30, L4>=30"
+}

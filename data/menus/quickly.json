@@ -1,0 +1,12 @@
+{
+ "name": "Quickly",
+ "addr": "2800 Leavenworth Street",
+ "menu_url": "http://quicklyusa.com/sffiwh.html",
+ "source": "chain corporate website (store page and product category pages)",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "Chain bubble-tea shop in the Anchorage Shopping Center. Corporate site lists only product categories (milk tea, slush, snow, smoothie, boba latte, egg puffs, mochi waffle, fried chicken, rice bowls); category menu images no longer load. Online ordering via order.online storefront (JS-only) not fetched.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

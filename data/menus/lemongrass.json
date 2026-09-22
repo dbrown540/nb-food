@@ -1,0 +1,763 @@
+{
+ "name": "Lemongrass",
+ "addr": "2348 Polk Street",
+ "menu_url": "https://order2.kiolyn.com/store/20011313344501/ordering",
+ "source": "restaurant online-ordering page (Kiolyn, linked from lemongrasssf.com; rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "1. Appetizer Combo",
+   "price": 20.0,
+   "description": "chicken satay, thai stick, coconut shrimp and veggie egg rolls (2 each), sauces"
+  },
+  {
+   "section": "Appetizers",
+   "item": "2. Chicken Satay",
+   "price": 15.0,
+   "description": "grilled marinated chicken, cucumber salad, peanut sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "3. Coconut Shrimp",
+   "price": 12.0,
+   "description": "six fried shrimp in shredded coconut, sweet sour sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "4A. Veggie Egg Roll",
+   "price": 13.0,
+   "description": "mixed vegetables, fried, sweet sour sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "4B. Pork Egg Roll",
+   "price": 13.0,
+   "description": "fried egg rolls, sweet sour sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "5. Fish Cake",
+   "price": 13.0,
+   "description": "fried fish paste with curry paste, cucumber salad, peanuts"
+  },
+  {
+   "section": "Appetizers",
+   "item": "6. Poh-Pier Sod",
+   "price": 14.0,
+   "description": "fresh rice paper roll with tofu, cucumber, snow peas, carrots, tamarind sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "7. Mieng-Kum",
+   "price": 15.0,
+   "description": "roasted coconut, peanuts, ginger, red onion, spinach leaves, lime, dried shrimp"
+  },
+  {
+   "section": "Appetizers",
+   "item": "8. Crispy Tofu",
+   "price": 12.0,
+   "description": "fried tofu, peanut sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "9. Steamed Won Ton",
+   "price": 12.0,
+   "description": "chicken and vegetable won ton, sweet sour spicy sauce"
+  },
+  {
+   "section": "Appetizers",
+   "item": "10. Thai Curry Puff",
+   "price": 15.0,
+   "description": "chicken, yellow curry, potato, onion in puff pastry"
+  },
+  {
+   "section": "Appetizers",
+   "item": "11. Crispy Calamari",
+   "price": 14.0,
+   "description": "fried calamari, sweet and sour sauce"
+  },
+  {
+   "section": "BBQ",
+   "item": "80. BBQ Chicken",
+   "price": 17.0,
+   "description": "marinated barbecued chicken, sweet and sour sauce"
+  },
+  {
+   "section": "BBQ",
+   "item": "81. BBQ Pork",
+   "price": 17.0,
+   "description": "marinated grilled pork, sweet chili sauce"
+  },
+  {
+   "section": "Salads",
+   "item": "12. House Salad",
+   "price": 15.0,
+   "description": "romaine, onion, tomato, tofu, carrot, cucumber, peanuts, Thai dressing"
+  },
+  {
+   "section": "Salads",
+   "item": "13. Larb",
+   "price": 15.0,
+   "description": "ground meat or tofu, onion, cilantro, lime, toasted rice, chili"
+  },
+  {
+   "section": "Salads",
+   "item": "14A. Prawns Salad",
+   "price": 18.0,
+   "description": "grilled prawns, onion, lemongrass, chili, lettuce"
+  },
+  {
+   "section": "Salads",
+   "item": "14B. Calamari Salad",
+   "price": 18.0,
+   "description": "grilled calamari, onion, lemongrass, chili, lettuce"
+  },
+  {
+   "section": "Salads",
+   "item": "15. Crispy Rice Salad",
+   "price": 15.0,
+   "description": "crispy rice, lime, ginger, peanuts, cilantro, onion"
+  },
+  {
+   "section": "Salads",
+   "item": "16. Hot Beef Salad",
+   "price": 16.0,
+   "description": "Thai BBQ beef, lime, chili, lettuce, onion, cilantro"
+  },
+  {
+   "section": "Salads",
+   "item": "17. Silver Noodles Yum",
+   "price": 16.0,
+   "description": "silver noodles, ground chicken, prawns, mushroom, chili paste, lime"
+  },
+  {
+   "section": "Salads",
+   "item": "18. Papaya Salad",
+   "price": 15.0,
+   "description": "green papaya, tomato, green beans, peanuts, spicy lemon dressing"
+  },
+  {
+   "section": "Salads",
+   "item": "19. Seafood Salad",
+   "price": 19.0,
+   "description": "prawns, calamari, mussel, onion, lime, cilantro, chili"
+  },
+  {
+   "section": "Salads",
+   "item": "20. Larb Ped",
+   "price": 19.0,
+   "description": "roasted duck, red onion, tomato, chili, lime, toasted rice"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "21A. Tom Yum Kung - Cup",
+   "price": 10.0,
+   "description": "spicy sour prawn soup, lemongrass, mushroom"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "21B. Tom Yum Kung - Bowl",
+   "price": 19.0,
+   "description": "spicy sour prawn soup, lemongrass, mushroom"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "22A. Tom Yum Gai - Cup",
+   "price": 9.0,
+   "description": "spicy chicken soup, lemongrass, mushroom, tomato"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "22B. Tom Yum Gai - Bowl",
+   "price": 17.0,
+   "description": "spicy chicken soup, lemongrass, mushroom, tomato"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "23A. Tom Kha Gai - Cup",
+   "price": 10.0,
+   "description": "chicken, coconut milk, mushroom, galangal, lime"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "23B. Tom Kha Gai - Bowl",
+   "price": 19.0,
+   "description": "chicken, coconut milk, mushroom, galangal, lime"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "24. Silver Noodle Soup",
+   "price": 16.0,
+   "description": "silver noodles, ground chicken, mushroom, napa cabbage"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "25. Crystal Prawn Soup",
+   "price": 19.0,
+   "description": "crystal noodles, prawns, tom yum/coconut milk broth"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "26. Po Tak",
+   "price": 22.0,
+   "description": "spicy sour seafood soup: prawns, calamari, mussels, basil"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "27. Rice Soup",
+   "price": 16.0,
+   "description": "chicken, pork or beef with jasmine rice, celery, garlic, ginger"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "28A. Chicken Noodle Soup",
+   "price": 16.0,
+   "description": "ground chicken, rice noodles, lemongrass broth"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "28B. Beef Noodle Soup",
+   "price": 16.0,
+   "description": "ground beef, rice noodles, lemongrass broth"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "29. Lemongrass Special Noodle Soup",
+   "price": 18.0,
+   "description": "prawns, ground chicken, fish ball, fish cake, rice noodles"
+  },
+  {
+   "section": "Soups & Noodle Soups",
+   "item": "30. Seafood Won Ton",
+   "price": 18.0,
+   "description": "shrimp, calamari, fish ball, fish cake, won ton soup"
+  },
+  {
+   "section": "Curries",
+   "item": "31. Yellow Curry",
+   "price": 17.0,
+   "description": "mild yellow curry, coconut milk, onion, potato"
+  },
+  {
+   "section": "Curries",
+   "item": "32. Green Curry",
+   "price": 17.0,
+   "description": "spicy green curry, bamboo shoots, zucchini, basil, eggplant"
+  },
+  {
+   "section": "Curries",
+   "item": "33. Red Curry",
+   "price": 17.0,
+   "description": "red curry, bamboo shoots, bell peppers, zucchini, carrot"
+  },
+  {
+   "section": "Curries",
+   "item": "34. Panang Curry",
+   "price": 18.0,
+   "description": "sliced beef, spicy red curry, zucchini, coconut milk"
+  },
+  {
+   "section": "Curries",
+   "item": "35. Pumpkin Curry",
+   "price": 19.0,
+   "description": "pumpkin, bell peppers, basil, red curry"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "36. Kraprow",
+   "price": 18.0,
+   "description": "ground meat, basil, onion, bell pepper, bamboo shoots, chili sauce"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "37. Param",
+   "price": 18.0,
+   "description": "chicken, pork or beef with mixed vegetables, peanut sauce"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "38. Himaparn",
+   "price": 18.0,
+   "description": "onion, carrot, roasted cashews"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "39. Pad Pak",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "40. Prew Warn",
+   "price": 18.0,
+   "description": "Thai sweet and sour sauce, assorted vegetables"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "41. Plig Kheaw",
+   "price": 18.0,
+   "description": "eggplant, green bell pepper, basil"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "42. Kra Tiem",
+   "price": 18.0,
+   "description": "garlic, black pepper, mushroom, onion on a hot plate"
+  },
+  {
+   "section": "Poultry, Pork & Beef",
+   "item": "43. Pad Ka Nah",
+   "price": 18.0,
+   "description": "broccoli in bean sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "44. Kung Kra Praw",
+   "price": 19.0,
+   "description": "prawns, basil, bamboo shoots, bell pepper, chili sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "45. Kung Priew Warn",
+   "price": 19.0,
+   "description": "prawns, sweet and sour sauce, vegetables"
+  },
+  {
+   "section": "Seafood",
+   "item": "46. Kung Kratiem",
+   "price": 19.0,
+   "description": "prawns, garlic, onion, mushroom, pepper sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "47. Kung Opp Woonsen",
+   "price": 19.0,
+   "description": "prawns, silver noodles, sesame oil, ginger, napa cabbage, clay pot"
+  },
+  {
+   "section": "Seafood",
+   "item": "48. Kung Chu Chee",
+   "price": 19.0,
+   "description": "prawns, red curry, coconut milk, bell pepper, basil"
+  },
+  {
+   "section": "Seafood",
+   "item": "49. Kung Pad Pak",
+   "price": 19.0,
+   "description": "prawns, mixed vegetables, bean sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "50. Pad Ta Lay",
+   "price": 23.0,
+   "description": "prawns, scallops, mussels, calamari, chili sauce, basil"
+  },
+  {
+   "section": "Seafood",
+   "item": "51. Seafood Combo",
+   "price": 23.0,
+   "description": "scallops, prawns, garlic, eggplant, red bell pepper, basil"
+  },
+  {
+   "section": "Seafood",
+   "item": "52. Pla Muk Kra Tiem",
+   "price": 18.0,
+   "description": "calamari, garlic, black pepper"
+  },
+  {
+   "section": "Seafood",
+   "item": "53. Pla Muk Pad Phed",
+   "price": 18.0,
+   "description": "calamari, chili sauce, bell pepper, basil, bamboo shoots"
+  },
+  {
+   "section": "Seafood",
+   "item": "54. Pla Jeaan",
+   "price": 23.0,
+   "description": "fried snapper filet, mushroom, onion, ginger, tamarind sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "55. Pla Rad Prik",
+   "price": 23.0,
+   "description": "fried snapper filet, spicy garlic, bell pepper, chili sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "56. Snapper Chu-Chee",
+   "price": 23.0,
+   "description": "fried snapper, red chili, coconut milk, lemon leaves"
+  },
+  {
+   "section": "Seafood",
+   "item": "57. Steamed Basa Fish",
+   "price": 23.0,
+   "description": "steamed vegetables, soy sauce"
+  },
+  {
+   "section": "Seafood",
+   "item": "58. Rainbow Prawns",
+   "price": 23.0,
+   "description": "prawns, yellow curry, broccoli, carrot, eggplant"
+  },
+  {
+   "section": "Seafood",
+   "item": "59. Garlic & Pepper Prawns",
+   "price": 18.0,
+   "description": "grilled jumbo prawns, butter, garlic, pepper"
+  },
+  {
+   "section": "Sauteed Noodles",
+   "item": "60. Pad Thai",
+   "price": 18.0,
+   "description": "rice noodles, egg, tofu, bean sprouts, peanuts"
+  },
+  {
+   "section": "Sauteed Noodles",
+   "item": "61. Pad Keemow",
+   "price": 18.0,
+   "description": "spicy noodles, green chili, bean sprouts, bell pepper, basil"
+  },
+  {
+   "section": "Sauteed Noodles",
+   "item": "62. Pad See-Ew",
+   "price": 18.0,
+   "description": "rice noodles, egg, broccoli, carrot, cabbage"
+  },
+  {
+   "section": "Sauteed Noodles",
+   "item": "63. Radnah",
+   "price": 19.0,
+   "description": "pan-fried rice noodles, broccoli, cabbage, garlic gravy"
+  },
+  {
+   "section": "Sauteed Noodles",
+   "item": "64. Radnah Talay",
+   "price": 21.0,
+   "description": "combination seafood, broccoli, cabbage, gravy"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "65. Tom Yum Pak Soup",
+   "price": 16.0,
+   "description": "vegetables, tofu, galangal, lemongrass, lime"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "66. Tom Kha Pak Tofu Soup",
+   "price": 16.0,
+   "description": "vegetables, tofu, coconut milk, galangal"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "67. Silver Noodles Yum Jay",
+   "price": 16.0,
+   "description": "silver noodles, mushroom, onion, crispy tofu, chili, lime"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "68. Pad Pak Raummit",
+   "price": 16.0,
+   "description": "mixed vegetables, bean sauce"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "69. Pad Broccoli",
+   "price": 16.0,
+   "description": "broccoli, bean sauce"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "70. Pad Kingsod & Tofu",
+   "price": 16.0,
+   "description": "tofu, ginger, onion, bell pepper, mushroom, bean sauce"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "71. Pad Makuer Tofu",
+   "price": 16.0,
+   "description": "eggplant, tofu, bell pepper, garlic chili sauce, basil"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "72. Kang Pak",
+   "price": 16.0,
+   "description": "vegetables in red curry and coconut milk"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "73. Pad Thai Jay",
+   "price": 16.0,
+   "description": "Thai noodles, tofu, vegetables, bean sprouts, peanuts"
+  },
+  {
+   "section": "Vegetarian",
+   "item": "74. Param Pak",
+   "price": 16.0,
+   "description": "steamed vegetables and tofu, peanut sauce"
+  },
+  {
+   "section": "Fried Rice",
+   "item": "75. Fried Rice",
+   "price": 18.0,
+   "description": "choice of meat, egg, onion, tomato"
+  },
+  {
+   "section": "Fried Rice",
+   "item": "76. Bangkok Fried Rice",
+   "price": 19.0,
+   "description": "red curry paste, egg, onion, carrot, peas"
+  },
+  {
+   "section": "Fried Rice",
+   "item": "77. Siam Fried Rice",
+   "price": 19.0,
+   "description": "yellow curry powder, onion, carrot, peas, egg"
+  },
+  {
+   "section": "Fried Rice",
+   "item": "78. Duck Fried Rice",
+   "price": 21.0,
+   "description": "duck, chili, garlic, onion, bell pepper, basil"
+  },
+  {
+   "section": "Fried Rice",
+   "item": "79. Crab Fried Rice",
+   "price": 21.0,
+   "description": "crab meat, egg, onion, cilantro"
+  },
+  {
+   "section": "Fried Rice",
+   "item": "Basil Fried Rice Chicken",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Specials",
+   "item": "A. Rainbow",
+   "price": 23.0,
+   "description": "bamboo shoots, zucchini, broccoli, onion, bell pepper, spicy yellow curry powder"
+  },
+  {
+   "section": "Specials",
+   "item": "B. Pattaya Chicken",
+   "price": 23.0,
+   "description": "chicken, egg, onion, bell pepper, yellow curry sauce"
+  },
+  {
+   "section": "Specials",
+   "item": "C. Honey Roasted Duck",
+   "price": 25.0,
+   "description": "roasted duck on spinach, carrot, cabbage, Thai duck sauce"
+  },
+  {
+   "section": "Specials",
+   "item": "D. Steamed Mussels",
+   "price": 18.0,
+   "description": "basil, onion, lime, chili sauce"
+  },
+  {
+   "section": "Specials",
+   "item": "E. Pineapple Fried Rice",
+   "price": 19.0,
+   "description": "prawns, chicken, pineapple, cashews"
+  },
+  {
+   "section": "Specials",
+   "item": "F. Chicken Delight",
+   "price": 23.0,
+   "description": "chicken breast, peanut sauce, cucumber salad"
+  },
+  {
+   "section": "Specials",
+   "item": "G. Three Delights",
+   "price": 23.0,
+   "description": "prawns, snow peas, mushroom, ginger, basil"
+  },
+  {
+   "section": "Specials",
+   "item": "H. Salmon Green Curry",
+   "price": 24.0,
+   "description": "poached salmon, green curry, coconut milk, bamboo shoots"
+  },
+  {
+   "section": "Specials",
+   "item": "I. Asparagus Lover",
+   "price": 24.0,
+   "description": "asparagus, prawns, scallops, ginger, mushroom, basil"
+  },
+  {
+   "section": "Specials",
+   "item": "J. Massman Curry",
+   "price": 21.0,
+   "description": "potato, onion, peanuts, massaman curry"
+  },
+  {
+   "section": "Specials",
+   "item": "K. Tofu Basil",
+   "price": 17.0,
+   "description": "crispy tofu, lime, chili, bell pepper, basil"
+  },
+  {
+   "section": "Specials",
+   "item": "L. Lemongrass Chicken Savory",
+   "price": 24.0,
+   "description": "chicken, garlic, red curry, coconut milk, peanuts, hot plate"
+  },
+  {
+   "section": "Specials",
+   "item": "M. Rainbow Trout",
+   "price": 26.0,
+   "description": "poached trout, garlic ginger sauce, broccoli, snow peas"
+  },
+  {
+   "section": "Specials",
+   "item": "N. Red Curry Duck",
+   "price": 25.0,
+   "description": "roast duck, red curry, tomato, pineapple, basil"
+  },
+  {
+   "section": "Specials",
+   "item": "O. Prawn Pumpkin Curry",
+   "price": 22.0,
+   "description": "prawns, scallops, calamari, mussels, green curry"
+  },
+  {
+   "section": "Specials",
+   "item": "P. Crispy Chicken",
+   "price": 23.0,
+   "description": "fried chicken breast, sweet and sour sauce"
+  },
+  {
+   "section": "Specials",
+   "item": "Q. Seafood Green Curry",
+   "price": 25.0,
+   "description": "prawns, scallops, calamari, mussels, green curry"
+  },
+  {
+   "section": "Specials",
+   "item": "R. Spaghetti Pad Keemow Prawn",
+   "price": 20.0,
+   "description": "spicy noodles, green chili, onion, basil, bell pepper"
+  },
+  {
+   "section": "Specials",
+   "item": "T. Soft Shell Crabs",
+   "price": 22.0,
+   "description": "two fried soft shell crabs, three sauces, salad"
+  },
+  {
+   "section": "Specials",
+   "item": "Mango Curry",
+   "price": 20.0,
+   "description": ""
+  },
+  {
+   "section": "Side Orders",
+   "item": "Steamed Noodles",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Side Orders",
+   "item": "White, Brown or Sticky Rice",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Side Orders",
+   "item": "Cucumber Salad",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Side Orders",
+   "item": "Steamed Chicken",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Side Orders",
+   "item": "Steamed Mixed Vegetables",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Fried Banana with Honey",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Fried Banana with Ice Cream",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Roti",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Roti with Vanilla Ice Cream",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Vanilla Ice Cream",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Sodas (Coke, Diet Coke, 7-Up)",
+   "price": 3.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Lemonade",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Calistoga",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Coconut Juice",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Thai Iced Tea or Coffee",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Green Tea",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Beverages",
+   "item": "Water",
+   "price": 2.0,
+   "description": ""
+  }
+ ],
+ "notes": "Thai restaurant since 1994. Hours per site: Mon-Thu 11am-10pm, Fri 11am-10:30pm, Sat 11:45am-10:30pm, Sun 11:45am-10pm. Pickup menu from the restaurant's Kiolyn ordering page. Prawn substitution on many dishes adds $2. Sodas collapsed into one line; condiment sauce and two items marked out of stock (mango sticky rice, mango curry with chicken) omitted.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $19.00 of 70 prices in sections ['Curries', 'Fried Rice', 'Poultry, Pork & Beef', 'Sauteed Noodles', 'Seafood', 'Specials', 'Vegetarian']; rule L1<10, L2<18, L3<30, L4>=30"
+}

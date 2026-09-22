@@ -1,0 +1,97 @@
+{
+ "name": "Za Pizza",
+ "addr": "1919 Hyde Street",
+ "menu_url": "https://zapizzasf.com/",
+ "source": "restaurant website (menu on home page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Our Specialties",
+   "item": "Potesto (medium)",
+   "price": 31.5,
+   "description": "roasted red potatoes, roasted garlic, pesto; large $36"
+  },
+  {
+   "section": "Our Specialties",
+   "item": "Moma (medium)",
+   "price": 31.5,
+   "description": "mushrooms, onions, artichoke hearts, basil; large $36"
+  },
+  {
+   "section": "Our Specialties",
+   "item": "Da Vinci's Palette (medium)",
+   "price": 31.5,
+   "description": "red and green peppers, spicy sausage, onions; large $36"
+  },
+  {
+   "section": "Our Specialties",
+   "item": "Vincent Van Dough (medium)",
+   "price": 31.5,
+   "description": "roma tomatoes, basil, garlic; large $36"
+  },
+  {
+   "section": "Our Specialties",
+   "item": "Scaliano (medium)",
+   "price": 31.5,
+   "description": "roma tomato, spicy sausage, garlic, green onion; large $36"
+  },
+  {
+   "section": "Our Specialties",
+   "item": "Salvador Dali (medium)",
+   "price": 31.5,
+   "description": "roasted chicken, sundried tomatoes, pesto; large $36"
+  },
+  {
+   "section": "The Basics",
+   "item": "Cheese (medium)",
+   "price": 23.0,
+   "description": "large $27"
+  },
+  {
+   "section": "The Basics",
+   "item": "Fresh Homemade Pesto (medium)",
+   "price": 23.0,
+   "description": "large $27"
+  },
+  {
+   "section": "The Basics",
+   "item": "Topping (medium)",
+   "price": 3.0,
+   "description": "large $4"
+  },
+  {
+   "section": "Salads",
+   "item": "Monet's Garden Salad",
+   "price": 13.0,
+   "description": "seasonal greens, basil vinaigrette or honey mustard"
+  },
+  {
+   "section": "Salads",
+   "item": "CaeZar Salad",
+   "price": 13.0,
+   "description": "romano, croutons"
+  },
+  {
+   "section": "Salads",
+   "item": "Salad with Chicken",
+   "price": 15.5,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine (glass)",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Beer (pint)",
+   "price": 10.0,
+   "description": ""
+  }
+ ],
+ "notes": "Hours daily 12-8pm per site. Daily slice specials sold in store (slice prices not listed). Thin cornmeal crust.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $31.50 of 9 prices in sections ['Our Specialties', 'The Basics']; rule L1<10, L2<18, L3<30, L4>=30"
+}

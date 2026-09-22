@@ -1,12 +1,319 @@
 {
  "name": "Tommaso's Ristorante Italiano",
  "addr": "1042 Kearny Street",
- "menu_url": "https://www.tommasos.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "site returns 403 to all fetches",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://www.tommasos.com/menu",
+ "source": "restaurant website menu (Popmenu page rendered in a real browser session; sections load on scroll and were captured one by one). Site blocks plain fetches (403).",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "To Start",
+   "item": "Classic Antipasto",
+   "price": 23.0,
+   "description": "prosciutto, rosemary ham, coppa, artichoke hearts"
+  },
+  {
+   "section": "To Start",
+   "item": "Carpaccio",
+   "price": 21.0,
+   "description": "thinly sliced beef, capers, onion, Parmesan"
+  },
+  {
+   "section": "To Start",
+   "item": "Vegetarian Antipasto",
+   "price": 21.0,
+   "description": "marinated vegetables, olive oil, lemon"
+  },
+  {
+   "section": "To Start",
+   "item": "Baked Fresh Coo-Coo Clams",
+   "price": 21.0,
+   "description": "house specialty"
+  },
+  {
+   "section": "Salads",
+   "item": "Chopped Salad",
+   "price": 18.0,
+   "description": "provolone, radicchio, romaine, salami, artichoke, kidney and garbanzo beans, pickled onion, basil, pine nuts, tomatoes, olives, red wine vinaigrette"
+  },
+  {
+   "section": "Salads",
+   "item": "Chopped Salad - Without Meat",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Spinach Salad",
+   "price": 16.0,
+   "description": "cherry tomato, Parmesan, pine nuts"
+  },
+  {
+   "section": "Salads",
+   "item": "Caesar Salad",
+   "price": 16.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Dinner Salad",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Marinated Vegetables",
+   "item": "Chilled Broccoli with Olive Oil and Lemon",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Marinated Vegetables",
+   "item": "Toasted Peppers with Olive Oil and Lemon",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Marinated Vegetables",
+   "item": "Asparagus Vinaigrette",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Marinated Vegetables",
+   "item": "Chilled String Beans with Olive Oil and Lemon",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Marinated Vegetables",
+   "item": "Zucchini Vinaigrette",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Homemade Lasagna",
+   "price": 25.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Ravioli",
+   "price": 21.0,
+   "description": "meat or cheese; marinara, meat sauce or pesto"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti",
+   "price": 18.0,
+   "description": "olive oil, garlic, parsley, chili flakes"
+  },
+  {
+   "section": "Pasta",
+   "item": "Spaghetti with Marinara or Meat Sauce",
+   "price": 18.0,
+   "description": ""
+  },
+  {
+   "section": "Pasta",
+   "item": "Penne alla Boscaiola",
+   "price": 25.0,
+   "description": "porcini mushrooms, creamy meat sauce"
+  },
+  {
+   "section": "Pasta",
+   "item": "Penne alla Vodka",
+   "price": 24.0,
+   "description": "creamy tomato sauce, pancetta"
+  },
+  {
+   "section": "Pasta",
+   "item": "Stuffed Manicotti",
+   "price": 23.0,
+   "description": "homemade, marinara"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine and Prawns",
+   "price": 26.0,
+   "description": "marinara or Alfredo"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine with Clams",
+   "price": 26.0,
+   "description": "marinara or Alfredo"
+  },
+  {
+   "section": "Pasta",
+   "item": "Fettuccine Tutto Mare",
+   "price": 32.0,
+   "description": "prawns, scallops, clams, tomatoes, basil"
+  },
+  {
+   "section": "Entrees",
+   "item": "Veal Saltimbocca",
+   "price": 33.0,
+   "description": "prosciutto, fresh mozzarella, white wine sauce"
+  },
+  {
+   "section": "Entrees",
+   "item": "Veal Piccata",
+   "price": 32.0,
+   "description": "lemon, capers"
+  },
+  {
+   "section": "Entrees",
+   "item": "Chicken Parmigiana or Piccata",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Entrees",
+   "item": "Roasted Half Chicken",
+   "price": 33.0,
+   "description": "garlic, rosemary"
+  },
+  {
+   "section": "Entrees",
+   "item": "Baked Eggplant Parmigiana",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Entrees",
+   "item": "Daily From the Wood Oven",
+   "price": null,
+   "description": "braised or roasted entree"
+  },
+  {
+   "section": "Pizza",
+   "item": "1. Margherita",
+   "price": 25.0,
+   "description": "large 30; mozzarella, tomato sauce, basil"
+  },
+  {
+   "section": "Pizza",
+   "item": "2. Sliced Meatball",
+   "price": 27.0,
+   "description": "large 32"
+  },
+  {
+   "section": "Pizza",
+   "item": "3. Ham and Mushroom",
+   "price": 28.0,
+   "description": "large 35"
+  },
+  {
+   "section": "Pizza",
+   "item": "4. Arugula and Shaved Parmesan",
+   "price": 28.0,
+   "description": "large 35"
+  },
+  {
+   "section": "Pizza",
+   "item": "5. Chicken and Artichoke Hearts",
+   "price": 30.0,
+   "description": "large 36"
+  },
+  {
+   "section": "Pizza",
+   "item": "6. Burrata, Cherry Tomato and Basil",
+   "price": 28.0,
+   "description": "large 35"
+  },
+  {
+   "section": "Pizza",
+   "item": "7. Sliced Italian Sausage",
+   "price": 28.0,
+   "description": "large 35"
+  },
+  {
+   "section": "Pizza",
+   "item": "8. Fresh Spinach and Shaved Parmesan",
+   "price": 28.0,
+   "description": "large 35"
+  },
+  {
+   "section": "Pizza",
+   "item": "9. Red, White and Green",
+   "price": 30.0,
+   "description": "large 35; red sauce, mozzarella, pesto, stracciatella"
+  },
+  {
+   "section": "Pizza",
+   "item": "10. Parma Prosciutto",
+   "price": 30.0,
+   "description": "large 36"
+  },
+  {
+   "section": "Pizza",
+   "item": "11. Mushroom and Sliced Italian Sausage",
+   "price": 28.0,
+   "description": "large 35"
+  },
+  {
+   "section": "Pizza",
+   "item": "12. Italian Pepperoni",
+   "price": 28.0,
+   "description": "large 33"
+  },
+  {
+   "section": "Pizza",
+   "item": "13. Calzone Imbottito",
+   "price": 29.0,
+   "description": "large 36; ricotta, mozzarella, prosciutto"
+  },
+  {
+   "section": "Pizza",
+   "item": "14. Calzone with Mushroom and Sausage",
+   "price": 29.0,
+   "description": "large 36; ricotta, mozzarella, tomato sauce"
+  },
+  {
+   "section": "Pizza",
+   "item": "15. Clam and Garlic",
+   "price": 28.0,
+   "description": "large 34"
+  },
+  {
+   "section": "Pizza",
+   "item": "16. Vegetarian",
+   "price": 27.0,
+   "description": "large 33; roasted pepper, green onion, mushroom, garlic, olive"
+  },
+  {
+   "section": "Pizza",
+   "item": "17. Carbonara",
+   "price": 28.0,
+   "description": "large 35; white pizza, bacon, caramelized onions, Parmesan, egg"
+  },
+  {
+   "section": "Pizza",
+   "item": "18. Seafood",
+   "price": 32.0,
+   "description": "large 38; scallops, clams, prawns, tomato"
+  },
+  {
+   "section": "Pizza",
+   "item": "19. Super Deluxe",
+   "price": 32.0,
+   "description": "large 38; sausage, mushroom, peppers, green onion, black olive"
+  },
+  {
+   "section": "Pizza",
+   "item": "20. BLT with Caesar",
+   "price": 32.0,
+   "description": "bacon, heirloom tomato, topped with Caesar salad"
+  },
+  {
+   "section": "Pizza",
+   "item": "21. Mushroom",
+   "price": 30.0,
+   "description": "large 36; four-mushroom white pizza, onion, herbs, mozzarella, fontina"
+  }
+ ],
+ "notes": "Hours on the menu page: Wed-Thu 5-9pm, Fri-Sat 5-10pm, Sun 5-9pm, closed Mon-Tue. Pizzas priced small (12 in) / large (15 in); small price recorded, large in the description. Entrées come with a side of penne and marinara. Veal dishes were marked out of stock at capture. Drinks menu not captured.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $28.00 of 36 prices in sections ['Pizza', 'Pasta', 'Entrees']; rule L1<10, L2<18, L3<30, L4>=30"
 }

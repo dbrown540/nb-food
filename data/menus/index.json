@@ -1,30 +1,30 @@
 [
  {
-  "name": "Golden Boy Pizza",
-  "slug": "golden-boy-pizza",
+  "name": "Abrazo",
+  "slug": "abrazo",
   "status": "ok",
-  "menu_url": "https://www.goldenboypizza.com/menu",
-  "items_count": 13,
-  "source": "restaurant website (Wix menu page)",
-  "as_of": "2026-09-09"
+  "menu_url": "https://www.abrazosf.com/menu/",
+  "items_count": 32,
+  "source": "restaurant website (BentoBox menu page)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Compton's Coffe House",
-  "slug": "compton-s-coffe-house",
+  "name": "Amarena",
+  "slug": "amarena",
   "status": "ok",
-  "menu_url": "https://www.comptonscoffee.com/menu",
-  "items_count": 49,
-  "source": "restaurant website (Squarespace sub-pages: /coffees /matchas /teas /specials /pastries)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "Il Pollaio",
-  "slug": "il-pollaio",
-  "status": "ok",
-  "menu_url": "https://www.ilpollaiosf.com/menu",
+  "menu_url": "https://order.online/store/amarena-san-francisco-5013",
   "items_count": 30,
-  "source": "restaurant website (Squarespace menu page)",
-  "as_of": "2026-09-09"
+  "source": "restaurant online-ordering page (DoorDash order.online storefront run for the restaurant; pickup view rendered in a browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Baccus",
+  "slug": "baccus",
+  "status": "not_found",
+  "menu_url": "https://www.bacchussf.com/",
+  "items_count": 0,
+  "source": "web search; official site (Bacchus wine bar) has no menu",
+  "as_of": "2026-09-22"
  },
  {
   "name": "Barbara Pinseria & Cocktail Bar",
@@ -36,67 +36,13 @@
   "as_of": "2026-09-09"
  },
  {
-  "name": "Sodini's",
-  "slug": "sodini-s",
+  "name": "Barrio",
+  "slug": "barrio",
   "status": "ok",
-  "menu_url": "https://sodinisgreenvalley.com/#menu",
-  "items_count": 65,
-  "source": "restaurant website (inline menu; PDF at /wp-content/uploads/2024/03/updated-full-menu.pdf is image-only)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "The Stinking Rose",
-  "slug": "the-stinking-rose",
-  "status": "ok",
-  "menu_url": "https://thestinkingrose.com/menus/menu-sf.pdf",
-  "items_count": 61,
-  "source": "restaurant website PDF daily menu (pdftotext; two-column layout hand-reconciled)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "Hing Lung Co",
-  "slug": "hing-lung-co",
-  "status": "ok",
-  "menu_url": "https://www.go-duck-yourself.com/_files/ugd/f78a7b_3feba19d92294d189f6540a242da6b7d.pdf",
-  "items_count": 27,
-  "source": "restaurant website PDF menu (pdftotext)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "Pizzelle di North Beach",
-  "slug": "pizzelle-di-north-beach",
-  "status": "ok",
-  "menu_url": "https://www.pizzelle314.com/menu",
-  "items_count": 85,
-  "source": "restaurant website (menu page)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "Original Joe's",
-  "slug": "original-joe-s",
-  "status": "ok",
-  "menu_url": "https://originaljoes.com/northbeach/menu",
-  "items_count": 78,
-  "source": "restaurant website PDFs: /s/OJNB_DinnerMenu_6226.pdf (Dinner Summer 2026) and /s/OJNB_LunchMenu_6226.pdf (Lunch Summer 2025)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "Red Window",
-  "slug": "red-window",
-  "status": "ok",
-  "menu_url": "https://www.theredwindow.com/san-francisco-north-beach-red-window-food-menu",
-  "items_count": 59,
-  "source": "restaurant website (menu page; dinner + brunch + kids)",
-  "as_of": "2026-09-09"
- },
- {
-  "name": "Tacolicious",
-  "slug": "tacolicious",
-  "status": "ok",
-  "menu_url": "https://www.tacolicious.com/menus/",
-  "items_count": 41,
-  "source": "restaurant website (BentoBox menus page)",
-  "as_of": "2026-09-09"
+  "menu_url": "https://barriosf.com/food-menu",
+  "items_count": 37,
+  "source": "restaurant website (food and drink menu pages)",
+  "as_of": "2026-09-22"
  },
  {
   "name": "Belle Cora",
@@ -108,13 +54,319 @@
   "as_of": "2026-09-09"
  },
  {
-  "name": "Kam Po Kitchen",
-  "slug": "kam-po-kitchen",
+  "name": "Berber",
+  "slug": "berber",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/berber-san-francisco-7",
+  "items_count": 0,
+  "source": "web search; official site berbersf.com appears stale",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Biscoff Coffee Corner",
+  "slug": "biscoff-coffee-corner",
   "status": "partial",
-  "menu_url": "https://www.yelp.com/menu/kam-po-kitchen-san-francisco",
+  "menu_url": "https://www.biscoffcoffeecorner.com/#menu",
+  "items_count": 47,
+  "source": "restaurant website (menu section, no prices)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Biscoff",
+  "slug": "biscoff",
+  "status": "partial",
+  "menu_url": "https://www.biscoffcoffeecorner.com/#menu",
+  "items_count": 47,
+  "source": "restaurant website (Biscoff Coffee Corner menu section; no prices listed)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Blue Barn",
+  "slug": "blue-barn",
+  "status": "ok",
+  "menu_url": "https://order.spoton.com/so-blue-barn-385/san-francisco-ca/66df4fea61077c8592c02db4",
+  "items_count": 38,
+  "source": "restaurant online-ordering page (SpotOn, Polk Street location)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Blue Mermaid",
+  "slug": "blue-mermaid",
+  "status": "ok",
+  "menu_url": "https://www.argonauthotel.com/menus/",
+  "items_count": 93,
+  "source": "restaurant website (Argonaut Hotel menus page; SinglePlatform menu widget data)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Bob's Donuts",
+  "slug": "bob-s-donuts",
+  "status": "ok",
+  "menu_url": "https://order.online/store/bob's-donuts-san-francisco-26037641/",
   "items_count": 19,
-  "source": "Yelp menu page (aggregator; summarized by fetch tool — variant dishes collapsed). Official site kampokitchen.shop returns 404.",
+  "source": "restaurant online-ordering page (DoorDash order.online storefront, linked from the shop's own site; pickup menu)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Boudin Bakery Cafe",
+  "slug": "boudin-bakery-cafe",
+  "status": "partial",
+  "menu_url": "https://boudinbakery.com/bakers-hall-menu/",
+  "items_count": 35,
+  "source": "chain website, location PDFs (Bakers Hall Fisherman's Wharf; pdftotext)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Bowl'd Acai",
+  "slug": "bowl-d-acai",
+  "status": "ok",
+  "menu_url": "https://www.bowldacai.com/menus/",
+  "items_count": 19,
+  "source": "restaurant website (BentoBox menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Broad Street Oyster Co.",
+  "slug": "broad-street-oyster-co",
+  "status": "ok",
+  "menu_url": "https://www.broadstreetoyster.com/san-francisco",
+  "items_count": 18,
+  "source": "restaurant website (San Francisco location menu, loaded from the site's own public menu data)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Bubba Gump Shrimp Company",
+  "slug": "bubba-gump-shrimp-company",
+  "status": "ok",
+  "menu_url": "https://www.bubbagump.com/location/bubba-gump-san-francisco-ca/",
+  "items_count": 53,
+  "source": "chain website location page (BentoBox menu for the San Francisco restaurant)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Cafe Nook",
+  "slug": "cafe-nook",
+  "status": "not_found",
+  "menu_url": "http://www.cafenook.com/",
+  "items_count": 0,
+  "source": "restaurant website unreachable; web search found no other official site",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Cafe Réveille",
+  "slug": "cafe-reveille",
+  "status": "ok",
+  "menu_url": "https://www.cafereveille.com/russian-hill-menu",
+  "items_count": 31,
+  "source": "restaurant website PDFs (Squarespace; breakfast, lunch, brunch; pdftotext)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Cafe Sebastian",
+  "slug": "cafe-sebastian",
+  "status": "skipped",
+  "menu_url": "https://www.cafesebastiansf.com/",
+  "items_count": 0,
+  "source": "web search + restaurant website (maintenance page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Caffè Greco",
+  "slug": "caffe-greco",
+  "status": "not_found",
+  "menu_url": "https://caffegreco.com/",
+  "items_count": 0,
+  "source": "no reliable menu source (official site and Yelp checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Caffe Trieste",
+  "slug": "caffe-trieste",
+  "status": "not_found",
+  "menu_url": "https://caffetrieste.com/nbeach",
+  "items_count": 0,
+  "source": "no reliable menu source (restaurant website and Yelp menu page checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Canna Bistro",
+  "slug": "canna-bistro",
+  "status": "not_found",
+  "menu_url": "https://www.yelp.com/biz/canna-bistro-san-francisco",
+  "items_count": 0,
+  "source": "no reliable menu source (official domain and Yelp checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Capurro's",
+  "slug": "capurro-s",
+  "status": "ok",
+  "menu_url": "https://capurros.com/menu/",
+  "items_count": 37,
+  "source": "restaurant website (WordPress menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Cavalli Cafe",
+  "slug": "cavalli-cafe",
+  "status": "not_found",
+  "menu_url": "https://www.yelp.com/biz/cavalli-cafe-san-francisco",
+  "items_count": 0,
+  "source": "no reliable menu source (Yelp, Grubhub/MenuPages and a web search checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "China Live",
+  "slug": "china-live",
+  "status": "ok",
+  "menu_url": "https://places.singleplatform.com/china-live/menu",
+  "items_count": 117,
+  "source": "restaurant website menu (chinalivesf.com/menu/china-live-restaurant embeds its SinglePlatform menu; the SinglePlatform public page's JSON-LD offer catalog parsed). Dinner + lunch menus; wine, cocktail, sake/beer, liquor and 'China Live for Home' sections omitted.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Chowders",
+  "slug": "chowders",
+  "status": "ok",
+  "menu_url": "https://chowderspier39.com/menu/",
+  "items_count": 28,
+  "source": "restaurant website (WordPress menu page), found via web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Chubby Noodle",
+  "slug": "chubby-noodle",
+  "status": "skipped",
+  "menu_url": "https://www.chubbynoodle.com/",
+  "items_count": 0,
+  "source": "web search + official site + Yelp (checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Cioppino's",
+  "slug": "cioppino-s",
+  "status": "ok",
+  "menu_url": "https://www.cioppinosf.com/menu",
+  "items_count": 59,
+  "source": "restaurant website (Squarespace menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Collina",
+  "slug": "collina",
+  "status": "not_found",
+  "menu_url": "https://www.collinasf.com/menus",
+  "items_count": 0,
+  "source": "restaurant website (menus page embeds a Checkle menu); embed bot-gated",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Compton's Coffe House",
+  "slug": "compton-s-coffe-house",
+  "status": "ok",
+  "menu_url": "https://www.comptonscoffee.com/menu",
+  "items_count": 49,
+  "source": "restaurant website (Squarespace sub-pages: /coffees /matchas /teas /specials /pastries)",
   "as_of": "2026-09-09"
+ },
+ {
+  "name": "Crab House",
+  "slug": "crab-house",
+  "status": "ok",
+  "menu_url": "https://crabhouse39.com/menu/",
+  "items_count": 46,
+  "source": "restaurant website (menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Crepe Cafe",
+  "slug": "crepe-cafe",
+  "status": "partial",
+  "menu_url": "https://crepecafe.website/menu",
+  "items_count": 26,
+  "source": "aggregator: third-party menu site crepecafe.website (linked from the PIER 39 directory; not confirmed as the cafe's own)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Delah Coffee",
+  "slug": "delah-coffee",
+  "status": "ok",
+  "menu_url": "https://delahcoffee.com/delah-menu/",
+  "items_count": 49,
+  "source": "restaurant website (menu images; read visually)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Dim Sum Bistro",
+  "slug": "dim-sum-bistro",
+  "status": "partial",
+  "menu_url": "https://www.yelp.com/menu/dim-sum-bistro-san-francisco",
+  "items_count": 21,
+  "source": "Yelp menu page (aggregator; official site dim-sum-bistro.com returns an empty 200 response, so no first-party source). Read in a real browser session.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Dim Sum Club",
+  "slug": "dim-sum-club",
+  "status": "partial",
+  "menu_url": "https://www.allmenus.com/ca/san-francisco/476981-dim-sum-club/menu/",
+  "items_count": 80,
+  "source": "aggregator: allmenus menu page (no official site found)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Don Pistos",
+  "slug": "don-pistos",
+  "status": "skipped",
+  "menu_url": "https://www.donpistos.com/",
+  "items_count": 0,
+  "source": "official site + Yelp (checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Dupont Thai",
+  "slug": "dupont-thai",
+  "status": "skipped",
+  "menu_url": null,
+  "items_count": 0,
+  "source": "web search",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Eagle Cafe",
+  "slug": "eagle-cafe",
+  "status": "ok",
+  "menu_url": "https://eaglecafe.com/menu/",
+  "items_count": 50,
+  "source": "restaurant website (menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Eight Am",
+  "slug": "eight-am",
+  "status": "ok",
+  "menu_url": "https://eightam-sf.com/our-menu/",
+  "items_count": 42,
+  "source": "restaurant website (WordPress menu page), found via web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "El Farolito",
+  "slug": "el-farolito",
+  "status": "partial",
+  "menu_url": "https://elfarolitosf.com/menu/",
+  "items_count": 32,
+  "source": "restaurant website (chain-wide menu page)",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Elephant Sushi",
+  "slug": "elephant-sushi",
+  "status": "ok",
+  "menu_url": "https://www.toasttab.com/local/order/elephant-sushi-hyde",
+  "items_count": 93,
+  "source": "restaurant online-ordering page (Toast, Hyde St location; rendered in a browser)",
+  "as_of": "2026-09-22"
  },
  {
   "name": "Fiddle Fig Cafe",
@@ -126,12 +378,408 @@
   "as_of": "2026-09-09"
  },
  {
+  "name": "Fin Thai Eatery",
+  "slug": "fin-thai-eatery",
+  "status": "ok",
+  "menu_url": "https://finthaisf.com/san-francisco-fin-thai-sf-food-menu",
+  "items_count": 78,
+  "source": "restaurant website (SpotHopper food menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fiorella Polk Street",
+  "slug": "fiorella-polk-street",
+  "status": "ok",
+  "menu_url": "http://www.fiorella-sf.com/s/POLK-DINNER-MENU92126GOLD.pdf",
+  "items_count": 30,
+  "source": "restaurant website PDF (pdftotext), Polk dinner menu",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fish & Farm",
+  "slug": "fish-farm",
+  "status": "ok",
+  "menu_url": "https://www.fishandfarmsf.com/dinner/",
+  "items_count": 25,
+  "source": "restaurant website (dinner menu image, read visually)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fish N Gari",
+  "slug": "fish-n-gari",
+  "status": "ok",
+  "menu_url": "https://www.fishngarisf.com/14lij85h/restaurant/menu?menu=All+Day+Menu",
+  "items_count": 120,
+  "source": "restaurant online-ordering page (own ordering site; All Day Menu rendered in a browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fisherman's Pizza",
+  "slug": "fisherman-s-pizza",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/fishermans-pizzeria-san-francisco",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Flour + Water Pizzeria",
+  "slug": "flour-water-pizzeria",
+  "status": "ok",
+  "menu_url": "https://www.fwpizzeria.com/menu",
+  "items_count": 29,
+  "source": "restaurant website menu image (Squarespace CDN 'Food Menu 7 23 26.jpg') read visually",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Flying Ninja",
+  "slug": "flying-ninja",
+  "status": "ok",
+  "menu_url": "https://flyingninjasushi.com/san-francisco-fisherman-s-wharf-flying-ninja-sushi-food-menu",
+  "items_count": 112,
+  "source": "restaurant website (food menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fog Harbor Fish House",
+  "slug": "fog-harbor-fish-house",
+  "status": "ok",
+  "menu_url": "https://fogharbor.com/menu/",
+  "items_count": 64,
+  "source": "restaurant website (fogharbor.com menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Franciscan",
+  "slug": "franciscan",
+  "status": "ok",
+  "menu_url": "https://www.franciscancrabrestaurant.com/menu1.html",
+  "items_count": 56,
+  "source": "restaurant website (daily menu page), found via web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Frascati",
+  "slug": "frascati",
+  "status": "ok",
+  "menu_url": "https://www.frascatisf.com/menus/",
+  "items_count": 29,
+  "source": "restaurant website (BentoBox menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fueling Station",
+  "slug": "fueling-station",
+  "status": "ok",
+  "menu_url": "https://fueling-station-cafe.square.site/",
+  "items_count": 58,
+  "source": "restaurant online-ordering page (Square Online)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Fun Food Factory",
+  "slug": "fun-food-factory",
+  "status": "not_found",
+  "menu_url": "https://www.pier39.com/attraction/fun-food-factory/",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Gary Danko",
+  "slug": "gary-danko",
+  "status": "ok",
+  "menu_url": "https://garydanko.com/wp-content/uploads/garydanko/main-menu-9.3.26.pdf",
+  "items_count": 38,
+  "source": "restaurant website PDF (pdftotext; menu dated 9/3/26 and tasting menu dated 9/13/26, links found by rendering garydanko.com in a browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Golden Boy Pizza",
+  "slug": "golden-boy-pizza",
+  "status": "ok",
+  "menu_url": "https://www.goldenboypizza.com/menu",
+  "items_count": 13,
+  "source": "restaurant website (Wix menu page)",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Golden Gate",
+  "slug": "golden-gate",
+  "status": "not_found",
+  "menu_url": "-",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Gourmet Delight B.B.Q.",
+  "slug": "gourmet-delight-b-b-q",
+  "status": "not_found",
+  "menu_url": "https://www.yelp.com/biz/gourmet-delight-san-francisco",
+  "items_count": 0,
+  "source": "no reliable menu source (Yelp and candidate domains checked in a real browser session 2026-09-22)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Grandeho’s Kamekyo",
+  "slug": "grandehos-kamekyo",
+  "status": "partial",
+  "menu_url": "https://menupages.com/grandehos-kamekyo-sushi-bar/2721-hyde-st-san-francisco",
+  "items_count": 127,
+  "source": "aggregator: MenuPages (Grubhub-powered) menu page",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Hard Rock Cafe",
+  "slug": "hard-rock-cafe",
+  "status": "partial",
+  "menu_url": "https://cafe.hardrock.com/menu.aspx",
+  "items_count": 33,
+  "source": "chain corporate website (standard brand menu); location page https://cafe.hardrock.com/san-francisco/",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Hardware Coffee Co.",
+  "slug": "hardware-coffee-co",
+  "status": "not_found",
+  "menu_url": "https://hardwarecoffee.co/pages/ghirardelli-square",
+  "items_count": 0,
+  "source": "restaurant website (Shopify location page; no menu)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Harris'",
+  "slug": "harris",
+  "status": "ok",
+  "menu_url": "https://www.harrisrestaurant.com/harris-menu",
+  "items_count": 46,
+  "source": "restaurant website (Squarespace menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Helmand Palace",
+  "slug": "helmand-palace",
+  "status": "ok",
+  "menu_url": "https://www.helmandsf.com/menu",
+  "items_count": 43,
+  "source": "restaurant website (Wix menu page); batch URL helmandpalacesf.com is a parked domain, current site found by web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Hing Lung Co",
+  "slug": "hing-lung-co",
+  "status": "ok",
+  "menu_url": "https://www.go-duck-yourself.com/_files/ugd/f78a7b_3feba19d92294d189f6540a242da6b7d.pdf",
+  "items_count": 27,
+  "source": "restaurant website PDF menu (pdftotext)",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Hon's Wun-Tun House (648 Kearny Street)",
+  "slug": "hon-s-wun-tun-house-648-kearny-street",
+  "status": "ok",
+  "menu_url": "https://www.honswuntunsf.com/_files/ugd/0302fc_948e9e0ce044414a8c0f912346d86f11.pdf",
+  "items_count": 79,
+  "source": "restaurant website PDF (Kearny St menu, image-based; read from rendered pages)",
+  "as_of": "2026-09-22"
+ },
+ {
   "name": "Hon's Wun-Tun House",
   "slug": "hon-s-wun-tun-house",
   "status": "ok",
   "menu_url": "https://www.honswuntunsf.com/_files/ugd/0302fc_e03ec16294da4a90865054289b1c2ab7.pdf",
   "items_count": 151,
   "source": "restaurant website (honswuntunsf.com) Washington St dine-in PDF menu, 2025 edition (pdftotext)",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "House of Prime Rib",
+  "slug": "house-of-prime-rib",
+  "status": "partial",
+  "menu_url": "https://www.houseofprimerib.net/#menu",
+  "items_count": 10,
+  "source": "restaurant website (menu section, no prices)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "House of Sushi Teriyaki & Tempura",
+  "slug": "house-of-sushi-teriyaki-tempura",
+  "status": "partial",
+  "menu_url": "https://www.allmenus.com/ca/san-francisco/395974-house-of-sushi/menu/",
+  "items_count": 106,
+  "source": "aggregator: allmenus menu page (no official site found)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "House Rules",
+  "slug": "house-rules",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/house-rules-san-francisco",
+  "items_count": 0,
+  "source": "web search only (listings); old site houserules-sf.com not used",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Hummus Mediterranean Kitchen",
+  "slug": "hummus-mediterranean-kitchen",
+  "status": "ok",
+  "menu_url": "https://www.eatathummus.com/s/SF-REGULAR-MENU-OFFICIAL.pdf",
+  "items_count": 37,
+  "source": "restaurant website PDF (image-based; read visually), found via web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Il Casaro Pizzeria",
+  "slug": "il-casaro-pizzeria",
+  "status": "ok",
+  "menu_url": "https://www.ilcasaropizzeria.com/menu",
+  "items_count": 51,
+  "source": "restaurant website menu images (Wix static PNGs dated 2025-06-30 on the /menu page, downloaded at full resolution and read visually). Wine list (by glass/half/bottle), beer, spritz omitted.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Il Pollaio",
+  "slug": "il-pollaio",
+  "status": "ok",
+  "menu_url": "https://www.ilpollaiosf.com/menu",
+  "items_count": 30,
+  "source": "restaurant website (Squarespace menu page)",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "In-N-Out Burger",
+  "slug": "in-n-out-burger",
+  "status": "partial",
+  "menu_url": "https://www.in-n-out.com/menu",
+  "items_count": 9,
+  "source": "chain corporate website (menu page, rendered in browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Kam Po Kitchen",
+  "slug": "kam-po-kitchen",
+  "status": "partial",
+  "menu_url": "https://www.yelp.com/menu/kam-po-kitchen-san-francisco",
+  "items_count": 19,
+  "source": "Yelp menu page (aggregator; summarized by fetch tool — variant dishes collapsed). Official site kampokitchen.shop returns 404.",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Korean Soul Chicken",
+  "slug": "korean-soul-chicken",
+  "status": "ok",
+  "menu_url": "https://koreansoulchicken.com/products/items/MTE4NA/NDg4",
+  "items_count": 39,
+  "source": "restaurant online-ordering site (iOrderFoods, branded K Soul Chicken; menu rendered in browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "La Folie",
+  "slug": "la-folie",
+  "status": "skipped",
+  "menu_url": "https://www.sfchronicle.com/food/article/San-Francisco-French-restaurant-La-Folie-to-close-15008172.php",
+  "items_count": 0,
+  "source": "web search (news coverage and listings); official domain now a parked redirect page",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Latte Express (434 Beach Street)",
+  "slug": "latte-express-434-beach-street",
+  "status": "not_found",
+  "menu_url": "https://www.doordash.com/store/latte-express-san-francisco-175674/",
+  "items_count": 0,
+  "source": "web search only; no official site found; aggregator (DoorDash) refused automation",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Lemongrass",
+  "slug": "lemongrass",
+  "status": "ok",
+  "menu_url": "https://order2.kiolyn.com/store/20011313344501/ordering",
+  "items_count": 125,
+  "source": "restaurant online-ordering page (Kiolyn, linked from lemongrasssf.com; rendered in a browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Leopold's",
+  "slug": "leopold-s",
+  "status": "ok",
+  "menu_url": "https://www.gasthausleopolds.com/menu",
+  "items_count": 21,
+  "source": "restaurant website (Wix menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Little Kitchen",
+  "slug": "little-kitchen",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/little-kitchen-san-francisco",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Little Sweet",
+  "slug": "little-sweet",
+  "status": "partial",
+  "menu_url": "https://little-sweet.square.site/",
+  "items_count": 77,
+  "source": "restaurant online-ordering page (Square Online, chain-wide catalog)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Lord Stanley",
+  "slug": "lord-stanley",
+  "status": "skipped",
+  "menu_url": "https://sfstandard.com/2025/03/11/lord-stanley-announces-closure/",
+  "items_count": 0,
+  "source": "web search (closure reporting: SF Standard, SF Chronicle; Yelp lists CLOSED)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Lorenzo’s Pizzeria",
+  "slug": "lorenzos-pizzeria",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/lorenzos-pizzeria-san-francisco",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Loving Cup",
+  "slug": "loving-cup",
+  "status": "skipped",
+  "menu_url": "https://www.lovingcup.com/swirl-shops",
+  "items_count": 0,
+  "source": "restaurant website (lovingcup.com locations page) plus web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Lush Gelato",
+  "slug": "lush-gelato",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/lush-gelato-san-francisco",
+  "items_count": 0,
+  "source": "web search only (listings)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Mac'd",
+  "slug": "mac-d",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/macd-san-francisco-3",
+  "items_count": 0,
+  "source": "web search (Yelp listing titled CLOSED; DoorDash store deactivated); brand site location page bot-gated then 404",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Mario's Bohemian Cigar Store Cafe",
+  "slug": "mario-s-bohemian-cigar-store-cafe",
+  "status": "ok",
+  "menu_url": "https://mariosbohemian.com/menu.html",
+  "items_count": 50,
+  "source": "restaurant website menu images (Menu2025.png, Menu20252.png) read visually",
   "as_of": "2026-09-09"
  },
  {
@@ -144,49 +792,247 @@
   "as_of": "2026-09-09"
  },
  {
-  "name": "El Farolito",
-  "slug": "el-farolito",
+  "name": "McCormick & Kuleto‘s Seafood & Steaks",
+  "slug": "mccormick-kuletos-seafood-steaks",
+  "status": "ok",
+  "menu_url": "https://www.mccormickandschmicks.com/location/mccormick-kuletos-san-francisco-ca/",
+  "items_count": 42,
+  "source": "restaurant website, location page (BentoBox; dinner menu)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "McCormick & Schmick's",
+  "slug": "mccormick-schmick-s",
+  "status": "ok",
+  "menu_url": "https://www.mccormickandschmicks.com/location/mccormick-kuletos-san-francisco-ca/#dinner-san-francisco",
+  "items_count": 56,
+  "source": "restaurant website (BentoBox location menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Mixt Greens",
+  "slug": "mixt-greens",
   "status": "partial",
-  "menu_url": "https://elfarolitosf.com/menu/",
+  "menu_url": "https://www.mixt.com/menu/san-francisco/",
+  "items_count": 27,
+  "source": "chain corporate website (MIXT San Francisco menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Mo's Grill",
+  "slug": "mo-s-grill",
+  "status": "ok",
+  "menu_url": "https://www.mosgrillsf.com/menu/",
+  "items_count": 98,
+  "source": "restaurant website (WordPress menu page embeds one sub-page per section as iframes: /burger-specialties, /specialty-sandwiches, /daily-special, /salads, /pork-delicious, /roast-grill, /breakfast, /omelettes, /breakfast-side-orders, /desserts-beverages, /sides; each fetched and parsed)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Morning Brew",
+  "slug": "morning-brew",
+  "status": "not_found",
+  "menu_url": "-",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Nick's Lighthouse",
+  "slug": "nick-s-lighthouse",
+  "status": "ok",
+  "menu_url": "https://nickslighthouseco.com/menu",
+  "items_count": 67,
+  "source": "restaurant website (menu images, read visually)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Noodle Time",
+  "slug": "noodle-time",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/noodle-time-san-francisco-2",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "North Beach Gyros",
+  "slug": "north-beach-gyros",
+  "status": "ok",
+  "menu_url": "https://www.northbeachgyro.com/menu",
+  "items_count": 33,
+  "source": "restaurant website menu page (northbeachgyro.com, Wix restaurant-menus widget; server-rendered text parsed). The OSM website URL (mynorthbeachgyros.com) no longer resolves and northbeachgyros.com is a for-sale domain; the live site was found via Yelp's website link.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "North Beach Pizza",
+  "slug": "north-beach-pizza",
+  "status": "ok",
+  "menu_url": "https://northbeachpizza.com/menu",
+  "items_count": 100,
+  "source": "restaurant website online-ordering menu (northbeachpizza.com/menu, Owner.com platform; rendered in a real browser session, page text read). Online prices; in-store may differ. Catering trays, corporate packages, condiments/tableware, and day-specific deals omitted.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Old Tyme Treats",
+  "slug": "old-tyme-treats",
+  "status": "not_found",
+  "menu_url": "https://www.yelp.com/biz/old-tyme-treats-san-francisco",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Ollei",
+  "slug": "ollei",
+  "status": "ok",
+  "menu_url": "https://custom.order.online/store/ollei-24941631",
+  "items_count": 48,
+  "source": "restaurant online-ordering page (DoorDash order.online storefront run for the restaurant; pickup view rendered in a browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Original Joe's",
+  "slug": "original-joe-s",
+  "status": "ok",
+  "menu_url": "https://originaljoes.com/northbeach/menu",
+  "items_count": 78,
+  "source": "restaurant website PDFs: /s/OJNB_DinnerMenu_6226.pdf (Dinner Summer 2026) and /s/OJNB_LunchMenu_6226.pdf (Lunch Summer 2025)",
+  "as_of": "2026-09-09"
+ },
+ {
+  "name": "Osmanthus Dim Sum Lounge",
+  "slug": "osmanthus-dim-sum-lounge",
+  "status": "ok",
+  "menu_url": "https://www.bestfoodtodayus.com/ordering/restaurant/menu?restaurant_uid=6922497f-86eb-4b75-94fe-f1d8bc3d059a",
+  "items_count": 95,
+  "source": "restaurant's own online-ordering menu (Best Food Today ordering page linked from osmanthusdimsum.com \"View Menu & Order\", rendered in a real browser session, page text read). Online prices; in-store may differ.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Palette Tea House",
+  "slug": "palette-tea-house",
+  "status": "ok",
+  "menu_url": "https://paletteteahouse.com/san-francisco-palette-tea-house-food-menu",
+  "items_count": 69,
+  "source": "restaurant website (food and beverage menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Peet's Coffee",
+  "slug": "peet-s-coffee",
+  "status": "partial",
+  "menu_url": "https://www.peets.com/pages/menu",
+  "items_count": 77,
+  "source": "chain corporate website (coffeebar menu category pages, rendered in browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Philz Coffee",
+  "slug": "philz-coffee",
+  "status": "partial",
+  "menu_url": "https://philzcoffee.com/menu/russian-hill/coffee",
+  "items_count": 43,
+  "source": "chain corporate website (location menu pages, no prices)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Pier Market",
+  "slug": "pier-market",
+  "status": "ok",
+  "menu_url": "https://piermarket.com/menu/",
+  "items_count": 52,
+  "source": "restaurant website (menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Pizza Zone",
+  "slug": "pizza-zone",
+  "status": "partial",
+  "menu_url": "https://pizzazone.shop/menu",
   "items_count": 32,
-  "source": "restaurant website (chain-wide menu page)",
-  "as_of": "2026-09-09"
+  "source": "aggregator: third-party templated listing site (pizzazone.shop; not verifiably operated by the restaurant)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Sotto Mare",
-  "slug": "sotto-mare",
+  "name": "Pizzelle di North Beach",
+  "slug": "pizzelle-di-north-beach",
   "status": "ok",
-  "menu_url": "https://www.sottomaresf.com/menu",
-  "items_count": 45,
-  "source": "restaurant website menu images (static.wixstatic.com 1.png / 2.png) read visually",
+  "menu_url": "https://www.pizzelle314.com/menu",
+  "items_count": 85,
+  "source": "restaurant website (menu page)",
   "as_of": "2026-09-09"
  },
  {
-  "name": "Mario's Bohemian Cigar Store Cafe",
-  "slug": "mario-s-bohemian-cigar-store-cafe",
+  "name": "Player's Sports Grill and Arcade",
+  "slug": "player-s-sports-grill-and-arcade",
   "status": "ok",
-  "menu_url": "https://mariosbohemian.com/menu.html",
-  "items_count": 50,
-  "source": "restaurant website menu images (Menu2025.png, Menu20252.png) read visually",
-  "as_of": "2026-09-09"
+  "menu_url": "https://www.playerssf.com/food-menu",
+  "items_count": 55,
+  "source": "restaurant website (Squarespace food menu page)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Flour + Water Pizzeria",
-  "slug": "flour-water-pizzeria",
+  "name": "Pomegranate",
+  "slug": "pomegranate",
   "status": "ok",
-  "menu_url": "https://www.fwpizzeria.com/menu",
-  "items_count": 29,
-  "source": "restaurant website menu image (Squarespace CDN 'Food Menu 7 23 26.jpg') read visually",
+  "menu_url": "https://www.pomegranatebythebay.com",
+  "items_count": 40,
+  "source": "restaurant online-ordering page (Square Online catalog on own site)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Project Juice",
+  "slug": "project-juice",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/project-juice-san-francisco-3",
+  "items_count": 0,
+  "source": "web search only (Yelp and HappyCow list the Polk St location as CLOSED)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Queen Mediterranean Pizzeria",
+  "slug": "queen-mediterranean-pizzeria",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/queen-mediterranean-san-francisco-4",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Quickly",
+  "slug": "quickly",
+  "status": "not_found",
+  "menu_url": "http://quicklyusa.com/sffiwh.html",
+  "items_count": 0,
+  "source": "chain corporate website (store page and product category pages)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Ramen Sho Ryu",
+  "slug": "ramen-sho-ryu",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/ramen-sho-ryu-san-francisco-2",
+  "items_count": 0,
+  "source": "web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Red Window",
+  "slug": "red-window",
+  "status": "ok",
+  "menu_url": "https://www.theredwindow.com/san-francisco-north-beach-red-window-food-menu",
+  "items_count": 59,
+  "source": "restaurant website (menu page; dinner + brunch + kids)",
   "as_of": "2026-09-09"
  },
  {
-  "name": "Sam's Panini",
-  "slug": "sam-s-panini",
-  "status": "partial",
-  "menu_url": "https://samspanini.com/menu",
-  "items_count": 11,
-  "source": "restaurant website (menu page lists items without prices)",
-  "as_of": "2026-09-09"
+  "name": "Restorante Milano",
+  "slug": "restorante-milano",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/ristorante-milano-san-francisco",
+  "items_count": 0,
+  "source": "web search (Yelp lists CLOSED; official site milanosf.com)",
+  "as_of": "2026-09-22"
  },
  {
   "name": "Réveille Coffee Co.",
@@ -198,174 +1044,444 @@
   "as_of": "2026-09-09"
  },
  {
-  "name": "Caffe Trieste",
-  "slug": "caffe-trieste",
-  "status": "not_found",
-  "menu_url": "https://caffetrieste.com/",
+  "name": "Royal Ground Coffee",
+  "slug": "royal-ground-coffee",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/royal-ground-coffee-san-francisco-7",
   "items_count": 0,
-  "source": "no reliable menu source",
+  "source": "web search only (Yelp listing titled CLOSED); official domain royalgroundcoffee.net is parked",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Saint Frank",
+  "slug": "saint-frank",
+  "status": "not_found",
+  "menu_url": "https://www.saintfrankcoffee.com/pages/our-locations",
+  "items_count": 0,
+  "source": "restaurant website (no cafe menu published; Shopify retail store only)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Sam's Panini",
+  "slug": "sam-s-panini",
+  "status": "partial",
+  "menu_url": "https://samspanini.com/menu",
+  "items_count": 11,
+  "source": "restaurant website (menu page lists items without prices)",
   "as_of": "2026-09-09"
  },
  {
-  "name": "Caffè Greco",
-  "slug": "caffe-greco",
-  "status": "not_found",
-  "menu_url": null,
-  "items_count": 0,
-  "source": "no reliable menu source",
+  "name": "Saru Handroll Bar",
+  "slug": "saru-handroll-bar",
+  "status": "ok",
+  "menu_url": "https://docs.google.com/document/d/e/2PACX-1vTltIwhfnKIWKH8MNnA-mzmS6B1ZZ9V5ag84KcclQ7Lj60EHK347vdN0-dmusL5gC6UQNfPA_gI0qHj/pub?embedded=true",
+  "items_count": 25,
+  "source": "restaurant website (menu embedded from a published Google Doc on saruhandroll.com)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Scoma's",
+  "slug": "scoma-s",
+  "status": "ok",
+  "menu_url": "https://scomas.com/food-menu/",
+  "items_count": 46,
+  "source": "restaurant website (main food menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Sidewalk Café",
+  "slug": "sidewalk-cafe",
+  "status": "ok",
+  "menu_url": "https://ordering.chownow.com/order/5322/locations/6978",
+  "items_count": 64,
+  "source": "restaurant online-ordering page (ChowNow menu data for Cheese Plus); sandwich list also at cheeseplus.com/sandwiches",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "SIGNAL Coffee Roasters",
+  "slug": "signal-coffee-roasters",
+  "status": "partial",
+  "menu_url": "https://www.signalcoffeeonline.com/?location=LC5VWM0S9G27F",
+  "items_count": 14,
+  "source": "restaurant online-ordering page (Square Online, pickup from 2701 Leavenworth St; rendered in a browser)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Sodini's",
+  "slug": "sodini-s",
+  "status": "ok",
+  "menu_url": "https://sodinisgreenvalley.com/#menu",
+  "items_count": 65,
+  "source": "restaurant website (inline menu; PDF at /wp-content/uploads/2024/03/updated-full-menu.pdf is image-only)",
   "as_of": "2026-09-09"
  },
  {
-  "name": "Cavalli Cafe",
-  "slug": "cavalli-cafe",
-  "status": "not_found",
-  "menu_url": null,
-  "items_count": 0,
-  "source": "no reliable menu source",
+  "name": "Sorella",
+  "slug": "sorella",
+  "status": "ok",
+  "menu_url": "https://sorellasf.com/s/Dinner-Menu-091526.pdf",
+  "items_count": 28,
+  "source": "restaurant website PDF (pdftotext), dinner menu dated 09/15/26 plus dessert PDF",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Sotto Mare",
+  "slug": "sotto-mare",
+  "status": "ok",
+  "menu_url": "https://www.sottomaresf.com/menu",
+  "items_count": 45,
+  "source": "restaurant website menu images (static.wixstatic.com 1.png / 2.png) read visually",
   "as_of": "2026-09-09"
  },
  {
-  "name": "Gourmet Delight B.B.Q.",
-  "slug": "gourmet-delight-b-b-q",
-  "status": "not_found",
-  "menu_url": "https://www.allmenus.com/ca/san-francisco/478641-gourmet-delight/menu/",
+  "name": "Split",
+  "slug": "split",
+  "status": "skipped",
+  "menu_url": "https://www.spliteats.com/",
   "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "source": "restaurant website (location picker) + web search",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Chubby Noodle",
-  "slug": "chubby-noodle",
-  "status": "not_found",
-  "menu_url": "https://www.chubbynoodle.com/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Square Pie Guys",
+  "slug": "square-pie-guys",
+  "status": "ok",
+  "menu_url": "https://www.squarepieguys.com/menu",
+  "items_count": 27,
+  "source": "restaurant website (Squarespace menu page, brand-wide)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "North Beach Pizza",
-  "slug": "north-beach-pizza",
-  "status": "not_found",
-  "menu_url": "https://northbeachpizza.com/menu",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "SSAL",
+  "slug": "ssal",
+  "status": "ok",
+  "menu_url": "https://ssalsf.com/",
+  "items_count": 1,
+  "source": "restaurant website (Squarespace home page)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "China Live",
-  "slug": "china-live",
-  "status": "not_found",
-  "menu_url": "https://chinalivesf.com/menu/china-live-restaurant/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Starbucks (1255 Sansome Street)",
+  "slug": "starbucks-1255-sansome-street",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Don Pistos",
-  "slug": "don-pistos",
-  "status": "not_found",
-  "menu_url": "https://www.donpistos.com/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Starbucks (2165 Polk Street)",
+  "slug": "starbucks-2165-polk-street",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941 (same chain-wide menu applied to this store; extracted once for the 1255 Sansome file)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Il Casaro Pizzeria",
-  "slug": "il-casaro-pizzeria",
-  "status": "not_found",
-  "menu_url": "https://www.ilcasaropizzeria.com/menu",
+  "name": "Starbucks (37.79510,-122.40053)",
+  "slug": "starbucks-37-79510-122-40053",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941 (same chain-wide menu applied to this store; extracted once for the 1255 Sansome file)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Starbucks (49 Jefferson Street)",
+  "slug": "starbucks-49-jefferson-street",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/1022194/jefferson-powell-49-jefferson-street-p-san-francisco-ca-941331217-u",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Starbucks (565 Clay Street)",
+  "slug": "starbucks-565-clay-street",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941 (same chain-wide menu applied to this store; extracted once for the 1255 Sansome file)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Starbucks (580 California Street)",
+  "slug": "starbucks-580-california-street",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941 (same chain-wide menu applied to this store; extracted once for the 1255 Sansome file)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Starbucks",
+  "slug": "starbucks",
+  "status": "partial",
+  "menu_url": "https://www.starbucks.com/menu",
+  "items_count": 94,
+  "source": "chain corporate website (starbucks.com national menu data); store page https://www.starbucks.com/store-locator/store/9302/levis-plaza-at-sansome-1255-battery-street-suite-600-san-francisco-ca-941 (same chain-wide menu applied to this store; extracted once for the 1255 Sansome file)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Stones Throw",
+  "slug": "stones-throw",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/stones-throw-san-francisco-2",
   "items_count": 0,
-  "source": "no reliable menu source",
+  "source": "web search only (Yelp and Foursquare list it as closed)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Street",
+  "slug": "street",
+  "status": "not_found",
+  "menu_url": "https://www.streetsf.com/",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Subway (350 Bay Street)",
+  "slug": "subway-350-bay-street",
+  "status": "partial",
+  "menu_url": "https://restaurants.subway.com/united-states/ca/san-francisco/350-bay-street",
+  "items_count": 3,
+  "source": "chain store page (featured items only)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Sun Kwong Restaurant",
+  "slug": "sun-kwong-restaurant",
+  "status": "not_found",
+  "menu_url": "https://order.online/store/sun-kwong-restaurant-san-francisco-1053815",
+  "items_count": 0,
+  "source": "web search; own order.online storefront (bot-gated)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Swensen's Ice Cream",
+  "slug": "swensen-s-ice-cream",
+  "status": "partial",
+  "menu_url": "https://swensensofsf.com/order-online/",
+  "items_count": 17,
+  "source": "restaurant website menu page + restaurant online-ordering page (Clover plugin on own site)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Swiss Louis",
+  "slug": "swiss-louis",
+  "status": "ok",
+  "menu_url": "https://swisslouis.com/menu/",
+  "items_count": 61,
+  "source": "restaurant website (WordPress menu page; PDF also linked)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Taco Cantina",
+  "slug": "taco-cantina",
+  "status": "ok",
+  "menu_url": "https://www.tacocantina.com/menu",
+  "items_count": 28,
+  "source": "restaurant website (Squarespace menu page), found via web search",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Taco Rouge",
+  "slug": "taco-rouge",
+  "status": "not_found",
+  "menu_url": "https://www.toasttab.com/local/po-bro-2100-polk-street/r-057f8964-eb88-432a-a861-c5cb42b25526",
+  "items_count": 0,
+  "source": "web search; official domain tacorouge.com now serves an unrelated spam page; Toast ordering page bot-gated",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Tacolicious",
+  "slug": "tacolicious",
+  "status": "ok",
+  "menu_url": "https://www.tacolicious.com/menus/",
+  "items_count": 41,
+  "source": "restaurant website (BentoBox menus page)",
   "as_of": "2026-09-09"
  },
  {
   "name": "Tacorea",
   "slug": "tacorea",
-  "status": "not_found",
-  "menu_url": "https://tacorea.com/#menu-section",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "status": "ok",
+  "menu_url": "https://www.tacorea.com/#menu-section",
+  "items_count": 16,
+  "source": "restaurant website menu-board image (Squarespace CDN PNG on the home page, downloaded at 2500w and read visually)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Tai Chi Restaurant",
+  "slug": "tai-chi-restaurant",
+  "status": "partial",
+  "menu_url": "https://menupages.com/tai-chi-chinese-restaurant/2031-polk-st-san-francisco",
+  "items_count": 124,
+  "source": "aggregator: MenuPages (Grubhub-powered) menu page",
+  "as_of": "2026-09-22"
  },
  {
   "name": "Taqueria Zorro",
   "slug": "taqueria-zorro",
+  "status": "ok",
+  "menu_url": "https://order.tryotter.com/s/taqueria-zorro/308-columbus-ave%2C-san-francisco%2C-ca-94133%2C-usa-san-francisco/d9689088-27c7-4f0b-9742-7d39a22e96cb",
+  "items_count": 61,
+  "source": "restaurant's own online-ordering menu (Otter \"Direct Orders\" page linked from taqueriazorro.com, rendered in a real browser session, page text read). Online prices; in-store may differ.",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Teaspoon",
+  "slug": "teaspoon",
+  "status": "ok",
+  "menu_url": "https://order.teaspoonlife.com/e10be9de-5d62-4/san-francisco-polk",
+  "items_count": 41,
+  "source": "chain online-ordering page (order.teaspoonlife.com, San Francisco Polk store, pickup menu)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "Thai Spice",
+  "slug": "thai-spice",
+  "status": "ok",
+  "menu_url": "https://www.thaispicesanfrancisco.com/menu",
+  "items_count": 51,
+  "source": "restaurant website (Wix Restaurants menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Chowder Hut Grill",
+  "slug": "the-chowder-hut-grill",
   "status": "not_found",
-  "menu_url": "https://www.taqueriazorro.com/",
+  "menu_url": "https://www.yelp.com/biz/chowder-hut-san-francisco-2",
   "items_count": 0,
-  "source": "no reliable menu source",
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Crêpe Cafe",
+  "slug": "the-crepe-cafe",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/the-crepe-cafe-san-francisco-2",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Crepe House",
+  "slug": "the-crepe-house",
+  "status": "ok",
+  "menu_url": "https://thecrepehouse.com/menu/",
+  "items_count": 84,
+  "source": "restaurant website (menu page)",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Hook",
+  "slug": "the-hook",
+  "status": "not_found",
+  "menu_url": "https://www.yelp.com/biz/the-hook-san-francisco",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Soap Box Cafe",
+  "slug": "the-soap-box-cafe",
+  "status": "skipped",
+  "menu_url": "https://www.yelp.com/biz/the-soapbox-cafe-san-francisco",
+  "items_count": 0,
+  "source": "web search only; no official site found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Stinking Rose (37.80905,-122.41454)",
+  "slug": "the-stinking-rose-37-80905-122-41454",
+  "status": "not_found",
+  "menu_url": "-",
+  "items_count": 0,
+  "source": "web search only; no official page for a Fisherman's Wharf outlet found",
+  "as_of": "2026-09-22"
+ },
+ {
+  "name": "The Stinking Rose",
+  "slug": "the-stinking-rose",
+  "status": "ok",
+  "menu_url": "https://thestinkingrose.com/menus/menu-sf.pdf",
+  "items_count": 61,
+  "source": "restaurant website PDF daily menu (pdftotext; two-column layout hand-reconciled)",
   "as_of": "2026-09-09"
  },
  {
-  "name": "Tony's Pizza Napoletana",
-  "slug": "tony-s-pizza-napoletana",
-  "status": "not_found",
-  "menu_url": "https://tonyspizzanapoletana.com/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "The Third Floor",
+  "slug": "the-third-floor",
+  "status": "ok",
+  "menu_url": "https://www.thethirdfloorsf.com/dinner",
+  "items_count": 20,
+  "source": "restaurant website (Squarespace dinner menu page), found via web search",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Dim Sum Bistro",
-  "slug": "dim-sum-bistro",
-  "status": "not_found",
-  "menu_url": "https://dim-sum-bistro.com/",
+  "name": "Tlaloc",
+  "slug": "tlaloc",
+  "status": "skipped",
+  "menu_url": "https://www.tlalocsf.com/",
   "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "source": "restaurant website (Squarespace home page)",
+  "as_of": "2026-09-22"
  },
  {
   "name": "Tommaso's Ristorante Italiano",
   "slug": "tommaso-s-ristorante-italiano",
-  "status": "not_found",
-  "menu_url": "https://www.tommasos.com/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "status": "ok",
+  "menu_url": "https://www.tommasos.com/menu",
+  "items_count": 51,
+  "source": "restaurant website menu (Popmenu page rendered in a real browser session; sections load on scroll and were captured one by one). Site blocks plain fetches (403).",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Osmanthus Dim Sum Lounge",
-  "slug": "osmanthus-dim-sum-lounge",
-  "status": "not_found",
-  "menu_url": "https://osmanthusdimsum.com/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Tony's Pizza Napoletana",
+  "slug": "tony-s-pizza-napoletana",
+  "status": "ok",
+  "menu_url": "https://tonyspizzanapoletana.com/wp-content/uploads/2026/09/TPN-Dinner-Menu-090126.pdf",
+  "items_count": 130,
+  "source": "restaurant website dinner-menu PDF (tonyspizzanapoletana.com/currentmenu -> TPN-Dinner-Menu-090126.pdf, dated 2026-09-01; 4 pages rendered with pdftoppm and read visually). Cocktail/wine and banquet PDFs not extracted.",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Canna Bistro",
-  "slug": "canna-bistro",
-  "status": "not_found",
-  "menu_url": "https://www.cannabistrotogo.com",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Union Larder",
+  "slug": "union-larder",
+  "status": "partial",
+  "menu_url": "https://www.ul-takeout.com/",
+  "items_count": 18,
+  "source": "restaurant online-ordering page (Square Online takeout store)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Mo's Grill",
-  "slug": "mo-s-grill",
-  "status": "not_found",
-  "menu_url": "https://www.mosgrillsf.com/menu/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Up For Dayz",
+  "slug": "up-for-dayz",
+  "status": "ok",
+  "menu_url": "https://order.online/store/upfordayz-coffee-tea-juice-polk-st-24381062",
+  "items_count": 82,
+  "source": "restaurant online-ordering page (DoorDash order.online storefront for the Polk St store, linked from upfordayz.com; rendered in a browser)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "North Beach Gyros",
-  "slug": "north-beach-gyros",
-  "status": "not_found",
-  "menu_url": "https://www.mynorthbeachgyros.com/",
-  "items_count": 0,
-  "source": "no reliable menu source",
-  "as_of": "2026-09-09"
+  "name": "Wipeout bar & grill",
+  "slug": "wipeout-bar-grill",
+  "status": "ok",
+  "menu_url": "https://wipeoutbarandgrill.com/menu/",
+  "items_count": 51,
+  "source": "restaurant website (menu page)",
+  "as_of": "2026-09-22"
  },
  {
-  "name": "Dupont Thai",
-  "slug": "dupont-thai",
-  "status": "skipped",
-  "menu_url": null,
-  "items_count": 0,
-  "source": "web search",
-  "as_of": "2026-09-09"
+  "name": "Za Pizza",
+  "slug": "za-pizza",
+  "status": "ok",
+  "menu_url": "https://zapizzasf.com/",
+  "items_count": 14,
+  "source": "restaurant website (menu on home page)",
+  "as_of": "2026-09-22"
  }
 ]

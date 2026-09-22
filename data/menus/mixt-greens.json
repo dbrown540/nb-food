@@ -1,0 +1,175 @@
+{
+ "name": "Mixt Greens",
+ "addr": "",
+ "menu_url": "https://www.mixt.com/menu/san-francisco/",
+ "source": "chain corporate website (MIXT San Francisco menu page)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Salads",
+   "item": "Elote",
+   "price": null,
+   "description": "butter lettuce, cabbage, grilled chicken, grilled corn, cherry tomatoes, cotija, avocado"
+  },
+  {
+   "section": "Salads",
+   "item": "Peachy",
+   "price": null,
+   "description": "mixt greens, grilled chicken, grilled corn, peaches, cornbread crumble"
+  },
+  {
+   "section": "Salads",
+   "item": "Valkyries",
+   "price": null,
+   "description": "romaine, cabbage, blackened chicken, radicchio, watermelon, feta, olives, walnut dukkah"
+  },
+  {
+   "section": "Salads",
+   "item": "Beetnik",
+   "price": null,
+   "description": "mixt greens, arugula, roasted golden beets, avocado, goat cheese, toasted walnuts"
+  },
+  {
+   "section": "Salads",
+   "item": "Soba",
+   "price": null,
+   "description": "arugula, cabbage, blackened chicken, soba noodles, pickled shimeji, beets, tamari ginger"
+  },
+  {
+   "section": "Salads",
+   "item": "Jing's Chili Crisp",
+   "price": null,
+   "description": "romaine hearts, cabbage, blackened chicken, avocado, spiced honey roasted sweet potatoes"
+  },
+  {
+   "section": "Salads",
+   "item": "Orchard",
+   "price": null,
+   "description": "kale, mixt greens, grilled chicken, applewood smoked bacon, apples, sharp cheddar"
+  },
+  {
+   "section": "Salads",
+   "item": "Mixt Cobb",
+   "price": null,
+   "description": "butter lettuce, grilled chicken, applewood smoked bacon, blue cheese, avocado"
+  },
+  {
+   "section": "Salads",
+   "item": "Mixt Caesar",
+   "price": null,
+   "description": "romaine hearts, shaved parmesan, avocado, radishes, garlic herb croutons"
+  },
+  {
+   "section": "Salads",
+   "item": "Bachelor",
+   "price": null,
+   "description": "mixt greens, arugula, grilled steak, blue cheese, herb roasted potatoes, cherry tomatoes"
+  },
+  {
+   "section": "Salads",
+   "item": "Mandarin",
+   "price": null,
+   "description": "romaine hearts, kale, grilled chicken, oranges, spiced candied almonds, snow peas, jicama"
+  },
+  {
+   "section": "Salads",
+   "item": "Puebla",
+   "price": null,
+   "description": "romaine hearts, cabbage, grilled chicken, avocado, spiced honey roasted sweet potatoes"
+  },
+  {
+   "section": "Warm Bowls",
+   "item": "Barbecue Bowl",
+   "price": null,
+   "description": "cilantro lime brown rice, blackened chicken, apple fennel slaw, sharp cheddar"
+  },
+  {
+   "section": "Warm Bowls",
+   "item": "Dave's Taco Bowl",
+   "price": null,
+   "description": "cilantro lime brown rice, cabbage, blackened chicken, avocado, cotija, black beans"
+  },
+  {
+   "section": "Warm Bowls",
+   "item": "Mediterranean Bowl",
+   "price": null,
+   "description": "rainbow quinoa, cabbage, grilled chicken, avocado, feta, za'atar pita crisps, walnuts"
+  },
+  {
+   "section": "Warm Bowls",
+   "item": "Bachan's Bowl",
+   "price": null,
+   "description": "cilantro lime brown rice, arugula, grilled chicken, avocado, edamame, cucumbers"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Smokey",
+   "price": null,
+   "description": "blackened chicken, apple fennel slaw, house pickles, crispy onions, MIXT bbq drizzle"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Napa",
+   "price": null,
+   "description": "grilled chicken, sliced apples, sharp cheddar, walnut pesto, arugula, aioli, torpedo roll"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Park",
+   "price": null,
+   "description": "marinated organic tofu, avocado, chipotle honey slaw, aioli, torpedo roll"
+  },
+  {
+   "section": "Treats + Sides",
+   "item": "Chocolate Chip Sea Salt Cookie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Treats + Sides",
+   "item": "Toffee Cookie",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Kids",
+   "item": "Adventure Meal",
+   "price": null,
+   "description": "crispy chicken, cilantro lime brown rice, cucumber, edamame, Japanese BBQ sauce"
+  },
+  {
+   "section": "Kids",
+   "item": "Little Orchard",
+   "price": null,
+   "description": "grilled chicken, avocado, toasted almonds, sliced apple, balsamic dip"
+  },
+  {
+   "section": "Drinks",
+   "item": "Peach Green Iced Tea",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Half Tea + Half Lemonade",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Lemonade",
+   "price": null,
+   "description": "made in-house daily"
+  },
+  {
+   "section": "Drinks",
+   "item": "Still / Sparkling Water",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "chain menu; prices not location-specific. Now branded MIXT; the SF menu page lists items without prices (ordering via order.mixt.com app). Exact branch for this POI not confirmed. Design-your-own options and merchandise omitted.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

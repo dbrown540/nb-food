@@ -1,0 +1,12 @@
+{
+ "name": "Cafe Nook",
+ "addr": "1500 Hyde Street",
+ "menu_url": "http://www.cafenook.com/",
+ "source": "restaurant website unreachable; web search found no other official site",
+ "as_of": "2026-09-22",
+ "status": "not_found",
+ "items": [],
+ "notes": "cafenook.com resolves but refuses connections (site down). Search shows the cafe operating as NOOK (cafe by day, wine bar evenings; coffee, breakfast sandwiches, bocadillos, Spanish tapas); only aggregator/third-party menu pages found, not used.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

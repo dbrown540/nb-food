@@ -2,11 +2,318 @@
  "name": "Il Casaro Pizzeria",
  "addr": "348 Columbus Avenue",
  "menu_url": "https://www.ilcasaropizzeria.com/menu",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "Wix menu widget not server-rendered; Toast ordering blocks fetch (403)",
- "price_level_estimate": null,
- "price_level_basis": null
+ "source": "restaurant website menu images (Wix static PNGs dated 2025-06-30 on the /menu page, downloaded at full resolution and read visually). Wine list (by glass/half/bottle), beer, spritz omitted.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Antipasti",
+   "item": "Spiedini di Calamari",
+   "price": 15.0,
+   "description": "skewered calamari, zucchini, carrots, arugula, cherry tomato"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Carpaccio di Salmone",
+   "price": 15.0,
+   "description": "smoked salmon, EVO, lemon, bread"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Polpette di Melanzane (V)",
+   "price": 13.0,
+   "description": "three fried eggplant balls, sautéed tomato sauce, basil, parmesan"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Polpette al Sugo",
+   "price": 14.0,
+   "description": "beef meatball, tomato sauce, parmesan"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Olives (V)",
+   "price": 8.0,
+   "description": "marinated Castelvetrano olives"
+  },
+  {
+   "section": "Insalata & Verdure",
+   "item": "Insalata Romana (V)",
+   "price": 14.0,
+   "description": "romaine, roasted pine nuts, olive oil, lemon, parmesan"
+  },
+  {
+   "section": "Insalata & Verdure",
+   "item": "Beet Salad (V)",
+   "price": 14.0,
+   "description": "yellow beets, frisée, fennel, goat cheese, walnuts, apple cider dressing"
+  },
+  {
+   "section": "Insalata & Verdure",
+   "item": "Asparagi (V)",
+   "price": 14.0,
+   "description": "Delta asparagus, EVO, grana cheese"
+  },
+  {
+   "section": "Insalata & Verdure",
+   "item": "Cavolfiori (V)",
+   "price": 12.0,
+   "description": "roasted cauliflower, capers, garlic, Calabrian chili oil"
+  },
+  {
+   "section": "Pasta & Lasagna",
+   "item": "Lasagna Bolognese",
+   "price": 19.0,
+   "description": "bolognese sauce, bechamel"
+  },
+  {
+   "section": "Pasta & Lasagna",
+   "item": "Lasagna Zucca & Salsiccia",
+   "price": 19.0,
+   "description": "butternut squash, sausage, mushroom, bechamel"
+  },
+  {
+   "section": "Pasta & Lasagna",
+   "item": "Lasagna Bianca (V)",
+   "price": 19.0,
+   "description": "mozzarella, parmesan, provolone, bechamel"
+  },
+  {
+   "section": "Pasta & Lasagna",
+   "item": "Lumache al Pesto (V)",
+   "price": 18.0,
+   "description": "snail-shape pasta, basil pesto, cherry tomato, lemon zest"
+  },
+  {
+   "section": "Pasta & Lasagna",
+   "item": "Carbonara",
+   "price": 19.0,
+   "description": "crispy pancetta, egg yolk, parmesan, black pepper"
+  },
+  {
+   "section": "Pasta & Lasagna",
+   "item": "Bucatini Amatriciana",
+   "price": 20.0,
+   "description": "tomato sauce, bacon, pecorino"
+  },
+  {
+   "section": "Mozzarella Bar",
+   "item": "Imported Buffalo Mozzarella (V)",
+   "price": 14.0,
+   "description": "served with arugula, cherry tomato, bread"
+  },
+  {
+   "section": "Mozzarella Bar",
+   "item": "Imported Burrata (V)",
+   "price": 15.0,
+   "description": "served with arugula, cherry tomato, bread"
+  },
+  {
+   "section": "Affettati di Salumi",
+   "item": "Prosciutto San Daniele",
+   "price": 11.0,
+   "description": ""
+  },
+  {
+   "section": "Affettati di Salumi",
+   "item": "Spicy Coppa",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Affettati di Salumi",
+   "item": "Salamino al Tartufo",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Prosciutto",
+   "price": 18.0,
+   "description": "tomato sauce, mozzarella, prosciutto San Daniele, arugula, parmesan"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Diavola",
+   "price": 20.0,
+   "description": "tomato sauce, mozzarella, spicy salami, Calabrian chili, spicy oil"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Calabrese",
+   "price": 21.0,
+   "description": "crushed cherry tomatoes, mozzarella, basil, spicy Calabrian nduja sausage"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Margherita (V)",
+   "price": 18.0,
+   "description": "tomato sauce, mozzarella, basil, EVO"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Bufalina (V)",
+   "price": 17.0,
+   "description": "tomato sauce, buffalo mozzarella, EVO, basil"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Marinara",
+   "price": 17.0,
+   "description": "tomato sauce, basil, olives, anchovies, EVO"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Norma (V)",
+   "price": 19.0,
+   "description": "mozzarella, tomato sauce, ricotta salata, eggplant"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Broccoli & Salsiccia",
+   "price": 20.0,
+   "description": "mozzarella, broccoli rabe, Italian sausage, provolone"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Il Casaro",
+   "price": 20.0,
+   "description": "mozzarella, cremini mushrooms, prosciutto crudo, parmesan"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Mortadella",
+   "price": 21.0,
+   "description": "mozzarella, mortadella, pistachio"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Quattro Formaggi (V)",
+   "price": 19.0,
+   "description": "mozzarella, goat cheese, asiago, gorgonzola"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Tonno & Cipolla",
+   "price": 19.0,
+   "description": "mozzarella, cherry tomato, red onion, tuna"
+  },
+  {
+   "section": "Pizza (12 inch)",
+   "item": "Calzone",
+   "price": 21.0,
+   "description": "tomato sauce, mozzarella, ham, cremini mushroom, arugula"
+  },
+  {
+   "section": "Dolci",
+   "item": "Raspberry Pannacotta",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Dolci",
+   "item": "Tiramisu",
+   "price": 10.0,
+   "description": ""
+  },
+  {
+   "section": "Dolci",
+   "item": "Pizza Nutella & Banana (9 in)",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Dolci",
+   "item": "Affogato",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Dolci",
+   "item": "Lemon Sorbet",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Dolci",
+   "item": "Cannoli",
+   "price": 13.0,
+   "description": ""
+  },
+  {
+   "section": "Bevande",
+   "item": "La Nostra Lemon or Chinotto",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Bevande",
+   "item": "Coke, Sprite and other sodas",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Bevande",
+   "item": "Mexican Coke",
+   "price": 7.0,
+   "description": ""
+  },
+  {
+   "section": "Bevande",
+   "item": "San Pellegrino Aranciata or Limonata",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Bevande",
+   "item": "1L Sparkling Water",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Bevande",
+   "item": "Apple Juice",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Caffe",
+   "item": "Espresso",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Caffe",
+   "item": "Doppio",
+   "price": 5.0,
+   "description": ""
+  },
+  {
+   "section": "Caffe",
+   "item": "Macchiato",
+   "price": 4.5,
+   "description": ""
+  },
+  {
+   "section": "Caffe",
+   "item": "Cappuccino",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Caffe",
+   "item": "Latte",
+   "price": 6.0,
+   "description": ""
+  },
+  {
+   "section": "Caffe",
+   "item": "Americano",
+   "price": 4.0,
+   "description": ""
+  }
+ ],
+ "notes": "Menu footer: 5% fee added to cover food and labor costs; 20% gratuity added for parties of 6 or more; 3-card split max per table. Gluten-free pasta +$4. Pizzas are 12-inch pies; add/sub toppings $3 (mushroom, arugula, cherry tomato, red onion, eggplant, broccoli rabe, parmesan), $5 (anchovies, salami, Italian sausage, organic eggs), $7 (burrata, prosciutto, bufala, nduja sausage, ham). Online ordering via Toast (toasttab.com/ilcasaronorthbeach).",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $19.00 of 19 prices in sections ['Pizza (12 inch)', 'Pasta & Lasagna']; rule L1<10, L2<18, L3<30, L4>=30"
 }

@@ -1,0 +1,349 @@
+{
+ "name": "McCormick & Schmick's",
+ "addr": "900 North Point Street",
+ "menu_url": "https://www.mccormickandschmicks.com/location/mccormick-kuletos-san-francisco-ca/#dinner-san-francisco",
+ "source": "restaurant website (BentoBox location menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Chef's Daily Feature",
+   "item": "Broiled New Zealand Lamb Chops",
+   "price": 58.0,
+   "description": "smoked celery root puree, pomegranate molasses, pomegranate seeds, gremolata, pickled fresno chilis"
+  },
+  {
+   "section": "Today's Whole Fish",
+   "item": "Fried Brazilian Tilapia",
+   "price": 42.0,
+   "description": "grilled asparagus, chimichurri, lemon beurre blanc, cherry peppers, chili oil, charred lemon"
+  },
+  {
+   "section": "Ice Bar - Oysters on the Half ($5 each, 6 for $27)",
+   "item": "KUMAMOTO",
+   "price": null,
+   "description": "humboldt bay, ca"
+  },
+  {
+   "section": "Ice Bar - Oysters on the Half ($5 each, 6 for $27)",
+   "item": "Samish",
+   "price": null,
+   "description": "samish bay, washington"
+  },
+  {
+   "section": "Ice Bar",
+   "item": "Colossal Prawn Cocktail",
+   "price": 25.0,
+   "description": "horseradish cocktail sauce"
+  },
+  {
+   "section": "Ice Bar",
+   "item": "Dungeness Crab Kimchi Cocktail",
+   "price": 30.0,
+   "description": "kimchi salad, gin dressing"
+  },
+  {
+   "section": "Ice Bar",
+   "item": "Seafood Tower (serves 4-6)",
+   "price": 135.0,
+   "description": "lobster, prawns, oysters, crab, ahi poke"
+  },
+  {
+   "section": "Starters",
+   "item": "Prawn & Scallop Rockefeller",
+   "price": 28.0,
+   "description": "bacon, spinach rockefeller, parmesan aioli"
+  },
+  {
+   "section": "Starters",
+   "item": "Dungeness Crab Cake",
+   "price": 27.0,
+   "description": "basil aioli, fennel, frisee salad"
+  },
+  {
+   "section": "Starters",
+   "item": "Lobster & Crab Dip",
+   "price": 25.0,
+   "description": "artichoke, parmesan, baked crostini"
+  },
+  {
+   "section": "Starters",
+   "item": "Charred Octopus",
+   "price": 26.0,
+   "description": "roasted red pepper romesco, grilled lemon, chili oil"
+  },
+  {
+   "section": "Starters",
+   "item": "Singapore Jumbo Prawns",
+   "price": 22.0,
+   "description": "tempura, pickled cucumber, tangerine chili sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Saltsprings Island Mussels",
+   "price": 24.0,
+   "description": "spanish chorizo, sherry, garlic, tomato, fennel, cream"
+  },
+  {
+   "section": "Starters",
+   "item": "Calamari Fritto Misto",
+   "price": 22.0,
+   "description": "calamari, shrimp, shishito, pequinito, pepperoncini"
+  },
+  {
+   "section": "Starters",
+   "item": "Steamed Clams",
+   "price": 25.0,
+   "description": "mushrooms, black garlic, sake, scallions"
+  },
+  {
+   "section": "Starters",
+   "item": "Ahi Boom Boom Nachos",
+   "price": 21.0,
+   "description": "mango, jalapeno, avocado, boom boom sauce, taro chips"
+  },
+  {
+   "section": "Soups",
+   "item": "New England Clam Chowder",
+   "price": 14.0,
+   "description": "clams, potatoes, bacon"
+  },
+  {
+   "section": "Soups",
+   "item": "Maine Lobster Bisque",
+   "price": 15.0,
+   "description": "sherry cream"
+  },
+  {
+   "section": "Soups",
+   "item": "Add Boudin® Bread Bowl",
+   "price": 6.0,
+   "description": "made with fresh, local boudin sourdough bread"
+  },
+  {
+   "section": "Salads",
+   "item": "M&K Wedge Salad",
+   "price": 18.0,
+   "description": "bacon, heirloom cherry tomatoes, pickled red onions, pt. reyes blue cheese, blue cheese dressing"
+  },
+  {
+   "section": "Salads",
+   "item": "Hearts of Romaine Caesar Salad",
+   "price": 18.0,
+   "description": "parmesan cheese, toasted panko"
+  },
+  {
+   "section": "Salads",
+   "item": "Chefs Journey",
+   "price": 18.0,
+   "description": "farmers market greens, candied walnuts, fruits, vegetables, parmesan cheese"
+  },
+  {
+   "section": "Salads",
+   "item": "M&K Louie Salad",
+   "price": 44.0,
+   "description": "romaine lettuce, cucumber, tomatoes, egg, olives, louie dressing"
+  },
+  {
+   "section": "Salads",
+   "item": "Seared Ahi Tuna Salad",
+   "price": 34.0,
+   "description": "blackened ahi tuna, avocado, feta cheese, cucumbers, spring mix, tomatoes, wonton wedges, gremolata aioli, was"
+  },
+  {
+   "section": "Salads",
+   "item": "Add to Any Salad (Blackened or Grilled)",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Mains",
+   "item": "Spice Roasted Salmon Steak",
+   "price": 46.0,
+   "description": "sugar & spiced rubbed, cedar roasted, wilted seasonal greens"
+  },
+  {
+   "section": "Mains",
+   "item": "Jumbo Prawn Scampi",
+   "price": 35.0,
+   "description": "linguini, white wine, garlic, cherry heirloom tomatoes, basil"
+  },
+  {
+   "section": "Mains",
+   "item": "M&K Classic Cioppino",
+   "price": 53.0,
+   "description": "dungeness crab, prawns, scallops, mussels, fish, clams, tomato lobster broth"
+  },
+  {
+   "section": "Mains",
+   "item": "Dungeness Crab Stuffed Salmon",
+   "price": 47.0,
+   "description": "brie cheese, sundried tomatoes, artichoke hearts, wilted greens, mashed potatoes"
+  },
+  {
+   "section": "Mains",
+   "item": "Free-Range Roasted Chicken",
+   "price": 41.0,
+   "description": "one bone ½ chicken, smoked onion mashed, sherry jus"
+  },
+  {
+   "section": "Mains",
+   "item": "Pan Seared Scallops",
+   "price": 52.0,
+   "description": "gnocchi, mushrooms, seasonal vegetables"
+  },
+  {
+   "section": "Mains",
+   "item": "Prosciutto Wrapped Halibut",
+   "price": 45.0,
+   "description": "prosciutto wrapped local halibut with mushrooms, sundried tomatoes, brie, balsamic pearls & a fig glaze"
+  },
+  {
+   "section": "Mains",
+   "item": "Roasted Mediterranean Branzino",
+   "price": 48.0,
+   "description": "lemon butter, roasted tomato, fried capers, fresh dill"
+  },
+  {
+   "section": "Mains",
+   "item": "Chilean Seabass",
+   "price": 56.0,
+   "description": "black garlic glaze, parmesan pea risotto, chili oil"
+  },
+  {
+   "section": "Mains",
+   "item": "Grilled Local Snapper",
+   "price": 52.0,
+   "description": "crispy garlic, charred treviso, lemon, fresh herb"
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Butter Poached Filet Mignon 7oz",
+   "price": 60.0,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Prime Black Angus Ribeye 12oz",
+   "price": 70.0,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Berkshire Kurobuta Pork Chop",
+   "price": 53.0,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "M&K Hanger Steak Frites",
+   "price": 50.0,
+   "description": "duck fat fries, bone marrow butter, port wine demi"
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "New York Strip 14oz",
+   "price": 58.0,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "Prime Bone-In Ribeye Steak 20oz",
+   "price": 90.0,
+   "description": ""
+  },
+  {
+   "section": "Steaks & Chops",
+   "item": "M&K Surf & Turf",
+   "price": 105.0,
+   "description": "7 oz. filet mignon & 7 oz. lobster tail"
+  },
+  {
+   "section": "Sauces & Toppers",
+   "item": "Dungeness Crab Imperial",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Sauces & Toppers",
+   "item": "Bone Marrow Butter",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Sauces & Toppers",
+   "item": "Grilled Prawns",
+   "price": 15.0,
+   "description": ""
+  },
+  {
+   "section": "Sauces & Toppers",
+   "item": "Lobster Tail 7oz",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Truffled Mac & Cheese",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Grilled Asparagus",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Truffled Mash",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Blistered Brussels",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Ocean Caramel Broccolini",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Wild Mushrooms",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Loaded Mash",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Duck Fat Fries",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Herbed Mashed Potatoes",
+   "price": null,
+   "description": ""
+  },
+  {
+   "section": "Sides",
+   "item": "Parmesan Truffle Fries",
+   "price": null,
+   "description": ""
+  }
+ ],
+ "notes": "Operates as McCormick & Kuleto's (Ghirardelli Square). Dinner menu only; lunch, brunch, happy hour, 3-course and cocktail menus also on the page but not transcribed. Sides and some toppers list no price. Chef's daily feature and whole fish change daily.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $52.00 of 17 prices in sections ['Mains', 'Steaks & Chops']; rule L1<10, L2<18, L3<30, L4>=30"
+}

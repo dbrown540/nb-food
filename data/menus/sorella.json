@@ -1,0 +1,181 @@
+{
+ "name": "Sorella",
+ "addr": "1760 Polk Street",
+ "menu_url": "https://sorellasf.com/s/Dinner-Menu-091526.pdf",
+ "source": "restaurant website PDF (pdftotext), dinner menu dated 09/15/26 plus dessert PDF",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Pane",
+   "item": "Sorella's Focaccia",
+   "price": 7.0,
+   "description": "Vermont compound butter +$3"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Shigoku Oyster",
+   "price": 4.5,
+   "description": "each; cucumber & shiso granita"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Caesar Salad",
+   "price": 23.0,
+   "description": "little gem, spicy breadcrumb, white anchovy"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Heirloom Tomatoes & Grilled Peaches",
+   "price": 25.0,
+   "description": "burrata, avocado, basil seeds, opal basil vinaigrette"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Fiori di Zucca Fritti",
+   "price": 19.0,
+   "description": "fried squash blossoms, mozzarella, white anchovy, parmigiano"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Calamari Fritti",
+   "price": 24.0,
+   "description": "Calabrian chili aioli, lemon"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Roasted Baby Carrots",
+   "price": 17.0,
+   "description": "date agrodolce, pistachio"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Carne Cruda",
+   "price": 24.0,
+   "description": "veal tartare, truffle aioli, 24-month parmigiano"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Veal and Pork Meatballs",
+   "price": 19.0,
+   "description": "tomato, parmesan, basil"
+  },
+  {
+   "section": "Antipasti",
+   "item": "Warm Parmesan Budino",
+   "price": 20.0,
+   "description": "guanciale, basil, confit cherry tomatoes"
+  },
+  {
+   "section": "Primi",
+   "item": "Ricotta Strangulet",
+   "price": 28.0,
+   "description": "crushed tomato, basil, pine nut, ricotta salata"
+  },
+  {
+   "section": "Primi",
+   "item": "Agnolotti del Plin",
+   "price": 30.0,
+   "description": "sweet corn, crescenza, parmesan spuma"
+  },
+  {
+   "section": "Primi",
+   "item": "Garganelli",
+   "price": 32.0,
+   "description": "beef bolognese, parmigiano reggiano"
+  },
+  {
+   "section": "Primi",
+   "item": "Gnocchetti Sardi",
+   "price": 30.0,
+   "description": "chanterelles, braised fennel, parmigiano"
+  },
+  {
+   "section": "Primi",
+   "item": "Drunken Mafaldine",
+   "price": 34.0,
+   "description": "red wine braised beef cheek ragù, burrata"
+  },
+  {
+   "section": "Primi",
+   "item": "Lobster Lasagna",
+   "price": 37.0,
+   "description": "lobster, prawns, salsa rossa"
+  },
+  {
+   "section": "Secondi",
+   "item": "Pan-Seared Branzino",
+   "price": 47.0,
+   "description": "butter beans, mussels, lemon"
+  },
+  {
+   "section": "Secondi",
+   "item": "Carlton Farms Pork Chop",
+   "price": 49.0,
+   "description": "corn succotash, grilled shishito, pork jus"
+  },
+  {
+   "section": "Secondi",
+   "item": "New York Steak",
+   "price": 52.0,
+   "description": "Jimmy Nardello pepper, salsa verde, marble potatoes"
+  },
+  {
+   "section": "Dolci",
+   "item": "Malted Tiramisu",
+   "price": 15.0,
+   "description": "espresso genoise, malted chocolate, mascarpone mousse"
+  },
+  {
+   "section": "Dolci",
+   "item": "Warm Citrus Cake",
+   "price": 15.0,
+   "description": "fior di latte gelato, crème anglaise, hazelnut"
+  },
+  {
+   "section": "Dolci",
+   "item": "Three Scoops of Gelati",
+   "price": 12.0,
+   "description": "malted vanilla, espresso, biscotti"
+  },
+  {
+   "section": "Dolci",
+   "item": "Sorbetto",
+   "price": 5.0,
+   "description": "dark chocolate & candied orange, raspberry"
+  },
+  {
+   "section": "Dolci",
+   "item": "Featured Cheese",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Cocktails",
+   "price": 17.0,
+   "description": "starting price; Sicilian spritz $17, Sorella's sour $19, others $18-19"
+  },
+  {
+   "section": "Drinks",
+   "item": "Beer (Mastri Birrai)",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Drinks",
+   "item": "Wine by the glass",
+   "price": 13.0,
+   "description": "starting price; $13-24"
+  },
+  {
+   "section": "Drinks",
+   "item": "Espresso",
+   "price": 5.0,
+   "description": "macchiato/cappuccino/latte $7"
+  }
+ ],
+ "notes": "Italian restaurant from the Acquerello team. A 6% surcharge is added to all sales. Hours per listings: Tue-Sat 5-9pm, closed Sun-Mon. Dinner and dessert recorded; cicchetti menu, wine list and amari list not recorded; cocktails summarized.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $34.00 of 9 prices in sections ['Primi', 'Secondi']; rule L1<10, L2<18, L3<30, L4>=30"
+}

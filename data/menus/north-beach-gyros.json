@@ -1,12 +1,211 @@
 {
  "name": "North Beach Gyros",
  "addr": "561 Columbus Avenue",
- "menu_url": "https://www.mynorthbeachgyros.com/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
- "status": "not_found",
- "items": [],
- "notes": "official site unreachable; Toast/UberEats listings JS-only",
- "price_level_estimate": null,
- "price_level_basis": null
+ "menu_url": "https://www.northbeachgyro.com/menu",
+ "source": "restaurant website menu page (northbeachgyro.com, Wix restaurant-menus widget; server-rendered text parsed). The OSM website URL (mynorthbeachgyros.com) no longer resolves and northbeachgyros.com is a for-sale domain; the live site was found via Yelp's website link.",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Appetizers",
+   "item": "Chef's Mezze Plate",
+   "price": 46.0,
+   "description": "falafel, dolma, stuffed eggplants, hummus, tzatziki, baba ghanoush"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Grape Leaves Dolma",
+   "price": 12.0,
+   "description": "vine leaves stuffed with herbed rice"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Stuffed Sun-Dried Eggplants",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Hummus",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Appetizers",
+   "item": "Tzatziki",
+   "price": 12.0,
+   "description": "Greek yogurt, cucumber, dill, garlic"
+  },
+  {
+   "section": "Appetizers",
+   "item": "Baba Ghanoush",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Greek Salad",
+   "price": 21.0,
+   "description": "butterhead lettuce, cucumbers, tomatoes, red onions, kalamata, barrel-aged feta, lemon olive oil"
+  },
+  {
+   "section": "Salads",
+   "item": "Grilled Beef Tenderloin Salad",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Falafel Salad",
+   "price": 21.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Grilled Chicken Salad",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Salads",
+   "item": "Grilled Salmon Salad",
+   "price": 28.0,
+   "description": ""
+  },
+  {
+   "section": "Wraps",
+   "item": "Falafel Wrap",
+   "price": 18.0,
+   "description": "green hummus, lettuce, tomato, cucumber, red onion"
+  },
+  {
+   "section": "Wraps",
+   "item": "Salmon Wrap",
+   "price": 21.0,
+   "description": "charcoal-grilled salmon"
+  },
+  {
+   "section": "Wraps",
+   "item": "Chicken Gyro Wrap",
+   "price": 18.0,
+   "description": "house-made yogurt"
+  },
+  {
+   "section": "Wraps",
+   "item": "Beef-Lamb Gyro Wrap",
+   "price": 19.0,
+   "description": "house-made yogurt"
+  },
+  {
+   "section": "Wraps",
+   "item": "The Protein Bomb Wrap",
+   "price": 26.0,
+   "description": "chicken, lamb and beef gyro"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Beef Tenderloin Skewer Plate",
+   "price": 29.0,
+   "description": "rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Mixed Grill Plate",
+   "price": 32.0,
+   "description": "chicken and beef skewers, rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Beef-Lamb Gyro Plate",
+   "price": 28.0,
+   "description": "rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Chicken Gyro Plate",
+   "price": 28.0,
+   "description": "rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Grilled Chicken Skewer Plate",
+   "price": 28.0,
+   "description": "rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Grilled Salmon Plate",
+   "price": 28.0,
+   "description": "rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Falafel Plate",
+   "price": 25.0,
+   "description": "green hummus, rice"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Grilled Branzino",
+   "price": 33.0,
+   "description": "charred lemon, rice, salad"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Aunt Maria's Braised Duck",
+   "price": 31.0,
+   "description": "dried fruits, sumac, Lebanese rice"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Braised Lamb Shank",
+   "price": 32.0,
+   "description": "Lebanese rice"
+  },
+  {
+   "section": "Plates & Main Courses",
+   "item": "Veggie Moussaka",
+   "price": 26.0,
+   "description": "eggplant, zucchini, potatoes, lentil tomato compote, bechamel"
+  },
+  {
+   "section": "Soups & Sides",
+   "item": "Soup of the Day",
+   "price": 14.0,
+   "description": ""
+  },
+  {
+   "section": "Soups & Sides",
+   "item": "Greek Feta Fries",
+   "price": 9.0,
+   "description": ""
+  },
+  {
+   "section": "Soups & Sides",
+   "item": "French Fries",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Soups & Sides",
+   "item": "Pita Bread",
+   "price": 4.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Baklava",
+   "price": 8.0,
+   "description": ""
+  },
+  {
+   "section": "Desserts",
+   "item": "Kunefe",
+   "price": 13.0,
+   "description": "shredded pastry, melted cheese, syrup, pistachios"
+  }
+ ],
+ "notes": "Site hours: Sun-Thu 11am-10pm, Fri-Sat 11am-11pm (Yelp shows opening at 10am weekdays / 9am weekends). Online ordering and catering via Toast (toasttab.com/local/order/north-beach-gyros-561-columbus-avenue). Buy-2-get-1 wine Mon-Fri 4-8pm per Yelp owner note.",
+ "price_level_estimate": 3,
+ "price_level_basis": "median $28.00 of 16 prices in sections ['Plates & Main Courses', 'Wraps']; rule L1<10, L2<18, L3<30, L4>=30"
 }

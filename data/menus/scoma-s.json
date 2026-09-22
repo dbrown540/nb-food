@@ -1,0 +1,289 @@
+{
+ "name": "Scoma's",
+ "addr": "1965 Al Scoma Way",
+ "menu_url": "https://scomas.com/food-menu/",
+ "source": "restaurant website (main food menu page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Starters",
+   "item": "Dungeness Crab Cocktail",
+   "price": 30.0,
+   "description": "Scoma's cocktail sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Wild Gulf Shrimp Cocktail",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Crispy Local Anchovies",
+   "price": 23.0,
+   "description": "Meyer lemon aioli; as available"
+  },
+  {
+   "section": "Starters",
+   "item": "Oysters on the Half Shell (half dozen)",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Oysters a la Scoma",
+   "price": 27.0,
+   "description": "Pacific oysters, spinach, brandy-garlic aioli, Asiago"
+  },
+  {
+   "section": "Starters",
+   "item": "Crispy Zucchini with Marinara and Parmesan",
+   "price": 17.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Calamari Fritti",
+   "price": 24.0,
+   "description": "lemon, oregano"
+  },
+  {
+   "section": "Starters",
+   "item": "Steamed Manila Clams",
+   "price": 22.0,
+   "description": ""
+  },
+  {
+   "section": "Starters",
+   "item": "Steamed Mediterranean Mussels",
+   "price": 22.0,
+   "description": "marinara sauce"
+  },
+  {
+   "section": "Starters",
+   "item": "Truffle & Parmesan Fries",
+   "price": 17.0,
+   "description": "white truffle oil, black truffle salt, Parmigiano"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Scoma's Famous Clam Chowder (cup)",
+   "price": 12.0,
+   "description": "bowl $14"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Tuscan Tomato & Bread Soup (cup)",
+   "price": 12.0,
+   "description": "bowl $14"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Wild Gulf Shrimp Bisque (cup)",
+   "price": 12.0,
+   "description": "bowl $14; chives, creme fraiche"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Iceberg Wedge Salad",
+   "price": 17.0,
+   "description": "bacon, radish, herbs, blue cheese dressing"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Caesar Salad",
+   "price": 18.0,
+   "description": "romaine, sourdough croutons"
+  },
+  {
+   "section": "Soups & Salads",
+   "item": "Organic Beet Salad",
+   "price": 17.0,
+   "description": "red & golden beets, avocado, orange, balsamic, horseradish, mint"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Dungeness Crab Cakes Appetizer",
+   "price": 26.0,
+   "description": ""
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Whole Dungeness Crab",
+   "price": 75.0,
+   "description": "chilled or whole roasted"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Scoma's Dungeness Crab Louie Salad",
+   "price": 72.0,
+   "description": "1/2 lb crabmeat"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Wild Gulf Shrimp Louis Salad",
+   "price": 43.0,
+   "description": "1/2 lb shrimp"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Combo Louie Salad",
+   "price": 59.0,
+   "description": ""
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Wild Gulf Shrimp & Scallops a la Gannon",
+   "price": 42.0,
+   "description": "pan seared, lemon butter"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "\"Lazy Man's\" Cioppino",
+   "price": 55.0,
+   "description": "crab, scallops, shrimp, clams, mussels, calamari, fish, tomato broth"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Shellfish Saute Sec",
+   "price": 72.0,
+   "description": "crab legs, scallops, shrimp, mushrooms, garlic-white wine sauce"
+  },
+  {
+   "section": "Scoma's Classics",
+   "item": "Pasta Diplomatica",
+   "price": 49.0,
+   "description": "scallops, shrimp, clams, mushrooms, cream sauce, linguini"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Wild Black Cod Calabrese",
+   "price": 40.0,
+   "description": "spicy tomato sauce, orecchiette, vegetables, pangrattato"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Pacific Snapper",
+   "price": 38.0,
+   "description": "wild mushroom spatzle, green garlic Meyer lemon butter"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Petrale Dore",
+   "price": 39.0,
+   "description": "egg-battered local sole, garlic lemon butter, tartar"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Pacific King Salmon",
+   "price": 42.0,
+   "description": "crispy polenta, spring salad, warm mushrooms"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Alaskan Halibut",
+   "price": 46.0,
+   "description": "sweet corn, summer squash ragout, basil aioli"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Mixed Seafood Grill",
+   "price": 52.0,
+   "description": "three grilled seasonal fish and gulf shrimp"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Fried Combo",
+   "price": 39.0,
+   "description": "shrimp, scallops, cod, fries"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Beer Battered Fish 'N' Chips",
+   "price": 29.0,
+   "description": "Pacific cod, fries"
+  },
+  {
+   "section": "Seafood & Meat",
+   "item": "Wagyu Bistro Filet",
+   "price": 41.0,
+   "description": "sirloin, wild mushrooms, roasted potatoes, garlic-truffle butter"
+  },
+  {
+   "section": "Pastas",
+   "item": "Scoma's Pappardelle Bolognese",
+   "price": 29.0,
+   "description": ""
+  },
+  {
+   "section": "Pastas",
+   "item": "Early Summer Vegetable Risotto",
+   "price": 32.0,
+   "description": ""
+  },
+  {
+   "section": "Pastas",
+   "item": "Linguini con Vongole",
+   "price": 36.0,
+   "description": "Manila clams, garlic, onions, white wine, butter"
+  },
+  {
+   "section": "Pastas",
+   "item": "Gulf Shrimp Lumachini",
+   "price": 36.0,
+   "description": "shrimp, herbs, garlic, gremolata"
+  },
+  {
+   "section": "Pastas",
+   "item": "Pasta Puttanesca",
+   "price": 42.0,
+   "description": "daily catch, shrimp, mussels, clams, anchovies, olives, capers"
+  },
+  {
+   "section": "Pastas",
+   "item": "Dungeness Crab Spaghetti",
+   "price": 60.0,
+   "description": "spring onion, garlic, basil, lemon garlic butter"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Fresh Filet o' Flounder Sandwich",
+   "price": 24.0,
+   "description": "panko flounder, fennel slaw, tartar, fries"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Fresh Coos Bay Shrimp Roll",
+   "price": 23.0,
+   "description": "greens, fries"
+  },
+  {
+   "section": "Sandwiches",
+   "item": "Double Double Cheese Burger",
+   "price": 19.0,
+   "description": "pickles, Thousand Island, fries"
+  },
+  {
+   "section": "Sides",
+   "item": "Spatzle",
+   "price": 12.0,
+   "description": "wild mushroom, fennel, green garlic lemon butter"
+  },
+  {
+   "section": "Sides",
+   "item": "Buttered Early Season Sweet Corn",
+   "price": 12.0,
+   "description": ""
+  },
+  {
+   "section": "Children's Menu",
+   "item": "Children's entree",
+   "price": 16.0,
+   "description": "rock cod, linguine, mac & cheese, fish and chips, tenders, burger"
+  }
+ ],
+ "notes": "Pier 47. Hours seen: Mon-Thu & Sun 12-9:30pm, Fri-Sat 12-10pm; bar opens 11:30am. Bar, wine, happy-hour, dessert and to-go menus not extracted. Children's menu items $16 each (collapsed to one line).",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $42.00 of 24 prices in sections [\"Scoma's Classics\", 'Seafood & Meat', 'Pastas']; rule L1<10, L2<18, L3<30, L4>=30"
+}

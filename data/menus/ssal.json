@@ -1,0 +1,19 @@
+{
+ "name": "SSAL",
+ "addr": "2226 Polk Street",
+ "menu_url": "https://ssalsf.com/",
+ "source": "restaurant website (Squarespace home page)",
+ "as_of": "2026-09-22",
+ "status": "ok",
+ "items": [
+  {
+   "section": "Tasting Menu",
+   "item": "Tasting Menu (per person)",
+   "price": 270.0,
+   "description": "starting price; changes nightly; beverages, service and tax extra"
+  }
+ ],
+ "notes": "Single nightly tasting menu (modern Californian with Korean roots) that changes constantly; dishes not published. Dinner Wed-Sun 5:30-8:30pm, reservation only; $150/person non-refundable deposit. Price excludes beverages, service and tax.",
+ "price_level_estimate": 4,
+ "price_level_basis": "median $270.00 of 1 prices in sections all; rule L1<10, L2<18, L3<30, L4>=30"
+}

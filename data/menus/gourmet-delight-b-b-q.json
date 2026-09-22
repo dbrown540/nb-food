@@ -1,12 +1,12 @@
 {
  "name": "Gourmet Delight B.B.Q.",
  "addr": "1045 Stockton Street",
- "menu_url": "https://www.allmenus.com/ca/san-francisco/478641-gourmet-delight/menu/",
- "source": "no reliable menu source",
- "as_of": "2026-09-09",
+ "menu_url": "https://www.yelp.com/biz/gourmet-delight-san-francisco",
+ "source": "no reliable menu source (Yelp and candidate domains checked in a real browser session 2026-09-22)",
+ "as_of": "2026-09-22",
  "status": "not_found",
  "items": [],
- "notes": "only aggregator found (allmenus) shows implausibly stale per-lb prices (soy sauce chicken $2.90/lb) — not trusted; Yelp menu blocked",
+ "notes": "No official website (gourmetdelightsf.com is a registrar parking page). Yelp has no menu page for this business (the /menu URL redirects to the business page, which lists popular dishes by name only: BBQ pork, roast duck, soy sauce chicken, fried chicken, chow mein, chow fun, rice box). The only third-party listing with prices (allmenus) carries implausibly stale per-pound prices and is not used. Yelp hours: 8am-6pm daily. Counter-service roast-meat shop; prices are posted in-store only.",
  "price_level_estimate": null,
  "price_level_basis": null
 }

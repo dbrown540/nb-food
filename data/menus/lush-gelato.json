@@ -1,0 +1,12 @@
+{
+ "name": "Lush Gelato",
+ "addr": "1817 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/lush-gelato-san-francisco",
+ "source": "web search only (listings)",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp marks Lush Gelato at 1817 Polk St as CLOSED. The brand site lushgelato.com still exists but was not used since the Polk St shop is closed.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

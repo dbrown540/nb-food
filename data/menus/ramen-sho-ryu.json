@@ -1,0 +1,12 @@
+{
+ "name": "Ramen Sho Ryu",
+ "addr": "2123 Polk Street",
+ "menu_url": "https://www.yelp.com/biz/ramen-sho-ryu-san-francisco-2",
+ "source": "web search",
+ "as_of": "2026-09-22",
+ "status": "skipped",
+ "items": [],
+ "notes": "Closed: Yelp lists Ramen Sho Ryu (2123 Polk St) as CLOSED (updated July 2026). An official site (ramenshoryusf.com) still exists but was not used for a closed venue.",
+ "price_level_estimate": null,
+ "price_level_basis": null
+}

@@ -1,0 +1,97 @@
+{
+ "name": "SIGNAL Coffee Roasters",
+ "addr": "2701 Leavenworth Street",
+ "menu_url": "https://www.signalcoffeeonline.com/?location=LC5VWM0S9G27F",
+ "source": "restaurant online-ordering page (Square Online, pickup from 2701 Leavenworth St; rendered in a browser)",
+ "as_of": "2026-09-22",
+ "status": "partial",
+ "items": [
+  {
+   "section": "Grab & Go",
+   "item": "Grab & Go Beverages",
+   "price": 2.75,
+   "description": "starting price; bottled drinks"
+  },
+  {
+   "section": "Grab & Go",
+   "item": "Yogurt Parfait",
+   "price": 7.75,
+   "description": "yogurt with granola; also offered with coconut yogurt"
+  },
+  {
+   "section": "Tea & Other Drinks",
+   "item": "Hot Tea",
+   "price": 5.0,
+   "description": "jasmine green, English breakfast, Earl Grey, peppermint, rooibos or chamomile"
+  },
+  {
+   "section": "Tea & Other Drinks",
+   "item": "Iced Tea",
+   "price": 5.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Tea & Other Drinks",
+   "item": "Hot Chocolate",
+   "price": 4.5,
+   "description": "starting price; TCHO chocolate, hot or iced"
+  },
+  {
+   "section": "Tea & Other Drinks",
+   "item": "Steamed Milk",
+   "price": 3.0,
+   "description": "starting price"
+  },
+  {
+   "section": "Lattes",
+   "item": "Latte",
+   "price": 7.0,
+   "description": "starting price; SIGNAL espresso and steamed milk"
+  },
+  {
+   "section": "Lattes",
+   "item": "Chai Latte",
+   "price": 7.0,
+   "description": "starting price; Chai Baba spiced chai with steamed milk"
+  },
+  {
+   "section": "Lattes",
+   "item": "Dulce de Leche Latte",
+   "price": 7.0,
+   "description": "starting price; house caramel, espresso, milk, cinnamon"
+  },
+  {
+   "section": "Lattes",
+   "item": "Great Pumpkin Latte",
+   "price": 7.0,
+   "description": "starting price; house pumpkin spice syrup, espresso, milk"
+  },
+  {
+   "section": "Lattes",
+   "item": "Black Sesame Latte",
+   "price": 8.5,
+   "description": "starting price; house black sesame syrup, espresso, milk"
+  },
+  {
+   "section": "Lattes",
+   "item": "Ube Latte",
+   "price": 8.5,
+   "description": "starting price; house ube syrup, espresso, milk"
+  },
+  {
+   "section": "Lattes",
+   "item": "Hojicha Latte",
+   "price": 8.5,
+   "description": "starting price; roasted tea with steamed milk"
+  },
+  {
+   "section": "Lattes",
+   "item": "Matcha Latte",
+   "price": 8.5,
+   "description": "starting price; matcha with milk"
+  }
+ ],
+ "notes": "Square Online pickup menu for the 2701 Leavenworth St store. Only the grab-and-go, tea and latte sections rendered item lists; the coffee, espresso, food and pastry sections showed headings only in the browser, so the menu is incomplete. Price ranges are shown as starting prices (size or milk options). Retail beans and catering omitted.",
+ "price_level_estimate": 1,
+ "price_level_basis": "median $7.00 of 14 prices in sections all; rule L1<10, L2<18, L3<30, L4>=30"
+}
