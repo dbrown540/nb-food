@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Bulk-download SF DPH restaurant health inspections from the open-data portal.
+"""Bulk-download SF DPH restaurant inspections from the open-data portal.
 
 SF DPH publishes three Socrata datasets on https://data.sf.gov (the old
 data.sfgov.org host 301-redirects there). Scoring changed over time, so

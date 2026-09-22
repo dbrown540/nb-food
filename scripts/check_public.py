@@ -1,52 +1,81 @@
 #!/usr/bin/env python3
-"""Publish gate for the enrichment layers and reports: exit 1 if any owned file
-mentions a personal-context term. The repo is public; the layers describe
-restaurants, public datasets and sources — nothing about who uses the index.
+"""Publish gate: exit 1 if any tracked file mentions a personal-context term.
 
-Checks the paths in OWNED (whole files) for the PATTERNS below. The OSM shop
-value `health_food` and the DPH dataset ids are exempt by construction.
+The repo is public and describes restaurants, public datasets and sources —
+nothing about who uses the index. Two pattern groups:
 
-    python3 scripts/check_public.py
+  OWNER  personal identifiers (full name, domain, personal email) — checked
+         in EVERY tracked file, no exemptions.
+  TOPIC  wellness / regimen wording, and the owner's first name alone —
+         checked everywhere except verbatim public data, where the words
+         belong to the city or to other businesses: data/inspections/** (DPH
+         text), data/sf.db + data/sf_places.json (OSM names/tags). The OSM
+         shop value `health_food` and soda product names are exempt by pattern.
+
+Build outputs (data/places.json, docs/index.html) are checked like sources,
+so a stray term in the curated overlay or the viewer template fails here.
+
+    python3 scripts/check_public.py            # gate over `git ls-files`
+    python3 scripts/check_public.py PATH ...   # gate over the given paths
 """
 import re
+import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-OWNED = ["data/menus", "data/neighborhoods.geojson", "docs/nb-food-coverage-report.md",
-         "scripts/menus_index.py", "scripts/fetch_neighborhoods.py", "scripts/check_public.py"]
-PATTERNS = [
-    (r"\bhealth(?!_food\b)", "health"),  # health_food is an OSM shop tag
+OWNER = [  # everywhere, no exemptions
+    (r"\bdanny brown\b", "owner full name"),
+    (r"therenthacker", "owner domain"),
+    (r"\b[a-z0-9._-]+@(gmail|icloud|me|hotmail|yahoo|outlook|proton)\.\w+\b", "personal email"),
+]
+OWNER_NAME = [  # first name alone: everywhere except verbatim public data (other businesses carry it)
+    (r"\bdanny\b", "owner name"),
+]
+TOPIC = [
+    (r"\bhealth(?!_food\b)", "health"),
     (r"\bhealthy\b", "healthy"),
-    (r"\bdiet(ary|s)?\b(?!\s+(coke|pepsi|dr\b|soda|sprite|7up|mountain|ginger|root))", "diet"),  # "Diet Coke" is a product
+    (r"\bdiet(ary|s)?\b(?!\s+(coke|pepsi|dr\b|soda|sprite|7up|mountain|ginger|root))", "diet"),
     (r"\bnutrition(al)?\b", "nutrition"),
     (r"\bcalorie", "calorie"),
     (r"\ballerg", "allergen"),
     (r"\bmedical\b", "medical"),
-    (r"\bdanny\b", "owner name"),
-    (r"therenthacker", "owner domain"),
-    (r"@[a-z0-9.-]+\.(com|net|org)\b", "email address"),
+    (r"\bmacros\b|\bpre-?gym\b|\bworkout\b", "regimen"),
 ]
+TOPIC_EXEMPT = ("data/inspections/", "data/sf.db", "data/sf_places.json", "data/sf_osm_raw.json")
+SELF = "scripts/check_public.py"  # holds the pattern table; not scanned
+
+
+def tracked() -> list:
+    out = subprocess.run(["git", "ls-files"], cwd=ROOT, capture_output=True, text=True, check=True).stdout
+    return [ROOT / f for f in out.split("\n") if f]
+
+
+def scan(path: Path) -> list:
+    rel = str(path.relative_to(ROOT))
+    try:
+        text = path.read_text(errors="replace")
+    except (OSError, UnicodeDecodeError):
+        return []
+    if rel == SELF:  # the gate's own pattern table
+        return []
+    pats = list(OWNER) + ([] if rel.startswith(TOPIC_EXEMPT) else list(OWNER_NAME) + list(TOPIC))
+    hits = []
+    for pat, label in pats:
+        for m in re.finditer(pat, text, re.IGNORECASE):
+            line = text.count("\n", 0, m.start()) + 1
+            hits.append(f"{rel}:{line}: {label} -> {text[max(0, m.start() - 30):m.end() + 30]!r}")
+    return hits
 
 
 def main() -> int:
-    hits = []
-    for rel in OWNED:
-        p = ROOT / rel
-        files = sorted(p.rglob("*")) if p.is_dir() else [p]
-        for f in files:
-            if not f.is_file():
-                continue
-            text = f.read_text(errors="replace")
-            for pat, label in PATTERNS:
-                for m in re.finditer(pat, text, re.IGNORECASE):
-                    if rel == "scripts/check_public.py" and m.start() < text.index("def main"):
-                        continue  # the pattern table itself
-                    line = text.count("\n", 0, m.start()) + 1
-                    hits.append(f"{f.relative_to(ROOT)}:{line}: {label} -> {text[max(0, m.start() - 30):m.end() + 30]!r}")
-    for h in hits:
+    paths = [Path(a).resolve() for a in sys.argv[1:]] or tracked()
+    hits = [h for p in paths if p.is_file() for h in scan(p)]
+    for h in hits[:60]:
         print(h)
-    print(f"check_public: {len(hits)} hit(s) in {len(OWNED)} owned path(s)")
+    if len(hits) > 60:
+        print(f"... {len(hits) - 60} more")
+    print(f"check_public: {len(hits)} hit(s) in {len(paths)} file(s)")
     return 1 if hits else 0
 
 

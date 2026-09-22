@@ -3,3 +3,5 @@ data/osm_raw.json
 data/inspections/inspections_2016_2019.json
 data/inspections/current/inspections_2020_2023.json
 data/inspections/current/inspections_2024_present.json
+# raw Overpass dump for the citywide base (>5MB; OSM tags carry business contact details); regenerate with scripts/fetch_sf_pois.py
+data/sf_osm_raw.json

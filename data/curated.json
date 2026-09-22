@@ -1,138 +1,138 @@
 {
-  "_comment": "Curated overlay merged onto OSM data by normalized name match. price: 1=$ cheap … 4=$$$$. health: strong|ok|trap (fit for Danny's protein+veg goals). verified: facts confirmed in person or from primary sources, with date.",
-  "overrides": {
-    "reveille coffee co": {
-      "price": 3,
-      "health": "strong",
-      "applePay": true,
-      "laptops": true,
-      "notes": "Default morning office; closes 4pm. Healthy picks: Tahini Squash Bowl (lunch, 11:15+), Breakfast Bowl (all day). Skip: burrito (tater tots), acai/granola (sugar). Add-on math: +1 egg $2.50 ok, avocado add-on redundant.",
-      "menu": "menus/reveille-north-beach-2026-08.pdf",
-      "verified": "2026-08-31"
-    },
-    "cavalli cafe": {
-      "price": 2,
-      "health": "ok",
-      "applePay": true,
-      "laptops": true,
-      "notes": "Danny's find: two floors, 2nd floor good for relaxed work; open late (Mon 10pm, Tue-Sun ~11pm) — solves the everything-closes-at-4 problem. Decaf lattes. Food is comfort Italian (panini, cannoli); tuna sandwich = most protein-forward. DPH: Conditional Pass on 2025-08-05 with 8 violations (2016-19 score 96) — fine for coffee; check the current placard before eating there.",
-      "verified": "2026-08-31"
-    },
-    "comptons coffe house": {
-      "price": 2,
-      "health": "ok",
-      "laptops": true,
-      "notes": "Backup office: free fast wifi, outlet bar under counter, ~6 solo tables; tight at peak, go early. Apple Pay unverified.",
-      "verified": "2026-08-30"
-    },
-    "caffe trieste": {
-      "price": 2,
-      "health": "ok",
-      "applePay": false,
-      "laptops": false,
-      "notes": "CASH-LEANING. Oldest espresso bar on the West Coast (1956). Weekend cappuccino spot, culturally analog — not an office. Open late (~10pm).",
-      "verified": "2026-08-30"
-    },
-    "caffe greco": {
-      "price": 2,
-      "health": "ok",
-      "applePay": false,
-      "laptops": false,
-      "notes": "CASH ONLY (verified in person). Open until ~11pm — the evening decaf-latte spot once you carry cash. Joe-app mobile ordering listing is stale.",
-      "verified": "2026-08-30"
-    },
-    "molinari delicatessen": {
-      "price": 2,
-      "health": "ok",
-      "notes": "100-year-old deli next door to 371 Columbus. Danny's healthy order (verified 8/31): Custom Sandwich $19.25 — oven roasted turkey, soft roll, lettuce, tomatoes, mustard, NO cheese; add sweet bell peppers +$1 for bulk. Online pickup orders 9am-5:10pm. Cured-meat specials are the trap while cutting. Closed Sundays.",
-      "verified": "2026-08-31",
-      "applePay": true
-    },
-    "trader joes": {
-      "price": 1,
-      "health": "strong",
-      "notes": "Staples HQ, open to 9pm; has a parking lot. The zero-cook kit: Just Grilled Chicken Strips + salad kit + avocado (~$8 dinner); steamed lentils; tofu spring rolls (fresh, not fried — appetizer not meal); pre-peeled boiled eggs; Greek yogurt; frozen backup meals as the delivery-app circuit breaker.",
-      "verified": "2026-08-30"
-    },
-    "lukes local grocery": {
-      "price": 3,
-      "health": "strong",
-      "notes": "2 min from home, 8am-9pm. Quality tier but pricey (deli plates ~$16, $11 tiny burrito — Danny verified) — role: emergency ingredients + prepared dinner when the TJ's window is missed, NOT staples or everyday lunch. Real butcher counter.",
-      "verified": "2026-08-31"
-    },
-    "wok shop": {
-      "price": 1,
-      "notes": "Buy the 6-qt stockpot here (sous vide bath + soup pot). Cheap restaurant-grade kitchenware.",
-      "verified": "2026-08-29"
-    },
-    "golden boy pizza": {
-      "price": 1,
-      "health": "trap",
-      "notes": "Legendary focaccia squares. A treat, not a system — log it for intentional nights."
-    },
-    "vital tea leaf": {
-      "price": 1,
-      "health": "strong",
-      "notes": "Free try-before-you-buy tasting bar, ~300 teas (ask for Uncle Gee). Buy loose-leaf green (~$0.30/cup at home) — the budget green-tea habit.",
-      "verified": "2026-08-30"
-    },
-    "gourmet delight bbq": {
-      "price": 1,
-      "health": "ok",
-      "notes": "Mixed record: 2019 numeric score 79 (6 violations incl. high-risk temperature holding) and recent reviews citing cleanliness — BUT the latest SF DPH inspection (2026-02-19) is a PASS with 0 violations. Kam Po (Pass 2025-09, 0 violations) remains the safer pick for roast meat.",
-      "verified": "2026-09-09"
-    },
-    "kam po kitchen": {
-      "price": 1,
-      "health": "strong",
-      "notes": "Best-known roast-meat shop in the neighborhood (Broadway at Powell), 4.8/5 on ~1,400 reviews, famous roast duck. Last inspection on record 88 (2018). Cash only. Order: two-item plate, roast duck + white-cut chicken, extra choy sum, sauce on the side. Skip crispy pork belly before lifting.",
-      "verified": "2026-09-09"
-    },
-    "hons wun tun house": {
-      "price": 1,
-      "health": "ok",
-      "notes": "Wonton noodle soup, one block from Betty Ann Ong. Lighter pre-gym option (~25g protein). Cash. Last inspection on record: 100, zero violations (2018).",
-      "verified": "2026-09-09"
-    }
+ "_comment": "Curated overlay merged onto OSM data by normalized name match. price: 1=$ cheap … 4=$$$$. verdict: pick|ok|treat (go-to / fine / occasional). verified: facts confirmed in person or from primary sources, with date.",
+ "overrides": {
+  "reveille coffee co": {
+   "price": 3,
+   "verdict": "pick",
+   "applePay": true,
+   "laptops": true,
+   "notes": "Default morning office; closes 4pm. Picks: Tahini Squash Bowl (lunch, 11:15+), Breakfast Bowl (all day). The burrito comes with tater tots; the acai and granola bowls run sweet. Add-ons: +1 egg $2.50; the avocado add-on is redundant on the bowls.",
+   "menu": "menus/reveille-north-beach-2026-08.pdf",
+   "verified": "2026-08-31"
   },
-  "extras": [
-    {
-      "name": "Grocery Outlet",
-      "category": "grocery",
-      "subtype": "supermarket",
-      "addr": "350 Bay St",
-      "lat": 37.80559,
-      "lon": -122.41205,
-      "price": 1,
-      "health": "strong",
-      "notes": "Opened Aug 2026 in the old Safeway space, across from Trader Joe's. Deep-discount pantry staples; stock rotates. Not yet in OSM.",
-      "verified": "2026-08-29"
-    },
-    {
-      "name": "Fiddle Fig Cafe",
-      "category": "cafe",
-      "subtype": "cafe",
-      "addr": "790 Lombard St (at Taylor)",
-      "lat": 37.80249,
-      "lon": -122.4165,
-      "price": 2,
-      "health": "ok",
-      "laptops": true,
-      "notes": "Roomy, plant-filled, laptop-normal. Wifi password 'coffeeandplants', outlets, sunny corner + sidewalk seats. Good breakfast burrito. Not yet in OSM.",
-      "verified": "2026-08-30"
-    },
-    {
-      "name": "Stockton St produce stalls",
-      "category": "grocery",
-      "subtype": "greengrocer",
-      "addr": "Stockton St, Broadway to Washington",
-      "lat": 37.7969,
-      "lon": -122.4081,
-      "price": 1,
-      "health": "strong",
-      "applePay": false,
-      "notes": "Cheapest produce in SF; several stalls, treat as one corridor. Mostly cash — bring small bills. Google Translate camera mode for labels.",
-      "verified": "2026-08-29"
-    }
-  ]
+  "cavalli cafe": {
+   "price": 2,
+   "verdict": "ok",
+   "applePay": true,
+   "laptops": true,
+   "notes": "Two floors, 2nd floor good for relaxed work; open late (Mon 10pm, Tue-Sun ~11pm) when most cafes here close by 4. Decaf lattes. Food is comfort Italian (panini, cannoli); the tuna sandwich is the most substantial. DPH: Conditional Pass on 2025-08-05 with 8 violations (2016-19 score 96); check the current placard.",
+   "verified": "2026-08-31"
+  },
+  "comptons coffe house": {
+   "price": 2,
+   "verdict": "ok",
+   "laptops": true,
+   "notes": "Backup office: free fast wifi, outlet bar under counter, ~6 solo tables; tight at peak, go early. Apple Pay unverified.",
+   "verified": "2026-08-30"
+  },
+  "caffe trieste": {
+   "price": 2,
+   "verdict": "ok",
+   "applePay": false,
+   "laptops": false,
+   "notes": "CASH-LEANING. Oldest espresso bar on the West Coast (1956). Weekend cappuccino spot, culturally analog — not an office. Open late (~10pm).",
+   "verified": "2026-08-30"
+  },
+  "caffe greco": {
+   "price": 2,
+   "verdict": "ok",
+   "applePay": false,
+   "laptops": false,
+   "notes": "CASH ONLY (verified in person). Open until ~11pm — the evening decaf-latte spot once you carry cash. Joe-app mobile ordering listing is stale.",
+   "verified": "2026-08-30"
+  },
+  "molinari delicatessen": {
+   "price": 2,
+   "verdict": "ok",
+   "notes": "100-year-old deli next door to 371 Columbus. Custom Sandwich $19.25 (verified 8/31): oven roasted turkey, soft roll, lettuce, tomatoes, mustard, no cheese; sweet bell peppers +$1. Online pickup orders 9am-5:10pm. Cured-meat specials are the splurge. Closed Sundays.",
+   "verified": "2026-08-31",
+   "applePay": true
+  },
+  "trader joes": {
+   "price": 1,
+   "verdict": "pick",
+   "notes": "Staples HQ, open to 9pm; has a parking lot. Zero-cook dinner: Just Grilled Chicken Strips + salad kit + avocado (~$8); steamed lentils; tofu spring rolls (fresh, not fried; appetizer-sized); pre-peeled boiled eggs; Greek yogurt; frozen meals as the backup.",
+   "verified": "2026-08-30"
+  },
+  "lukes local grocery": {
+   "price": 3,
+   "verdict": "pick",
+   "notes": "2 min walk, 8am-9pm. Quality tier but pricey (deli plates ~$16, $11 small burrito, verified). Role: emergency ingredients + a prepared dinner when the TJ's window is missed, not staples or everyday lunch. Real butcher counter.",
+   "verified": "2026-08-31"
+  },
+  "wok shop": {
+   "price": 1,
+   "notes": "Buy the 6-qt stockpot here (sous vide bath + soup pot). Cheap restaurant-grade kitchenware.",
+   "verified": "2026-08-29"
+  },
+  "golden boy pizza": {
+   "price": 1,
+   "verdict": "treat",
+   "notes": "Legendary focaccia squares. A treat rather than a weeknight default."
+  },
+  "vital tea leaf": {
+   "price": 1,
+   "verdict": "pick",
+   "notes": "Free try-before-you-buy tasting bar, ~300 teas (ask for Uncle Gee). Loose-leaf green works out to ~$0.30/cup at home.",
+   "verified": "2026-08-30"
+  },
+  "gourmet delight bbq": {
+   "price": 1,
+   "verdict": "ok",
+   "notes": "Mixed record: 2019 numeric score 79 (6 violations incl. high-risk temperature holding) and recent reviews citing cleanliness, but the latest SF DPH inspection (2026-02-19) is a Pass with 0 violations. Kam Po (Pass 2025-09, 0 violations) is the steadier pick for roast meat.",
+   "verified": "2026-09-09"
+  },
+  "kam po kitchen": {
+   "price": 1,
+   "verdict": "pick",
+   "notes": "Best-known roast-meat shop in the neighborhood (Broadway at Powell), 4.8/5 on ~1,400 reviews, famous roast duck. Last inspection on record 88 (2018). Cash only. Order: two-item plate, roast duck + white-cut chicken, extra choy sum, sauce on the side. Crispy pork belly is the indulgent option.",
+   "verified": "2026-09-09"
+  },
+  "hons wun tun house": {
+   "price": 1,
+   "verdict": "ok",
+   "notes": "Wonton noodle soup, one block from Betty Ann Ong. The lighter option on this stretch. Cash. Last inspection on record: 100, zero violations (2018).",
+   "verified": "2026-09-09"
+  }
+ },
+ "extras": [
+  {
+   "name": "Grocery Outlet",
+   "category": "grocery",
+   "subtype": "supermarket",
+   "addr": "350 Bay St",
+   "lat": 37.80559,
+   "lon": -122.41205,
+   "price": 1,
+   "verdict": "pick",
+   "notes": "Opened Aug 2026 in the old Safeway space, across from Trader Joe's. Deep-discount pantry staples; stock rotates. Not yet in OSM.",
+   "verified": "2026-08-29"
+  },
+  {
+   "name": "Fiddle Fig Cafe",
+   "category": "cafe",
+   "subtype": "cafe",
+   "addr": "790 Lombard St (at Taylor)",
+   "lat": 37.80249,
+   "lon": -122.4165,
+   "price": 2,
+   "verdict": "ok",
+   "laptops": true,
+   "notes": "Roomy, plant-filled, laptop-normal. Wifi (ask at the counter), outlets, sunny corner + sidewalk seats. Good breakfast burrito. Not yet in OSM.",
+   "verified": "2026-08-30"
+  },
+  {
+   "name": "Stockton St produce stalls",
+   "category": "grocery",
+   "subtype": "greengrocer",
+   "addr": "Stockton St, Broadway to Washington",
+   "lat": 37.7969,
+   "lon": -122.4081,
+   "price": 1,
+   "verdict": "pick",
+   "applePay": false,
+   "notes": "Cheapest produce in SF; several stalls, treat as one corridor. Mostly cash — bring small bills. Google Translate camera mode for labels.",
+   "verified": "2026-08-29"
+  }
+ ]
 }

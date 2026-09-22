@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Attach SF DPH health-inspection history to the North Beach POIs.
+"""Attach SF DPH inspection history to the POIs.
 
 Inputs (produced by scripts/fetch_inspections.py; CSVs are committed):
   data/inspections/inspections_2016_2019.csv            LIVES era, numeric score

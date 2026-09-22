@@ -32,7 +32,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://data.sf.gov/resource/wg3w-h783.json"
-UA = "nb-food/0.2 (personal research; danny@therenthacker.com)"
+UA = "nb-food/0.3 (personal research)"
 RADIUS_M = 150
 PULL_PAD_M = 200  # pull bbox = POI bbox grown by this, so a POI on the edge still gets its full circle
 WINDOW_DAYS = 365

@@ -33,7 +33,7 @@ MIRRORS = [
     "https://overpass.kumi.systems/api/interpreter",
     "https://maps.mail.ru/osm/tools/overpass/api/interpreter",
 ]
-UA = "nb-food/0.2 (personal research; danny@therenthacker.com)"
+UA = "nb-food/0.3 (personal research)"
 MAX_STALE_DAYS = 14  # a mirror whose osm_base is older than this is kept only as a fallback
 GROCERY_SHOPS = {"supermarket", "greengrocer", "convenience", "grocery",
                  "health_food", "butcher", "seafood", "bakery", "deli"}

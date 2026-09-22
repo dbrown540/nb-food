@@ -1,0 +1,6 @@
+#!/bin/sh
+# Gates for this public repo. Enable once per clone: git config core.hooksPath .githooks
+set -e
+cd "$(git rev-parse --show-toplevel)"
+python3 scripts/check_public.py
+python3 scripts/check_data.py
