@@ -1,0 +1,16 @@
+{
+ "entry": {
+  "verdict": "pick",
+  "verified": "2026-08-31"
+ },
+ "today": "2026-10-01",
+ "cfg": {
+  "verdicts": [
+   "pick",
+   "ok",
+   "treat"
+  ],
+  "reviewAfterDays": 365
+ },
+ "warnDays": 30
+}

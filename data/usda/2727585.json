@@ -1,0 +1,162 @@
+{
+ "fdcId": 2727585,
+ "dataType": "Foundation",
+ "description": "Green onion, (scallion), bulb and greens, root removed, raw",
+ "publicationDate": "4/24/2025",
+ "fetched_at": "2026-09-24T05:02:35+00:00",
+ "nutrients": [
+  {
+   "id": 1002,
+   "number": "202",
+   "name": "Nitrogen",
+   "unit": "g",
+   "amount": 0.107
+  },
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 0.66875
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 0.6269
+  },
+  {
+   "id": 1010,
+   "number": "210",
+   "name": "Sucrose",
+   "unit": "g",
+   "amount": 0.2375
+  },
+  {
+   "id": 1011,
+   "number": "211",
+   "name": "Glucose",
+   "unit": "g",
+   "amount": 0.985
+  },
+  {
+   "id": 1012,
+   "number": "212",
+   "name": "Fructose",
+   "unit": "g",
+   "amount": 1.333
+  },
+  {
+   "id": 1013,
+   "number": "213",
+   "name": "Lactose",
+   "unit": "g",
+   "amount": 0.03125
+  },
+  {
+   "id": 1014,
+   "number": "214",
+   "name": "Maltose",
+   "unit": "g",
+   "amount": 0.03125
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 91.67
+  },
+  {
+   "id": 1063,
+   "number": "269.3",
+   "name": "Sugars, Total",
+   "unit": "g",
+   "amount": 2.618
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 2.3
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 59.44
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 1.044
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 18.94
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 27.86
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 232.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 9.948
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.2484
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.03499
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.2713
+  },
+  {
+   "id": 1176,
+   "number": "416",
+   "name": "Biotin",
+   "unit": "µg",
+   "amount": 0.95
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 RACC",
+   "gram_weight": 85.0
+  }
+ ]
+}

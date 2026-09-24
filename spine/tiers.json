@@ -1,0 +1,72 @@
+{
+ "order": [
+  "T0",
+  "T1",
+  "T2",
+  "T3",
+  "T4",
+  "H"
+ ],
+ "tiers": {
+  "T0": {
+   "tool": "a dated ruling or data table",
+   "kinds": [
+    "ruling",
+    "data"
+   ]
+  },
+  "T1": {
+   "tool": "deterministic code",
+   "kinds": [
+    "code"
+   ]
+  },
+  "T2": {
+   "tool": "constrained classifier",
+   "kinds": [
+    "battery"
+   ]
+  },
+  "T3": {
+   "tool": "one bounded model call whose output code checks",
+   "kinds": [
+    "prompt"
+   ]
+  },
+  "T4": {
+   "tool": "model reasoning loop",
+   "kinds": [
+    "prompt"
+   ]
+  },
+  "H": {
+   "tool": "owner ruling or review",
+   "kinds": [
+    "ruling"
+   ]
+  }
+ },
+ "grains": [
+  "item",
+  "menu",
+  "place"
+ ],
+ "onReject": [
+  "halt",
+  "drop",
+  "hold"
+ ],
+ "coverage": {
+  "interim": true,
+  "pattern": "^def (check_[a-z_]+)\\(",
+  "files": [
+   "scripts/check_data.py",
+   "scripts/tag_items.py",
+   "scripts/check_public.py",
+   "scripts/map_foods.py",
+   "scripts/usda.py"
+  ],
+  "reviewBy": "2026-12-31",
+  "note": "Coverage by name pattern until enforcers register themselves at run time."
+ }
+}

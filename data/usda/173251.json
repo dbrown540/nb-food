@@ -1,0 +1,190 @@
+{
+ "fdcId": 173251,
+ "dataType": "SR Legacy",
+ "description": "Archway Home Style Cookies, Old Fashioned Windmill Cookies",
+ "publicationDate": "4/1/2019",
+ "fetched_at": "2026-09-24T05:00:54+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 5.17
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 17.55
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 72.23
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 2.05
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 468.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 3.0
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 1956.0
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 1.8
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 36.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 3.06
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 113.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 471.0
+  },
+  {
+   "id": 1104,
+   "number": "318",
+   "name": "Vitamin A, IU",
+   "unit": "IU",
+   "amount": 2.0
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1165,
+   "number": "404",
+   "name": "Thiamin",
+   "unit": "mg",
+   "amount": 0.34
+  },
+  {
+   "id": 1166,
+   "number": "405",
+   "name": "Riboflavin",
+   "unit": "mg",
+   "amount": 0.25
+  },
+  {
+   "id": 1167,
+   "number": "406",
+   "name": "Niacin",
+   "unit": "mg",
+   "amount": 2.94
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 82.0
+  },
+  {
+   "id": 1187,
+   "number": "432",
+   "name": "Folate, food",
+   "unit": "µg",
+   "amount": 82.0
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 1.0
+  },
+  {
+   "id": 1257,
+   "number": "605",
+   "name": "Fatty acids, total trans",
+   "unit": "g",
+   "amount": 4.3
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 3.75
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 7.82
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 1.67
+  },
+  {
+   "id": 2000,
+   "number": "269",
+   "name": "Total Sugars",
+   "unit": "g",
+   "amount": 32.64
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 serving",
+   "gram_weight": 20.0
+  }
+ ]
+}

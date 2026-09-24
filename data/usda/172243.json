@@ -1,0 +1,155 @@
+{
+ "fdcId": 172243,
+ "dataType": "SR Legacy",
+ "description": "Seasoning mix, dry, taco, original",
+ "publicationDate": "4/1/2019",
+ "fetched_at": "2026-09-24T05:00:45+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 4.5
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 58.0
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 31.8
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 322.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 5.7
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 1346.0
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 13.3
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 7.2
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 1000.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 7203.0
+  },
+  {
+   "id": 1104,
+   "number": "318",
+   "name": "Vitamin A, IU",
+   "unit": "IU",
+   "amount": 3744.0
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1187,
+   "number": "432",
+   "name": "Folate, food",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1257,
+   "number": "605",
+   "name": "Fatty acids, total trans",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 2000,
+   "number": "269",
+   "name": "Total Sugars",
+   "unit": "g",
+   "amount": 10.83
+  }
+ ],
+ "portions": [
+  {
+   "description": "2.0 tsp",
+   "gram_weight": 5.7
+  }
+ ]
+}

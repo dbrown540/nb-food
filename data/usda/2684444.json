@@ -1,0 +1,288 @@
+{
+ "fdcId": 2684444,
+ "dataType": "Foundation",
+ "description": "Fish, cod, Atlantic, wild caught, raw",
+ "publicationDate": "4/18/2024",
+ "fetched_at": "2026-09-24T05:02:21+00:00",
+ "nutrients": [
+  {
+   "id": 1002,
+   "number": "202",
+   "name": "Nitrogen",
+   "unit": "g",
+   "amount": 2.571
+  },
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 16.06875
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 0.6675
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 1.478
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 82.86
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 6.59
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 0.065
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 17.98
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 224.1
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 245.1
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 298.8
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.3051
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.003963
+  },
+  {
+   "id": 1100,
+   "number": "314",
+   "name": "Iodine, I",
+   "unit": "µg",
+   "amount": 113.7
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1103,
+   "number": "317",
+   "name": "Selenium, Se",
+   "unit": "µg",
+   "amount": 22.79
+  },
+  {
+   "id": 1105,
+   "number": "319",
+   "name": "Retinol",
+   "unit": "µg",
+   "amount": 0.9234
+  },
+  {
+   "id": 1178,
+   "number": "418",
+   "name": "Vitamin B-12",
+   "unit": "µg",
+   "amount": 1.248
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 47.44
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 0.044
+  },
+  {
+   "id": 1259,
+   "number": "607",
+   "name": "SFA 4:0",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 1260,
+   "number": "608",
+   "name": "SFA 6:0",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 1261,
+   "number": "609",
+   "name": "SFA 8:0",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 1262,
+   "number": "610",
+   "name": "SFA 10:0",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 1263,
+   "number": "611",
+   "name": "SFA 12:0",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 1264,
+   "number": "612",
+   "name": "SFA 14:0",
+   "unit": "g",
+   "amount": 0.002
+  },
+  {
+   "id": 1265,
+   "number": "613",
+   "name": "SFA 16:0",
+   "unit": "g",
+   "amount": 0.031
+  },
+  {
+   "id": 1266,
+   "number": "614",
+   "name": "SFA 18:0",
+   "unit": "g",
+   "amount": 0.01
+  },
+  {
+   "id": 1272,
+   "number": "621",
+   "name": "PUFA 22:6 n-3 (DHA)",
+   "unit": "g",
+   "amount": 0.054
+  },
+  {
+   "id": 1278,
+   "number": "629",
+   "name": "PUFA 20:5 n-3 (EPA)",
+   "unit": "g",
+   "amount": 0.018
+  },
+  {
+   "id": 1280,
+   "number": "631",
+   "name": "PUFA 22:5 n-3 (DPA)",
+   "unit": "g",
+   "amount": 0.003
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 0.026
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 0.081
+  },
+  {
+   "id": 1315,
+   "number": "674",
+   "name": "MUFA 18:1 c",
+   "unit": "g",
+   "amount": 0.012
+  },
+  {
+   "id": 1316,
+   "number": "675",
+   "name": "PUFA 18:2 n-6 c,c",
+   "unit": "g",
+   "amount": 0.001
+  },
+  {
+   "id": 1404,
+   "number": "851",
+   "name": "PUFA 18:3 n-3 c,c,c (ALA)",
+   "unit": "g",
+   "amount": 0
+  },
+  {
+   "id": 2047,
+   "number": "957",
+   "name": "Energy (Atwater General Factors)",
+   "unit": "kcal",
+   "amount": 65.9855
+  },
+  {
+   "id": 2048,
+   "number": "958",
+   "name": "Energy (Atwater Specific Factors)",
+   "unit": "kcal",
+   "amount": 70.477065
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 RACC",
+   "gram_weight": 115.0
+  }
+ ]
+}

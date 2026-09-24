@@ -1,0 +1,15 @@
+{
+ "row": {
+  "id": "dim-sum-club--sweet-and-sour-pork",
+  "place": "Dim Sum Club",
+  "kind": "menu",
+  "section": "Chef's Special",
+  "name": "Sweet And Sour Pork",
+  "description": "",
+  "size": "",
+  "price": 8.0,
+  "source": "aggregator: allmenus menu page (no official site found)",
+  "as_of": "2026-09-22",
+  "status": "partial"
+ }
+}

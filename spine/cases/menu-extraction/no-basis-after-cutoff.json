@@ -1,0 +1,22 @@
+{
+ "keys": [
+  "Case Cafe"
+ ],
+ "basisRequiredFrom": "2026-09-24",
+ "file": {
+  "name": "Case Cafe",
+  "addr": "1 Case St",
+  "menu_url": null,
+  "source": "case",
+  "as_of": "2026-10-01",
+  "status": "ok",
+  "items": [
+   {
+    "section": "Mains",
+    "item": "Soup",
+    "price": 9.0,
+    "description": "tomato"
+   }
+  ]
+ }
+}

@@ -1,0 +1,141 @@
+{
+ "fdcId": 2727572,
+ "dataType": "Foundation",
+ "description": "Beef, short loin (NY strip steak), raw",
+ "publicationDate": "4/24/2025",
+ "fetched_at": "2026-09-24T05:02:35+00:00",
+ "nutrients": [
+  {
+   "id": 1002,
+   "number": "202",
+   "name": "Nitrogen",
+   "unit": "g",
+   "amount": 3.412
+  },
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 21.325
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 11.54
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 0.2212
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 0.9638
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 65.95
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 5.043
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 1.608
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 19.5
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 171.4
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 323.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 43.09
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 3.284
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.04304
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.001563
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 57.6
+  },
+  {
+   "id": 2047,
+   "number": "957",
+   "name": "Energy (Atwater General Factors)",
+   "unit": "kcal",
+   "amount": 190.0448
+  },
+  {
+   "id": 2048,
+   "number": "958",
+   "name": "Energy (Atwater Specific Factors)",
+   "unit": "kcal",
+   "amount": 196.004594
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 RACC",
+   "gram_weight": 114.0
+  }
+ ]
+}

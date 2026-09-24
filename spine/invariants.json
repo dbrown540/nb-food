@@ -1,0 +1,157 @@
+{
+ "invariants": [
+  {
+   "id": "layers-keyed-to-places",
+   "statement": "Every enrichment record belongs to exactly one place in the index, and every place has a street-risk record.",
+   "scope": [
+    "places"
+   ],
+   "implementers": [
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/check_data.py",
+     "symbol": "check_layer_keys",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_check_data.py"
+    }
+   ],
+   "cases": [
+    {
+     "given": "every record keyed to a place",
+     "call": "scripts/check_data.py:check_layer_keys",
+     "input": "spine/cases/layers-keyed-to-places/keyed.json",
+     "expect": {
+      "problems": 0
+     }
+    },
+    {
+     "given": "a risk record for no place",
+     "call": "scripts/check_data.py:check_layer_keys",
+     "input": "spine/cases/layers-keyed-to-places/orphan.json",
+     "expect": {
+      "problems": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "derived-not-transcribed",
+   "statement": "Every derived table is exactly what its derivation writes from its sources; none is edited by hand.",
+   "scope": [
+    "menus"
+   ],
+   "implementers": [
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/check_data.py",
+     "symbol": "check_derived",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_check_data.py"
+    }
+   ],
+   "cases": [
+    {
+     "given": "the committed table equals the derivation",
+     "call": "scripts/check_data.py:derived_case",
+     "input": "spine/cases/derived-not-transcribed/same.json",
+     "expect": {
+      "stale": false
+     }
+    },
+    {
+     "given": "a row typed into the committed table",
+     "call": "scripts/check_data.py:derived_case",
+     "input": "spine/cases/derived-not-transcribed/hand-edited.json",
+     "expect": {
+      "stale": true
+     }
+    }
+   ]
+  },
+  {
+   "id": "public-content",
+   "statement": "Nothing tracked describes who uses the index: only places, their public records and their own words.",
+   "scope": [
+    "menus",
+    "places"
+   ],
+   "implementers": [
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/check_public.py",
+     "symbol": "scan_text",
+     "calledBy": "scripts/check_public.py",
+     "onReject": "halt",
+     "tests": "tests/test_check_public.py"
+    }
+   ],
+   "cases": [
+    {
+     "given": "a menu line",
+     "call": "scripts/check_public.py:scan_case",
+     "input": "spine/cases/public-content/place-words.json",
+     "expect": {
+      "hits": 0
+     }
+    },
+    {
+     "given": "a regimen word in a menu file",
+     "call": "scripts/check_public.py:scan_case",
+     "input": "spine/cases/public-content/regimen-word.json",
+     "expect": {
+      "hits": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "usda-records-cached",
+   "statement": "Every public food record the index relies on is a whole, dated copy kept in the repository, and a lookup reads that copy.",
+   "scope": [
+    "nutrients"
+   ],
+   "implementers": [
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/usda.py",
+     "symbol": "check_usda_cache",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_map_foods.py"
+    }
+   ],
+   "cases": [
+    {
+     "given": "a whole record named by its id",
+     "call": "scripts/usda.py:record_case",
+     "input": "spine/cases/usda-records/whole-dated.json",
+     "expect": {
+      "problems": 0
+     }
+    },
+    {
+     "given": "a record with no fetch date",
+     "call": "scripts/usda.py:record_case",
+     "input": "spine/cases/usda-records/undated.json",
+     "expect": {
+      "problems": 1
+     }
+    },
+    {
+     "given": "a record filed under another id",
+     "call": "scripts/usda.py:record_case",
+     "input": "spine/cases/usda-records/misnamed.json",
+     "expect": {
+      "problems": 1
+     }
+    }
+   ]
+  }
+ ]
+}

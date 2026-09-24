@@ -1,0 +1,314 @@
+{
+ "stage": "menus",
+ "story": "Each place's menu or store product list is read from the place's own published source into items with their listed words and prices. A list older than the kept age is flagged, and once past due it stops the build until it is refreshed or an extension is ruled. Every item is then read for a fixed vocabulary of food attributes, and each attribute is answered present, absent or unknown from the item's own words.",
+ "principles": [
+  {
+   "id": "menu-extraction",
+   "statement": "A menu item is recorded only as its place's source lists it, with the source's own words and price, and nothing is inferred or completed.",
+   "grain": "menu",
+   "tier": "T3",
+   "whyNotLower": "Menus arrive as web pages, PDFs and photographs with no shared structure; no parser or closed answer set covers them. A store's structured product feed is parsed by code instead and records that basis.",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "prompt",
+     "path": "spine/prompts/menu-extract.md",
+     "contentHash": "sha256:cad26f6dfcb65d52808ab71525a11ea198f6b68f4c11593bd3956826c2bbd575",
+     "outputs": {
+      "format": "menu-files",
+      "paths": [
+       "data/menus",
+       "data/products"
+      ],
+      "requiredFrom": "menu-extraction.basisRequiredFrom"
+     },
+     "pins": "data/menus"
+    },
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/check_data.py",
+     "symbol": "check_menu_extraction",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_check_data.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "menu-extraction"
+    }
+   ],
+   "gap": {
+    "text": "Menu files dated before the basis cutoff were extracted in agent sessions that recorded no model or prompt, and no gate re-reads a source to confirm an item's words and price.",
+    "reviewBy": "2026-12-31"
+   },
+   "cases": [
+    {
+     "given": "a file with every row well formed and its extraction basis",
+     "call": "scripts/check_data.py:menu_file_case",
+     "input": "spine/cases/menu-extraction/with-basis.json",
+     "expect": {
+      "problems": 0
+     }
+    },
+    {
+     "given": "a file dated after the cutoff with no extraction basis",
+     "call": "scripts/check_data.py:menu_file_case",
+     "input": "spine/cases/menu-extraction/no-basis-after-cutoff.json",
+     "expect": {
+      "problems": 1
+     }
+    },
+    {
+     "given": "a price written as text",
+     "call": "scripts/check_data.py:menu_file_case",
+     "input": "spine/cases/menu-extraction/price-as-text.json",
+     "expect": {
+      "problems": 1
+     }
+    }
+   ]
+  },
+  {
+   "id": "menu-freshness",
+   "statement": "A menu older than the kept age is flagged, and once past due it stops the build until it is refreshed or an extension is ruled.",
+   "grain": "menu",
+   "tier": "T1",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "code",
+     "path": "scripts/freshness.py",
+     "symbol": "menu_age",
+     "tests": "tests/test_freshness.py"
+    },
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/check_data.py",
+     "symbol": "check_menu_freshness",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_check_data.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "menu-freshness"
+    },
+    {
+     "path": "spine/bindings.json",
+     "key": "time"
+    }
+   ],
+   "inputs": [
+    {
+     "principle": "menu-extraction",
+     "field": "as_of",
+     "grain": "menu"
+    }
+   ],
+   "cases": [
+    {
+     "given": "read nine days ago",
+     "call": "scripts/freshness.py:age_case",
+     "input": "spine/cases/menu-freshness/current.json",
+     "expect": {
+      "status": "current"
+     }
+    },
+    {
+     "given": "inside the warning window",
+     "call": "scripts/freshness.py:age_case",
+     "input": "spine/cases/menu-freshness/due-soon.json",
+     "expect": {
+      "status": "due-soon"
+     }
+    },
+    {
+     "given": "past its due date",
+     "call": "scripts/freshness.py:age_case",
+     "input": "spine/cases/menu-freshness/stale.json",
+     "expect": {
+      "status": "stale"
+     }
+    }
+   ]
+  },
+  {
+   "id": "item-attributes",
+   "statement": "An item has an attribute only when its own words say so, lacks it only when its own words rule it out, and is otherwise unknown; the absence of a word is never evidence of absence.",
+   "grain": "item",
+   "tier": "T2",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "cascade",
+     "route": {
+      "path": "scripts/tag_items.py",
+      "symbol": "route_attribute",
+      "tests": "tests/test_tag_items.py",
+      "bindings": [
+       {
+        "path": "spine/bindings.json",
+        "key": "item-attributes"
+       }
+      ]
+     },
+     "paths": [
+      {
+       "tier": "T2",
+       "kind": "battery",
+       "label": "repeated readings agree, and a present answer quotes the item",
+       "path": "spine/battery/item-attributes.md",
+       "hashes": [
+        "spine/battery/item-attributes.md",
+        "data/attributes.json"
+       ],
+       "contentHash": "sha256:152188ddc708a29e2c3def3d373d2bc266af19b95ccbfa02822cb08a990be483",
+       "outputs": {
+        "format": "pins",
+        "path": "data/tag_pins.jsonl"
+       },
+       "pins": "data/tag_pins.jsonl",
+       "gap": {
+        "text": "No labelled sample has been measured against this battery; a spot check is not a measurement.",
+        "reviewBy": "2026-12-31"
+       }
+      },
+      {
+       "tier": "T1",
+       "kind": "code",
+       "label": "readings disagree, or a present answer quotes nothing in the item: unknown",
+       "path": "scripts/tag_items.py",
+       "symbol": "route_attribute"
+      }
+     ]
+    },
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/tag_items.py",
+     "symbol": "check_item_tags",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_tag_items.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "item-attributes"
+    },
+    {
+     "path": "data/attributes.json",
+     "key": "attributes"
+    }
+   ],
+   "inputs": [
+    {
+     "principle": "menu-extraction",
+     "field": "items",
+     "grain": "menu"
+    }
+   ],
+   "cases": [
+    {
+     "given": "words that name the frying",
+     "call": "scripts/tag_items.py:decide_case",
+     "input": "spine/cases/item-attributes/fried-words.json",
+     "expect": {
+      "tagged": true,
+      "answers": {
+       "fried": "yes"
+      }
+     }
+    },
+    {
+     "given": "a dish whose parts are not listed",
+     "call": "scripts/tag_items.py:decide_case",
+     "input": "spine/cases/item-attributes/dish-parts-unlisted.json",
+     "expect": {
+      "tagged": true,
+      "answers": {
+       "nuts": "unknown",
+       "seeds": "unknown",
+       "fried": "unknown"
+      }
+     }
+    },
+    {
+     "given": "a name that contains a nut word but is not a nut",
+     "call": "scripts/tag_items.py:decide_case",
+     "input": "spine/cases/item-attributes/butternut-not-nut.json",
+     "expect": {
+      "tagged": true,
+      "answers": {
+       "nuts": "no"
+      }
+     }
+    },
+    {
+     "given": "two readings quote the item: at the agreement bar",
+     "call": "scripts/tag_items.py:route_case",
+     "input": "spine/cases/item-attributes/route-agree-yes.json",
+     "expect": {
+      "answer": "yes",
+      "agree": 2
+     }
+    },
+    {
+     "given": "one reading quotes the item: just below the bar",
+     "call": "scripts/tag_items.py:route_case",
+     "input": "spine/cases/item-attributes/route-one-yes-below.json",
+     "expect": {
+      "answer": "unknown"
+     }
+    },
+    {
+     "given": "every reading says present but quotes words the item does not have",
+     "call": "scripts/tag_items.py:route_case",
+     "input": "spine/cases/item-attributes/route-yes-quotes-nothing.json",
+     "expect": {
+      "answer": "unknown"
+     }
+    },
+    {
+     "given": "absent in all but one reading: just below the bar for absent",
+     "call": "scripts/tag_items.py:route_case",
+     "input": "spine/cases/item-attributes/route-no-short-of-all.json",
+     "expect": {
+      "answer": "unknown"
+     }
+    }
+   ]
+  }
+ ],
+ "consumers": [
+  {
+   "id": "item-table",
+   "path": "data/menu_items.json",
+   "inputs": [
+    {
+     "principle": "menu-extraction",
+     "field": "items",
+     "grain": "menu"
+    }
+   ]
+  },
+  {
+   "id": "item-tags",
+   "path": "data/item_tags.json",
+   "inputs": [
+    {
+     "principle": "item-attributes",
+     "field": "tags",
+     "grain": "item"
+    }
+   ]
+  }
+ ]
+}

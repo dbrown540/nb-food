@@ -1,0 +1,225 @@
+{
+ "fdcId": 748608,
+ "dataType": "Foundation",
+ "description": "Oil, olive, extra virgin",
+ "publicationDate": "12/16/2019",
+ "fetched_at": "2026-09-24T05:02:14+00:00",
+ "nutrients": [
+  {
+   "id": 1085,
+   "number": "298",
+   "name": "Total fat (NLEA)",
+   "unit": "g",
+   "amount": 93.7
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 15.4
+  },
+  {
+   "id": 1264,
+   "number": "612",
+   "name": "SFA 14:0",
+   "unit": "g",
+   "amount": 0.013
+  },
+  {
+   "id": 1265,
+   "number": "613",
+   "name": "SFA 16:0",
+   "unit": "g",
+   "amount": 12.1
+  },
+  {
+   "id": 1266,
+   "number": "614",
+   "name": "SFA 18:0",
+   "unit": "g",
+   "amount": 2.59
+  },
+  {
+   "id": 1267,
+   "number": "615",
+   "name": "SFA 20:0",
+   "unit": "g",
+   "amount": 0.411
+  },
+  {
+   "id": 1273,
+   "number": "624",
+   "name": "SFA 22:0",
+   "unit": "g",
+   "amount": 0.118
+  },
+  {
+   "id": 1285,
+   "number": "638",
+   "name": "Stigmasterol",
+   "unit": "mg",
+   "amount": 1.02
+  },
+  {
+   "id": 1286,
+   "number": "639",
+   "name": "Campesterol",
+   "unit": "mg",
+   "amount": 5.68
+  },
+  {
+   "id": 1287,
+   "number": "640",
+   "name": "Brassicasterol",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1288,
+   "number": "641",
+   "name": "Beta-sitosterol",
+   "unit": "mg",
+   "amount": 126.0
+  },
+  {
+   "id": 1289,
+   "number": "642",
+   "name": "Campestanol",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 69.2
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 9.07
+  },
+  {
+   "id": 1294,
+   "number": "647",
+   "name": "Beta-sitostanol",
+   "unit": "mg",
+   "amount": 2.55
+  },
+  {
+   "id": 1296,
+   "number": "649",
+   "name": "Delta-5-avenasterol",
+   "unit": "mg",
+   "amount": 23.1
+  },
+  {
+   "id": 1298,
+   "number": "651",
+   "name": "Phytosterols, other",
+   "unit": "mg",
+   "amount": 26.9
+  },
+  {
+   "id": 1299,
+   "number": "652",
+   "name": "SFA 15:0",
+   "unit": "g",
+   "amount": 0.006
+  },
+  {
+   "id": 1300,
+   "number": "653",
+   "name": "SFA 17:0",
+   "unit": "g",
+   "amount": 0.081
+  },
+  {
+   "id": 1301,
+   "number": "654",
+   "name": "SFA 24:0",
+   "unit": "g",
+   "amount": 0.062
+  },
+  {
+   "id": 1314,
+   "number": "673",
+   "name": "MUFA 16:1 c",
+   "unit": "g",
+   "amount": 1.03
+  },
+  {
+   "id": 1315,
+   "number": "674",
+   "name": "MUFA 18:1 c",
+   "unit": "g",
+   "amount": 67.8
+  },
+  {
+   "id": 1316,
+   "number": "675",
+   "name": "PUFA 18:2 n-6 c,c",
+   "unit": "g",
+   "amount": 8.4
+  },
+  {
+   "id": 1404,
+   "number": "851",
+   "name": "PUFA 18:3 n-3 c,c,c (ALA)",
+   "unit": "g",
+   "amount": 0.651
+  },
+  {
+   "id": 1406,
+   "number": "853",
+   "name": "PUFA 20:3 n-6",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 2006,
+   "number": "681",
+   "name": "SFA 21:0",
+   "unit": "g",
+   "amount": 0.014
+  },
+  {
+   "id": 2012,
+   "number": "829",
+   "name": "MUFA 20:1 c",
+   "unit": "g",
+   "amount": 0.276
+  },
+  {
+   "id": 2016,
+   "number": "831",
+   "name": "PUFA 18:2 c",
+   "unit": "g",
+   "amount": 8.4
+  },
+  {
+   "id": 2018,
+   "number": "833",
+   "name": "PUFA 18:3 c",
+   "unit": "g",
+   "amount": 0.651
+  },
+  {
+   "id": 2020,
+   "number": "835",
+   "name": "PUFA 20:3 c",
+   "unit": "g",
+   "amount": 0.0
+  }
+ ],
+ "portions": [
+  {
+   "description": "100.0 milliliter",
+   "gram_weight": 90.7
+  }
+ ]
+}

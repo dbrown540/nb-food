@@ -1,0 +1,23 @@
+{
+ "text": "Item: Green Salad",
+ "agreeYes": 2,
+ "agreeNo": 3,
+ "samples": [
+  [
+   "n",
+   [
+    "Green Salad"
+   ]
+  ],
+  [
+   "n",
+   [
+    "Salad"
+   ]
+  ],
+  [
+   "u",
+   []
+  ]
+ ]
+}

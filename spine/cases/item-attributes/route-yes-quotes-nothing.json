@@ -1,0 +1,25 @@
+{
+ "text": "Item: Calamari",
+ "agreeYes": 2,
+ "agreeNo": 3,
+ "samples": [
+  [
+   "y",
+   [
+    "crispy"
+   ]
+  ],
+  [
+   "y",
+   [
+    "deep fried"
+   ]
+  ],
+  [
+   "y",
+   [
+    "fried"
+   ]
+  ]
+ ]
+}

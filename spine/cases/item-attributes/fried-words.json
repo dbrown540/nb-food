@@ -1,0 +1,15 @@
+{
+ "row": {
+  "id": "amarena--frittura-mista",
+  "place": "Amarena",
+  "kind": "menu",
+  "section": "Small Plates",
+  "name": "Frittura Mista",
+  "description": "fried calamari, prawns, zucchini, spicy sauce",
+  "size": "",
+  "price": 24.0,
+  "source": "restaurant online-ordering page (DoorDash order.online storefront run for the restaurant; pickup view rendered in a browser)",
+  "as_of": "2026-09-22",
+  "status": "ok"
+ }
+}

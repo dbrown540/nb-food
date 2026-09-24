@@ -1,0 +1,219 @@
+{
+ "fdcId": 172241,
+ "dataType": "SR Legacy",
+ "description": "Vinegar, balsamic",
+ "publicationDate": "4/1/2019",
+ "fetched_at": "2026-09-24T05:00:45+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 0.49
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 17.03
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 0.37
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 88.0
+  },
+  {
+   "id": 1010,
+   "number": "210",
+   "name": "Sucrose",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1011,
+   "number": "211",
+   "name": "Glucose",
+   "unit": "g",
+   "amount": 7.57
+  },
+  {
+   "id": 1012,
+   "number": "212",
+   "name": "Fructose",
+   "unit": "g",
+   "amount": 7.38
+  },
+  {
+   "id": 1013,
+   "number": "213",
+   "name": "Lactose",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1014,
+   "number": "214",
+   "name": "Maltose",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 76.45
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 369.0
+  },
+  {
+   "id": 1075,
+   "number": "287",
+   "name": "Galactose",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 27.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 0.72
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 12.0
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 19.0
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 112.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 23.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.08
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.026
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.131
+  },
+  {
+   "id": 1104,
+   "number": "318",
+   "name": "Vitamin A, IU",
+   "unit": "IU",
+   "amount": 0.0
+  },
+  {
+   "id": 1106,
+   "number": "320",
+   "name": "Vitamin A, RAE",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1257,
+   "number": "605",
+   "name": "Fatty acids, total trans",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 2000,
+   "number": "269",
+   "name": "Total Sugars",
+   "unit": "g",
+   "amount": 14.95
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 tbsp",
+   "gram_weight": 16.0
+  },
+  {
+   "description": "1.0 tsp",
+   "gram_weight": 5.3
+  },
+  {
+   "description": "1.0 cup",
+   "gram_weight": 255.0
+  }
+ ]
+}

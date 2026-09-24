@@ -1,0 +1,17 @@
+{
+ "place": {
+  "name": "Golden Lantern",
+  "addr": "",
+  "lat": 37.7946,
+  "lon": -122.4058
+ },
+ "businesses": [
+  {
+   "name": "Golden Lantern",
+   "address": "",
+   "postal": "94108",
+   "lat": 37.7947,
+   "lon": -122.4059
+  }
+ ]
+}

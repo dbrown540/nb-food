@@ -1,0 +1,155 @@
+{
+ "fdcId": 2710824,
+ "dataType": "Foundation",
+ "description": "Avocado, Hass, peeled, raw",
+ "publicationDate": "10/31/2024",
+ "fetched_at": "2026-09-24T00:37:00+00:00",
+ "nutrients": [
+  {
+   "id": 1002,
+   "number": "202",
+   "name": "Nitrogen",
+   "unit": "g",
+   "amount": 0.29
+  },
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 1.8125
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 20.31
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 8.3235
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 2.554
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 67.0
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 14.46
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 0.6133
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 32.8
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 42.38
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 576.4
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.4596
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.2849
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.1966
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1175,
+   "number": "415",
+   "name": "Vitamin B-6",
+   "unit": "mg",
+   "amount": 0.1674
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 128.7
+  },
+  {
+   "id": 2047,
+   "number": "957",
+   "name": "Energy (Atwater General Factors)",
+   "unit": "kcal",
+   "amount": 223.334
+  },
+  {
+   "id": 2048,
+   "number": "958",
+   "name": "Energy (Atwater Specific Factors)",
+   "unit": "kcal",
+   "amount": 206.0493
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 RACC",
+   "gram_weight": 140.0
+  }
+ ]
+}

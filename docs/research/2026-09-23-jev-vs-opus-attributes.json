@@ -1,0 +1,1363 @@
+{
+ "date": "2026-09-23",
+ "jev_model_requested": "jev-1.13.0",
+ "opus_basis": {
+  "model": "claude-opus-5",
+  "battery": "sha256:55f28f74cc2339ccb8ad3890ad4205481af47d7001492cfde1d32e1e4dcfa60e",
+  "sampling": {
+   "samples": 3,
+   "effort": "low",
+   "thinking": "disabled",
+   "maxTokens": 1024,
+   "temperature": "provider default"
+  },
+  "hash": "989410aba6e3"
+ },
+ "questions": {
+  "fried": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'fried'? The attribute means: Cooked by frying: deep-fried, pan-fried, battered or breaded and fried, or tempura.",
+   "criteria": {
+    "yes": "The item's words say it has it. Cooked by frying: deep-fried, pan-fried, battered or breaded and fried, or tempura.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "spicy": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'spicy'? The attribute means: Hot with chili or another pungent heat: chili, hot pepper, hot sauce, wasabi, horseradish, strong black pepper.",
+   "criteria": {
+    "yes": "The item's words say it has it. Hot with chili or another pungent heat: chili, hot pepper, hot sauce, wasabi, horseradish, strong black pepper.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "acidic": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'acidic'? The attribute means: Sour or acidic: citrus, vinegar, tomato, pickled or sour-fermented components, sour fruit.",
+   "criteria": {
+    "yes": "The item's words say it has it. Sour or acidic: citrus, vinegar, tomato, pickled or sour-fermented components, sour fruit.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "nuts": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'nuts'? The attribute means: Contains tree nuts or peanuts, whole or as butter, flour, milk, oil, praline or a nut pesto (butternut squash, nutmeg and water chestnut are not nuts).",
+   "criteria": {
+    "yes": "The item's words say it has it. Contains tree nuts or peanuts, whole or as butter, flour, milk, oil, praline or a nut pesto (butternut squash, nutmeg and water chestnut are not nuts).",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "seeds": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'seeds'? The attribute means: Contains seeds as an ingredient or topping: sesame, poppy, sunflower, pumpkin, chia, flax, hemp, seeded bread or tahini.",
+   "criteria": {
+    "yes": "The item's words say it has it. Contains seeds as an ingredient or topping: sesame, poppy, sunflower, pumpkin, chia, flax, hemp, seeded bread or tahini.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "raw": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'raw'? The attribute means: Contains uncooked vegetables or fruit, or raw fish or meat: salad greens, fresh fruit, crudo, sashimi, tartare, ceviche.",
+   "criteria": {
+    "yes": "The item's words say it has it. Contains uncooked vegetables or fruit, or raw fish or meat: salad greens, fresh fruit, crudo, sashimi, tartare, ceviche.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "fiber_high": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'fiber_high'? The attribute means: Rich in fiber: beans, lentils, whole grains, bran, or a large share of vegetables or fruit.",
+   "criteria": {
+    "yes": "The item's words say it has it. Rich in fiber: beans, lentils, whole grains, bran, or a large share of vegetables or fruit.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "sodium_high": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'sodium_high'? The attribute means: Salty or high in sodium: cured or smoked meat or fish, soy sauce, brined or pickled food, salty cheese, broth, or heavily salted snacks.",
+   "criteria": {
+    "yes": "The item's words say it has it. Salty or high in sodium: cured or smoked meat or fish, soy sauce, brined or pickled food, salty cheese, broth, or heavily salted snacks.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  },
+  "sugar_high": {
+   "type": "choice",
+   "instructions": "Judging only from this menu item's own section, name and description: does the item have the attribute 'sugar_high'? The attribute means: Sweet or high in sugar: desserts, pastries, candy, syrups, sweetened drinks, glazes.",
+   "criteria": {
+    "yes": "The item's words say it has it. Sweet or high in sugar: desserts, pastries, candy, syrups, sweetened drinks, glazes.",
+    "no": "The item's words rule it out: a single plain food whose nature excludes it, or a description that lists what the item is made of with nothing that has it.",
+    "unknown": "The words do not settle it: the dish's parts are not listed, or it could be made either way. An item that simply does not mention the attribute is unknown."
+   }
+  }
+ },
+ "input_tokens": 44465,
+ "cost_usd": 0.00187,
+ "results": [
+  {
+   "id": "lemongrass--31-yellow-curry",
+   "name": "31. Yellow Curry",
+   "description": "mild yellow curry, coconut milk, onion, potato",
+   "model": "jev-1.13.0",
+   "ms": 325,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.89
+    },
+    "spicy": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.9
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.94
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 1,
+     "jev": "no",
+     "jev_confidence": 0.82
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.9
+    },
+    "raw": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.68
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.32
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 2,
+     "jev": "no",
+     "jev_confidence": 0.96
+    }
+   }
+  },
+  {
+   "id": "grandehos-kamekyo--egg-roll",
+   "name": "Egg Roll",
+   "description": "Veggie or meat.",
+   "model": "jev-1.13.0",
+   "ms": 275,
+   "attributes": {
+    "fried": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.33
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.46
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.57
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.57
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.5
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 1,
+     "jev": "no",
+     "jev_confidence": 0.75
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.94
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.85
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 2,
+     "jev": "no",
+     "jev_confidence": 0.97
+    }
+   }
+  },
+  {
+   "id": "hon-s-wun-tun-house--snow-cabbage-shredded-pork-noodle-soup",
+   "name": "Snow Cabbage & Shredded Pork Noodle Soup",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 261,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.8
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.63
+    },
+    "acidic": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.84
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.79
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.69
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 2,
+     "jev": "no",
+     "jev_confidence": 0.87
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.23
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.78
+    },
+    "sugar_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    }
+   }
+  },
+  {
+   "id": "mario-s-bohemian-cigar-store-cafe--caesar-salad",
+   "name": "Caesar Salad",
+   "description": "white anchovy",
+   "model": "jev-1.13.0",
+   "ms": 260,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.86
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.8
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.24
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.61
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.59
+    },
+    "raw": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.7
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.17
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.97
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 2,
+     "jev": "no",
+     "jev_confidence": 0.95
+    }
+   }
+  },
+  {
+   "id": "trader-joe-s--crispy-potato-poblano-pepper-tacos",
+   "name": "Crispy Potato & Poblano Pepper Tacos",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 289,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.4
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.22
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.63
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.46
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.4
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.67
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.12
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.53
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 1,
+     "jev": "no",
+     "jev_confidence": 0.92
+    }
+   }
+  },
+  {
+   "id": "wipeout-bar-grill--specialty-pizzas-9",
+   "name": "Specialty Pizzas (9\")",
+   "description": "BBQ chicken, buffalo chicken, meat lovers, Hawaii 5 Ohhhh, veg head, others",
+   "model": "jev-1.13.0",
+   "ms": 258,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.59
+    },
+    "spicy": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.36
+    },
+    "acidic": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.43
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.65
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.49
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.33
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.84
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.31
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.68
+    }
+   }
+  },
+  {
+   "id": "grandehos-kamekyo--cucumber-salad",
+   "name": "Cucumber Salad",
+   "description": "Ponzu sauce and lemon.",
+   "model": "jev-1.13.0",
+   "ms": 197,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "spicy": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.95
+    },
+    "acidic": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 1.0
+    },
+    "nuts": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.92
+    },
+    "seeds": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.85
+    },
+    "raw": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.95
+    },
+    "fiber_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.53
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.47
+    },
+    "sugar_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.95
+    }
+   }
+  },
+  {
+   "id": "north-beach-pizza--16-large-pizza",
+   "name": "16\" Large Pizza",
+   "description": "starting price; half & half same price",
+   "model": "jev-1.13.0",
+   "ms": 243,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.75
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.89
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.91
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.91
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.92
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.72
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.89
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.96
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 1,
+     "jev": "no",
+     "jev_confidence": 0.86
+    }
+   }
+  },
+  {
+   "id": "pizzelle-di-north-beach--aglio-and-olio-pasta",
+   "name": "Aglio and Olio Pasta",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 341,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.27
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.53
+    },
+    "acidic": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.61
+    },
+    "nuts": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.26
+    },
+    "seeds": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.3
+    },
+    "raw": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.65
+    },
+    "fiber_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.67
+    },
+    "sodium_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.49
+    },
+    "sugar_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.92
+    }
+   }
+  },
+  {
+   "id": "flying-ninja--korean-galbi",
+   "name": "Korean Galbi",
+   "description": "marinated beef short ribs",
+   "model": "jev-1.13.0",
+   "ms": 411,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.35
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.54
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.62
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.54
+    },
+    "raw": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "fiber_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 1.0
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.26
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.36
+    }
+   }
+  },
+  {
+   "id": "biscoff-coffee-corner--breakfast-burrito",
+   "name": "Breakfast Burrito",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 313,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.94
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.96
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.96
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.97
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.97
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.64
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 1.0
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.99
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.37
+    }
+   }
+  },
+  {
+   "id": "trader-joe-s--furikake-snack-mix",
+   "name": "Furikake Snack Mix",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 315,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.93
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.94
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.5
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.89
+    },
+    "seeds": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.67
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.7
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.38
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.76
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.5
+    }
+   }
+  },
+  {
+   "id": "starbucks-580-california-street--sausage-cheddar-egg-sandwich",
+   "name": "Sausage, Cheddar & Egg Sandwich",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 276,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.66
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.78
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.94
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.89
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.53
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.95
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.93
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.98
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    }
+   }
+  },
+  {
+   "id": "blue-barn--heirloom-salad",
+   "name": "Heirloom Salad",
+   "description": "house romaine mix, heirloom tomato, sweet corn, green beans, summer squash, basil, pinenuts",
+   "model": "jev-1.13.0",
+   "ms": 279,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "spicy": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "acidic": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 1.0
+    },
+    "nuts": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 1.0
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 1,
+     "jev": "no",
+     "jev_confidence": 0.86
+    },
+    "raw": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.99
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 2,
+     "jev": "yes",
+     "jev_confidence": 1.0
+    },
+    "sodium_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "sugar_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    }
+   }
+  },
+  {
+   "id": "red-window--falafel-burger-2",
+   "name": "Falafel Burger",
+   "description": "fries",
+   "model": "jev-1.13.0",
+   "ms": 268,
+   "attributes": {
+    "fried": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.82
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.51
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.78
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.41
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.35
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.94
+    },
+    "fiber_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.11
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.13
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.96
+    }
+   }
+  },
+  {
+   "id": "trader-joe-s--organic-dried-ataulfo-mango-slices",
+   "name": "Organic Dried Ataulfo Mango Slices",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 246,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 1.0
+    },
+    "spicy": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "acidic": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.97
+    },
+    "nuts": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "seeds": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    },
+    "raw": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.89
+    },
+    "fiber_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.8
+    },
+    "sodium_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 1.0
+    },
+    "sugar_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.51
+    }
+   }
+  },
+  {
+   "id": "trader-joe-s--fuyu-persimmons",
+   "name": "Fuyu Persimmons",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 253,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "spicy": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "acidic": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.89
+    },
+    "nuts": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 1.0
+    },
+    "seeds": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.96
+    },
+    "raw": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.98
+    },
+    "fiber_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.6
+    },
+    "sodium_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 1.0
+    },
+    "sugar_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.61
+    }
+   }
+  },
+  {
+   "id": "flying-ninja--taste-of-sashimi-tuna-5-pcs",
+   "name": "Taste of Sashimi - Tuna (5 pcs)",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 276,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.67
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.65
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.88
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.84
+    },
+    "raw": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 1.0
+    },
+    "fiber_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.99
+    },
+    "sodium_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.51
+    },
+    "sugar_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.98
+    }
+   }
+  },
+  {
+   "id": "red-window--bacon-benedict",
+   "name": "Bacon Benedict",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 303,
+   "attributes": {
+    "fried": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.78
+    },
+    "spicy": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.49
+    },
+    "acidic": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.61
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.44
+    },
+    "seeds": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.72
+    },
+    "raw": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.29
+    },
+    "fiber_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.39
+    },
+    "sodium_high": {
+     "opus": "yes",
+     "opus_agree": 3,
+     "jev": "yes",
+     "jev_confidence": 0.98
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.75
+    }
+   }
+  },
+  {
+   "id": "starbucks-1255-sansome-street--iced-matcha-latte",
+   "name": "Iced Matcha Latte",
+   "description": "",
+   "model": "jev-1.13.0",
+   "ms": 276,
+   "attributes": {
+    "fried": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.94
+    },
+    "spicy": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.82
+    },
+    "acidic": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.73
+    },
+    "nuts": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.69
+    },
+    "seeds": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.4
+    },
+    "raw": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.82
+    },
+    "fiber_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.81
+    },
+    "sodium_high": {
+     "opus": "no",
+     "opus_agree": 3,
+     "jev": "no",
+     "jev_confidence": 0.81
+    },
+    "sugar_high": {
+     "opus": "unknown",
+     "opus_agree": 3,
+     "jev": "unknown",
+     "jev_confidence": 0.52
+    }
+   }
+  }
+ ]
+}

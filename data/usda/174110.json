@@ -1,0 +1,236 @@
+{
+ "fdcId": 174110,
+ "dataType": "SR Legacy",
+ "description": "Alcoholic beverage, wine, table, white, Chardonnay",
+ "publicationDate": "4/1/2019",
+ "fetched_at": "2026-09-24T05:01:02+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 0.07
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 2.16
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 0.22
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 84.0
+  },
+  {
+   "id": 1018,
+   "number": "221",
+   "name": "Alcohol, ethyl",
+   "unit": "g",
+   "amount": 10.7
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 86.85
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 351.0
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 9.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 0.27
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 10.0
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 18.0
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 71.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 5.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.12
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.004
+  },
+  {
+   "id": 1099,
+   "number": "313",
+   "name": "Fluoride, F",
+   "unit": "µg",
+   "amount": 202.0
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.117
+  },
+  {
+   "id": 1103,
+   "number": "317",
+   "name": "Selenium, Se",
+   "unit": "µg",
+   "amount": 0.1
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1165,
+   "number": "404",
+   "name": "Thiamin",
+   "unit": "mg",
+   "amount": 0.005
+  },
+  {
+   "id": 1166,
+   "number": "405",
+   "name": "Riboflavin",
+   "unit": "mg",
+   "amount": 0.015
+  },
+  {
+   "id": 1167,
+   "number": "406",
+   "name": "Niacin",
+   "unit": "mg",
+   "amount": 0.108
+  },
+  {
+   "id": 1170,
+   "number": "410",
+   "name": "Pantothenic acid",
+   "unit": "mg",
+   "amount": 0.045
+  },
+  {
+   "id": 1175,
+   "number": "415",
+   "name": "Vitamin B-6",
+   "unit": "mg",
+   "amount": 0.05
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 1.0
+  },
+  {
+   "id": 1178,
+   "number": "418",
+   "name": "Vitamin B-12",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1187,
+   "number": "432",
+   "name": "Folate, food",
+   "unit": "µg",
+   "amount": 1.0
+  },
+  {
+   "id": 1257,
+   "number": "605",
+   "name": "Fatty acids, total trans",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 2000,
+   "number": "269",
+   "name": "Total Sugars",
+   "unit": "g",
+   "amount": 0.96
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 fl oz",
+   "gram_weight": 29.3
+  },
+  {
+   "description": "1.0 serving 5 fl oz",
+   "gram_weight": 147.0
+  }
+ ]
+}

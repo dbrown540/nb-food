@@ -1,0 +1,351 @@
+{
+ "fdcId": 2346393,
+ "dataType": "Foundation",
+ "description": "Nuts, almonds, whole, raw",
+ "publicationDate": "10/28/2022",
+ "fetched_at": "2026-09-24T05:02:14+00:00",
+ "nutrients": [
+  {
+   "id": 1002,
+   "number": "202",
+   "name": "Nitrogen",
+   "unit": "g",
+   "amount": 4.141
+  },
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 21.45038
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 51.09
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 20.03462
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 3.164
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 4.261
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 10.78
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 253.6
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 3.741
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 257.6
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 502.9
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 732.8
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 2.865
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.9104
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 2.149
+  },
+  {
+   "id": 1102,
+   "number": "316",
+   "name": "Molybdenum, Mo",
+   "unit": "µg",
+   "amount": 45.28
+  },
+  {
+   "id": 1165,
+   "number": "404",
+   "name": "Thiamin",
+   "unit": "mg",
+   "amount": 0.1605
+  },
+  {
+   "id": 1167,
+   "number": "406",
+   "name": "Niacin",
+   "unit": "mg",
+   "amount": 3.77
+  },
+  {
+   "id": 1175,
+   "number": "415",
+   "name": "Vitamin B-6",
+   "unit": "mg",
+   "amount": 0.1008
+  },
+  {
+   "id": 1176,
+   "number": "416",
+   "name": "Biotin",
+   "unit": "µg",
+   "amount": 57.01
+  },
+  {
+   "id": 1183,
+   "number": "428",
+   "name": "Vitamin K (Menaquinone-4)",
+   "unit": "µg",
+   "amount": 0
+  },
+  {
+   "id": 1184,
+   "number": "429",
+   "name": "Vitamin K (Dihydrophylloquinone)",
+   "unit": "µg",
+   "amount": 0
+  },
+  {
+   "id": 1185,
+   "number": "430",
+   "name": "Vitamin K (phylloquinone)",
+   "unit": "µg",
+   "amount": 0
+  },
+  {
+   "id": 1210,
+   "number": "501",
+   "name": "Tryptophan",
+   "unit": "g",
+   "amount": 0.208
+  },
+  {
+   "id": 1211,
+   "number": "502",
+   "name": "Threonine",
+   "unit": "g",
+   "amount": 0.608
+  },
+  {
+   "id": 1212,
+   "number": "503",
+   "name": "Isoleucine",
+   "unit": "g",
+   "amount": 0.774
+  },
+  {
+   "id": 1213,
+   "number": "504",
+   "name": "Leucine",
+   "unit": "g",
+   "amount": 1.488
+  },
+  {
+   "id": 1214,
+   "number": "505",
+   "name": "Lysine",
+   "unit": "g",
+   "amount": 0.618
+  },
+  {
+   "id": 1215,
+   "number": "506",
+   "name": "Methionine",
+   "unit": "g",
+   "amount": 0.154
+  },
+  {
+   "id": 1217,
+   "number": "508",
+   "name": "Phenylalanine",
+   "unit": "g",
+   "amount": 1.198
+  },
+  {
+   "id": 1218,
+   "number": "509",
+   "name": "Tyrosine",
+   "unit": "g",
+   "amount": 0.63
+  },
+  {
+   "id": 1219,
+   "number": "510",
+   "name": "Valine",
+   "unit": "g",
+   "amount": 0.916
+  },
+  {
+   "id": 1220,
+   "number": "511",
+   "name": "Arginine",
+   "unit": "g",
+   "amount": 2.464
+  },
+  {
+   "id": 1221,
+   "number": "512",
+   "name": "Histidine",
+   "unit": "g",
+   "amount": 0.548
+  },
+  {
+   "id": 1222,
+   "number": "513",
+   "name": "Alanine",
+   "unit": "g",
+   "amount": 0.98
+  },
+  {
+   "id": 1223,
+   "number": "514",
+   "name": "Aspartic acid",
+   "unit": "g",
+   "amount": 2.402
+  },
+  {
+   "id": 1224,
+   "number": "515",
+   "name": "Glutamic acid",
+   "unit": "g",
+   "amount": 4.248
+  },
+  {
+   "id": 1225,
+   "number": "516",
+   "name": "Glycine",
+   "unit": "g",
+   "amount": 1.434
+  },
+  {
+   "id": 1226,
+   "number": "517",
+   "name": "Proline",
+   "unit": "g",
+   "amount": 1.314
+  },
+  {
+   "id": 1227,
+   "number": "518",
+   "name": "Serine",
+   "unit": "g",
+   "amount": 0.99
+  },
+  {
+   "id": 1228,
+   "number": "521",
+   "name": "Hydroxyproline",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1232,
+   "number": "526",
+   "name": "Cysteine",
+   "unit": "g",
+   "amount": 0.5
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 3.785
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 31.314
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 11.18
+  },
+  {
+   "id": 2047,
+   "number": "957",
+   "name": "Energy (Atwater General Factors)",
+   "unit": "kcal",
+   "amount": 625.75
+  },
+  {
+   "id": 2048,
+   "number": "958",
+   "name": "Energy (Atwater Specific Factors)",
+   "unit": "kcal",
+   "amount": 583.597022
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 RACC",
+   "gram_weight": 30.0
+  }
+ ]
+}

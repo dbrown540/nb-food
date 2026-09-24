@@ -1,0 +1,41 @@
+{
+ "version": 1,
+ "attributes": [
+  {
+   "id": "fried",
+   "definition": "Cooked by frying: deep-fried, pan-fried, battered or breaded and fried, or tempura."
+  },
+  {
+   "id": "spicy",
+   "definition": "Hot with chili or another pungent heat: chili, hot pepper, hot sauce, wasabi, horseradish, strong black pepper."
+  },
+  {
+   "id": "acidic",
+   "definition": "Sour or acidic: citrus, vinegar, tomato, pickled or sour-fermented components, sour fruit."
+  },
+  {
+   "id": "nuts",
+   "definition": "Contains tree nuts or peanuts, whole or as butter, flour, milk, oil, praline or a nut pesto. Pine nuts count as nuts. Butternut squash, nutmeg and water chestnut are not nuts."
+  },
+  {
+   "id": "seeds",
+   "definition": "Contains seeds as an ingredient or topping: sesame, poppy, sunflower, pumpkin, chia, flax, hemp, seeded bread or tahini. Pine nuts count as nuts, not seeds."
+  },
+  {
+   "id": "raw",
+   "definition": "Contains uncooked vegetables or fruit, or raw fish or meat: salad greens, fresh fruit, crudo, sashimi, tartare, ceviche."
+  },
+  {
+   "id": "fiber_high",
+   "definition": "High in fiber by its nature: beans, lentils, whole grains, bran, or a dish made mostly of vegetables or fruit. Absent only for a plain food that is clearly low in fiber (meat, fish, eggs, cheese, oil, sugar, a clear drink)."
+  },
+  {
+   "id": "sodium_high",
+   "definition": "High in salt by its nature: cured or smoked meat or fish, soy sauce, brined or pickled food, salty cheese, broth, or salted snacks. Absent only for a plain food that is clearly low in salt (fresh fruit or vegetables, plain grains, water, unsalted nuts)."
+  },
+  {
+   "id": "sugar_high",
+   "definition": "High in sugar by its nature: desserts, pastries, candy, syrups, sweetened drinks, glazes, dried fruit. Absent only for a plain food that is clearly low in sugar (meat, fish, eggs, plain vegetables, oil, water, unsweetened drinks)."
+  }
+ ]
+}

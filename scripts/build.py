@@ -217,6 +217,8 @@ def main() -> None:
     risk = (load("data/crime/poi_street_risk.json") or {}).get("pois", {})
     insp = load("data/inspections/poi_inspections.json") or {}
     menus = {m.get("name"): m for m in (load("data/menus/index.json") or []) if isinstance(m, dict)}
+    products = {d["name"]: (f.stem, d) for f in sorted((ROOT / "data/products").glob("*.json"))
+                for d in [json.loads(f.read_text())]}
     for p in places:
         r = risk.get(p["key"])
         if r:
@@ -227,6 +229,10 @@ def main() -> None:
         m = menus.get(p["key"])
         if m and m.get("status") in ("ok", "partial"):
             p["menu_data"] = {"url": m.get("menu_url"), "items": m.get("items_count"), "status": m.get("status"), "slug": m.get("slug")}
+        if p["key"] in products:
+            slug, d = products[p["key"]]
+            p["menu_data"] = {"url": d.get("source_url"), "items": len(d["products"]), "status": d["status"],
+                              "slug": slug, "kind": "products"}
     places.sort(key=lambda p: (p["walkMin"], p["name"]))
     (ROOT / "data/places.json").write_text(
         json.dumps(places, indent=1, ensure_ascii=False))

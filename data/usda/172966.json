@@ -1,0 +1,470 @@
+{
+ "fdcId": 172966,
+ "dataType": "SR Legacy",
+ "description": "Salami, Italian, pork and beef, dry, sliced, 50% less sodium",
+ "publicationDate": "4/1/2019",
+ "fetched_at": "2026-09-24T05:00:54+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 21.8
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 26.4
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 6.4
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 4.9
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 350.0
+  },
+  {
+   "id": 1018,
+   "number": "221",
+   "name": "Alcohol, ethyl",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 40.5
+  },
+  {
+   "id": 1057,
+   "number": "262",
+   "name": "Caffeine",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1058,
+   "number": "263",
+   "name": "Theobromine",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 1466.0
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 8.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 1.51
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 17.0
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 142.0
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 378.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 936.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 3.23
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.08
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.038
+  },
+  {
+   "id": 1103,
+   "number": "317",
+   "name": "Selenium, Se",
+   "unit": "µg",
+   "amount": 26.1
+  },
+  {
+   "id": 1104,
+   "number": "318",
+   "name": "Vitamin A, IU",
+   "unit": "IU",
+   "amount": 0.0
+  },
+  {
+   "id": 1105,
+   "number": "319",
+   "name": "Retinol",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1106,
+   "number": "320",
+   "name": "Vitamin A, RAE",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1107,
+   "number": "321",
+   "name": "Carotene, beta",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1108,
+   "number": "322",
+   "name": "Carotene, alpha",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1120,
+   "number": "334",
+   "name": "Cryptoxanthin, beta",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1122,
+   "number": "337",
+   "name": "Lycopene",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1123,
+   "number": "338",
+   "name": "Lutein + zeaxanthin",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1165,
+   "number": "404",
+   "name": "Thiamin",
+   "unit": "mg",
+   "amount": 0.6
+  },
+  {
+   "id": 1166,
+   "number": "405",
+   "name": "Riboflavin",
+   "unit": "mg",
+   "amount": 0.285
+  },
+  {
+   "id": 1167,
+   "number": "406",
+   "name": "Niacin",
+   "unit": "mg",
+   "amount": 4.867
+  },
+  {
+   "id": 1170,
+   "number": "410",
+   "name": "Pantothenic acid",
+   "unit": "mg",
+   "amount": 1.06
+  },
+  {
+   "id": 1175,
+   "number": "415",
+   "name": "Vitamin B-6",
+   "unit": "mg",
+   "amount": 0.5
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 2.0
+  },
+  {
+   "id": 1178,
+   "number": "418",
+   "name": "Vitamin B-12",
+   "unit": "µg",
+   "amount": 1.9
+  },
+  {
+   "id": 1185,
+   "number": "430",
+   "name": "Vitamin K (phylloquinone)",
+   "unit": "µg",
+   "amount": 1.3
+  },
+  {
+   "id": 1186,
+   "number": "431",
+   "name": "Folic acid",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1187,
+   "number": "432",
+   "name": "Folate, food",
+   "unit": "µg",
+   "amount": 2.0
+  },
+  {
+   "id": 1190,
+   "number": "435",
+   "name": "Folate, DFE",
+   "unit": "µg",
+   "amount": 2.0
+  },
+  {
+   "id": 1210,
+   "number": "501",
+   "name": "Tryptophan",
+   "unit": "g",
+   "amount": 0.21
+  },
+  {
+   "id": 1211,
+   "number": "502",
+   "name": "Threonine",
+   "unit": "g",
+   "amount": 0.959
+  },
+  {
+   "id": 1212,
+   "number": "503",
+   "name": "Isoleucine",
+   "unit": "g",
+   "amount": 0.971
+  },
+  {
+   "id": 1213,
+   "number": "504",
+   "name": "Leucine",
+   "unit": "g",
+   "amount": 1.732
+  },
+  {
+   "id": 1214,
+   "number": "505",
+   "name": "Lysine",
+   "unit": "g",
+   "amount": 1.824
+  },
+  {
+   "id": 1215,
+   "number": "506",
+   "name": "Methionine",
+   "unit": "g",
+   "amount": 0.593
+  },
+  {
+   "id": 1216,
+   "number": "507",
+   "name": "Cystine",
+   "unit": "g",
+   "amount": 0.262
+  },
+  {
+   "id": 1217,
+   "number": "508",
+   "name": "Phenylalanine",
+   "unit": "g",
+   "amount": 0.868
+  },
+  {
+   "id": 1218,
+   "number": "509",
+   "name": "Tyrosine",
+   "unit": "g",
+   "amount": 0.71
+  },
+  {
+   "id": 1219,
+   "number": "510",
+   "name": "Valine",
+   "unit": "g",
+   "amount": 1.083
+  },
+  {
+   "id": 1220,
+   "number": "511",
+   "name": "Arginine",
+   "unit": "g",
+   "amount": 1.516
+  },
+  {
+   "id": 1221,
+   "number": "512",
+   "name": "Histidine",
+   "unit": "g",
+   "amount": 0.699
+  },
+  {
+   "id": 1222,
+   "number": "513",
+   "name": "Alanine",
+   "unit": "g",
+   "amount": 1.48
+  },
+  {
+   "id": 1223,
+   "number": "514",
+   "name": "Aspartic acid",
+   "unit": "g",
+   "amount": 2.073
+  },
+  {
+   "id": 1224,
+   "number": "515",
+   "name": "Glutamic acid",
+   "unit": "g",
+   "amount": 3.383
+  },
+  {
+   "id": 1225,
+   "number": "516",
+   "name": "Glycine",
+   "unit": "g",
+   "amount": 1.641
+  },
+  {
+   "id": 1226,
+   "number": "517",
+   "name": "Proline",
+   "unit": "g",
+   "amount": 1.188
+  },
+  {
+   "id": 1227,
+   "number": "518",
+   "name": "Serine",
+   "unit": "g",
+   "amount": 0.942
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 89.0
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 9.75
+  },
+  {
+   "id": 1283,
+   "number": "636",
+   "name": "Phytosterols",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 13.2
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 2.29
+  },
+  {
+   "id": 2000,
+   "number": "269",
+   "name": "Total Sugars",
+   "unit": "g",
+   "amount": 0.0
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 serving 5 slices",
+   "gram_weight": 28.0
+  }
+ ]
+}

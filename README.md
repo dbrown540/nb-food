@@ -17,7 +17,114 @@ keyed by it. Coverage numbers per neighborhood are in
 - **DPH inspections** — `data/inspections/poi_inspections.json` (`scripts/fetch_inspections.py`, `scripts/inspections.py`): three SF DPH open datasets — numeric scores 2016–2019, and placard results (Pass / Conditional Pass / Closure + violation counts) for 2020–2023 and 2024–present (monthly). Match confidence per POI is `name+address`, `name-only` or `none`. Current data lags the city's lookup tool by months for some businesses.
 - **Menus** — `data/menus/*.json` (`scripts/menus_report.py`, `scripts/menus_index.py`): item/price extractions from restaurants' own sites, PDFs, menu images or their own ordering pages, each with `source` + `as_of` + `status` (ok / partial / not_found / skipped). `index.json` is DERIVED from the files by `menus_index.py` (`--check` in a pre-commit step keeps it current); never hand-edit it. A file's `name` must equal the POI `key`.
 - **Citywide base** — `data/sf_places.json` / `data/sf.db` (`scripts/fetch_sf_pois.py`): all 3,932 restaurants, cafes and grocery shops in SF from OSM. `build.py` pulls the rows whose polygon is in `EXPANSION` (North Beach, Chinatown, Fisherman's Wharf, Russian Hill) into the index, deduplicating against the North Beach bbox set by normalized name within 150 m.
+- **Products** — `data/products/<store-slug>.json`: a store's packaged food and drink with price and pack size, from the store's own product feed (Trader Joe's, 401 Bay St: `scripts/tj_products.py`).
 - **Gates** — `scripts/check_public.py` exits 1 if any tracked file mentions personal-context terms (this repo is public and describes restaurants and public datasets only; the city's DPH text and raw OSM data are exempt from the topic patterns, never from the owner patterns). `scripts/check_data.py` exits 1 on integrity problems in the built data (duplicate keys, layer entries that match no place, a stale menus index). Both run from `.githooks/pre-commit`; enable it once per clone with `git config core.hooksPath .githooks`.
+
+## Interfaces (consumers pin a commit)
+
+Everything below is derived and gated; read it at a pinned commit, never at a
+moving branch. A schema version changes only when a field is removed, renamed or
+changes meaning; added fields keep the version.
+
+### Item table: `data/menu_items.json` (schema_version 1)
+
+`scripts/menu_items.py` derives it from `data/menus/*.json` and
+`data/products/*.json`; `--check` (run by `check_data.py`) fails on any hand edit.
+`{"schema_version": 1, "rows": [...]}`, one row per line, sorted by `id`:
+
+| field | meaning |
+|---|---|
+| `id` | stable: slug(place key) + `--` + slug(item name); a name repeated at one place gets `-2`, `-3`… in (section, description, size, price) order |
+| `place` | the place's `key` in `data/places.json` |
+| `kind` | `menu` (a restaurant or cafe menu) or `product` (a store's packaged product) |
+| `section` | the menu section, or the store's category path joined with ` / ` |
+| `name`, `description` | the source's own words (`description` is `""` when there are none) |
+| `size` | pack size for a product (`"16 Oz"`), `""` for a menu item |
+| `price` | USD as listed, or `null` when the source lists none |
+| `source`, `as_of` | where and when the list was read |
+| `status` | the list's status: `ok` (full, priced) or `partial` |
+
+### Store product lists: `data/products/<store-slug>.json`
+
+`{name (place key), addr, source_url, source, as_of, status, extraction, products: [{section, name, description, size, price}]}`.
+Written by a pull script (`scripts/tj_products.py` for Trader Joe's, food and drink only), never by hand.
+
+### Attribute tags: `data/item_tags.json` (schema_version 1)
+
+`scripts/tag_items.py` derives it from the item table, the pinned readings in
+`data/tag_pins.jsonl` and the route rule; `--check` fails on any hand edit.
+Vocabulary and definitions: `data/attributes.json` (fried, spicy, acidic, nuts,
+seeds, raw, fiber_high, sodium_high, sugar_high).
+
+- `basis`: `model`, `battery` (content hash of the question battery + vocabulary),
+  `sampling`, and `hash` (the basis id the pins are keyed by).
+- `rule`: readings per item (`samples`) and the agreement needed for yes (`agreeYes`) and no (`agreeNo`).
+- `rows`: `{id, text_hash, tags: {<attribute>: {answer, agree, words?}}}`, where
+  `answer` is `yes` / `no` / `unknown`; `agree` is how many readings back it;
+  `words` are the item's own words behind a yes (always present) or a no (when quoted).
+  **unknown means the item's words cannot settle it. It never means no.**
+- `untagged`: `{id, text_hash, reason}` for items with no pinned readings under the current basis.
+
+Readings are pinned by (item text hash, basis): rebuilding never calls the
+model, and only new or changed item text is read (`--run`). The basis names
+the transport: `claude-code-cli` (headless Claude Code on the signed-in plan)
+or the Anthropic API; readings from the two are never mixed.
+
+### USDA records: `data/usda/<fdcId>.json` (schema_version 1)
+
+A dated copy of one USDA FoodData Central record, fetched once by
+`scripts/usda.py` (API batch endpoint, 20 ids a call) and never refetched
+while the file exists. Fields, in order: `fdcId`, `dataType` (Foundation,
+SR Legacy or Survey (FNDDS)), `description`, `publicationDate` (the API's),
+`fetched_at`, `nutrients` (every nutrient the record carries, per 100 g:
+`{id, number, name, unit, amount}`), `portions` (`{description, gram_weight}`).
+`data/usda_index.json` lists the entries mapping may choose from (descriptions,
+categories and portions from USDA's bulk releases, named in `releases`).
+
+### Package labels: `data/labels/<item id>.json`
+
+The label as printed, per serving: `{id, source, as_of, serving, serving_g,
+nutrients: [{name, unit, amount}]}` (see `data/labels/README.md`). Exact for the
+nutrients it lists; every other nutrient of that item is unknown.
+
+### Food map: `data/food_map.json` (schema_version 1)
+
+`scripts/map_foods.py` derives it from the item table, the labels, the USDA
+index and the pinned readings in `data/food_map_pins.jsonl`; `--check` fails
+on any hand edit. `basis`, `index` (the USDA releases), `rule`, then:
+
+- `rows`: `{id, kind, ...}` where `kind` is
+  - `label`: nutrients from `label` (exact for what it lists), `grams` = its serving;
+  - `usda-single-food`: `fdcId` names a record of a plain food (Foundation,
+    SR Legacy, or a Survey entry filed in a plain-food group such as "Dried
+    fruits"); its per-100 g values match the food;
+  - `usda-mixed-dish-estimate`: `fdcId` names a Survey (FNDDS) entry filed in a
+    dish group (bindings `dishCategories`), standing in for the place's own
+    recipe; **an estimate**;
+  - `unmapped`: no record; nutrients unknown (**never zero**), with `reason`.
+  - `grams`, `grams_basis`: a product's package weight (`package`) or, for a
+    menu item, the chosen USDA portion (`estimated portion: 1 cup`), else absent.
+  - `estimate`: true for every mixed-dish match and every restaurant or cafe
+    menu item (someone else's recipe and portion), false for a label or a
+    store product matched to a plain food. Show `estimate: true` as an estimate.
+  - `category`: the record's USDA food group; `agree`: readings behind the
+    answer; `key`: hash of the exact model input.
+- `unread`: `{id, key, reason}` for items with no pinned readings under the current basis.
+
+Nutrients for an item = its `data/usda/<fdcId>.json` per 100 g × `grams` / 100,
+or its label.
+
+## Decisions: the spine (`spine/`)
+
+Every decision the index makes is registered in `spine/` with its tier, its
+decider, its enforcer and its canonical cases: `spine/tiers.json`,
+`spine/stages/*.json`, `spine/invariants.json`, `spine/bindings.json` (thresholds,
+local facts and owner rulings). `spine/STORY.md` is generated from them.
+`scripts/spine_gate.py` fails the build when the registry and the code disagree.
+Changes land on a green gate. Only a change of stance (a principle's statement,
+grain or scope and tier, or a ruling) needs the owner's consent, owed within
+30 days of landing; a commit signed with the key in `spine/owner_signers` is
+that consent.
 
 ## Layout
 
@@ -52,8 +159,12 @@ python3 scripts/menus_index.py      # after adding/editing data/menus/<slug>.jso
 python3 scripts/street_risk.py      # refresh SFPD pull (network); --cached recomputes
 python3 scripts/inspections.py      # re-match DPH data (after fetch_inspections.py)
 python3 scripts/check_public.py     # publish gate; must exit 0 before committing
-python3 scripts/check_data.py       # integrity gate on the built data
-git config core.hooksPath .githooks # once per clone: run both gates on every commit
+python3 scripts/check_data.py       # integrity gate on the built data (+ menu freshness, verdicts, tags)
+python3 scripts/menu_items.py       # rebuild the item table after a menu or product change
+python3 scripts/tag_items.py        # rebuild the tags from pins; .venv/bin/python ... --run reads new items
+python3 scripts/spine_gate.py       # registry gate; --write-story after editing spine/
+python3 -m unittest discover -s tests   # unit tests + the gate's negative cases
+git config core.hooksPath .githooks # once per clone: run every gate on every commit
 open docs/index.html                # browse
 ```
 

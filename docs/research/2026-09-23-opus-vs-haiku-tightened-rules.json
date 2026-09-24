@@ -1,0 +1,1220 @@
+{
+ "date": "2026-09-23",
+ "pinned_model": "claude-opus-5",
+ "other_model": "claude-haiku-4-5",
+ "tag_agreement": "111/180",
+ "tag_confusion_pinned_to_other": {
+  "no->no": 13,
+  "no->unknown": 2,
+  "no->yes": 1,
+  "unknown->no": 38,
+  "unknown->unknown": 74,
+  "unknown->yes": 5,
+  "unknown->None": 17,
+  "yes->unknown": 5,
+  "yes->yes": 24,
+  "yes->None": 1
+ },
+ "map_agreement": "8/20",
+ "usage": {
+  "tags": {
+   "input": 164831,
+   "cache_write": 0,
+   "cache_read": 0,
+   "output": 29115
+  },
+  "map": {}
+ },
+ "results": [
+  {
+   "id": "lemongrass--31-yellow-curry",
+   "name": "31. Yellow Curry",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "no",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "lemongrass--31-yellow-curry",
+     "key": "f06758b6e0284cfda388",
+     "kind": "unmapped",
+     "reason": "no candidate is the same food",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "grandehos-kamekyo--egg-roll",
+   "name": "Egg Roll",
+   "tags": {
+    "fried": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "grandehos-kamekyo--egg-roll",
+     "key": "d255bf21c6bcbd635118",
+     "kind": "usda-mixed-dish-estimate",
+     "estimate": true,
+     "fdcId": 2708700,
+     "dataType": "Survey (FNDDS)",
+     "category": "Egg rolls, dumplings, sushi",
+     "description": "Egg roll, meatless",
+     "agree": 3,
+     "grams": 64.0,
+     "grams_basis": "estimated portion: 1 egg roll"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "hon-s-wun-tun-house--snow-cabbage-shredded-pork-noodle-soup",
+   "name": "Snow Cabbage & Shredded Pork Noodle Soup",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "yes",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "hon-s-wun-tun-house--snow-cabbage-shredded-pork-noodle-soup",
+     "key": "6dbd25867804e3392fd4",
+     "kind": "unmapped",
+     "reason": "readings do not agree on one record",
+     "agree": 2
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "mario-s-bohemian-cigar-store-cafe--caesar-salad",
+   "name": "Caesar Salad",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "yes"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "fiber_high": {
+     "pinned": "yes",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "mario-s-bohemian-cigar-store-cafe--caesar-salad",
+     "key": "866154d682be0b3188e5",
+     "kind": "usda-mixed-dish-estimate",
+     "estimate": true,
+     "fdcId": 2709591,
+     "dataType": "Survey (FNDDS)",
+     "category": "Lettuce and lettuce salads",
+     "description": "Caesar salad, with romaine, no dressing",
+     "agree": 3,
+     "grams": 113.0,
+     "grams_basis": "estimated portion: 1 Wendy's side salad"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "trader-joe-s--crispy-potato-poblano-pepper-tacos",
+   "name": "Crispy Potato & Poblano Pepper Tacos",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "yes"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "yes"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "trader-joe-s--crispy-potato-poblano-pepper-tacos",
+     "key": "0a62c72accfe3336827c",
+     "kind": "unmapped",
+     "reason": "no candidate is the same food",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "wipeout-bar-grill--specialty-pizzas-9",
+   "name": "Specialty Pizzas (9\")",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "acidic": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sugar_high": {
+     "pinned": "yes",
+     "other": "yes"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "wipeout-bar-grill--specialty-pizzas-9",
+     "key": "ec29ec368d9394b346a7",
+     "kind": "usda-mixed-dish-estimate",
+     "estimate": true,
+     "fdcId": 2708649,
+     "dataType": "Survey (FNDDS)",
+     "category": "Pizza",
+     "description": "Pizza with meat other than pepperoni, from restaurant or fast food, NS as to type of crust",
+     "agree": 3,
+     "grams": 276.0,
+     "grams_basis": "estimated portion: Quantity not specified"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "grandehos-kamekyo--cucumber-salad",
+   "name": "Cucumber Salad",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "fiber_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "grandehos-kamekyo--cucumber-salad",
+     "key": "f1e60fa193ef8c16d093",
+     "kind": "usda-mixed-dish-estimate",
+     "estimate": true,
+     "fdcId": 2709821,
+     "dataType": "Survey (FNDDS)",
+     "category": "Coleslaw, non-lettuce salads",
+     "description": "Cucumber salad made with cucumber and vinegar",
+     "agree": 3,
+     "grams": 159.0,
+     "grams_basis": "estimated portion: 1 cup"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "north-beach-pizza--16-large-pizza",
+   "name": "16\" Large Pizza",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "north-beach-pizza--16-large-pizza",
+     "key": "0a13e8ed94b0fcae1573",
+     "kind": "unmapped",
+     "reason": "no candidate is the same food",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "pizzelle-di-north-beach--aglio-and-olio-pasta",
+   "name": "Aglio and Olio Pasta",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "pizzelle-di-north-beach--aglio-and-olio-pasta",
+     "key": "1f550db1f7e7054248ab",
+     "kind": "unmapped",
+     "reason": "no candidate is the same food",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "flying-ninja--korean-galbi",
+   "name": "Korean Galbi",
+   "tags": {
+    "fried": {
+     "pinned": "no",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "flying-ninja--korean-galbi",
+     "key": "5ba2652b9341d4b0ab2b",
+     "kind": "usda-single-food",
+     "estimate": true,
+     "fdcId": 2705845,
+     "dataType": "Survey (FNDDS)",
+     "category": "Beef, excludes ground",
+     "description": "Beef, shortribs",
+     "agree": 3,
+     "grams": 135.0,
+     "grams_basis": "estimated portion: 1 cup"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "biscoff-coffee-corner--breakfast-burrito",
+   "name": "Breakfast Burrito",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": null
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "biscoff-coffee-corner--breakfast-burrito",
+     "key": "58122da55358a79c6c9f",
+     "kind": "usda-mixed-dish-estimate",
+     "estimate": true,
+     "fdcId": 2707343,
+     "dataType": "Survey (FNDDS)",
+     "category": "Egg/breakfast sandwiches",
+     "description": "Egg burrito",
+     "agree": 3,
+     "grams": 180.0,
+     "grams_basis": "estimated portion: 1 item, any size"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "trader-joe-s--furikake-snack-mix",
+   "name": "Furikake Snack Mix",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "yes",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "trader-joe-s--furikake-snack-mix",
+     "key": "310d93e9a3c68b0409cf",
+     "kind": "usda-single-food",
+     "estimate": false,
+     "fdcId": 167958,
+     "dataType": "SR Legacy",
+     "category": "Snacks",
+     "description": "Snacks, oriental mix, rice-based",
+     "agree": 3,
+     "grams": 212.6,
+     "grams_basis": "package"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "starbucks-580-california-street--sausage-cheddar-egg-sandwich",
+   "name": "Sausage, Cheddar & Egg Sandwich",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "starbucks-580-california-street--sausage-cheddar-egg-sandwich",
+     "key": "413236321b0e1fa69fc9",
+     "kind": "unmapped",
+     "reason": "readings do not agree on one record",
+     "agree": 2
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "blue-barn--heirloom-salad",
+   "name": "Heirloom Salad",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "acidic": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "nuts": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "raw": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "fiber_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "blue-barn--heirloom-salad",
+     "key": "14422b627ca704f6ea18",
+     "kind": "unmapped",
+     "reason": "no candidate is the same food",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  },
+  {
+   "id": "red-window--falafel-burger-2",
+   "name": "Falafel Burger",
+   "tags": {
+    "fried": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "fiber_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "red-window--falafel-burger-2",
+     "key": "2c6477abd9ffb10bf551",
+     "kind": "usda-mixed-dish-estimate",
+     "estimate": true,
+     "fdcId": 2707483,
+     "dataType": "Survey (FNDDS)",
+     "category": "Vegetable sandwiches/burgers",
+     "description": "Falafel sandwich",
+     "agree": 3,
+     "grams": 215.0,
+     "grams_basis": "estimated portion: 1 sandwich, any size"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "trader-joe-s--organic-dried-ataulfo-mango-slices",
+   "name": "Organic Dried Ataulfo Mango Slices",
+   "tags": {
+    "fried": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "acidic": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "nuts": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "sugar_high": {
+     "pinned": "yes",
+     "other": "yes"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "trader-joe-s--organic-dried-ataulfo-mango-slices",
+     "key": "026a416612ae7fe22a94",
+     "kind": "usda-single-food",
+     "estimate": false,
+     "fdcId": 2709205,
+     "dataType": "Survey (FNDDS)",
+     "category": "Dried fruits",
+     "description": "Mango, dried",
+     "agree": 3,
+     "grams": 170.1,
+     "grams_basis": "package"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "trader-joe-s--fuyu-persimmons",
+   "name": "Fuyu Persimmons",
+   "tags": {
+    "fried": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "fiber_high": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "sodium_high": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "sugar_high": {
+     "pinned": "no",
+     "other": "yes"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "trader-joe-s--fuyu-persimmons",
+     "key": "64ad610d46486707bf87",
+     "kind": "usda-single-food",
+     "estimate": false,
+     "fdcId": 169941,
+     "dataType": "SR Legacy",
+     "category": "Fruits and Fruit Juices",
+     "description": "Persimmons, japanese, raw",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "flying-ninja--taste-of-sashimi-tuna-5-pcs",
+   "name": "Taste of Sashimi - Tuna (5 pcs)",
+   "tags": {
+    "fried": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "raw": {
+     "pinned": "yes",
+     "other": "yes"
+    },
+    "fiber_high": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "no",
+     "other": "no"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "flying-ninja--taste-of-sashimi-tuna-5-pcs",
+     "key": "887cf27be01632344b57",
+     "kind": "usda-single-food",
+     "estimate": true,
+     "fdcId": 2706308,
+     "dataType": "Survey (FNDDS)",
+     "category": "Fish",
+     "description": "Fish, tuna, raw",
+     "agree": 3,
+     "grams": 85.0,
+     "grams_basis": "estimated portion: Quantity not specified"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "red-window--bacon-benedict",
+   "name": "Bacon Benedict",
+   "tags": {
+    "fried": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": null
+    },
+    "sodium_high": {
+     "pinned": "yes",
+     "other": null
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": null
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "red-window--bacon-benedict",
+     "key": "caf250f0077e62e12753",
+     "kind": "usda-single-food",
+     "estimate": true,
+     "fdcId": 2707180,
+     "dataType": "Survey (FNDDS)",
+     "category": "Eggs and omelets",
+     "description": "Egg, Benedict",
+     "agree": 3,
+     "grams": 155.0,
+     "grams_basis": "estimated portion: 1 egg"
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": false
+   }
+  },
+  {
+   "id": "starbucks-1255-sansome-street--iced-matcha-latte",
+   "name": "Iced Matcha Latte",
+   "tags": {
+    "fried": {
+     "pinned": "no",
+     "other": "no"
+    },
+    "spicy": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "acidic": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "nuts": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "seeds": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "raw": {
+     "pinned": "unknown",
+     "other": "no"
+    },
+    "fiber_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sodium_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    },
+    "sugar_high": {
+     "pinned": "unknown",
+     "other": "unknown"
+    }
+   },
+   "map": {
+    "pinned": {
+     "id": "starbucks-1255-sansome-street--iced-matcha-latte",
+     "key": "e3874b7e34e4e3670d2b",
+     "kind": "unmapped",
+     "reason": "no candidate is the same food",
+     "agree": 3
+    },
+    "other": {
+     "kind": "unmapped",
+     "reason": "no candidate shares a word with the item"
+    },
+    "same": true
+   }
+  }
+ ]
+}

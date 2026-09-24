@@ -1,0 +1,16 @@
+{
+ "places": [
+  {
+   "key": "A",
+   "name": "A",
+   "neighborhood": "North Beach"
+  }
+ ],
+ "risk": {
+  "A": {},
+  "B": {}
+ },
+ "inspections": {
+  "_meta": {}
+ }
+}

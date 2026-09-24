@@ -1,0 +1,502 @@
+{
+ "fdcId": 171988,
+ "dataType": "SR Legacy",
+ "description": "Fish, tuna, white, canned in water, without salt, drained solids",
+ "publicationDate": "4/1/2019",
+ "fetched_at": "2026-09-24T05:00:45+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 23.62
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 2.97
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 0.63
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 128.0
+  },
+  {
+   "id": 1018,
+   "number": "221",
+   "name": "Alcohol, ethyl",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 74.02
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 536.0
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 14.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 0.97
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 33.0
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 217.0
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 237.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 50.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.48
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.039
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.019
+  },
+  {
+   "id": 1103,
+   "number": "317",
+   "name": "Selenium, Se",
+   "unit": "µg",
+   "amount": 65.7
+  },
+  {
+   "id": 1104,
+   "number": "318",
+   "name": "Vitamin A, IU",
+   "unit": "IU",
+   "amount": 19.0
+  },
+  {
+   "id": 1105,
+   "number": "319",
+   "name": "Retinol",
+   "unit": "µg",
+   "amount": 6.0
+  },
+  {
+   "id": 1106,
+   "number": "320",
+   "name": "Vitamin A, RAE",
+   "unit": "µg",
+   "amount": 6.0
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1165,
+   "number": "404",
+   "name": "Thiamin",
+   "unit": "mg",
+   "amount": 0.008
+  },
+  {
+   "id": 1166,
+   "number": "405",
+   "name": "Riboflavin",
+   "unit": "mg",
+   "amount": 0.044
+  },
+  {
+   "id": 1167,
+   "number": "406",
+   "name": "Niacin",
+   "unit": "mg",
+   "amount": 5.799
+  },
+  {
+   "id": 1170,
+   "number": "410",
+   "name": "Pantothenic acid",
+   "unit": "mg",
+   "amount": 0.124
+  },
+  {
+   "id": 1175,
+   "number": "415",
+   "name": "Vitamin B-6",
+   "unit": "mg",
+   "amount": 0.217
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 2.0
+  },
+  {
+   "id": 1178,
+   "number": "418",
+   "name": "Vitamin B-12",
+   "unit": "µg",
+   "amount": 1.17
+  },
+  {
+   "id": 1186,
+   "number": "431",
+   "name": "Folic acid",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1187,
+   "number": "432",
+   "name": "Folate, food",
+   "unit": "µg",
+   "amount": 2.0
+  },
+  {
+   "id": 1190,
+   "number": "435",
+   "name": "Folate, DFE",
+   "unit": "µg",
+   "amount": 2.0
+  },
+  {
+   "id": 1210,
+   "number": "501",
+   "name": "Tryptophan",
+   "unit": "g",
+   "amount": 0.265
+  },
+  {
+   "id": 1211,
+   "number": "502",
+   "name": "Threonine",
+   "unit": "g",
+   "amount": 1.035
+  },
+  {
+   "id": 1212,
+   "number": "503",
+   "name": "Isoleucine",
+   "unit": "g",
+   "amount": 1.088
+  },
+  {
+   "id": 1213,
+   "number": "504",
+   "name": "Leucine",
+   "unit": "g",
+   "amount": 1.92
+  },
+  {
+   "id": 1214,
+   "number": "505",
+   "name": "Lysine",
+   "unit": "g",
+   "amount": 2.169
+  },
+  {
+   "id": 1215,
+   "number": "506",
+   "name": "Methionine",
+   "unit": "g",
+   "amount": 0.699
+  },
+  {
+   "id": 1216,
+   "number": "507",
+   "name": "Cystine",
+   "unit": "g",
+   "amount": 0.253
+  },
+  {
+   "id": 1217,
+   "number": "508",
+   "name": "Phenylalanine",
+   "unit": "g",
+   "amount": 0.922
+  },
+  {
+   "id": 1218,
+   "number": "509",
+   "name": "Tyrosine",
+   "unit": "g",
+   "amount": 0.797
+  },
+  {
+   "id": 1219,
+   "number": "510",
+   "name": "Valine",
+   "unit": "g",
+   "amount": 1.217
+  },
+  {
+   "id": 1220,
+   "number": "511",
+   "name": "Arginine",
+   "unit": "g",
+   "amount": 1.413
+  },
+  {
+   "id": 1221,
+   "number": "512",
+   "name": "Histidine",
+   "unit": "g",
+   "amount": 0.695
+  },
+  {
+   "id": 1222,
+   "number": "513",
+   "name": "Alanine",
+   "unit": "g",
+   "amount": 1.428
+  },
+  {
+   "id": 1223,
+   "number": "514",
+   "name": "Aspartic acid",
+   "unit": "g",
+   "amount": 2.419
+  },
+  {
+   "id": 1224,
+   "number": "515",
+   "name": "Glutamic acid",
+   "unit": "g",
+   "amount": 3.526
+  },
+  {
+   "id": 1225,
+   "number": "516",
+   "name": "Glycine",
+   "unit": "g",
+   "amount": 1.134
+  },
+  {
+   "id": 1226,
+   "number": "517",
+   "name": "Proline",
+   "unit": "g",
+   "amount": 0.835
+  },
+  {
+   "id": 1227,
+   "number": "518",
+   "name": "Serine",
+   "unit": "g",
+   "amount": 0.964
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 42.0
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 0.792
+  },
+  {
+   "id": 1264,
+   "number": "612",
+   "name": "SFA 14:0",
+   "unit": "g",
+   "amount": 0.082
+  },
+  {
+   "id": 1265,
+   "number": "613",
+   "name": "SFA 16:0",
+   "unit": "g",
+   "amount": 0.592
+  },
+  {
+   "id": 1266,
+   "number": "614",
+   "name": "SFA 18:0",
+   "unit": "g",
+   "amount": 0.118
+  },
+  {
+   "id": 1268,
+   "number": "617",
+   "name": "MUFA 18:1",
+   "unit": "g",
+   "amount": 0.518
+  },
+  {
+   "id": 1269,
+   "number": "618",
+   "name": "PUFA 18:2",
+   "unit": "g",
+   "amount": 0.055
+  },
+  {
+   "id": 1270,
+   "number": "619",
+   "name": "PUFA 18:3",
+   "unit": "g",
+   "amount": 0.071
+  },
+  {
+   "id": 1271,
+   "number": "620",
+   "name": "PUFA 20:4",
+   "unit": "g",
+   "amount": 0.051
+  },
+  {
+   "id": 1272,
+   "number": "621",
+   "name": "PUFA 22:6 n-3 (DHA)",
+   "unit": "g",
+   "amount": 0.629
+  },
+  {
+   "id": 1275,
+   "number": "626",
+   "name": "MUFA 16:1",
+   "unit": "g",
+   "amount": 0.144
+  },
+  {
+   "id": 1276,
+   "number": "627",
+   "name": "PUFA 18:4",
+   "unit": "g",
+   "amount": 0.051
+  },
+  {
+   "id": 1277,
+   "number": "628",
+   "name": "MUFA 20:1",
+   "unit": "g",
+   "amount": 0.078
+  },
+  {
+   "id": 1278,
+   "number": "629",
+   "name": "PUFA 20:5 n-3 (EPA)",
+   "unit": "g",
+   "amount": 0.233
+  },
+  {
+   "id": 1279,
+   "number": "630",
+   "name": "MUFA 22:1",
+   "unit": "g",
+   "amount": 0.044
+  },
+  {
+   "id": 1280,
+   "number": "631",
+   "name": "PUFA 22:5 n-3 (DPA)",
+   "unit": "g",
+   "amount": 0.018
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 0.784
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 1.109
+  }
+ ],
+ "portions": [
+  {
+   "description": "3.0 oz",
+   "gram_weight": 85.0
+  },
+  {
+   "description": "1.0 can",
+   "gram_weight": 172.0
+  }
+ ]
+}

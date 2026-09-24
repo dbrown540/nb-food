@@ -1,0 +1,6 @@
+{"at": "2026-09-23", "basis": "c92286468fd4", "inputs": 5, "pinned": 5, "failures": 0, "usage": {"input": 16764, "cache_write": 6088, "cache_read": 5327, "output": 252}, "batch": false}
+{"at": "2026-09-23", "basis": "c92286468fd4", "inputs": 4, "pinned": 4, "failures": 0, "usage": {"input": 12927, "cache_write": 0, "cache_read": 9132, "output": 204}, "batch": false}
+{"at": "2026-09-23", "basis": "c92286468fd4", "inputs": 20, "pinned": 20, "failures": 0, "usage": {"input": 71391, "cache_write": 6088, "cache_read": 39572, "output": 1041}, "batch": false}
+{"at": "2026-09-23", "basis": "d7c4e79d31a6", "inputs": 26, "pinned": 26, "transport": "cli", "failures": 0, "usage": {"input": 156, "cache_write": 132521, "cache_read": 73800, "output": 20783}, "batch": false}
+{"at": "2026-09-23", "basis": "65594df604bb", "inputs": 26, "pinned": 26, "transport": "cli", "failures": 0, "usage": {"input": 156, "cache_write": 132529, "cache_read": 73800, "output": 11778}, "batch": false}
+{"at": "2026-09-23", "basis": "65594df604bb", "inputs": 1693, "pinned": 1693, "transport": "cli", "failures": 0, "usage": {"input": 10162, "cache_write": 8429136, "cache_read": 5203012, "output": 718214}, "batch": false}

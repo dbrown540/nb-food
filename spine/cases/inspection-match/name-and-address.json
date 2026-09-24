@@ -1,0 +1,17 @@
+{
+ "place": {
+  "name": "Golden Lantern",
+  "addr": "700 Grant Avenue",
+  "lat": 37.7946,
+  "lon": -122.4058
+ },
+ "businesses": [
+  {
+   "name": "GOLDEN LANTERN RESTAURANT",
+   "address": "700 GRANT AVE",
+   "postal": "94108",
+   "lat": null,
+   "lon": null
+  }
+ ]
+}

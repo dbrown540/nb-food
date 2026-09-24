@@ -1,0 +1,215 @@
+{
+ "fdcId": 790646,
+ "dataType": "Foundation",
+ "description": "Onions, yellow, raw",
+ "publicationDate": "4/1/2020",
+ "fetched_at": "2026-09-24T05:02:14+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 0.83
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 0.05
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 8.61
+  },
+  {
+   "id": 1007,
+   "number": "207",
+   "name": "Ash",
+   "unit": "g",
+   "amount": 0.41
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 38.0
+  },
+  {
+   "id": 1010,
+   "number": "210",
+   "name": "Sucrose",
+   "unit": "g",
+   "amount": 1.6
+  },
+  {
+   "id": 1011,
+   "number": "211",
+   "name": "Glucose",
+   "unit": "g",
+   "amount": 2.31
+  },
+  {
+   "id": 1012,
+   "number": "212",
+   "name": "Fructose",
+   "unit": "g",
+   "amount": 1.91
+  },
+  {
+   "id": 1013,
+   "number": "213",
+   "name": "Lactose",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1014,
+   "number": "214",
+   "name": "Maltose",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 90.1
+  },
+  {
+   "id": 1062,
+   "number": "268",
+   "name": "Energy",
+   "unit": "kJ",
+   "amount": 160.0
+  },
+  {
+   "id": 1063,
+   "number": "269.3",
+   "name": "Sugars, Total",
+   "unit": "g",
+   "amount": 5.82
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 1.9
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 15.0
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 0.28
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 9.0
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 34.0
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 182.0
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 1.0
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 0.2
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.035
+  },
+  {
+   "id": 1100,
+   "number": "314",
+   "name": "Iodine, I",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1101,
+   "number": "315",
+   "name": "Manganese, Mn",
+   "unit": "mg",
+   "amount": 0.144
+  },
+  {
+   "id": 1103,
+   "number": "317",
+   "name": "Selenium, Se",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 8.2
+  },
+  {
+   "id": 1176,
+   "number": "416",
+   "name": "Biotin",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 2033,
+   "number": "293",
+   "name": "Total dietary fiber (AOAC 2011.25)",
+   "unit": "g",
+   "amount": 2.71
+  }
+ ],
+ "portions": [
+  {
+   "description": "1.0 Onion Edible",
+   "gram_weight": 143.0
+  },
+  {
+   "description": "1.0 RACC",
+   "gram_weight": 85.0
+  }
+ ]
+}

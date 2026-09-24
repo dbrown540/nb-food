@@ -1,0 +1,131 @@
+{
+ "stage": "places",
+ "story": "Each place near the door takes the city's inspection history only when a registration can be defended as the same business, by name and street address or by name and location, and otherwise takes none. A place the owner has visited carries the owner's dated verdict, and nothing else sets or changes it.",
+ "principles": [
+  {
+   "id": "inspection-match",
+   "statement": "A place takes a city inspection record only when the names relate and the street address or the location corroborates them; without a defensible match the place has no record.",
+   "grain": "place",
+   "tier": "T1",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "code",
+     "path": "scripts/inspections.py",
+     "symbol": "match_poi",
+     "tests": "tests/test_inspections.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "inspection-match"
+    }
+   ],
+   "gap": {
+    "text": "No gate re-checks a stored match against its corroborating evidence; the confidence the matcher writes is read as-is by the build.",
+    "reviewBy": "2026-12-31"
+   },
+   "cases": [
+    {
+     "given": "related names and the same street address",
+     "call": "scripts/inspections.py:match_case",
+     "input": "spine/cases/inspection-match/name-and-address.json",
+     "expect": {
+      "confidence": "name+address"
+     }
+    },
+    {
+     "given": "the same name in the same building, no address to compare",
+     "call": "scripts/inspections.py:match_case",
+     "input": "spine/cases/inspection-match/name-and-building.json",
+     "expect": {
+      "confidence": "name-only"
+     }
+    },
+    {
+     "given": "the same name across the city",
+     "call": "scripts/inspections.py:match_case",
+     "input": "spine/cases/inspection-match/far-namesake.json",
+     "expect": {
+      "confidence": "none"
+     }
+    }
+   ]
+  },
+  {
+   "id": "curated-verdict",
+   "statement": "A place's verdict is the owner's own dated ruling from a visit; nothing else sets or changes it, and it stands only until its review date.",
+   "grain": "place",
+   "tier": "H",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "ruling",
+     "path": "data/curated.json",
+     "key": "overrides"
+    },
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/check_data.py",
+     "symbol": "check_verdicts",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_check_data.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "curated-verdict"
+    }
+   ],
+   "cases": [
+    {
+     "given": "a verdict with its ruling date",
+     "call": "scripts/check_data.py:verdict_case",
+     "input": "spine/cases/curated-verdict/dated.json",
+     "expect": {
+      "fails": 0,
+      "warns": 0
+     }
+    },
+    {
+     "given": "a verdict with no ruling date",
+     "call": "scripts/check_data.py:verdict_case",
+     "input": "spine/cases/curated-verdict/undated.json",
+     "expect": {
+      "fails": 1
+     }
+    },
+    {
+     "given": "a verdict past its review date",
+     "call": "scripts/check_data.py:verdict_case",
+     "input": "spine/cases/curated-verdict/past-review.json",
+     "expect": {
+      "fails": 1
+     }
+    }
+   ]
+  }
+ ],
+ "consumers": [
+  {
+   "id": "viewer",
+   "path": "docs/index.html",
+   "inputs": [
+    {
+     "principle": "inspection-match",
+     "field": "inspection",
+     "grain": "place"
+    },
+    {
+     "principle": "curated-verdict",
+     "field": "verdict",
+     "grain": "place"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,498 @@
+{
+ "fdcId": 2708731,
+ "dataType": "Survey (FNDDS)",
+ "description": "Quiche with meat, poultry or fish",
+ "publicationDate": "10/31/2024",
+ "fetched_at": "2026-09-24T05:02:26+00:00",
+ "nutrients": [
+  {
+   "id": 1003,
+   "number": "203",
+   "name": "Protein",
+   "unit": "g",
+   "amount": 15.5
+  },
+  {
+   "id": 1004,
+   "number": "204",
+   "name": "Total lipid (fat)",
+   "unit": "g",
+   "amount": 30.6
+  },
+  {
+   "id": 1005,
+   "number": "205",
+   "name": "Carbohydrate, by difference",
+   "unit": "g",
+   "amount": 12.1
+  },
+  {
+   "id": 1008,
+   "number": "208",
+   "name": "Energy",
+   "unit": "kcal",
+   "amount": 387
+  },
+  {
+   "id": 1018,
+   "number": "221",
+   "name": "Alcohol, ethyl",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1051,
+   "number": "255",
+   "name": "Water",
+   "unit": "g",
+   "amount": 39.2
+  },
+  {
+   "id": 1057,
+   "number": "262",
+   "name": "Caffeine",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1058,
+   "number": "263",
+   "name": "Theobromine",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1079,
+   "number": "291",
+   "name": "Fiber, total dietary",
+   "unit": "g",
+   "amount": 0.7
+  },
+  {
+   "id": 1087,
+   "number": "301",
+   "name": "Calcium, Ca",
+   "unit": "mg",
+   "amount": 232
+  },
+  {
+   "id": 1089,
+   "number": "303",
+   "name": "Iron, Fe",
+   "unit": "mg",
+   "amount": 1.01
+  },
+  {
+   "id": 1090,
+   "number": "304",
+   "name": "Magnesium, Mg",
+   "unit": "mg",
+   "amount": 20.0
+  },
+  {
+   "id": 1091,
+   "number": "305",
+   "name": "Phosphorus, P",
+   "unit": "mg",
+   "amount": 257
+  },
+  {
+   "id": 1092,
+   "number": "306",
+   "name": "Potassium, K",
+   "unit": "mg",
+   "amount": 178
+  },
+  {
+   "id": 1093,
+   "number": "307",
+   "name": "Sodium, Na",
+   "unit": "mg",
+   "amount": 570
+  },
+  {
+   "id": 1095,
+   "number": "309",
+   "name": "Zinc, Zn",
+   "unit": "mg",
+   "amount": 1.85
+  },
+  {
+   "id": 1098,
+   "number": "312",
+   "name": "Copper, Cu",
+   "unit": "mg",
+   "amount": 0.046
+  },
+  {
+   "id": 1103,
+   "number": "317",
+   "name": "Selenium, Se",
+   "unit": "µg",
+   "amount": 22.9
+  },
+  {
+   "id": 1105,
+   "number": "319",
+   "name": "Retinol",
+   "unit": "µg",
+   "amount": 207
+  },
+  {
+   "id": 1106,
+   "number": "320",
+   "name": "Vitamin A, RAE",
+   "unit": "µg",
+   "amount": 208
+  },
+  {
+   "id": 1107,
+   "number": "321",
+   "name": "Carotene, beta",
+   "unit": "µg",
+   "amount": 13.0
+  },
+  {
+   "id": 1108,
+   "number": "322",
+   "name": "Carotene, alpha",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1109,
+   "number": "323",
+   "name": "Vitamin E (alpha-tocopherol)",
+   "unit": "mg",
+   "amount": 0.8
+  },
+  {
+   "id": 1114,
+   "number": "328",
+   "name": "Vitamin D (D2 + D3)",
+   "unit": "µg",
+   "amount": 1.1
+  },
+  {
+   "id": 1120,
+   "number": "334",
+   "name": "Cryptoxanthin, beta",
+   "unit": "µg",
+   "amount": 3.0
+  },
+  {
+   "id": 1122,
+   "number": "337",
+   "name": "Lycopene",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1123,
+   "number": "338",
+   "name": "Lutein + zeaxanthin",
+   "unit": "µg",
+   "amount": 105
+  },
+  {
+   "id": 1162,
+   "number": "401",
+   "name": "Vitamin C, total ascorbic acid",
+   "unit": "mg",
+   "amount": 0.4
+  },
+  {
+   "id": 1165,
+   "number": "404",
+   "name": "Thiamin",
+   "unit": "mg",
+   "amount": 0.162
+  },
+  {
+   "id": 1166,
+   "number": "405",
+   "name": "Riboflavin",
+   "unit": "mg",
+   "amount": 0.272
+  },
+  {
+   "id": 1167,
+   "number": "406",
+   "name": "Niacin",
+   "unit": "mg",
+   "amount": 2.24
+  },
+  {
+   "id": 1175,
+   "number": "415",
+   "name": "Vitamin B-6",
+   "unit": "mg",
+   "amount": 0.127
+  },
+  {
+   "id": 1177,
+   "number": "417",
+   "name": "Folate, total",
+   "unit": "µg",
+   "amount": 26.0
+  },
+  {
+   "id": 1178,
+   "number": "418",
+   "name": "Vitamin B-12",
+   "unit": "µg",
+   "amount": 0.7
+  },
+  {
+   "id": 1180,
+   "number": "421",
+   "name": "Choline, total",
+   "unit": "mg",
+   "amount": 77.2
+  },
+  {
+   "id": 1185,
+   "number": "430",
+   "name": "Vitamin K (phylloquinone)",
+   "unit": "µg",
+   "amount": 2.9
+  },
+  {
+   "id": 1186,
+   "number": "431",
+   "name": "Folic acid",
+   "unit": "µg",
+   "amount": 8.0
+  },
+  {
+   "id": 1187,
+   "number": "432",
+   "name": "Folate, food",
+   "unit": "µg",
+   "amount": 17.0
+  },
+  {
+   "id": 1190,
+   "number": "435",
+   "name": "Folate, DFE",
+   "unit": "µg",
+   "amount": 32.0
+  },
+  {
+   "id": 1242,
+   "number": "573",
+   "name": "Vitamin E, added",
+   "unit": "mg",
+   "amount": 0.0
+  },
+  {
+   "id": 1246,
+   "number": "578",
+   "name": "Vitamin B-12, added",
+   "unit": "µg",
+   "amount": 0.0
+  },
+  {
+   "id": 1253,
+   "number": "601",
+   "name": "Cholesterol",
+   "unit": "mg",
+   "amount": 153
+  },
+  {
+   "id": 1258,
+   "number": "606",
+   "name": "Fatty acids, total saturated",
+   "unit": "g",
+   "amount": 14.7
+  },
+  {
+   "id": 1259,
+   "number": "607",
+   "name": "SFA 4:0",
+   "unit": "g",
+   "amount": 0.386
+  },
+  {
+   "id": 1260,
+   "number": "608",
+   "name": "SFA 6:0",
+   "unit": "g",
+   "amount": 0.316
+  },
+  {
+   "id": 1261,
+   "number": "609",
+   "name": "SFA 8:0",
+   "unit": "g",
+   "amount": 0.196
+  },
+  {
+   "id": 1262,
+   "number": "610",
+   "name": "SFA 10:0",
+   "unit": "g",
+   "amount": 0.461
+  },
+  {
+   "id": 1263,
+   "number": "611",
+   "name": "SFA 12:0",
+   "unit": "g",
+   "amount": 0.541
+  },
+  {
+   "id": 1264,
+   "number": "612",
+   "name": "SFA 14:0",
+   "unit": "g",
+   "amount": 1.87
+  },
+  {
+   "id": 1265,
+   "number": "613",
+   "name": "SFA 16:0",
+   "unit": "g",
+   "amount": 7.42
+  },
+  {
+   "id": 1266,
+   "number": "614",
+   "name": "SFA 18:0",
+   "unit": "g",
+   "amount": 3.05
+  },
+  {
+   "id": 1268,
+   "number": "617",
+   "name": "MUFA 18:1",
+   "unit": "g",
+   "amount": 9.24
+  },
+  {
+   "id": 1269,
+   "number": "618",
+   "name": "PUFA 18:2",
+   "unit": "g",
+   "amount": 2.16
+  },
+  {
+   "id": 1270,
+   "number": "619",
+   "name": "PUFA 18:3",
+   "unit": "g",
+   "amount": 0.131
+  },
+  {
+   "id": 1271,
+   "number": "620",
+   "name": "PUFA 20:4",
+   "unit": "g",
+   "amount": 0.058
+  },
+  {
+   "id": 1272,
+   "number": "621",
+   "name": "PUFA 22:6 n-3 (DHA)",
+   "unit": "g",
+   "amount": 0.001
+  },
+  {
+   "id": 1275,
+   "number": "626",
+   "name": "MUFA 16:1",
+   "unit": "g",
+   "amount": 0.575
+  },
+  {
+   "id": 1276,
+   "number": "627",
+   "name": "PUFA 18:4",
+   "unit": "g",
+   "amount": 0.0
+  },
+  {
+   "id": 1277,
+   "number": "628",
+   "name": "MUFA 20:1",
+   "unit": "g",
+   "amount": 0.106
+  },
+  {
+   "id": 1278,
+   "number": "629",
+   "name": "PUFA 20:5 n-3 (EPA)",
+   "unit": "g",
+   "amount": 0.005
+  },
+  {
+   "id": 1279,
+   "number": "630",
+   "name": "MUFA 22:1",
+   "unit": "g",
+   "amount": 0.002
+  },
+  {
+   "id": 1280,
+   "number": "631",
+   "name": "PUFA 22:5 n-3 (DPA)",
+   "unit": "g",
+   "amount": 0.014
+  },
+  {
+   "id": 1292,
+   "number": "645",
+   "name": "Fatty acids, total monounsaturated",
+   "unit": "g",
+   "amount": 9.41
+  },
+  {
+   "id": 1293,
+   "number": "646",
+   "name": "Fatty acids, total polyunsaturated",
+   "unit": "g",
+   "amount": 2.68
+  },
+  {
+   "id": 2000,
+   "number": "269",
+   "name": "Total Sugars",
+   "unit": "g",
+   "amount": 1.91
+  }
+ ],
+ "portions": [
+  {
+   "description": "Quantity not specified",
+   "gram_weight": 113
+  },
+  {
+   "description": "1 piece (1/8 of 9\" dia)",
+   "gram_weight": 192
+  },
+  {
+   "description": "1 quiche (10\" dia)",
+   "gram_weight": 1896
+  },
+  {
+   "description": "1 quiche (8\" dia)",
+   "gram_weight": 1212
+  },
+  {
+   "description": "1 cup",
+   "gram_weight": 160
+  },
+  {
+   "description": "1 cubic inch",
+   "gram_weight": 11
+  },
+  {
+   "description": "1 individual quiche",
+   "gram_weight": 113
+  },
+  {
+   "description": "1 quiche (9\" dia)",
+   "gram_weight": 1536
+  }
+ ]
+}

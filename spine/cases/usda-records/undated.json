@@ -1,0 +1,20 @@
+{
+ "name": "1.json",
+ "record": {
+  "fdcId": 1,
+  "dataType": "SR Legacy",
+  "description": "Case food",
+  "publicationDate": "4/1/2019",
+  "fetched_at": "",
+  "nutrients": [
+   {
+    "id": 1093,
+    "number": "307",
+    "name": "Sodium, Na",
+    "unit": "mg",
+    "amount": 5
+   }
+  ],
+  "portions": []
+ }
+}

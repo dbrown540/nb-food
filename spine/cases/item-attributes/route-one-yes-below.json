@@ -1,0 +1,21 @@
+{
+ "text": "Item: Fried Calamari",
+ "agreeYes": 2,
+ "agreeNo": 3,
+ "samples": [
+  [
+   "y",
+   [
+    "Fried"
+   ]
+  ],
+  [
+   "u",
+   []
+  ],
+  [
+   "u",
+   []
+  ]
+ ]
+}

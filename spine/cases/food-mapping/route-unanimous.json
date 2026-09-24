@@ -1,0 +1,19 @@
+{
+ "samples": [
+  [
+   "c3",
+   "p1"
+  ],
+  [
+   "c3",
+   "p1"
+  ],
+  [
+   "c3",
+   "none"
+  ]
+ ],
+ "n": 16,
+ "agreeMap": 3,
+ "agreePortion": 2
+}

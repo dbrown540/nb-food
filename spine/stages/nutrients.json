@@ -1,0 +1,181 @@
+{
+ "stage": "nutrients",
+ "story": "Every item in the item table is given a source for its nutrients: its own package label when one is on file, else the public USDA record that is the same food, a single food for a single food and a surveyed mixed dish for a restaurant dish with an estimated serving weight, and otherwise none, so its nutrients stay unknown. The public records are read once and kept as dated copies.",
+ "principles": [
+  {
+   "id": "food-mapping",
+   "statement": "An item's nutrients come from its own package label when one is on file, else from the public food record that is the same food, and are otherwise unknown, never zero.",
+   "grain": "item",
+   "tier": "T2",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "cascade",
+     "route": {
+      "path": "scripts/map_foods.py",
+      "symbol": "route_mapping",
+      "tests": "tests/test_map_foods.py",
+      "bindings": [
+       {
+        "path": "spine/bindings.json",
+        "key": "food-mapping"
+       }
+      ]
+     },
+     "paths": [
+      {
+       "tier": "T0",
+       "kind": "data",
+       "label": "a package label is on file",
+       "path": "data/labels"
+      },
+      {
+       "tier": "T1",
+       "kind": "code",
+       "label": "no public record shares a word with the item: unmapped",
+       "path": "scripts/map_foods.py",
+       "symbol": "decide"
+      },
+      {
+       "tier": "T2",
+       "kind": "battery",
+       "label": "every reading names the same record",
+       "path": "spine/battery/food-map.md",
+       "contentHash": "sha256:97c646a04102030390f840e941ccf09fa83b756ebaaf3e11bcd0df19c4c929f4",
+       "outputs": {
+        "format": "pins",
+        "path": "data/food_map_pins.jsonl"
+       },
+       "pins": "data/food_map_pins.jsonl",
+       "gap": {
+        "text": "No labelled sample has been measured against this battery; a spot check is not a measurement.",
+        "reviewBy": "2026-12-31"
+       }
+      },
+      {
+       "tier": "T1",
+       "kind": "code",
+       "label": "readings disagree or name no record: unmapped",
+       "path": "scripts/map_foods.py",
+       "symbol": "route_mapping"
+      }
+     ]
+    },
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/map_foods.py",
+     "symbol": "check_food_map",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_map_foods.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "food-mapping"
+    }
+   ],
+   "inputs": [
+    {
+     "principle": "menu-extraction",
+     "field": "items",
+     "grain": "menu"
+    }
+   ],
+   "cases": [
+    {
+     "given": "a package label on file",
+     "call": "scripts/map_foods.py:decide_case",
+     "input": "spine/cases/food-mapping/label-on-file.json",
+     "expect": {
+      "kind": "label"
+     }
+    },
+    {
+     "given": "a single food with its own public record",
+     "call": "scripts/map_foods.py:decide_case",
+     "input": "spine/cases/food-mapping/same-single-food.json",
+     "expect": {
+      "kind": "usda-single-food",
+      "fdcId": 2710824
+     }
+    },
+    {
+     "given": "a restaurant dish with a surveyed dish of the same name",
+     "call": "scripts/map_foods.py:decide_case",
+     "input": "spine/cases/food-mapping/same-dish.json",
+     "expect": {
+      "kind": "usda-mixed-dish-estimate",
+      "fdcId": 2706401
+     }
+    },
+    {
+     "given": "a dish the public records do not have: stays unmapped",
+     "call": "scripts/map_foods.py:decide_case",
+     "input": "spine/cases/food-mapping/no-usda-entry.json",
+     "expect": {
+      "kind": "unmapped",
+      "reason": "no candidate is the same food"
+     }
+    },
+    {
+     "given": "a name that shares no word with any record",
+     "call": "scripts/map_foods.py:decide_case",
+     "input": "spine/cases/food-mapping/no-shared-word.json",
+     "expect": {
+      "kind": "unmapped"
+     }
+    },
+    {
+     "given": "every reading names one record: at the bar",
+     "call": "scripts/map_foods.py:route_case",
+     "input": "spine/cases/food-mapping/route-unanimous.json",
+     "expect": {
+      "candidate": 3,
+      "portion": 1
+     }
+    },
+    {
+     "given": "two of three readings: just below the bar",
+     "call": "scripts/map_foods.py:route_case",
+     "input": "spine/cases/food-mapping/route-two-of-three.json",
+     "expect": {
+      "candidate": null
+     }
+    },
+    {
+     "given": "the record agreed, the portion split",
+     "call": "scripts/map_foods.py:route_case",
+     "input": "spine/cases/food-mapping/route-portion-split.json",
+     "expect": {
+      "candidate": 3,
+      "portion": null
+     }
+    },
+    {
+     "given": "a choice that is not on the list",
+     "call": "scripts/map_foods.py:route_case",
+     "input": "spine/cases/food-mapping/route-choice-off-list.json",
+     "expect": {
+      "candidate": null
+     }
+    }
+   ]
+  }
+ ],
+ "consumers": [
+  {
+   "id": "food-map",
+   "path": "data/food_map.json",
+   "inputs": [
+    {
+     "principle": "food-mapping",
+     "field": "kind",
+     "grain": "item"
+    }
+   ]
+  }
+ ]
+}

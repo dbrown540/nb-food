@@ -9,8 +9,19 @@ nothing about who uses the index. Two pattern groups:
   TOPIC  wellness / regimen wording, and the owner's first name alone —
          checked everywhere except verbatim public data, where the words
          belong to the city or to other businesses: data/inspections/** (DPH
-         text), data/sf.db + data/sf_places.json (OSM names/tags). The OSM
-         shop value `health_food` and soda product names are exempt by pattern.
+         text), data/sf.db + data/sf_places.json (OSM names/tags), and store
+         product lists data/products/** (names as the store prints them,
+         written by a pull script). The OSM shop value `health_food` and soda
+         product names are exempt by pattern. Derived tables that hold only
+         words copied from those sources are exempt too, because their own
+         --check gates refuse any content the derivation did not write:
+         data/menu_items.json (menu_items.py --check) and data/item_tags.json
+         (tag_items.py --check: every quoted word must occur in the item),
+         data/tag_pins.jsonl (check_item_tags: a pin holds only its item's
+         own words and closed answer codes) and data/food_map.json
+         (map_foods.py --check).
+         USDA FoodData Central text (data/usda/**, data/usda_index.json) is
+         public data written by scripts, like the OSM and DPH text.
 
 Build outputs (data/places.json, docs/index.html) are checked like sources,
 so a stray term in the curated overlay or the viewer template fails here.
@@ -42,7 +53,9 @@ TOPIC = [
     (r"\bmedical\b", "medical"),
     (r"\bmacros\b|\bpre-?gym\b|\bworkout\b", "regimen"),
 ]
-TOPIC_EXEMPT = ("data/inspections/", "data/sf.db", "data/sf_places.json", "data/sf_osm_raw.json")
+TOPIC_EXEMPT = ("data/inspections/", "data/sf.db", "data/sf_places.json", "data/sf_osm_raw.json", "data/products/",
+                "data/menu_items.json", "data/item_tags.json", "data/food_map.json", "data/tag_pins.jsonl",
+                "data/usda/", "data/usda_index.json")
 SELF = "scripts/check_public.py"  # holds the pattern table; not scanned
 
 
@@ -57,6 +70,10 @@ def scan(path: Path) -> list:
         text = path.read_text(errors="replace")
     except (OSError, UnicodeDecodeError):
         return []
+    return scan_text(rel, text)
+
+
+def scan_text(rel: str, text: str) -> list:
     if rel == SELF:  # the gate's own pattern table
         return []
     pats = list(OWNER) + ([] if rel.startswith(TOPIC_EXEMPT) else list(OWNER_NAME) + list(TOPIC))
@@ -66,6 +83,12 @@ def scan(path: Path) -> list:
             line = text.count("\n", 0, m.start()) + 1
             hits.append(f"{rel}:{line}: {label} -> {text[max(0, m.start() - 30):m.end() + 30]!r}")
     return hits
+
+
+def scan_case(case: dict) -> dict:
+    """Canonical-case entry. The text is stored in parts so a case that must trip
+    the gate does not trip it as a tracked file."""
+    return {"hits": len(scan_text(case["path"], "".join(case["text_parts"])))}
 
 
 def main() -> int:

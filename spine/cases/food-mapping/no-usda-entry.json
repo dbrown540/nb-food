@@ -1,0 +1,15 @@
+{
+ "row": {
+  "id": "gary-danko--branzini",
+  "place": "Gary Danko",
+  "kind": "menu",
+  "section": "Fish and Seafood",
+  "name": "Branzini",
+  "description": "fennel puree, saffron-orange emulsion, caper raisin relish",
+  "size": "",
+  "price": null,
+  "source": "restaurant website PDF (pdftotext; menu dated 9/3/26 and tasting menu dated 9/13/26, links found by rendering garydanko.com in a browser)",
+  "as_of": "2026-09-22",
+  "status": "ok"
+ }
+}

@@ -55,22 +55,22 @@ DATASETS = {  # dataset id -> (csv path, meta path)
 }
 SOURCE_URL = "https://data.sf.gov/resource/{}.json"
 
-# words that carry no identity; dropped from BOTH sides before comparing
-STOP = {"the", "restaurant", "cafe", "caffe", "and", "inc", "llc", "co",
-        "corp", "company", "ltd", "dba", "of", "by", "at", "on"}
-# geographic words: kept for equality tests but never count as identity
-PLACE = {"north", "beach", "chinatown", "san", "francisco", "sf", "telegraph",
-         "hill", "nob", "russian", "columbus", "grant", "stockton", "broadway",
-         "wharf", "fisherman", "pier", "embarcadero", "washington", "square",
-         "jackson", "pacific", "powell", "kearny", "bay", "union", "new"}
-NB_ZIPS = {"94133", "94108", "94111", "94109", "94104", "94102", "94105"}
-SAME_M = 120        # "same building" (name+address pairs measured <= 65 m)
-NEAR_M = 400        # corroborates an exact-name match
-CONFLICT_M = 1000   # farther than this rejects any name match
-DF_DISTINCT = 20    # a token on <= this many DPH business names is "distinctive"
-DF_UNIQUE = 3       # ...on <= this many is near-unique (enough with zip only)
-FUZZY_RATIO = 0.85  # spelling variant, trusted only with a street-address match
-FUZZY_STRONG = 0.90  # ...or, at this level, with same-building coordinates
+# Thresholds and local facts are bindings (spine/bindings.json "inspection-match"),
+# read on every run; the matcher below holds none of its own.
+BIND = json.loads((ROOT / "spine/bindings.json").read_text())["bindings"]["inspection-match"]
+STOP = set(BIND["stopWords"])          # carry no identity; dropped from BOTH sides before comparing
+PLACE = set(BIND["placeWords"])        # geographic: kept for equality tests, never count as identity
+NB_ZIPS = set(BIND["areaZips"])
+SAME_M = BIND["sameBuildingM"]         # "same building" (name+address pairs measured <= 65 m)
+NEAR_M = BIND["nearM"]                 # corroborates an exact-name match
+CONFLICT_M = BIND["conflictM"]         # farther than this rejects any name match
+DF_DISTINCT = BIND["dfDistinct"]       # a token on <= this many DPH business names is "distinctive"
+DF_UNIQUE = BIND["dfUnique"]           # ...on <= this many is near-unique (enough with zip only)
+FUZZY_RATIO = BIND["fuzzyRatio"]       # spelling variant, trusted only with a street-address match
+FUZZY_STRONG = BIND["fuzzyStrong"]     # ...or, at this level, with same-building coordinates
+MIN_SHARED = BIND["minSharedTokens"]   # shared identity tokens that make an "overlap" name
+MIN_IDENTITY = BIND["minIdentityTokens"]  # identity tokens that carry a same-building subset name
+DIAG_REJECTED = 6                      # rejected candidates kept in diagnostics (display only)
 
 
 def norm_tokens(name: str) -> list:
@@ -214,7 +214,7 @@ def name_kind(pset, bset, pjoined, bjoined):
         return "subset", None
     ratio = difflib.SequenceMatcher(None, pjoined, bjoined).ratio()
     shared = {t for t in pset & bset if t not in PLACE}
-    if len(shared) >= 2:
+    if len(shared) >= MIN_SHARED:
         return "overlap", ratio
     if ratio >= FUZZY_RATIO:
         return "fuzzy", ratio
@@ -286,9 +286,9 @@ def match_poi(poi: dict, index: dict, by_token: dict, by_addr: dict, df: dict) -
         elif kind == "subset":
             smaller = pset if pset <= b["_set"] else b["_set"]
             identity = [t for t in smaller if t not in PLACE]
-            best_df = min((df[t] for t in identity), default=10 ** 9)
+            best_df = min((df[t] for t in identity), default=float("inf"))
             if geo == "same":
-                ok = best_df <= DF_DISTINCT or len(identity) >= 2
+                ok = best_df <= DF_DISTINCT or len(identity) >= MIN_IDENTITY
             elif geo == "zip":
                 ok = best_df <= DF_UNIQUE
         if ok:
@@ -296,7 +296,7 @@ def match_poi(poi: dict, index: dict, by_token: dict, by_addr: dict, df: dict) -
         else:
             rejected.append((kind, b["name"], b["address"], geo))
 
-    diag = {"rejected": rejected[:6]}
+    diag = {"rejected": rejected[:DIAG_REJECTED]}
     if notes:
         diag["address_note"] = "; ".join(sorted(set(notes)))
     if not accepted:
@@ -339,6 +339,31 @@ def match_poi(poi: dict, index: dict, by_token: dict, by_addr: dict, df: dict) -
 
     diag["methods"] = sorted({a[1] for a in pool})
     return conf, [a[0] for a in pool], diag
+
+
+def build_index(biz: dict) -> tuple:
+    """Token, address and document-frequency indexes over the business registrations."""
+    by_token, by_addr, df = defaultdict(set), defaultdict(set), defaultdict(int)
+    for key, b in biz.items():
+        toks = norm_tokens(b["name"])
+        b["_set"], b["_joined"] = set(toks), "".join(toks)
+        for t in b["_set"]:
+            by_token[t].add(key)
+            df[t] += 1
+        by_token[b["_joined"]].add(key)  # "MyCanh" must find "MY CANH"
+        a = parse_addr(b["address"])
+        if a:
+            by_addr[a].add(key)
+    return by_token, by_addr, df
+
+
+def match_case(case: dict) -> dict:
+    """Canonical-case entry: one place against a handful of registrations -> the match."""
+    biz = {str(i): {"name": b["name"], "address": b.get("address", ""), "postal": b.get("postal"),
+                    "lat": b.get("lat"), "lon": b.get("lon")} for i, b in enumerate(case["businesses"])}
+    by_token, by_addr, df = build_index(biz)
+    conf, matched, _ = match_poi(case["place"], biz, by_token, by_addr, df)
+    return {"confidence": conf, "matched": sorted(b["name"] for b in matched)}
 
 
 def summarize(businesses: list) -> dict:
@@ -403,17 +428,7 @@ def main() -> None:
     biz = load_businesses()
     metas = {ds: json.loads(p[1].read_text()) for ds, p in DATASETS.items()}
 
-    by_token, by_addr, df = defaultdict(set), defaultdict(set), defaultdict(int)
-    for key, b in biz.items():
-        toks = norm_tokens(b["name"])
-        b["_set"], b["_joined"] = set(toks), "".join(toks)
-        for t in b["_set"]:
-            by_token[t].add(key)
-            df[t] += 1
-        by_token[b["_joined"]].add(key)  # "MyCanh" must find "MY CANH"
-        a = parse_addr(b["address"])
-        if a:
-            by_addr[a].add(key)
+    by_token, by_addr, df = build_index(biz)
 
     dmin = min(m["date_min"] for m in metas.values())
     dmax = max(m["date_max_not_after_today"] for m in metas.values())
