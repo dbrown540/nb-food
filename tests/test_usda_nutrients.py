@@ -51,6 +51,17 @@ class SurveyNumbers(unittest.TestCase):
         self.assertEqual(amounts[7], {1008: "150", 2000: "4.5", 1005: "20"})
 
 
+class MappedIds(unittest.TestCase):
+    def test_grocery_foods_join_the_menu_map(self):
+        with tempfile.TemporaryDirectory() as d:
+            root = Path(d)
+            (root / "data").mkdir()
+            (root / "data/food_map.json").write_text(json.dumps({"rows": [{"id": "a", "fdcId": 3}, {"id": "b"}]}))
+            self.assertEqual(u.mapped_ids(root), [3])
+            (root / "data/grocery_foods.json").write_text(json.dumps({"rows": [{"food": "egg", "fdcId": 2}, {"food": "x", "fdcId": 3}]}))
+            self.assertEqual(u.mapped_ids(root), [2, 3])
+
+
 class CheckNutrients(unittest.TestCase):
     def test_check_nutrients_on_the_repo(self):
         notes = []

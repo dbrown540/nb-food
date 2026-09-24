@@ -18,7 +18,7 @@ repository. The key is sent in a request header, never in a URL, and is never
 printed, logged or written.
 
     python3 scripts/usda.py FDC_ID [FDC_ID ...] [--key-ref REF]   # cache these records
-    python3 scripts/usda.py --mapped [--key-ref REF]              # cache every fdcId in data/food_map.json
+    python3 scripts/usda.py --mapped [--key-ref REF]              # cache every fdcId in data/food_map.json and data/grocery_foods.json
 """
 import json
 import os
@@ -118,6 +118,11 @@ def check_usda_cache(root: Path) -> list:
         for row in json.loads(fm.read_text())["rows"]:
             if row.get("fdcId") and not (root / f"data/usda/{row['fdcId']}.json").exists():
                 problems.append(f"{row['id']}: mapped to fdcId {row['fdcId']} with no cached record")
+    gf = root / "data/grocery_foods.json"
+    if gf.exists():
+        for row in json.loads(gf.read_text())["rows"]:
+            if not (root / f"data/usda/{row['fdcId']}.json").exists():
+                problems.append(f"grocery food {row['food']}: fdcId {row['fdcId']} has no cached record")
     return problems
 
 
@@ -141,6 +146,7 @@ def main(argv: list) -> int:
         i += 1
     if mapped:
         ids += [r["fdcId"] for r in json.loads((ROOT / "data/food_map.json").read_text())["rows"] if r.get("fdcId")]
+        ids += [r["fdcId"] for r in json.loads((ROOT / "data/grocery_foods.json").read_text())["rows"]]
     out = fetch(ids, key_ref)
     print(f"usda: {out['requests']} request(s); cached {len(out['cached'])}; not returned by the API {out['missing']}")
     return 1 if out["missing"] else 0

@@ -56,7 +56,7 @@ TOPIC = [
 ]
 TOPIC_EXEMPT = ("data/inspections/", "data/sf.db", "data/sf_places.json", "data/sf_osm_raw.json", "data/products/",
                 "data/menu_items.json", "data/item_tags.json", "data/food_map.json", "data/tag_pins.jsonl",
-                "data/usda/", "data/usda_index.json", "data/nutrients.json")
+                "data/usda/", "data/usda_index.json", "data/nutrients.json", "data/grocery_foods.json")
 SELF = "scripts/check_public.py"  # holds the pattern table; not scanned
 
 

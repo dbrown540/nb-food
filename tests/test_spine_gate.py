@@ -3,6 +3,7 @@ registry the way one gate item guards against and expects that item to fail.
 The scratch repo is committed with a throwaway signing key registered as its
 owner, so the clean baseline passes every item, G12 included."""
 import json
+import os
 import shutil
 import subprocess
 import sys
@@ -17,14 +18,16 @@ from spine_gate import Gate  # noqa: E402
 TODAY = "2026-09-23"
 COPY = ["spine", "scripts", "tests", "data/attributes.json", "data/tag_pins.jsonl", "data/curated.json",
         "data/menus", "data/products", "data/labels", "data/menu_items.json", "data/usda_index.json",
-        "data/food_map_pins.jsonl", "data/usda"]
+        "data/food_map_pins.jsonl", "data/usda", "data/grocery_foods.json"]
 
 
 def git(root, *args, key=None):
     cfg = ["-c", "user.name=case", "-c", "user.email=case@example.org", "-c", "commit.gpgsign=false"]
     if key:
         cfg += ["-c", "gpg.format=ssh", "-c", f"user.signingkey={key}"]
-    subprocess.run(["git", *cfg, *args], cwd=root, check=True, capture_output=True)
+    # commits are dated the cases' own today, so a date check does not move with the calendar
+    env = {**os.environ, "GIT_AUTHOR_DATE": TODAY + "T12:00:00", "GIT_COMMITTER_DATE": TODAY + "T12:00:00"}
+    subprocess.run(["git", *cfg, *args], cwd=root, check=True, capture_output=True, env=env)
 
 
 class GateCase(unittest.TestCase):

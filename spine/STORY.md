@@ -99,6 +99,7 @@ Every item in the item table is given a source for its nutrients: its own packag
 - decided by: code scripts/usda_nutrients.py `nutrient_row`
 - enforced by: scripts/usda_nutrients.py `check_nutrients`, on reject: halt
 - binding: spine/bindings.json `food-nutrients`
+- binding: data/grocery_foods.json `rows`
 - reads: food-mapping (fdcId, per item)
 - cases:
   - raw skinless chicken breast: expect {"per_100g": {"energy_kcal": 120.0, "protein_g": 22.5, "fat_g": 2.62, "carbohydrate_g": 0.0, "fiber_g": 0.0, "sodium_mg": 45.0, "sugars_g": 0.0, "saturated_fat_g": 0.563}}

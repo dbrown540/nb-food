@@ -191,6 +191,10 @@
     {
      "path": "spine/bindings.json",
      "key": "food-nutrients"
+    },
+    {
+     "path": "data/grocery_foods.json",
+     "key": "rows"
     }
    ],
    "inputs": [

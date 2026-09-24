@@ -1,0 +1,74 @@
+{
+ "schema_version": 1,
+ "what": "Plain grocery foods and the public record each is read from, for a kitchen that cooks from store products rather than a menu. One row per food; the record's own description says what it measures.",
+ "rows": [
+  {
+   "food": "applesauce, unsweetened",
+   "fdcId": 171695
+  },
+  {
+   "food": "banana, raw",
+   "fdcId": 173944
+  },
+  {
+   "food": "blueberries, raw",
+   "fdcId": 171711
+  },
+  {
+   "food": "bread, sourdough",
+   "fdcId": 172675
+  },
+  {
+   "food": "carrots, raw",
+   "fdcId": 170393
+  },
+  {
+   "food": "chicken breast, skinless, raw",
+   "fdcId": 171077
+  },
+  {
+   "food": "egg white, raw",
+   "fdcId": 172183
+  },
+  {
+   "food": "egg, whole, raw",
+   "fdcId": 171287
+  },
+  {
+   "food": "greek yogurt, plain, nonfat",
+   "fdcId": 170894
+  },
+  {
+   "food": "lentils, cooked",
+   "fdcId": 172421
+  },
+  {
+   "food": "olive oil",
+   "fdcId": 171413
+  },
+  {
+   "food": "potato, russet, raw",
+   "fdcId": 170027
+  },
+  {
+   "food": "rice, white, cooked",
+   "fdcId": 168878
+  },
+  {
+   "food": "salmon, atlantic, raw",
+   "fdcId": 175167
+  },
+  {
+   "food": "salsa verde",
+   "fdcId": 171824
+  },
+  {
+   "food": "turkey, ground, lean, raw",
+   "fdcId": 172850
+  },
+  {
+   "food": "zucchini, raw",
+   "fdcId": 169291
+  }
+ ]
+}

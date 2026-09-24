@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Build data/nutrients.json: per-100 g nutrients for every USDA record that
-data/food_map.json references.
+data/food_map.json and data/grocery_foods.json reference.
 
 Principle "food-nutrients" (spine/stages/nutrients.json): a food's nutrients
 are the public record's own values per 100 g, read by nutrient identity with a
@@ -44,7 +44,12 @@ def cfg(root: Path = ROOT) -> dict:
 
 
 def mapped_ids(root: Path = ROOT) -> list:
-    return sorted({r["fdcId"] for r in json.loads((root / "data/food_map.json").read_text())["rows"] if r.get("fdcId")})
+    """Every fdcId a mapping uses: the menu food map's and the grocery foods'."""
+    ids = {r["fdcId"] for r in json.loads((root / "data/food_map.json").read_text())["rows"] if r.get("fdcId")}
+    grocery = root / "data/grocery_foods.json"
+    if grocery.exists():
+        ids |= {r["fdcId"] for r in json.loads(grocery.read_text())["rows"]}
+    return sorted(ids)
 
 
 def nutrient_row(food: dict, amounts: dict, fields: dict) -> dict:
