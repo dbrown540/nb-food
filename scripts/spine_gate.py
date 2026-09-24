@@ -45,6 +45,7 @@ Every date check warns from `time.warnDays` before the date and fails after it.
 
     python3 scripts/spine_gate.py [--pre-commit] [--today YYYY-MM-DD] [--root DIR]
     python3 scripts/spine_gate.py --write-story
+    python3 scripts/spine_gate.py --consent-message > MSG   # then: git commit --allow-empty -S -F MSG
 """
 import ast
 import importlib.util
@@ -326,10 +327,8 @@ class Gate:
                     if ents.get(eid) != h:
                         break
                     intro, landed = c, day
-                if intro and signers.exists():
-                    status = git(self.root, "-c", f"gpg.ssh.allowedSignersFile={signers}", "log", "-1", "--format=%G?", intro).strip()
-                    if status == "G":
-                        continue
+                if intro and signers.exists() and consented(self.root, signers, intro, eid, h):
+                    continue
                 due = (date.fromisoformat(landed) + timedelta(days=days)).isoformat()
                 self.date_check("G12", f"{eid}: owner consent to its stance (landed {'uncommitted' if not intro else intro[:10]})", due)
 
@@ -477,6 +476,53 @@ def git(root: Path, *args) -> str:
 STANCE_FIELDS = ("statement", "grain", "scope", "tier")
 
 
+def consent_token(eid: str, h: str) -> str:
+    return f"consent: {eid} {h[:12]}"
+
+
+def consented(root: Path, signers: Path, intro: str, eid: str, h: str) -> bool:
+    """The stance landed in a commit signed with the owner's key, or a later commit signed with
+    that key carries its exact consent token (the id and the stance hash, so a consent never
+    carries over to a changed stance)."""
+    fmt = ["-c", f"gpg.ssh.allowedSignersFile={signers}", "log", "--format=%H%x1f%G?%x1f%B%x1e"]
+    out = git(root, *fmt, "-1", intro) + git(root, *fmt, f"{intro}..HEAD")
+    token = consent_token(eid, h)
+    for rec in filter(str.strip, out.split("\x1e")):
+        c, status, body = (rec.strip("\n").split("\x1f") + ["", ""])[:3]
+        if status == "G" and (c == intro or token in body.splitlines()):
+            return True
+    return False
+
+
+def consent_message(g) -> str:
+    """A commit message consenting to every stance that has no consent yet, each stated in full."""
+    signers = g.root / "spine/owner_signers"
+    lines = ["spine: owner consent to open stances", "",
+             "Signing this commit consents to each stance below as written. A token covers",
+             "exactly this wording; a later change to a stance needs a new consent.", ""]
+    files = [str(p.relative_to(g.root)) for p in sorted((g.root / "spine/stages").glob("*.json"))]
+    files += ["spine/invariants.json", "spine/bindings.json"]
+    for f in files:
+        doc = json.loads((g.root / f).read_text())
+        entries = {e["id"]: e for k in ("principles", "invariants", "rulings") for e in doc.get(k, [])}
+        log = git(g.root, "log", "--format=%H", "--", f).split()
+        for eid, h in sorted(stances_in(doc).items()):
+            intro = None
+            for c in log:
+                show = git(g.root, "show", f"{c}:{f}")
+                if not show or stances_in(json.loads(show)).get(eid) != h:
+                    break
+                intro = c
+            if intro and consented(g.root, signers, intro, eid, h):
+                continue
+            e = entries[eid]
+            what = e.get("statement") or f"{e.get('path') or e.get('binding')}: {e.get('basis')}"
+            where = e.get("grain") and f"per {e['grain']}, tier {e.get('tier')}" or \
+                (e.get("scope") and f"scope {', '.join(e['scope'])}") or f"review by {e.get('reviewBy')}"
+            lines += [consent_token(eid, h), f"    {what} ({where})", ""]
+    return "\n".join(lines)
+
+
 def stances_in(doc: dict) -> dict:
     """id -> hash of the stance of every principle, invariant and ruling in a registry file:
     the statement, grain or scope and tier of an entry; the whole of a ruling."""
@@ -556,6 +602,8 @@ def main(argv: list) -> int:
             pre = True
         elif a == "--write-story":
             write = True
+        elif a == "--consent-message":
+            write = "consent"
         elif a in ("--today", "--root") and i + 1 < len(argv):
             if a == "--today":
                 today = argv[i + 1]
@@ -566,6 +614,9 @@ def main(argv: list) -> int:
             raise SystemExit(f"spine_gate: unknown argument {a!r}")
         i += 1
     g = Gate(root, today, pre)
+    if write == "consent":
+        print(consent_message(g))
+        return 0
     if write:
         (root / "spine/STORY.md").write_text(render_story(g))
         print("wrote spine/STORY.md")

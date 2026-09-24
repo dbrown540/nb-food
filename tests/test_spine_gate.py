@@ -167,6 +167,19 @@ class GateCase(unittest.TestCase):
         g = self.gate(pre_commit=False, today="2099-01-01")
         self.assertFalse(any(x.startswith("G12") for x in g.fails + g.warns))
 
+    def test_g12_signed_consent_commit_with_tokens(self):
+        from spine_gate import consent_message
+        self.edit("spine/stages/menus.json", lambda d: self.principle(d, "menu-freshness").update(
+            statement="A menu older than the kept age is flagged until it is refreshed."))
+        git(self.root, "commit", "-q", "-am", "unsigned stance change")
+        msg = consent_message(Gate(self.root, TODAY, False))
+        self.assertIn("consent: menu-freshness ", msg)
+        (self.root / "MSG").write_text(msg)
+        git(self.root, "commit", "-q", "--allow-empty", "-F", "MSG")  # unsigned: not consent
+        self.assertIn("G12", self.codes(pre_commit=False, today="2099-01-01"))
+        git(self.root, "commit", "-q", "--allow-empty", "-S", "-F", "MSG", key=self.key)
+        self.assertNotIn("G12", self.codes(pre_commit=False, today="2099-01-01"))
+
     def test_g12a_battery_changed_under_its_hash(self):
         p = self.root / "spine/battery/item-attributes.md"
         p.write_text(p.read_text() + "\nAnswer generously.\n")
