@@ -20,7 +20,8 @@ nothing about who uses the index. Two pattern groups:
          data/tag_pins.jsonl (check_item_tags: a pin holds only its item's
          own words and closed answer codes) and data/food_map.json
          (map_foods.py --check).
-         USDA FoodData Central text (data/usda/**, data/usda_index.json) is
+         USDA FoodData Central text (data/usda/**, data/usda_index.json,
+         data/nutrients.json) is
          public data written by scripts, like the OSM and DPH text.
 
 Build outputs (data/places.json, docs/index.html) are checked like sources,
@@ -55,7 +56,7 @@ TOPIC = [
 ]
 TOPIC_EXEMPT = ("data/inspections/", "data/sf.db", "data/sf_places.json", "data/sf_osm_raw.json", "data/products/",
                 "data/menu_items.json", "data/item_tags.json", "data/food_map.json", "data/tag_pins.jsonl",
-                "data/usda/", "data/usda_index.json")
+                "data/usda/", "data/usda_index.json", "data/nutrients.json")
 SELF = "scripts/check_public.py"  # holds the pattern table; not scanned
 
 

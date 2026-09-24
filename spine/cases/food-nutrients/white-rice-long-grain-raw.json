@@ -1,0 +1,17 @@
+{
+ "food": {
+  "fdcId": 168877,
+  "dataType": "SR Legacy",
+  "description": "Rice, white, long-grain, regular, raw, enriched"
+ },
+ "amounts": {
+  "1003": "7.13",
+  "1004": "0.66",
+  "1005": "79.95",
+  "1008": "365",
+  "1079": "1.3",
+  "1093": "5",
+  "1258": "0.18",
+  "2000": "0.12"
+ }
+}

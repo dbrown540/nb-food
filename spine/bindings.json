@@ -193,6 +193,79 @@
     "Vegetables on a sandwich"
    ],
    "batchChunk": 150
+  },
+  "food-nutrients": {
+   "fields": {
+    "energy_kcal": [
+     1008,
+     2047,
+     2048
+    ],
+    "protein_g": [
+     1003
+    ],
+    "fiber_g": [
+     1079
+    ],
+    "sodium_mg": [
+     1093
+    ],
+    "sugars_g": [
+     2000,
+     1063
+    ],
+    "fat_g": [
+     1004
+    ],
+    "saturated_fat_g": [
+     1258
+    ],
+    "carbohydrate_g": [
+     1005
+    ]
+   },
+   "bounds": {
+    "per_field": {
+     "energy_kcal": [
+      0,
+      902
+     ],
+     "protein_g": [
+      0,
+      100
+     ],
+     "fat_g": [
+      0,
+      100
+     ],
+     "carbohydrate_g": [
+      0,
+      100
+     ],
+     "fiber_g": [
+      0,
+      100
+     ],
+     "sugars_g": [
+      0,
+      100
+     ],
+     "saturated_fat_g": [
+      0,
+      100
+     ],
+     "sodium_mg": [
+      0,
+      40000
+     ]
+    },
+    "sum_fields": [
+     "protein_g",
+     "fat_g",
+     "carbohydrate_g"
+    ],
+    "sum_max": 105
+   }
   }
  },
  "rulings": [

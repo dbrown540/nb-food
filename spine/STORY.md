@@ -64,7 +64,7 @@ Consumers:
 
 ## Stage: nutrients
 
-Every item in the item table is given a source for its nutrients: its own package label when one is on file, else the public USDA record that is the same food, a single food for a single food and a surveyed mixed dish for a restaurant dish with an estimated serving weight, and otherwise none, so its nutrients stay unknown. The public records are read once and kept as dated copies.
+Every item in the item table is given a source for its nutrients: its own package label when one is on file, else the public USDA record that is the same food, a single food for a single food and a surveyed mixed dish for a restaurant dish with an estimated serving weight, and otherwise none, so its nutrients stay unknown. The public records are read once and kept as dated copies. Each public record the map uses contributes its own nutrient values per hundred grams, read by nutrient identity; a value the record lacks stays unknown.
 
 ### food-mapping
 
@@ -91,8 +91,28 @@ Every item in the item table is given a source for its nutrients: its own packag
   - the record agreed, the portion split: expect {"candidate": 3, "portion": null}
   - a choice that is not on the list: expect {"candidate": null}
 
+### food-nutrients
+
+> A food's nutrients are the public record's own values per hundred grams, read by nutrient identity in a fixed fallback order, and a nutrient the record does not carry is unknown, never zero.
+
+- grain: food; tier: T1
+- decided by: code scripts/usda_nutrients.py `nutrient_row`
+- enforced by: scripts/usda_nutrients.py `check_nutrients`, on reject: halt
+- binding: spine/bindings.json `food-nutrients`
+- reads: food-mapping (fdcId, per item)
+- cases:
+  - raw skinless chicken breast: expect {"per_100g": {"energy_kcal": 120.0, "protein_g": 22.5, "fat_g": 2.62, "carbohydrate_g": 0.0, "fiber_g": 0.0, "sodium_mg": 45.0, "sugars_g": 0.0, "saturated_fat_g": 0.563}}
+  - raw zucchini: expect {"per_100g": {"energy_kcal": 17.0, "protein_g": 1.21, "fat_g": 0.32, "carbohydrate_g": 3.11, "fiber_g": 1.0, "sodium_mg": 8.0, "sugars_g": 2.5, "saturated_fat_g": 0.084}}
+  - plain lowfat Greek yogurt: expect {"per_100g": {"energy_kcal": 73.0, "protein_g": 9.95, "fat_g": 1.92, "carbohydrate_g": 3.94, "fiber_g": 0.0, "sodium_mg": 34.0, "sugars_g": 3.56, "saturated_fat_g": 1.23}}
+  - raw long-grain white rice: expect {"per_100g": {"energy_kcal": 365.0, "protein_g": 7.13, "fat_g": 0.66, "carbohydrate_g": 79.95, "fiber_g": 1.3, "sodium_mg": 5.0, "sugars_g": 0.12, "saturated_fat_g": 0.18}}
+  - energy only as the general Atwater figure: expect {"per_100g": {"energy_kcal": 38.485}, "nutrient_ids": {"energy_kcal": 2047}}
+  - a nutrient the record does not carry: expect {"per_100g": {"fiber_g": null}, "nutrient_ids": {"fiber_g": null}}
+  - almonds: protein, fat and carbohydrate within the sum: expect {"problems": 0}
+  - fat over its physical bound: expect {"problems": 2}
+
 Consumers:
 - food-map (data/food_map.json) reads food-mapping
+- nutrients-table (data/nutrients.json) reads food-nutrients
 
 ## Stage: places
 

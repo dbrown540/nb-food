@@ -46,8 +46,31 @@ changes meaning; added fields keep the version.
 
 ### Store product lists: `data/products/<store-slug>.json`
 
-`{name (place key), addr, source_url, source, as_of, status, extraction, products: [{section, name, description, size, price}]}`.
-Written by a pull script (`scripts/tj_products.py` for Trader Joe's, food and drink only), never by hand.
+`{name (place key), addr, source_url, source, as_of, status, extraction, products: [...]}`,
+written by a pull script (`scripts/tj_products.py` for Trader Joe's, food and
+drink only), never by hand. Each product: `section`, `name`, `description`,
+`size` (as the store prints it), `price` (USD), and what the size means
+(`scripts/packages.py`):
+
+| field | meaning |
+|---|---|
+| `sold_by` | `weight` (oz, lb), `volume` (fl oz, mL, L, pint, quart), `each` (priced per piece: "Bananas (1 Each)"), `count` (a dozen, a box of 20 tea bags) |
+| `package_g` | package weight in grams when `sold_by` is `weight` ("1 Lb" = 453.6), else null |
+| `package_ml` | package volume in millilitres when `sold_by` is `volume`, else null |
+| `units` | pieces in the package when `sold_by` is `each` or `count` (1 Doz = 12), else null |
+
+**Coverage (checked 2026-09-23).** The list is Trader Joe's online product
+catalog (its product API), filtered to what the catalog marks available at the
+401 Bay St store, food and drink departments only. The catalog is one list of
+2,520 products for all stores; 1,820 were marked available at this store (1,818
+at the pull), and dropping the non-food departments (Everything Else, Flowers &
+Plants) leaves the 1,700 here. The catalog is not a record of the shelves: some
+items the store sells are not in it at all. A search of the whole catalog
+(available or not) found no liquid egg whites in a carton and no frozen cooked
+jasmine rice (only dry jasmine rice, 3 lb). Applesauce pouches are listed, as
+"Organic Apple … Fruit Sauce Crushers" (four flavors), and plain sliced
+sourdough as "Sourdough Bread Sliced" and "Sourdough Sandwich Bread" (24 oz).
+Treat an item missing here as unknown, not as not sold.
 
 ### Attribute tags: `data/item_tags.json` (schema_version 1)
 
@@ -81,6 +104,38 @@ SR Legacy or Survey (FNDDS)), `description`, `publicationDate` (the API's),
 `data/usda_index.json` lists the entries mapping may choose from (descriptions,
 categories and portions from USDA's bulk releases, named in `releases`).
 
+### Nutrients: `data/nutrients.json` (schema_version 1)
+
+One row per USDA record that `data/food_map.json` references, keyed by `fdcId`:
+`dataType`, `description`, `per_100g` {`energy_kcal`, `protein_g`, `fiber_g`,
+`sodium_mg`, `sugars_g`, `fat_g`, `saturated_fat_g`, `carbohydrate_g`} and
+`nutrient_ids` (the USDA nutrient id each value came from). Ids, in fallback
+order: energy 1008, then 2047, then 2048 (Atwater general, then specific: most
+Foundation records carry no 1008); protein 1003; fat 1004; carbohydrate 1005
+(by difference, so it already includes fiber); fiber 1079; sugars 2000, then
+1063; sodium 1093; saturated fat 1258. A value the record does not carry is
+`null`; zero only where USDA reports zero.
+
+Written only by `scripts/usda_nutrients.py` from the bulk releases in
+`data/usda_bulk/` (named with their dates in `basis.releases`, with
+`basis.inputs_sha256` over every CSV row read); deterministic. `--check`
+rebuilds and compares when the bulk releases are present; in a checkout
+without them it checks every value against the committed per-record copies in
+`data/usda/` (fetched from the FoodData Central API), within the precision
+the API prints. `check_data.py` fails the build when a mapped record has no
+row, a row has no mapping, or a value is outside its bounds (per 100 g:
+energy 0 to 902 kcal; protein, fat, carbohydrate, fiber, sugars, saturated fat
+0 to 100 g; sodium 0 to 40,000 mg; protein + fat + carbohydrate at most 105 g,
+fiber left out of the sum because carbohydrate by difference already counts it).
+
+Known difference from the API copies: for Green onion, raw (2727585) the bulk
+Foundation release carries no fiber while the API copy of the same
+publication does; the table says null. `usda_nutrients.py --check` lists such
+notes.
+
+Nutrients for a mapped item = its row's `per_100g` × `grams` / 100 (grams from
+`data/food_map.json`), or its label.
+
 ### Package labels: `data/labels/<item id>.json`
 
 The label as printed, per serving: `{id, source, as_of, serving, serving_g,
@@ -111,8 +166,7 @@ on any hand edit. `basis`, `index` (the USDA releases), `rule`, then:
     answer; `key`: hash of the exact model input.
 - `unread`: `{id, key, reason}` for items with no pinned readings under the current basis.
 
-Nutrients for an item = its `data/usda/<fdcId>.json` per 100 g × `grams` / 100,
-or its label.
+Nutrients for an item: see "Nutrients" (`data/nutrients.json`) above.
 
 ## Decisions: the spine (`spine/`)
 

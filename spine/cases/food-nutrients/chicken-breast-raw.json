@@ -1,0 +1,17 @@
+{
+ "food": {
+  "fdcId": 171077,
+  "dataType": "SR Legacy",
+  "description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw"
+ },
+ "amounts": {
+  "1003": "22.5",
+  "1004": "2.62",
+  "1005": "0",
+  "1008": "120",
+  "1079": "0",
+  "1093": "45",
+  "1258": "0.563",
+  "2000": "0"
+ }
+}

@@ -43,6 +43,7 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from packages import package_facts  # noqa: E402
 from readings import PinWriter, pin_lines, read_all, read_budgeted, read_cli, sampling_basis  # noqa: E402
 from spine_hash import content_hash, json_hash, text_hash  # noqa: E402
 
@@ -55,7 +56,6 @@ LABELS = "data/labels"
 STATE = "data/.map_batch.json"
 SCHEMA_VERSION = 1
 KINDS = ("label", "usda-single-food", "usda-mixed-dish-estimate", "unmapped")
-MASS_G = {"oz": 28.349523125, "lb": 453.59237, "g": 1.0, "kg": 1000.0}  # unit conversions, not judgments
 
 
 def cfg(root: Path = ROOT) -> dict:
@@ -150,8 +150,7 @@ def message(row: dict, cands: list, max_portions: int) -> str:
 
 
 def package_grams(size: str):
-    m = re.match(r"^\s*([\d.]+)\s*(oz|lb|g|kg)\s*$", size or "", re.I)
-    return round(float(m.group(1)) * MASS_G[m.group(2).lower()], 1) if m else None
+    return package_facts(size)["package_g"]
 
 
 # ---------------------------------------------------------------- route (T1)

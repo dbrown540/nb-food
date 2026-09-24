@@ -1,6 +1,6 @@
 {
  "stage": "nutrients",
- "story": "Every item in the item table is given a source for its nutrients: its own package label when one is on file, else the public USDA record that is the same food, a single food for a single food and a surveyed mixed dish for a restaurant dish with an estimated serving weight, and otherwise none, so its nutrients stay unknown. The public records are read once and kept as dated copies.",
+ "story": "Every item in the item table is given a source for its nutrients: its own package label when one is on file, else the public USDA record that is the same food, a single food for a single food and a surveyed mixed dish for a restaurant dish with an estimated serving weight, and otherwise none, so its nutrients stay unknown. The public records are read once and kept as dated copies. Each public record the map uses contributes its own nutrient values per hundred grams, read by nutrient identity; a value the record lacks stays unknown.",
  "principles": [
   {
    "id": "food-mapping",
@@ -163,6 +163,155 @@
      }
     }
    ]
+  },
+  {
+   "id": "food-nutrients",
+   "statement": "A food's nutrients are the public record's own values per hundred grams, read by nutrient identity in a fixed fallback order, and a nutrient the record does not carry is unknown, never zero.",
+   "grain": "food",
+   "tier": "T1",
+   "implementers": [
+    {
+     "role": "decides",
+     "kind": "code",
+     "path": "scripts/usda_nutrients.py",
+     "symbol": "nutrient_row",
+     "tests": "tests/test_usda_nutrients.py"
+    },
+    {
+     "role": "enforces",
+     "kind": "code",
+     "path": "scripts/usda_nutrients.py",
+     "symbol": "check_nutrients",
+     "calledBy": "scripts/check_data.py",
+     "onReject": "halt",
+     "tests": "tests/test_usda_nutrients.py"
+    }
+   ],
+   "bindings": [
+    {
+     "path": "spine/bindings.json",
+     "key": "food-nutrients"
+    }
+   ],
+   "inputs": [
+    {
+     "principle": "food-mapping",
+     "field": "fdcId",
+     "grain": "item"
+    }
+   ],
+   "cases": [
+    {
+     "given": "raw skinless chicken breast",
+     "call": "scripts/usda_nutrients.py:row_case",
+     "input": "spine/cases/food-nutrients/chicken-breast-raw.json",
+     "expect": {
+      "per_100g": {
+       "energy_kcal": 120.0,
+       "protein_g": 22.5,
+       "fat_g": 2.62,
+       "carbohydrate_g": 0.0,
+       "fiber_g": 0.0,
+       "sodium_mg": 45.0,
+       "sugars_g": 0.0,
+       "saturated_fat_g": 0.563
+      }
+     }
+    },
+    {
+     "given": "raw zucchini",
+     "call": "scripts/usda_nutrients.py:row_case",
+     "input": "spine/cases/food-nutrients/zucchini-raw.json",
+     "expect": {
+      "per_100g": {
+       "energy_kcal": 17.0,
+       "protein_g": 1.21,
+       "fat_g": 0.32,
+       "carbohydrate_g": 3.11,
+       "fiber_g": 1.0,
+       "sodium_mg": 8.0,
+       "sugars_g": 2.5,
+       "saturated_fat_g": 0.084
+      }
+     }
+    },
+    {
+     "given": "plain lowfat Greek yogurt",
+     "call": "scripts/usda_nutrients.py:row_case",
+     "input": "spine/cases/food-nutrients/greek-yogurt-plain-lowfat.json",
+     "expect": {
+      "per_100g": {
+       "energy_kcal": 73.0,
+       "protein_g": 9.95,
+       "fat_g": 1.92,
+       "carbohydrate_g": 3.94,
+       "fiber_g": 0.0,
+       "sodium_mg": 34.0,
+       "sugars_g": 3.56,
+       "saturated_fat_g": 1.23
+      }
+     }
+    },
+    {
+     "given": "raw long-grain white rice",
+     "call": "scripts/usda_nutrients.py:row_case",
+     "input": "spine/cases/food-nutrients/white-rice-long-grain-raw.json",
+     "expect": {
+      "per_100g": {
+       "energy_kcal": 365.0,
+       "protein_g": 7.13,
+       "fat_g": 0.66,
+       "carbohydrate_g": 79.95,
+       "fiber_g": 1.3,
+       "sodium_mg": 5.0,
+       "sugars_g": 0.12,
+       "saturated_fat_g": 0.18
+      }
+     }
+    },
+    {
+     "given": "energy only as the general Atwater figure",
+     "call": "scripts/usda_nutrients.py:row_case",
+     "input": "spine/cases/food-nutrients/energy-from-atwater-general.json",
+     "expect": {
+      "per_100g": {
+       "energy_kcal": 38.485
+      },
+      "nutrient_ids": {
+       "energy_kcal": 2047
+      }
+     }
+    },
+    {
+     "given": "a nutrient the record does not carry",
+     "call": "scripts/usda_nutrients.py:row_case",
+     "input": "spine/cases/food-nutrients/fiber-not-in-record.json",
+     "expect": {
+      "per_100g": {
+       "fiber_g": null
+      },
+      "nutrient_ids": {
+       "fiber_g": null
+      }
+     }
+    },
+    {
+     "given": "almonds: protein, fat and carbohydrate within the sum",
+     "call": "scripts/usda_nutrients.py:bounds_case",
+     "input": "spine/cases/food-nutrients/bounds-almonds-within.json",
+     "expect": {
+      "problems": 0
+     }
+    },
+    {
+     "given": "fat over its physical bound",
+     "call": "scripts/usda_nutrients.py:bounds_case",
+     "input": "spine/cases/food-nutrients/bounds-fat-over.json",
+     "expect": {
+      "problems": 2
+     }
+    }
+   ]
   }
  ],
  "consumers": [
@@ -174,6 +323,17 @@
      "principle": "food-mapping",
      "field": "kind",
      "grain": "item"
+    }
+   ]
+  },
+  {
+   "id": "nutrients-table",
+   "path": "data/nutrients.json",
+   "inputs": [
+    {
+     "principle": "food-nutrients",
+     "field": "per_100g",
+     "grain": "food"
     }
    ]
   }

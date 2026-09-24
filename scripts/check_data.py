@@ -13,6 +13,7 @@ warning window) print but do not fail.
   check_item_tags        (scripts/tag_items.py) the attribute tags obey their principle
   check_food_map         (scripts/map_foods.py) every item has a nutrient source, or none, with its kind
   check_usda_cache       (scripts/usda.py) cached USDA records are whole, dated and cover every mapping
+  check_nutrients        (scripts/usda_nutrients.py) one nutrient row per mapped record, in bounds, witnessed
 
     python3 scripts/check_data.py [--today YYYY-MM-DD]
 """
@@ -28,15 +29,17 @@ from freshness import menu_age  # noqa: E402
 from map_foods import check_food_map  # noqa: E402
 from tag_items import check_item_tags  # noqa: E402
 from usda import check_usda_cache  # noqa: E402
+from usda_nutrients import check_nutrients  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 STATUSES = {"ok", "partial", "not_found", "skipped"}
 MENU_ITEM = {"section", "item", "price", "description"}
-PRODUCT = {"section", "name", "description", "size", "price"}
+PRODUCT = {"section", "name", "description", "size", "price", "sold_by", "package_g", "package_ml", "units"}
 DERIVED = [("scripts/menus_index.py", "data/menus/index.json"),
            ("scripts/menu_items.py", "data/menu_items.json"),
            ("scripts/tag_items.py", "data/item_tags.json"),
-           ("scripts/map_foods.py", "data/food_map.json")]
+           ("scripts/map_foods.py", "data/food_map.json"),
+           ("scripts/usda_nutrients.py", "data/nutrients.json")]
 
 
 def bindings(root: Path = ROOT) -> dict:
@@ -219,6 +222,7 @@ def main(argv: list) -> int:
     fails += check_item_tags(ROOT)
     fails += check_food_map(ROOT)
     fails += check_usda_cache(ROOT)
+    fails += check_nutrients(ROOT)
 
     for w in warns:
         print("WARN", w)

@@ -1,0 +1,17 @@
+{
+ "food": {
+  "fdcId": 169291,
+  "dataType": "SR Legacy",
+  "description": "Squash, summer, zucchini, includes skin, raw"
+ },
+ "amounts": {
+  "1003": "1.21",
+  "1004": "0.32",
+  "1005": "3.11",
+  "1008": "17",
+  "1079": "1",
+  "1093": "8",
+  "1258": "0.084",
+  "2000": "2.5"
+ }
+}

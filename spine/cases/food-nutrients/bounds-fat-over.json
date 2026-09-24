@@ -1,0 +1,69 @@
+{
+ "row": {
+  "fdcId": 170158,
+  "dataType": "SR Legacy",
+  "description": "Nuts, almonds, dry roasted, without salt added",
+  "per_100g": {
+   "energy_kcal": 598.0,
+   "protein_g": 20.96,
+   "fiber_g": 10.9,
+   "sodium_mg": 3.0,
+   "sugars_g": 4.86,
+   "fat_g": 120.0,
+   "saturated_fat_g": 4.092,
+   "carbohydrate_g": 21.01
+  },
+  "nutrient_ids": {
+   "energy_kcal": 1008,
+   "protein_g": 1003,
+   "fiber_g": 1079,
+   "sodium_mg": 1093,
+   "sugars_g": 2000,
+   "fat_g": 1004,
+   "saturated_fat_g": 1258,
+   "carbohydrate_g": 1005
+  }
+ },
+ "bounds": {
+  "per_field": {
+   "energy_kcal": [
+    0,
+    902
+   ],
+   "protein_g": [
+    0,
+    100
+   ],
+   "fat_g": [
+    0,
+    100
+   ],
+   "carbohydrate_g": [
+    0,
+    100
+   ],
+   "fiber_g": [
+    0,
+    100
+   ],
+   "sugars_g": [
+    0,
+    100
+   ],
+   "saturated_fat_g": [
+    0,
+    100
+   ],
+   "sodium_mg": [
+    0,
+    40000
+   ]
+  },
+  "sum_fields": [
+   "protein_g",
+   "fat_g",
+   "carbohydrate_g"
+  ],
+  "sum_max": 105
+ }
+}

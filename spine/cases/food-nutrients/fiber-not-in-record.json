@@ -1,0 +1,12 @@
+{
+ "food": {
+  "fdcId": 2727585,
+  "dataType": "Foundation",
+  "description": "Green onion, (scallion), bulb and greens, root removed, raw"
+ },
+ "amounts": {
+  "1003": "0.66875",
+  "1063": "2.618",
+  "1093": "9.948"
+ }
+}

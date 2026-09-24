@@ -49,7 +49,8 @@
  "grains": [
   "item",
   "menu",
-  "place"
+  "place",
+  "food"
  ],
  "onReject": [
   "halt",
@@ -64,7 +65,8 @@
    "scripts/tag_items.py",
    "scripts/check_public.py",
    "scripts/map_foods.py",
-   "scripts/usda.py"
+   "scripts/usda.py",
+   "scripts/usda_nutrients.py"
   ],
   "reviewBy": "2026-12-31",
   "note": "Coverage by name pattern until enforcers register themselves at run time."
